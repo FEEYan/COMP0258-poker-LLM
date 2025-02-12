@@ -1,0 +1,164 @@
+Start time: Sun  9 Feb 2025 15:49:32 GMT
+Loading pretrained model
+
+Fetching 11 files:   0%|                                                                                                                        | 0/11 [00:00<?, ?it/s]
+Fetching 11 files: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████| 11/11 [00:00<00:00, 14513.16it/s]
+Loading datasets
+Training
+Trainable parameters: 0.042% (3.408M/8030.261M)
+Starting training..., iters: 5000
+Iter 1: Val loss 2.861, Val took 36.499s
+Iter 100: Val loss 1.831, Val took 37.875s
+Iter 100: Train loss 2.258, Learning Rate 1.000e-06, It/sec 36.883, Tokens/sec 23321.648, Trained Tokens 63232, Peak mem 22.543 GB
+Iter 100: Saved adapter weights to ../adapters/total-llama-3.1-8B-Instruct/adapters.safetensors and ../adapters/total-llama-3.1-8B-Instruct/0000100_adapters.safetensors.
+Iter 200: Val loss 1.120, Val took 35.381s
+Iter 200: Train loss 1.493, Learning Rate 1.000e-06, It/sec 17.654, Tokens/sec 11167.456, Trained Tokens 126488, Peak mem 22.619 GB
+Iter 200: Saved adapter weights to ../adapters/total-llama-3.1-8B-Instruct/adapters.safetensors and ../adapters/total-llama-3.1-8B-Instruct/0000200_adapters.safetensors.
+Iter 300: Val loss 0.584, Val took 30.291s
+Iter 300: Train loss 0.818, Learning Rate 1.000e-06, It/sec 42.703, Tokens/sec 27221.266, Trained Tokens 190234, Peak mem 22.779 GB
+Iter 300: Saved adapter weights to ../adapters/total-llama-3.1-8B-Instruct/adapters.safetensors and ../adapters/total-llama-3.1-8B-Instruct/0000300_adapters.safetensors.
+Iter 400: Val loss 0.352, Val took 30.635s
+Iter 400: Train loss 0.453, Learning Rate 1.000e-06, It/sec 38.277, Tokens/sec 24565.605, Trained Tokens 254412, Peak mem 22.779 GB
+Iter 400: Saved adapter weights to ../adapters/total-llama-3.1-8B-Instruct/adapters.safetensors and ../adapters/total-llama-3.1-8B-Instruct/0000400_adapters.safetensors.
+Iter 500: Val loss 0.287, Val took 70.423s
+Iter 500: Train loss 0.318, Learning Rate 1.000e-06, It/sec 41.961, Tokens/sec 26621.840, Trained Tokens 317856, Peak mem 22.779 GB
+Iter 500: Saved adapter weights to ../adapters/total-llama-3.1-8B-Instruct/adapters.safetensors and ../adapters/total-llama-3.1-8B-Instruct/0000500_adapters.safetensors.
+Iter 600: Val loss 0.251, Val took 31.670s
+Iter 600: Train loss 0.258, Learning Rate 1.000e-06, It/sec 40.077, Tokens/sec 25390.944, Trained Tokens 381212, Peak mem 22.779 GB
+Iter 600: Saved adapter weights to ../adapters/total-llama-3.1-8B-Instruct/adapters.safetensors and ../adapters/total-llama-3.1-8B-Instruct/0000600_adapters.safetensors.
+Iter 700: Val loss 0.228, Val took 29.057s
+Iter 700: Train loss 0.243, Learning Rate 1.000e-06, It/sec 37.498, Tokens/sec 23685.694, Trained Tokens 444378, Peak mem 22.779 GB
+Iter 700: Saved adapter weights to ../adapters/total-llama-3.1-8B-Instruct/adapters.safetensors and ../adapters/total-llama-3.1-8B-Instruct/0000700_adapters.safetensors.
+Iter 800: Val loss 0.227, Val took 29.785s
+Iter 800: Train loss 0.223, Learning Rate 1.000e-06, It/sec 42.595, Tokens/sec 26953.193, Trained Tokens 507656, Peak mem 22.779 GB
+Iter 800: Saved adapter weights to ../adapters/total-llama-3.1-8B-Instruct/adapters.safetensors and ../adapters/total-llama-3.1-8B-Instruct/0000800_adapters.safetensors.
+Iter 900: Val loss 0.214, Val took 29.789s
+Iter 900: Train loss 0.216, Learning Rate 1.000e-06, It/sec 39.925, Tokens/sec 25081.996, Trained Tokens 570478, Peak mem 22.779 GB
+Iter 900: Saved adapter weights to ../adapters/total-llama-3.1-8B-Instruct/adapters.safetensors and ../adapters/total-llama-3.1-8B-Instruct/0000900_adapters.safetensors.
+Iter 1000: Val loss 0.203, Val took 47.413s
+Iter 1000: Train loss 0.202, Learning Rate 1.000e-06, It/sec 42.149, Tokens/sec 27113.713, Trained Tokens 634807, Peak mem 22.779 GB
+Iter 1000: Saved adapter weights to ../adapters/total-llama-3.1-8B-Instruct/adapters.safetensors and ../adapters/total-llama-3.1-8B-Instruct/0001000_adapters.safetensors.
+Iter 1100: Val loss 0.190, Val took 32.066s
+Iter 1100: Train loss 0.203, Learning Rate 1.000e-06, It/sec 42.541, Tokens/sec 26812.669, Trained Tokens 697835, Peak mem 22.779 GB
+Iter 1100: Saved adapter weights to ../adapters/total-llama-3.1-8B-Instruct/adapters.safetensors and ../adapters/total-llama-3.1-8B-Instruct/0001100_adapters.safetensors.
+Iter 1200: Val loss 0.196, Val took 30.527s
+Iter 1200: Train loss 0.193, Learning Rate 1.000e-06, It/sec 43.810, Tokens/sec 27831.767, Trained Tokens 761363, Peak mem 22.779 GB
+Iter 1200: Saved adapter weights to ../adapters/total-llama-3.1-8B-Instruct/adapters.safetensors and ../adapters/total-llama-3.1-8B-Instruct/0001200_adapters.safetensors.
+Iter 1300: Val loss 0.186, Val took 29.893s
+Iter 1300: Train loss 0.186, Learning Rate 1.000e-06, It/sec 38.746, Tokens/sec 24802.649, Trained Tokens 825377, Peak mem 22.779 GB
+Iter 1300: Saved adapter weights to ../adapters/total-llama-3.1-8B-Instruct/adapters.safetensors and ../adapters/total-llama-3.1-8B-Instruct/0001300_adapters.safetensors.
+Iter 1400: Val loss 0.179, Val took 94.045s
+Iter 1400: Train loss 0.183, Learning Rate 1.000e-06, It/sec 42.141, Tokens/sec 27168.041, Trained Tokens 889846, Peak mem 22.779 GB
+Iter 1400: Saved adapter weights to ../adapters/total-llama-3.1-8B-Instruct/adapters.safetensors and ../adapters/total-llama-3.1-8B-Instruct/0001400_adapters.safetensors.
+Iter 1500: Val loss 0.179, Val took 31.787s
+Iter 1500: Train loss 0.176, Learning Rate 1.000e-06, It/sec 41.334, Tokens/sec 26281.288, Trained Tokens 953428, Peak mem 22.779 GB
+Iter 1500: Saved adapter weights to ../adapters/total-llama-3.1-8B-Instruct/adapters.safetensors and ../adapters/total-llama-3.1-8B-Instruct/0001500_adapters.safetensors.
+Iter 1600: Val loss 0.175, Val took 29.454s
+Iter 1600: Train loss 0.176, Learning Rate 1.000e-06, It/sec 39.649, Tokens/sec 25271.486, Trained Tokens 1017166, Peak mem 22.779 GB
+Iter 1600: Saved adapter weights to ../adapters/total-llama-3.1-8B-Instruct/adapters.safetensors and ../adapters/total-llama-3.1-8B-Instruct/0001600_adapters.safetensors.
+Iter 1700: Val loss 0.172, Val took 28.929s
+Iter 1700: Train loss 0.173, Learning Rate 1.000e-06, It/sec 52.670, Tokens/sec 33650.061, Trained Tokens 1081054, Peak mem 22.779 GB
+Iter 1700: Saved adapter weights to ../adapters/total-llama-3.1-8B-Instruct/adapters.safetensors and ../adapters/total-llama-3.1-8B-Instruct/0001700_adapters.safetensors.
+Iter 1800: Val loss 0.170, Val took 29.562s
+Iter 1800: Train loss 0.171, Learning Rate 1.000e-06, It/sec 38.677, Tokens/sec 24481.921, Trained Tokens 1144352, Peak mem 22.779 GB
+Iter 1800: Saved adapter weights to ../adapters/total-llama-3.1-8B-Instruct/adapters.safetensors and ../adapters/total-llama-3.1-8B-Instruct/0001800_adapters.safetensors.
+Iter 1900: Val loss 0.168, Val took 30.885s
+Iter 1900: Train loss 0.170, Learning Rate 1.000e-06, It/sec 38.268, Tokens/sec 24623.338, Trained Tokens 1208696, Peak mem 22.779 GB
+Iter 1900: Saved adapter weights to ../adapters/total-llama-3.1-8B-Instruct/adapters.safetensors and ../adapters/total-llama-3.1-8B-Instruct/0001900_adapters.safetensors.
+Iter 2000: Val loss 0.159, Val took 31.625s
+Iter 2000: Train loss 0.166, Learning Rate 1.000e-06, It/sec 35.831, Tokens/sec 22819.188, Trained Tokens 1272382, Peak mem 22.779 GB
+Iter 2000: Saved adapter weights to ../adapters/total-llama-3.1-8B-Instruct/adapters.safetensors and ../adapters/total-llama-3.1-8B-Instruct/0002000_adapters.safetensors.
+Iter 2100: Val loss 0.164, Val took 32.750s
+Iter 2100: Train loss 0.161, Learning Rate 1.000e-06, It/sec 37.566, Tokens/sec 23981.520, Trained Tokens 1336220, Peak mem 22.779 GB
+Iter 2100: Saved adapter weights to ../adapters/total-llama-3.1-8B-Instruct/adapters.safetensors and ../adapters/total-llama-3.1-8B-Instruct/0002100_adapters.safetensors.
+Iter 2200: Val loss 0.157, Val took 31.278s
+Iter 2200: Train loss 0.163, Learning Rate 1.000e-06, It/sec 37.902, Tokens/sec 23970.804, Trained Tokens 1399464, Peak mem 22.779 GB
+Iter 2200: Saved adapter weights to ../adapters/total-llama-3.1-8B-Instruct/adapters.safetensors and ../adapters/total-llama-3.1-8B-Instruct/0002200_adapters.safetensors.
+Iter 2300: Val loss 0.158, Val took 91.695s
+Iter 2300: Train loss 0.159, Learning Rate 1.000e-06, It/sec 40.668, Tokens/sec 26005.696, Trained Tokens 1463410, Peak mem 22.779 GB
+Iter 2300: Saved adapter weights to ../adapters/total-llama-3.1-8B-Instruct/adapters.safetensors and ../adapters/total-llama-3.1-8B-Instruct/0002300_adapters.safetensors.
+Iter 2400: Val loss 0.159, Val took 30.908s
+Iter 2400: Train loss 0.160, Learning Rate 1.000e-06, It/sec 37.931, Tokens/sec 24167.804, Trained Tokens 1527126, Peak mem 22.779 GB
+Iter 2400: Saved adapter weights to ../adapters/total-llama-3.1-8B-Instruct/adapters.safetensors and ../adapters/total-llama-3.1-8B-Instruct/0002400_adapters.safetensors.
+Iter 2500: Val loss 0.162, Val took 30.721s
+Iter 2500: Train loss 0.158, Learning Rate 1.000e-06, It/sec 41.466, Tokens/sec 26560.088, Trained Tokens 1591178, Peak mem 22.779 GB
+Iter 2500: Saved adapter weights to ../adapters/total-llama-3.1-8B-Instruct/adapters.safetensors and ../adapters/total-llama-3.1-8B-Instruct/0002500_adapters.safetensors.
+Iter 2600: Val loss 0.156, Val took 29.349s
+Iter 2600: Train loss 0.157, Learning Rate 1.000e-06, It/sec 43.070, Tokens/sec 27450.268, Trained Tokens 1654912, Peak mem 22.779 GB
+Iter 2600: Saved adapter weights to ../adapters/total-llama-3.1-8B-Instruct/adapters.safetensors and ../adapters/total-llama-3.1-8B-Instruct/0002600_adapters.safetensors.
+Iter 2700: Val loss 0.155, Val took 29.553s
+Iter 2700: Train loss 0.154, Learning Rate 1.000e-06, It/sec 37.650, Tokens/sec 23781.312, Trained Tokens 1718076, Peak mem 22.779 GB
+Iter 2700: Saved adapter weights to ../adapters/total-llama-3.1-8B-Instruct/adapters.safetensors and ../adapters/total-llama-3.1-8B-Instruct/0002700_adapters.safetensors.
+Iter 2800: Val loss 0.157, Val took 29.412s
+Iter 2800: Train loss 0.152, Learning Rate 1.000e-06, It/sec 41.221, Tokens/sec 25997.909, Trained Tokens 1781146, Peak mem 22.779 GB
+Iter 2800: Saved adapter weights to ../adapters/total-llama-3.1-8B-Instruct/adapters.safetensors and ../adapters/total-llama-3.1-8B-Instruct/0002800_adapters.safetensors.
+Iter 2900: Val loss 0.149, Val took 30.008s
+Iter 2900: Train loss 0.149, Learning Rate 1.000e-06, It/sec 37.818, Tokens/sec 23929.171, Trained Tokens 1844420, Peak mem 22.779 GB
+Iter 2900: Saved adapter weights to ../adapters/total-llama-3.1-8B-Instruct/adapters.safetensors and ../adapters/total-llama-3.1-8B-Instruct/0002900_adapters.safetensors.
+Iter 3000: Val loss 0.150, Val took 30.512s
+Iter 3000: Train loss 0.152, Learning Rate 1.000e-06, It/sec 37.392, Tokens/sec 23950.229, Trained Tokens 1908472, Peak mem 22.779 GB
+Iter 3000: Saved adapter weights to ../adapters/total-llama-3.1-8B-Instruct/adapters.safetensors and ../adapters/total-llama-3.1-8B-Instruct/0003000_adapters.safetensors.
+Iter 3100: Val loss 0.152, Val took 30.443s
+Iter 3100: Train loss 0.151, Learning Rate 1.000e-06, It/sec 35.821, Tokens/sec 22820.342, Trained Tokens 1972178, Peak mem 22.779 GB
+Iter 3100: Saved adapter weights to ../adapters/total-llama-3.1-8B-Instruct/adapters.safetensors and ../adapters/total-llama-3.1-8B-Instruct/0003100_adapters.safetensors.
+Iter 3200: Val loss 0.149, Val took 28.987s
+Iter 3200: Train loss 0.151, Learning Rate 1.000e-06, It/sec 39.499, Tokens/sec 25205.148, Trained Tokens 2035990, Peak mem 22.779 GB
+Iter 3200: Saved adapter weights to ../adapters/total-llama-3.1-8B-Instruct/adapters.safetensors and ../adapters/total-llama-3.1-8B-Instruct/0003200_adapters.safetensors.
+Iter 3300: Val loss 0.147, Val took 31.806s
+Iter 3300: Train loss 0.151, Learning Rate 1.000e-06, It/sec 31.605, Tokens/sec 19925.054, Trained Tokens 2099034, Peak mem 22.779 GB
+Iter 3300: Saved adapter weights to ../adapters/total-llama-3.1-8B-Instruct/adapters.safetensors and ../adapters/total-llama-3.1-8B-Instruct/0003300_adapters.safetensors.
+Iter 3400: Val loss 0.144, Val took 31.183s
+Iter 3400: Train loss 0.146, Learning Rate 1.000e-06, It/sec 38.381, Tokens/sec 24725.101, Trained Tokens 2163454, Peak mem 22.779 GB
+Iter 3400: Saved adapter weights to ../adapters/total-llama-3.1-8B-Instruct/adapters.safetensors and ../adapters/total-llama-3.1-8B-Instruct/0003400_adapters.safetensors.
+Iter 3500: Val loss 0.148, Val took 30.834s
+Iter 3500: Train loss 0.148, Learning Rate 1.000e-06, It/sec 40.503, Tokens/sec 25943.550, Trained Tokens 2227508, Peak mem 22.779 GB
+Iter 3500: Saved adapter weights to ../adapters/total-llama-3.1-8B-Instruct/adapters.safetensors and ../adapters/total-llama-3.1-8B-Instruct/0003500_adapters.safetensors.
+Iter 3600: Val loss 0.150, Val took 30.838s
+Iter 3600: Train loss 0.144, Learning Rate 1.000e-06, It/sec 41.412, Tokens/sec 26454.087, Trained Tokens 2291388, Peak mem 22.779 GB
+Iter 3600: Saved adapter weights to ../adapters/total-llama-3.1-8B-Instruct/adapters.safetensors and ../adapters/total-llama-3.1-8B-Instruct/0003600_adapters.safetensors.
+Iter 3700: Val loss 0.144, Val took 29.993s
+Iter 3700: Train loss 0.144, Learning Rate 1.000e-06, It/sec 36.752, Tokens/sec 23727.291, Trained Tokens 2355948, Peak mem 22.779 GB
+Iter 3700: Saved adapter weights to ../adapters/total-llama-3.1-8B-Instruct/adapters.safetensors and ../adapters/total-llama-3.1-8B-Instruct/0003700_adapters.safetensors.
+Iter 3800: Val loss 0.143, Val took 31.056s
+Iter 3800: Train loss 0.142, Learning Rate 1.000e-06, It/sec 35.749, Tokens/sec 22649.241, Trained Tokens 2419304, Peak mem 22.779 GB
+Iter 3800: Saved adapter weights to ../adapters/total-llama-3.1-8B-Instruct/adapters.safetensors and ../adapters/total-llama-3.1-8B-Instruct/0003800_adapters.safetensors.
+Iter 3900: Val loss 0.138, Val took 30.407s
+Iter 3900: Train loss 0.140, Learning Rate 1.000e-06, It/sec 31.385, Tokens/sec 19606.008, Trained Tokens 2481774, Peak mem 22.779 GB
+Iter 3900: Saved adapter weights to ../adapters/total-llama-3.1-8B-Instruct/adapters.safetensors and ../adapters/total-llama-3.1-8B-Instruct/0003900_adapters.safetensors.
+Iter 4000: Val loss 0.141, Val took 31.102s
+Iter 4000: Train loss 0.140, Learning Rate 1.000e-06, It/sec 44.687, Tokens/sec 28144.893, Trained Tokens 2544756, Peak mem 22.779 GB
+Iter 4000: Saved adapter weights to ../adapters/total-llama-3.1-8B-Instruct/adapters.safetensors and ../adapters/total-llama-3.1-8B-Instruct/0004000_adapters.safetensors.
+Iter 4100: Val loss 0.138, Val took 78.648s
+Iter 4100: Train loss 0.140, Learning Rate 1.000e-06, It/sec 40.318, Tokens/sec 25333.930, Trained Tokens 2607592, Peak mem 22.779 GB
+Iter 4100: Saved adapter weights to ../adapters/total-llama-3.1-8B-Instruct/adapters.safetensors and ../adapters/total-llama-3.1-8B-Instruct/0004100_adapters.safetensors.
+Iter 4200: Val loss 0.143, Val took 32.162s
+Iter 4200: Train loss 0.139, Learning Rate 1.000e-06, It/sec 35.516, Tokens/sec 22489.910, Trained Tokens 2670916, Peak mem 22.779 GB
+Iter 4200: Saved adapter weights to ../adapters/total-llama-3.1-8B-Instruct/adapters.safetensors and ../adapters/total-llama-3.1-8B-Instruct/0004200_adapters.safetensors.
+Iter 4300: Val loss 0.138, Val took 49.717s
+Iter 4300: Train loss 0.139, Learning Rate 1.000e-06, It/sec 23.145, Tokens/sec 14710.660, Trained Tokens 2734474, Peak mem 22.779 GB
+Iter 4300: Saved adapter weights to ../adapters/total-llama-3.1-8B-Instruct/adapters.safetensors and ../adapters/total-llama-3.1-8B-Instruct/0004300_adapters.safetensors.
+Iter 4400: Val loss 0.144, Val took 34.222s
+Iter 4400: Train loss 0.136, Learning Rate 1.000e-06, It/sec 44.456, Tokens/sec 28025.832, Trained Tokens 2797516, Peak mem 22.779 GB
+Iter 4400: Saved adapter weights to ../adapters/total-llama-3.1-8B-Instruct/adapters.safetensors and ../adapters/total-llama-3.1-8B-Instruct/0004400_adapters.safetensors.
+Iter 4500: Val loss 0.139, Val took 29.847s
+Iter 4500: Train loss 0.138, Learning Rate 1.000e-06, It/sec 42.817, Tokens/sec 27573.122, Trained Tokens 2861914, Peak mem 22.779 GB
+Iter 4500: Saved adapter weights to ../adapters/total-llama-3.1-8B-Instruct/adapters.safetensors and ../adapters/total-llama-3.1-8B-Instruct/0004500_adapters.safetensors.
+Iter 4600: Val loss 0.135, Val took 33.614s
+Iter 4600: Train loss 0.138, Learning Rate 1.000e-06, It/sec 42.703, Tokens/sec 27413.427, Trained Tokens 2926110, Peak mem 22.779 GB
+Iter 4600: Saved adapter weights to ../adapters/total-llama-3.1-8B-Instruct/adapters.safetensors and ../adapters/total-llama-3.1-8B-Instruct/0004600_adapters.safetensors.
+Iter 4700: Val loss 0.140, Val took 30.023s
+Iter 4700: Train loss 0.136, Learning Rate 1.000e-06, It/sec 39.455, Tokens/sec 25001.576, Trained Tokens 2989478, Peak mem 22.779 GB
+Iter 4700: Saved adapter weights to ../adapters/total-llama-3.1-8B-Instruct/adapters.safetensors and ../adapters/total-llama-3.1-8B-Instruct/0004700_adapters.safetensors.
+Iter 4800: Val loss 0.135, Val took 31.036s
+Iter 4800: Train loss 0.136, Learning Rate 1.000e-06, It/sec 39.464, Tokens/sec 25067.751, Trained Tokens 3052998, Peak mem 22.779 GB
+Iter 4800: Saved adapter weights to ../adapters/total-llama-3.1-8B-Instruct/adapters.safetensors and ../adapters/total-llama-3.1-8B-Instruct/0004800_adapters.safetensors.
+Iter 4900: Val loss 0.133, Val took 32.723s
+Iter 4900: Train loss 0.132, Learning Rate 1.000e-06, It/sec 23.978, Tokens/sec 15168.293, Trained Tokens 3116258, Peak mem 22.779 GB
+Iter 4900: Saved adapter weights to ../adapters/total-llama-3.1-8B-Instruct/adapters.safetensors and ../adapters/total-llama-3.1-8B-Instruct/0004900_adapters.safetensors.
+Iter 5000: Val loss 0.137, Val took 32.743s
+Iter 5000: Train loss 0.133, Learning Rate 1.000e-06, It/sec 25.900, Tokens/sec 16615.153, Trained Tokens 3180408, Peak mem 22.779 GB
+Iter 5000: Saved adapter weights to ../adapters/total-llama-3.1-8B-Instruct/adapters.safetensors and ../adapters/total-llama-3.1-8B-Instruct/0005000_adapters.safetensors.
+Saved final weights to ../adapters/total-llama-3.1-8B-Instruct/adapters.safetensors.
+Testing
+Test loss 0.134, Test ppl 1.144.
+End time: Sun  9 Feb 2025 20:44:49 GMT

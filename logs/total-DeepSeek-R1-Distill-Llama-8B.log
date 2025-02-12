@@ -1,0 +1,164 @@
+Start time: Sun  9 Feb 2025 21:00:15 GMT
+Loading pretrained model
+Fetching 7 files:   0%|                                                                                                                          | 0/7 [00:00<?, ?it/s]Fetching 7 files:  14%|████████████████▎                                                                                                 | 1/7 [00:00<00:00,  8.68it/s]
+tokenizer_config.json:   0%|                                                                                                               | 0.00/3.07k [00:00<?, ?B/s][Atokenizer_config.json: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████| 3.07k/3.07k [00:00<00:00, 2.83MB/s]
+Fetching 7 files: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 7/7 [00:00<00:00, 24.28it/s]Fetching 7 files: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 7/7 [00:00<00:00, 22.52it/s]
+Loading datasets
+Training
+Trainable parameters: 0.042% (3.408M/8030.261M)
+Starting training..., iters: 5000
+Iter 1: Val loss 3.209, Val took 27.760s
+Iter 100: Val loss 1.994, Val took 78.125s
+Iter 100: Train loss 2.594, Learning Rate 1.000e-06, It/sec 42.297, Tokens/sec 24115.835, Trained Tokens 57016, Peak mem 21.968 GB
+Iter 100: Saved adapter weights to ../adapters/total-DeepSeek-R1-Distill-Llama-8B/adapters.safetensors and ../adapters/total-DeepSeek-R1-Distill-Llama-8B/0000100_adapters.safetensors.
+Iter 200: Val loss 1.022, Val took 27.822s
+Iter 200: Train loss 1.492, Learning Rate 1.000e-06, It/sec 42.048, Tokens/sec 23990.884, Trained Tokens 114072, Peak mem 21.982 GB
+Iter 200: Saved adapter weights to ../adapters/total-DeepSeek-R1-Distill-Llama-8B/adapters.safetensors and ../adapters/total-DeepSeek-R1-Distill-Llama-8B/0000200_adapters.safetensors.
+Iter 300: Val loss 0.560, Val took 26.694s
+Iter 300: Train loss 0.749, Learning Rate 1.000e-06, It/sec 47.257, Tokens/sec 27203.742, Trained Tokens 171638, Peak mem 22.168 GB
+Iter 300: Saved adapter weights to ../adapters/total-DeepSeek-R1-Distill-Llama-8B/adapters.safetensors and ../adapters/total-DeepSeek-R1-Distill-Llama-8B/0000300_adapters.safetensors.
+Iter 400: Val loss 0.420, Val took 30.835s
+Iter 400: Train loss 0.480, Learning Rate 1.000e-06, It/sec 36.735, Tokens/sec 21296.706, Trained Tokens 229612, Peak mem 22.168 GB
+Iter 400: Saved adapter weights to ../adapters/total-DeepSeek-R1-Distill-Llama-8B/adapters.safetensors and ../adapters/total-DeepSeek-R1-Distill-Llama-8B/0000400_adapters.safetensors.
+Iter 500: Val loss 0.372, Val took 27.187s
+Iter 500: Train loss 0.389, Learning Rate 1.000e-06, It/sec 43.306, Tokens/sec 24787.245, Trained Tokens 286850, Peak mem 22.168 GB
+Iter 500: Saved adapter weights to ../adapters/total-DeepSeek-R1-Distill-Llama-8B/adapters.safetensors and ../adapters/total-DeepSeek-R1-Distill-Llama-8B/0000500_adapters.safetensors.
+Iter 600: Val loss 0.335, Val took 27.899s
+Iter 600: Train loss 0.346, Learning Rate 1.000e-06, It/sec 40.030, Tokens/sec 22877.685, Trained Tokens 344002, Peak mem 22.168 GB
+Iter 600: Saved adapter weights to ../adapters/total-DeepSeek-R1-Distill-Llama-8B/adapters.safetensors and ../adapters/total-DeepSeek-R1-Distill-Llama-8B/0000600_adapters.safetensors.
+Iter 700: Val loss 0.305, Val took 26.442s
+Iter 700: Train loss 0.332, Learning Rate 1.000e-06, It/sec 42.927, Tokens/sec 24458.813, Trained Tokens 400980, Peak mem 22.168 GB
+Iter 700: Saved adapter weights to ../adapters/total-DeepSeek-R1-Distill-Llama-8B/adapters.safetensors and ../adapters/total-DeepSeek-R1-Distill-Llama-8B/0000700_adapters.safetensors.
+Iter 800: Val loss 0.305, Val took 27.998s
+Iter 800: Train loss 0.309, Learning Rate 1.000e-06, It/sec 45.096, Tokens/sec 25737.103, Trained Tokens 458052, Peak mem 22.168 GB
+Iter 800: Saved adapter weights to ../adapters/total-DeepSeek-R1-Distill-Llama-8B/adapters.safetensors and ../adapters/total-DeepSeek-R1-Distill-Llama-8B/0000800_adapters.safetensors.
+Iter 900: Val loss 0.297, Val took 27.443s
+Iter 900: Train loss 0.304, Learning Rate 1.000e-06, It/sec 27.803, Tokens/sec 15742.260, Trained Tokens 514672, Peak mem 22.168 GB
+Iter 900: Saved adapter weights to ../adapters/total-DeepSeek-R1-Distill-Llama-8B/adapters.safetensors and ../adapters/total-DeepSeek-R1-Distill-Llama-8B/0000900_adapters.safetensors.
+Iter 1000: Val loss 0.294, Val took 97.538s
+Iter 1000: Train loss 0.284, Learning Rate 1.000e-06, It/sec 45.615, Tokens/sec 26518.137, Trained Tokens 572807, Peak mem 22.168 GB
+Iter 1000: Saved adapter weights to ../adapters/total-DeepSeek-R1-Distill-Llama-8B/adapters.safetensors and ../adapters/total-DeepSeek-R1-Distill-Llama-8B/0001000_adapters.safetensors.
+Iter 1100: Val loss 0.272, Val took 31.405s
+Iter 1100: Train loss 0.284, Learning Rate 1.000e-06, It/sec 40.056, Tokens/sec 22758.267, Trained Tokens 629623, Peak mem 22.168 GB
+Iter 1100: Saved adapter weights to ../adapters/total-DeepSeek-R1-Distill-Llama-8B/adapters.safetensors and ../adapters/total-DeepSeek-R1-Distill-Llama-8B/0001100_adapters.safetensors.
+Iter 1200: Val loss 0.279, Val took 27.144s
+Iter 1200: Train loss 0.281, Learning Rate 1.000e-06, It/sec 44.561, Tokens/sec 25548.441, Trained Tokens 686957, Peak mem 22.168 GB
+Iter 1200: Saved adapter weights to ../adapters/total-DeepSeek-R1-Distill-Llama-8B/adapters.safetensors and ../adapters/total-DeepSeek-R1-Distill-Llama-8B/0001200_adapters.safetensors.
+Iter 1300: Val loss 0.274, Val took 36.107s
+Iter 1300: Train loss 0.269, Learning Rate 1.000e-06, It/sec 19.071, Tokens/sec 11022.219, Trained Tokens 744753, Peak mem 22.168 GB
+Iter 1300: Saved adapter weights to ../adapters/total-DeepSeek-R1-Distill-Llama-8B/adapters.safetensors and ../adapters/total-DeepSeek-R1-Distill-Llama-8B/0001300_adapters.safetensors.
+Iter 1400: Val loss 0.266, Val took 27.034s
+Iter 1400: Train loss 0.269, Learning Rate 1.000e-06, It/sec 47.864, Tokens/sec 27891.069, Trained Tokens 803024, Peak mem 22.168 GB
+Iter 1400: Saved adapter weights to ../adapters/total-DeepSeek-R1-Distill-Llama-8B/adapters.safetensors and ../adapters/total-DeepSeek-R1-Distill-Llama-8B/0001400_adapters.safetensors.
+Iter 1500: Val loss 0.265, Val took 27.518s
+Iter 1500: Train loss 0.263, Learning Rate 1.000e-06, It/sec 46.026, Tokens/sec 26414.312, Trained Tokens 860414, Peak mem 22.168 GB
+Iter 1500: Saved adapter weights to ../adapters/total-DeepSeek-R1-Distill-Llama-8B/adapters.safetensors and ../adapters/total-DeepSeek-R1-Distill-Llama-8B/0001500_adapters.safetensors.
+Iter 1600: Val loss 0.261, Val took 28.985s
+Iter 1600: Train loss 0.262, Learning Rate 1.000e-06, It/sec 39.614, Tokens/sec 22796.966, Trained Tokens 917962, Peak mem 22.168 GB
+Iter 1600: Saved adapter weights to ../adapters/total-DeepSeek-R1-Distill-Llama-8B/adapters.safetensors and ../adapters/total-DeepSeek-R1-Distill-Llama-8B/0001600_adapters.safetensors.
+Iter 1700: Val loss 0.257, Val took 28.615s
+Iter 1700: Train loss 0.260, Learning Rate 1.000e-06, It/sec 18.611, Tokens/sec 10737.821, Trained Tokens 975658, Peak mem 22.168 GB
+Iter 1700: Saved adapter weights to ../adapters/total-DeepSeek-R1-Distill-Llama-8B/adapters.safetensors and ../adapters/total-DeepSeek-R1-Distill-Llama-8B/0001700_adapters.safetensors.
+Iter 1800: Val loss 0.257, Val took 27.803s
+Iter 1800: Train loss 0.255, Learning Rate 1.000e-06, It/sec 40.557, Tokens/sec 23161.525, Trained Tokens 1032766, Peak mem 22.168 GB
+Iter 1800: Saved adapter weights to ../adapters/total-DeepSeek-R1-Distill-Llama-8B/adapters.safetensors and ../adapters/total-DeepSeek-R1-Distill-Llama-8B/0001800_adapters.safetensors.
+Iter 1900: Val loss 0.256, Val took 71.838s
+Iter 1900: Train loss 0.254, Learning Rate 1.000e-06, It/sec 39.640, Tokens/sec 23047.683, Trained Tokens 1090908, Peak mem 22.168 GB
+Iter 1900: Saved adapter weights to ../adapters/total-DeepSeek-R1-Distill-Llama-8B/adapters.safetensors and ../adapters/total-DeepSeek-R1-Distill-Llama-8B/0001900_adapters.safetensors.
+Iter 2000: Val loss 0.243, Val took 27.812s
+Iter 2000: Train loss 0.249, Learning Rate 1.000e-06, It/sec 40.460, Tokens/sec 23260.290, Trained Tokens 1148398, Peak mem 22.168 GB
+Iter 2000: Saved adapter weights to ../adapters/total-DeepSeek-R1-Distill-Llama-8B/adapters.safetensors and ../adapters/total-DeepSeek-R1-Distill-Llama-8B/0002000_adapters.safetensors.
+Iter 2100: Val loss 0.248, Val took 27.547s
+Iter 2100: Train loss 0.246, Learning Rate 1.000e-06, It/sec 40.978, Tokens/sec 23623.147, Trained Tokens 1206046, Peak mem 22.168 GB
+Iter 2100: Saved adapter weights to ../adapters/total-DeepSeek-R1-Distill-Llama-8B/adapters.safetensors and ../adapters/total-DeepSeek-R1-Distill-Llama-8B/0002100_adapters.safetensors.
+Iter 2200: Val loss 0.242, Val took 27.939s
+Iter 2200: Train loss 0.248, Learning Rate 1.000e-06, It/sec 41.650, Tokens/sec 23758.202, Trained Tokens 1263088, Peak mem 22.168 GB
+Iter 2200: Saved adapter weights to ../adapters/total-DeepSeek-R1-Distill-Llama-8B/adapters.safetensors and ../adapters/total-DeepSeek-R1-Distill-Llama-8B/0002200_adapters.safetensors.
+Iter 2300: Val loss 0.240, Val took 29.022s
+Iter 2300: Train loss 0.243, Learning Rate 1.000e-06, It/sec 22.481, Tokens/sec 12981.397, Trained Tokens 1320832, Peak mem 22.168 GB
+Iter 2300: Saved adapter weights to ../adapters/total-DeepSeek-R1-Distill-Llama-8B/adapters.safetensors and ../adapters/total-DeepSeek-R1-Distill-Llama-8B/0002300_adapters.safetensors.
+Iter 2400: Val loss 0.243, Val took 28.493s
+Iter 2400: Train loss 0.243, Learning Rate 1.000e-06, It/sec 41.705, Tokens/sec 23990.162, Trained Tokens 1378356, Peak mem 22.168 GB
+Iter 2400: Saved adapter weights to ../adapters/total-DeepSeek-R1-Distill-Llama-8B/adapters.safetensors and ../adapters/total-DeepSeek-R1-Distill-Llama-8B/0002400_adapters.safetensors.
+Iter 2500: Val loss 0.243, Val took 27.938s
+Iter 2500: Train loss 0.240, Learning Rate 1.000e-06, It/sec 45.680, Tokens/sec 26422.920, Trained Tokens 1436200, Peak mem 22.168 GB
+Iter 2500: Saved adapter weights to ../adapters/total-DeepSeek-R1-Distill-Llama-8B/adapters.safetensors and ../adapters/total-DeepSeek-R1-Distill-Llama-8B/0002500_adapters.safetensors.
+Iter 2600: Val loss 0.238, Val took 27.113s
+Iter 2600: Train loss 0.241, Learning Rate 1.000e-06, It/sec 46.291, Tokens/sec 26634.234, Trained Tokens 1493736, Peak mem 22.168 GB
+Iter 2600: Saved adapter weights to ../adapters/total-DeepSeek-R1-Distill-Llama-8B/adapters.safetensors and ../adapters/total-DeepSeek-R1-Distill-Llama-8B/0002600_adapters.safetensors.
+Iter 2700: Val loss 0.240, Val took 26.868s
+Iter 2700: Train loss 0.237, Learning Rate 1.000e-06, It/sec 40.386, Tokens/sec 23009.297, Trained Tokens 1550710, Peak mem 22.168 GB
+Iter 2700: Saved adapter weights to ../adapters/total-DeepSeek-R1-Distill-Llama-8B/adapters.safetensors and ../adapters/total-DeepSeek-R1-Distill-Llama-8B/0002700_adapters.safetensors.
+Iter 2800: Val loss 0.237, Val took 65.710s
+Iter 2800: Train loss 0.235, Learning Rate 1.000e-06, It/sec 44.082, Tokens/sec 25070.542, Trained Tokens 1607582, Peak mem 22.168 GB
+Iter 2800: Saved adapter weights to ../adapters/total-DeepSeek-R1-Distill-Llama-8B/adapters.safetensors and ../adapters/total-DeepSeek-R1-Distill-Llama-8B/0002800_adapters.safetensors.
+Iter 2900: Val loss 0.232, Val took 29.259s
+Iter 2900: Train loss 0.232, Learning Rate 1.000e-06, It/sec 38.389, Tokens/sec 21914.967, Trained Tokens 1664668, Peak mem 22.168 GB
+Iter 2900: Saved adapter weights to ../adapters/total-DeepSeek-R1-Distill-Llama-8B/adapters.safetensors and ../adapters/total-DeepSeek-R1-Distill-Llama-8B/0002900_adapters.safetensors.
+Iter 3000: Val loss 0.232, Val took 28.862s
+Iter 3000: Train loss 0.232, Learning Rate 1.000e-06, It/sec 38.885, Tokens/sec 22495.878, Trained Tokens 1722520, Peak mem 22.168 GB
+Iter 3000: Saved adapter weights to ../adapters/total-DeepSeek-R1-Distill-Llama-8B/adapters.safetensors and ../adapters/total-DeepSeek-R1-Distill-Llama-8B/0003000_adapters.safetensors.
+Iter 3100: Val loss 0.235, Val took 27.400s
+Iter 3100: Train loss 0.231, Learning Rate 1.000e-06, It/sec 40.626, Tokens/sec 23361.834, Trained Tokens 1780024, Peak mem 22.168 GB
+Iter 3100: Saved adapter weights to ../adapters/total-DeepSeek-R1-Distill-Llama-8B/adapters.safetensors and ../adapters/total-DeepSeek-R1-Distill-Llama-8B/0003100_adapters.safetensors.
+Iter 3200: Val loss 0.232, Val took 28.275s
+Iter 3200: Train loss 0.233, Learning Rate 1.000e-06, It/sec 40.255, Tokens/sec 23192.679, Trained Tokens 1837638, Peak mem 22.168 GB
+Iter 3200: Saved adapter weights to ../adapters/total-DeepSeek-R1-Distill-Llama-8B/adapters.safetensors and ../adapters/total-DeepSeek-R1-Distill-Llama-8B/0003200_adapters.safetensors.
+Iter 3300: Val loss 0.228, Val took 27.623s
+Iter 3300: Train loss 0.232, Learning Rate 1.000e-06, It/sec 41.298, Tokens/sec 23469.006, Trained Tokens 1894466, Peak mem 22.168 GB
+Iter 3300: Saved adapter weights to ../adapters/total-DeepSeek-R1-Distill-Llama-8B/adapters.safetensors and ../adapters/total-DeepSeek-R1-Distill-Llama-8B/0003300_adapters.safetensors.
+Iter 3400: Val loss 0.221, Val took 28.922s
+Iter 3400: Train loss 0.226, Learning Rate 1.000e-06, It/sec 40.584, Tokens/sec 23631.006, Trained Tokens 1952694, Peak mem 22.168 GB
+Iter 3400: Saved adapter weights to ../adapters/total-DeepSeek-R1-Distill-Llama-8B/adapters.safetensors and ../adapters/total-DeepSeek-R1-Distill-Llama-8B/0003400_adapters.safetensors.
+Iter 3500: Val loss 0.225, Val took 28.372s
+Iter 3500: Train loss 0.230, Learning Rate 1.000e-06, It/sec 43.937, Tokens/sec 25410.497, Trained Tokens 2010528, Peak mem 22.168 GB
+Iter 3500: Saved adapter weights to ../adapters/total-DeepSeek-R1-Distill-Llama-8B/adapters.safetensors and ../adapters/total-DeepSeek-R1-Distill-Llama-8B/0003500_adapters.safetensors.
+Iter 3600: Val loss 0.225, Val took 31.568s
+Iter 3600: Train loss 0.226, Learning Rate 1.000e-06, It/sec 43.964, Tokens/sec 25366.090, Trained Tokens 2068226, Peak mem 22.168 GB
+Iter 3600: Saved adapter weights to ../adapters/total-DeepSeek-R1-Distill-Llama-8B/adapters.safetensors and ../adapters/total-DeepSeek-R1-Distill-Llama-8B/0003600_adapters.safetensors.
+Iter 3700: Val loss 0.226, Val took 27.615s
+Iter 3700: Train loss 0.225, Learning Rate 1.000e-06, It/sec 41.282, Tokens/sec 24089.007, Trained Tokens 2126578, Peak mem 22.168 GB
+Iter 3700: Saved adapter weights to ../adapters/total-DeepSeek-R1-Distill-Llama-8B/adapters.safetensors and ../adapters/total-DeepSeek-R1-Distill-Llama-8B/0003700_adapters.safetensors.
+Iter 3800: Val loss 0.224, Val took 29.357s
+Iter 3800: Train loss 0.222, Learning Rate 1.000e-06, It/sec 38.597, Tokens/sec 22055.177, Trained Tokens 2183720, Peak mem 22.168 GB
+Iter 3800: Saved adapter weights to ../adapters/total-DeepSeek-R1-Distill-Llama-8B/adapters.safetensors and ../adapters/total-DeepSeek-R1-Distill-Llama-8B/0003800_adapters.safetensors.
+Iter 3900: Val loss 0.219, Val took 28.066s
+Iter 3900: Train loss 0.222, Learning Rate 1.000e-06, It/sec 40.421, Tokens/sec 22746.462, Trained Tokens 2239994, Peak mem 22.168 GB
+Iter 3900: Saved adapter weights to ../adapters/total-DeepSeek-R1-Distill-Llama-8B/adapters.safetensors and ../adapters/total-DeepSeek-R1-Distill-Llama-8B/0003900_adapters.safetensors.
+Iter 4000: Val loss 0.218, Val took 32.765s
+Iter 4000: Train loss 0.222, Learning Rate 1.000e-06, It/sec 49.079, Tokens/sec 27872.163, Trained Tokens 2296784, Peak mem 22.168 GB
+Iter 4000: Saved adapter weights to ../adapters/total-DeepSeek-R1-Distill-Llama-8B/adapters.safetensors and ../adapters/total-DeepSeek-R1-Distill-Llama-8B/0004000_adapters.safetensors.
+Iter 4100: Val loss 0.217, Val took 27.968s
+Iter 4100: Train loss 0.219, Learning Rate 1.000e-06, It/sec 44.095, Tokens/sec 24969.988, Trained Tokens 2353412, Peak mem 22.168 GB
+Iter 4100: Saved adapter weights to ../adapters/total-DeepSeek-R1-Distill-Llama-8B/adapters.safetensors and ../adapters/total-DeepSeek-R1-Distill-Llama-8B/0004100_adapters.safetensors.
+Iter 4200: Val loss 0.219, Val took 30.064s
+Iter 4200: Train loss 0.218, Learning Rate 1.000e-06, It/sec 42.466, Tokens/sec 24254.813, Trained Tokens 2410528, Peak mem 22.168 GB
+Iter 4200: Saved adapter weights to ../adapters/total-DeepSeek-R1-Distill-Llama-8B/adapters.safetensors and ../adapters/total-DeepSeek-R1-Distill-Llama-8B/0004200_adapters.safetensors.
+Iter 4300: Val loss 0.216, Val took 28.079s
+Iter 4300: Train loss 0.218, Learning Rate 1.000e-06, It/sec 38.719, Tokens/sec 22209.271, Trained Tokens 2467888, Peak mem 22.168 GB
+Iter 4300: Saved adapter weights to ../adapters/total-DeepSeek-R1-Distill-Llama-8B/adapters.safetensors and ../adapters/total-DeepSeek-R1-Distill-Llama-8B/0004300_adapters.safetensors.
+Iter 4400: Val loss 0.220, Val took 29.925s
+Iter 4400: Train loss 0.217, Learning Rate 1.000e-06, It/sec 49.427, Tokens/sec 28089.447, Trained Tokens 2524718, Peak mem 22.168 GB
+Iter 4400: Saved adapter weights to ../adapters/total-DeepSeek-R1-Distill-Llama-8B/adapters.safetensors and ../adapters/total-DeepSeek-R1-Distill-Llama-8B/0004400_adapters.safetensors.
+Iter 4500: Val loss 0.217, Val took 28.154s
+Iter 4500: Train loss 0.214, Learning Rate 1.000e-06, It/sec 44.740, Tokens/sec 26035.055, Trained Tokens 2582910, Peak mem 22.168 GB
+Iter 4500: Saved adapter weights to ../adapters/total-DeepSeek-R1-Distill-Llama-8B/adapters.safetensors and ../adapters/total-DeepSeek-R1-Distill-Llama-8B/0004500_adapters.safetensors.
+Iter 4600: Val loss 0.211, Val took 28.500s
+Iter 4600: Train loss 0.215, Learning Rate 1.000e-06, It/sec 43.859, Tokens/sec 25438.971, Trained Tokens 2640912, Peak mem 22.168 GB
+Iter 4600: Saved adapter weights to ../adapters/total-DeepSeek-R1-Distill-Llama-8B/adapters.safetensors and ../adapters/total-DeepSeek-R1-Distill-Llama-8B/0004600_adapters.safetensors.
+Iter 4700: Val loss 0.218, Val took 27.653s
+Iter 4700: Train loss 0.214, Learning Rate 1.000e-06, It/sec 41.890, Tokens/sec 23947.500, Trained Tokens 2698080, Peak mem 22.168 GB
+Iter 4700: Saved adapter weights to ../adapters/total-DeepSeek-R1-Distill-Llama-8B/adapters.safetensors and ../adapters/total-DeepSeek-R1-Distill-Llama-8B/0004700_adapters.safetensors.
+Iter 4800: Val loss 0.210, Val took 28.531s
+Iter 4800: Train loss 0.214, Learning Rate 1.000e-06, It/sec 42.735, Tokens/sec 24501.609, Trained Tokens 2755414, Peak mem 22.168 GB
+Iter 4800: Saved adapter weights to ../adapters/total-DeepSeek-R1-Distill-Llama-8B/adapters.safetensors and ../adapters/total-DeepSeek-R1-Distill-Llama-8B/0004800_adapters.safetensors.
+Iter 4900: Val loss 0.209, Val took 27.643s
+Iter 4900: Train loss 0.209, Learning Rate 1.000e-06, It/sec 39.854, Tokens/sec 22740.558, Trained Tokens 2812474, Peak mem 22.168 GB
+Iter 4900: Saved adapter weights to ../adapters/total-DeepSeek-R1-Distill-Llama-8B/adapters.safetensors and ../adapters/total-DeepSeek-R1-Distill-Llama-8B/0004900_adapters.safetensors.
+Iter 5000: Val loss 0.212, Val took 29.070s
+Iter 5000: Train loss 0.208, Learning Rate 1.000e-06, It/sec 39.986, Tokens/sec 23170.066, Trained Tokens 2870420, Peak mem 22.168 GB
+Iter 5000: Saved adapter weights to ../adapters/total-DeepSeek-R1-Distill-Llama-8B/adapters.safetensors and ../adapters/total-DeepSeek-R1-Distill-Llama-8B/0005000_adapters.safetensors.
+Saved final weights to ../adapters/total-DeepSeek-R1-Distill-Llama-8B/adapters.safetensors.
+Testing
+Test loss 0.208, Test ppl 1.231.
+End time: Mon 10 Feb 2025 01:29:23 GMT

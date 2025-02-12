@@ -1,0 +1,6 @@
+python  -m mlx_lm.generate \
+        --model meta-llama/Meta-Llama-3.1-8B-Instruct \
+        --max-tokens 500 \
+        --adapter-path ../adapters/total-llama-3.1-8B-Instruct \
+        --prompt "\n\nYou are a specialist in playing 6-handed No Limit Texas Holdem. The following will be a game scenario and you need to make the optimal decision.\n\nHere is a game summary:\n\nThe small blind is 0.5 chips and the big blind is 1 chips. Everyone started with 100 chips.\nThe player positions involved in this game are UTG, HJ, CO, BTN, SB, BB.\nIn this hand, your position is CO, and your holding is [Ace of Heart and King of Heart].\nYou currently have High Card(Ace-high).\nBefore the flop, CO raise 2.3, and BB raise 13.5. Assume that all other players that is not mentioned folded.\n\nNow it is your turn to make a move.\nTo remind you, the current pot size is 16.3 chips, and your holding is [Ace of Heart and King of Heart].\n\nDecide on an action based on the strength of your hand on this board, your position, and actions before you. Do not explain your answer.\nYour optimal action is:",
+    # --model deepseek-ai/DeepSeek-R1-Distill-Llama-8B \

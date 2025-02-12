@@ -1,0 +1,213 @@
+Start time: Sun  9 Feb 2025 13:54:18 GMT
+Loading pretrained model
+Fetching 11 files:   0%|                                                                                                                        | 0/11 [00:00<?, ?it/s]Fetching 11 files: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████| 11/11 [00:00<00:00, 69693.87it/s]
+Loading datasets
+Training
+Trainable parameters: 0.042% (3.408M/8030.261M)
+Starting training..., iters: 5000
+Iter 1: Val loss 3.072, Val took 25.435s
+Iter 10: Train loss 3.031, Learning Rate 1.000e-06, It/sec 0.373, Tokens/sec 199.184, Trained Tokens 5346, Peak mem 21.340 GB
+Iter 20: Train loss 2.823, Learning Rate 1.000e-06, It/sec 0.492, Tokens/sec 257.527, Trained Tokens 10578, Peak mem 21.340 GB
+Iter 30: Train loss 2.642, Learning Rate 1.000e-06, It/sec 0.429, Tokens/sec 226.466, Trained Tokens 15862, Peak mem 21.340 GB
+Iter 40: Train loss 2.498, Learning Rate 1.000e-06, It/sec 0.488, Tokens/sec 260.468, Trained Tokens 21204, Peak mem 21.340 GB
+Iter 50: Train loss 2.351, Learning Rate 1.000e-06, It/sec 0.411, Tokens/sec 221.882, Trained Tokens 26606, Peak mem 21.340 GB
+Iter 60: Train loss 2.267, Learning Rate 1.000e-06, It/sec 0.458, Tokens/sec 247.734, Trained Tokens 32012, Peak mem 21.340 GB
+Iter 70: Train loss 2.212, Learning Rate 1.000e-06, It/sec 0.481, Tokens/sec 256.394, Trained Tokens 37340, Peak mem 21.340 GB
+Iter 80: Train loss 2.144, Learning Rate 1.000e-06, It/sec 0.493, Tokens/sec 259.839, Trained Tokens 42612, Peak mem 21.340 GB
+Iter 90: Train loss 2.065, Learning Rate 1.000e-06, It/sec 0.417, Tokens/sec 221.889, Trained Tokens 47928, Peak mem 21.340 GB
+Iter 100: Val loss 1.930, Val took 24.749s
+Iter 100: Train loss 1.978, Learning Rate 1.000e-06, It/sec 4.847, Tokens/sec 2569.949, Trained Tokens 53230, Peak mem 21.340 GB
+Iter 100: Saved adapter weights to ../adapters/preflop-llama-3.1-8B-Instruct/adapters.safetensors and ../adapters/preflop-llama-3.1-8B-Instruct/0000100_adapters.safetensors.
+Iter 110: Train loss 1.882, Learning Rate 1.000e-06, It/sec 0.485, Tokens/sec 258.859, Trained Tokens 58566, Peak mem 21.354 GB
+Iter 120: Train loss 1.794, Learning Rate 1.000e-06, It/sec 0.476, Tokens/sec 252.870, Trained Tokens 63882, Peak mem 21.354 GB
+Iter 130: Train loss 1.738, Learning Rate 1.000e-06, It/sec 0.477, Tokens/sec 256.458, Trained Tokens 69264, Peak mem 21.510 GB
+Iter 140: Train loss 1.678, Learning Rate 1.000e-06, It/sec 0.470, Tokens/sec 249.074, Trained Tokens 74558, Peak mem 21.510 GB
+Iter 150: Train loss 1.578, Learning Rate 1.000e-06, It/sec 0.461, Tokens/sec 249.147, Trained Tokens 79962, Peak mem 21.510 GB
+Iter 160: Train loss 1.472, Learning Rate 1.000e-06, It/sec 0.456, Tokens/sec 242.973, Trained Tokens 85290, Peak mem 21.510 GB
+Iter 170: Train loss 1.361, Learning Rate 1.000e-06, It/sec 0.396, Tokens/sec 212.764, Trained Tokens 90660, Peak mem 21.510 GB
+Iter 180: Train loss 1.267, Learning Rate 1.000e-06, It/sec 0.423, Tokens/sec 231.695, Trained Tokens 96138, Peak mem 21.510 GB
+Iter 190: Train loss 1.149, Learning Rate 1.000e-06, It/sec 0.427, Tokens/sec 230.386, Trained Tokens 101532, Peak mem 21.510 GB
+Iter 200: Val loss 1.016, Val took 26.229s
+Iter 200: Train loss 1.058, Learning Rate 1.000e-06, It/sec 4.525, Tokens/sec 2413.489, Trained Tokens 106866, Peak mem 21.510 GB
+Iter 200: Saved adapter weights to ../adapters/preflop-llama-3.1-8B-Instruct/adapters.safetensors and ../adapters/preflop-llama-3.1-8B-Instruct/0000200_adapters.safetensors.
+Iter 210: Train loss 0.961, Learning Rate 1.000e-06, It/sec 0.381, Tokens/sec 206.579, Trained Tokens 112292, Peak mem 21.510 GB
+Iter 220: Train loss 0.876, Learning Rate 1.000e-06, It/sec 0.398, Tokens/sec 214.988, Trained Tokens 117688, Peak mem 21.510 GB
+Iter 230: Train loss 0.807, Learning Rate 1.000e-06, It/sec 0.466, Tokens/sec 248.727, Trained Tokens 123022, Peak mem 21.510 GB
+Iter 240: Train loss 0.718, Learning Rate 1.000e-06, It/sec 0.471, Tokens/sec 248.218, Trained Tokens 128290, Peak mem 21.510 GB
+Iter 250: Train loss 0.643, Learning Rate 1.000e-06, It/sec 0.415, Tokens/sec 226.467, Trained Tokens 133750, Peak mem 21.510 GB
+Iter 260: Train loss 0.584, Learning Rate 1.000e-06, It/sec 0.458, Tokens/sec 248.941, Trained Tokens 139190, Peak mem 21.510 GB
+Iter 270: Train loss 0.553, Learning Rate 1.000e-06, It/sec 0.470, Tokens/sec 249.594, Trained Tokens 144504, Peak mem 21.510 GB
+Iter 280: Train loss 0.489, Learning Rate 1.000e-06, It/sec 0.427, Tokens/sec 227.032, Trained Tokens 149824, Peak mem 21.510 GB
+Iter 290: Train loss 0.441, Learning Rate 1.000e-06, It/sec 0.478, Tokens/sec 251.673, Trained Tokens 155094, Peak mem 21.510 GB
+Iter 300: Val loss 0.393, Val took 30.077s
+Iter 300: Train loss 0.416, Learning Rate 1.000e-06, It/sec 4.562, Tokens/sec 2379.685, Trained Tokens 160310, Peak mem 21.510 GB
+Iter 300: Saved adapter weights to ../adapters/preflop-llama-3.1-8B-Instruct/adapters.safetensors and ../adapters/preflop-llama-3.1-8B-Instruct/0000300_adapters.safetensors.
+Iter 310: Train loss 0.370, Learning Rate 1.000e-06, It/sec 0.445, Tokens/sec 236.312, Trained Tokens 165626, Peak mem 21.510 GB
+Iter 320: Train loss 0.328, Learning Rate 1.000e-06, It/sec 0.405, Tokens/sec 217.145, Trained Tokens 170992, Peak mem 21.510 GB
+Iter 330: Train loss 0.341, Learning Rate 1.000e-06, It/sec 0.467, Tokens/sec 249.901, Trained Tokens 176344, Peak mem 21.510 GB
+Iter 340: Train loss 0.300, Learning Rate 1.000e-06, It/sec 0.219, Tokens/sec 115.739, Trained Tokens 181622, Peak mem 21.510 GB
+Iter 350: Train loss 0.285, Learning Rate 1.000e-06, It/sec 0.309, Tokens/sec 165.469, Trained Tokens 186984, Peak mem 21.510 GB
+Iter 360: Train loss 0.269, Learning Rate 1.000e-06, It/sec 0.430, Tokens/sec 231.601, Trained Tokens 192366, Peak mem 21.510 GB
+Iter 370: Train loss 0.265, Learning Rate 1.000e-06, It/sec 0.200, Tokens/sec 107.005, Trained Tokens 197724, Peak mem 21.510 GB
+Iter 380: Train loss 0.239, Learning Rate 1.000e-06, It/sec 0.227, Tokens/sec 120.327, Trained Tokens 203034, Peak mem 21.510 GB
+Iter 390: Train loss 0.260, Learning Rate 1.000e-06, It/sec 0.265, Tokens/sec 139.548, Trained Tokens 208308, Peak mem 21.510 GB
+Iter 400: Val loss 0.228, Val took 24.117s
+Iter 400: Train loss 0.250, Learning Rate 1.000e-06, It/sec 4.735, Tokens/sec 2576.057, Trained Tokens 213748, Peak mem 21.510 GB
+Iter 400: Saved adapter weights to ../adapters/preflop-llama-3.1-8B-Instruct/adapters.safetensors and ../adapters/preflop-llama-3.1-8B-Instruct/0000400_adapters.safetensors.
+Iter 410: Train loss 0.247, Learning Rate 1.000e-06, It/sec 0.428, Tokens/sec 230.675, Trained Tokens 219132, Peak mem 21.510 GB
+Iter 420: Train loss 0.249, Learning Rate 1.000e-06, It/sec 0.411, Tokens/sec 222.585, Trained Tokens 224546, Peak mem 21.510 GB
+Iter 430: Train loss 0.231, Learning Rate 1.000e-06, It/sec 0.487, Tokens/sec 257.835, Trained Tokens 229844, Peak mem 21.510 GB
+Iter 440: Train loss 0.223, Learning Rate 1.000e-06, It/sec 0.486, Tokens/sec 260.367, Trained Tokens 235204, Peak mem 21.510 GB
+Iter 450: Train loss 0.192, Learning Rate 1.000e-06, It/sec 0.459, Tokens/sec 244.092, Trained Tokens 240524, Peak mem 21.510 GB
+Iter 460: Train loss 0.192, Learning Rate 1.000e-06, It/sec 0.388, Tokens/sec 205.779, Trained Tokens 245828, Peak mem 21.510 GB
+Iter 470: Train loss 0.172, Learning Rate 1.000e-06, It/sec 0.415, Tokens/sec 218.293, Trained Tokens 251086, Peak mem 21.510 GB
+Iter 480: Train loss 0.162, Learning Rate 1.000e-06, It/sec 0.500, Tokens/sec 262.048, Trained Tokens 256322, Peak mem 21.510 GB
+Iter 490: Train loss 0.180, Learning Rate 1.000e-06, It/sec 0.480, Tokens/sec 258.264, Trained Tokens 261708, Peak mem 21.510 GB
+Iter 500: Val loss 0.171, Val took 26.472s
+Iter 500: Train loss 0.177, Learning Rate 1.000e-06, It/sec 2.147, Tokens/sec 1140.288, Trained Tokens 267020, Peak mem 21.510 GB
+Iter 500: Saved adapter weights to ../adapters/preflop-llama-3.1-8B-Instruct/adapters.safetensors and ../adapters/preflop-llama-3.1-8B-Instruct/0000500_adapters.safetensors.
+Iter 510: Train loss 0.168, Learning Rate 1.000e-06, It/sec 0.316, Tokens/sec 166.777, Trained Tokens 272296, Peak mem 21.510 GB
+Iter 520: Train loss 0.171, Learning Rate 1.000e-06, It/sec 0.395, Tokens/sec 214.868, Trained Tokens 277732, Peak mem 21.510 GB
+Iter 530: Train loss 0.173, Learning Rate 1.000e-06, It/sec 0.391, Tokens/sec 210.457, Trained Tokens 283114, Peak mem 21.510 GB
+Iter 540: Train loss 0.160, Learning Rate 1.000e-06, It/sec 0.468, Tokens/sec 254.045, Trained Tokens 288546, Peak mem 21.510 GB
+Iter 550: Train loss 0.162, Learning Rate 1.000e-06, It/sec 0.423, Tokens/sec 226.343, Trained Tokens 293892, Peak mem 21.510 GB
+Iter 560: Train loss 0.164, Learning Rate 1.000e-06, It/sec 0.403, Tokens/sec 217.778, Trained Tokens 299302, Peak mem 21.510 GB
+Iter 570: Train loss 0.155, Learning Rate 1.000e-06, It/sec 0.472, Tokens/sec 254.616, Trained Tokens 304700, Peak mem 21.510 GB
+Iter 580: Train loss 0.161, Learning Rate 1.000e-06, It/sec 0.480, Tokens/sec 258.055, Trained Tokens 310076, Peak mem 21.510 GB
+Iter 590: Train loss 0.149, Learning Rate 1.000e-06, It/sec 0.478, Tokens/sec 258.000, Trained Tokens 315468, Peak mem 21.510 GB
+Iter 600: Val loss 0.152, Val took 24.474s
+Iter 600: Train loss 0.162, Learning Rate 1.000e-06, It/sec 1.894, Tokens/sec 1020.344, Trained Tokens 320854, Peak mem 21.510 GB
+Iter 600: Saved adapter weights to ../adapters/preflop-llama-3.1-8B-Instruct/adapters.safetensors and ../adapters/preflop-llama-3.1-8B-Instruct/0000600_adapters.safetensors.
+Iter 610: Train loss 0.153, Learning Rate 1.000e-06, It/sec 0.406, Tokens/sec 217.289, Trained Tokens 326202, Peak mem 21.510 GB
+Iter 620: Train loss 0.154, Learning Rate 1.000e-06, It/sec 0.451, Tokens/sec 243.548, Trained Tokens 331598, Peak mem 21.510 GB
+Iter 630: Train loss 0.159, Learning Rate 1.000e-06, It/sec 0.417, Tokens/sec 226.929, Trained Tokens 337040, Peak mem 21.510 GB
+Iter 640: Train loss 0.159, Learning Rate 1.000e-06, It/sec 0.360, Tokens/sec 193.766, Trained Tokens 342428, Peak mem 21.510 GB
+Iter 650: Train loss 0.146, Learning Rate 1.000e-06, It/sec 0.406, Tokens/sec 214.390, Trained Tokens 347712, Peak mem 21.510 GB
+Iter 660: Train loss 0.149, Learning Rate 1.000e-06, It/sec 0.455, Tokens/sec 246.379, Trained Tokens 353128, Peak mem 21.510 GB
+Iter 670: Train loss 0.155, Learning Rate 1.000e-06, It/sec 0.460, Tokens/sec 245.292, Trained Tokens 358458, Peak mem 21.510 GB
+Iter 680: Train loss 0.140, Learning Rate 1.000e-06, It/sec 0.446, Tokens/sec 236.160, Trained Tokens 363750, Peak mem 21.510 GB
+Iter 690: Train loss 0.141, Learning Rate 1.000e-06, It/sec 0.480, Tokens/sec 257.106, Trained Tokens 369102, Peak mem 21.510 GB
+Iter 700: Val loss 0.149, Val took 26.671s
+Iter 700: Train loss 0.151, Learning Rate 1.000e-06, It/sec 4.714, Tokens/sec 2542.489, Trained Tokens 374496, Peak mem 21.510 GB
+Iter 700: Saved adapter weights to ../adapters/preflop-llama-3.1-8B-Instruct/adapters.safetensors and ../adapters/preflop-llama-3.1-8B-Instruct/0000700_adapters.safetensors.
+Iter 710: Train loss 0.150, Learning Rate 1.000e-06, It/sec 0.473, Tokens/sec 253.631, Trained Tokens 379854, Peak mem 21.510 GB
+Iter 720: Train loss 0.142, Learning Rate 1.000e-06, It/sec 0.411, Tokens/sec 221.191, Trained Tokens 385240, Peak mem 21.510 GB
+Iter 730: Train loss 0.139, Learning Rate 1.000e-06, It/sec 0.479, Tokens/sec 256.087, Trained Tokens 390586, Peak mem 21.510 GB
+Iter 740: Train loss 0.143, Learning Rate 1.000e-06, It/sec 0.460, Tokens/sec 250.908, Trained Tokens 396036, Peak mem 21.510 GB
+Iter 750: Train loss 0.151, Learning Rate 1.000e-06, It/sec 0.475, Tokens/sec 254.861, Trained Tokens 401400, Peak mem 21.510 GB
+Iter 760: Train loss 0.139, Learning Rate 1.000e-06, It/sec 0.483, Tokens/sec 257.154, Trained Tokens 406724, Peak mem 21.510 GB
+Iter 770: Train loss 0.135, Learning Rate 1.000e-06, It/sec 0.451, Tokens/sec 243.778, Trained Tokens 412126, Peak mem 21.510 GB
+Iter 780: Train loss 0.135, Learning Rate 1.000e-06, It/sec 0.418, Tokens/sec 221.430, Trained Tokens 417422, Peak mem 21.510 GB
+Iter 790: Train loss 0.141, Learning Rate 1.000e-06, It/sec 0.409, Tokens/sec 223.025, Trained Tokens 422874, Peak mem 21.510 GB
+Iter 800: Val loss 0.139, Val took 29.490s
+Iter 800: Train loss 0.128, Learning Rate 1.000e-06, It/sec 4.733, Tokens/sec 2492.584, Trained Tokens 428140, Peak mem 21.510 GB
+Iter 800: Saved adapter weights to ../adapters/preflop-llama-3.1-8B-Instruct/adapters.safetensors and ../adapters/preflop-llama-3.1-8B-Instruct/0000800_adapters.safetensors.
+Iter 810: Train loss 0.147, Learning Rate 1.000e-06, It/sec 0.418, Tokens/sec 226.304, Trained Tokens 433550, Peak mem 21.510 GB
+Iter 820: Train loss 0.142, Learning Rate 1.000e-06, It/sec 0.459, Tokens/sec 250.650, Trained Tokens 439014, Peak mem 21.510 GB
+Iter 830: Train loss 0.132, Learning Rate 1.000e-06, It/sec 0.469, Tokens/sec 254.844, Trained Tokens 444452, Peak mem 21.510 GB
+Iter 840: Train loss 0.138, Learning Rate 1.000e-06, It/sec 0.460, Tokens/sec 246.949, Trained Tokens 449818, Peak mem 21.510 GB
+Iter 850: Train loss 0.137, Learning Rate 1.000e-06, It/sec 0.460, Tokens/sec 246.427, Trained Tokens 455172, Peak mem 21.510 GB
+Iter 860: Train loss 0.125, Learning Rate 1.000e-06, It/sec 0.467, Tokens/sec 251.268, Trained Tokens 460552, Peak mem 21.510 GB
+Iter 870: Train loss 0.133, Learning Rate 1.000e-06, It/sec 0.469, Tokens/sec 251.329, Trained Tokens 465916, Peak mem 21.510 GB
+Iter 880: Train loss 0.147, Learning Rate 1.000e-06, It/sec 0.410, Tokens/sec 221.867, Trained Tokens 471332, Peak mem 21.510 GB
+Iter 890: Train loss 0.135, Learning Rate 1.000e-06, It/sec 0.475, Tokens/sec 252.030, Trained Tokens 476640, Peak mem 21.510 GB
+Iter 900: Val loss 0.133, Val took 28.448s
+Iter 900: Train loss 0.130, Learning Rate 1.000e-06, It/sec 4.725, Tokens/sec 2515.467, Trained Tokens 481964, Peak mem 21.510 GB
+Iter 900: Saved adapter weights to ../adapters/preflop-llama-3.1-8B-Instruct/adapters.safetensors and ../adapters/preflop-llama-3.1-8B-Instruct/0000900_adapters.safetensors.
+Iter 910: Train loss 0.127, Learning Rate 1.000e-06, It/sec 0.468, Tokens/sec 249.849, Trained Tokens 487302, Peak mem 21.510 GB
+Iter 920: Train loss 0.124, Learning Rate 1.000e-06, It/sec 0.476, Tokens/sec 252.685, Trained Tokens 492610, Peak mem 21.510 GB
+Iter 930: Train loss 0.139, Learning Rate 1.000e-06, It/sec 0.469, Tokens/sec 253.431, Trained Tokens 498010, Peak mem 21.510 GB
+Iter 940: Train loss 0.134, Learning Rate 1.000e-06, It/sec 0.465, Tokens/sec 251.045, Trained Tokens 503408, Peak mem 21.510 GB
+Iter 950: Train loss 0.126, Learning Rate 1.000e-06, It/sec 0.434, Tokens/sec 231.488, Trained Tokens 508742, Peak mem 21.510 GB
+Iter 960: Train loss 0.117, Learning Rate 1.000e-06, It/sec 0.457, Tokens/sec 241.490, Trained Tokens 514028, Peak mem 21.510 GB
+Iter 970: Train loss 0.137, Learning Rate 1.000e-06, It/sec 0.412, Tokens/sec 224.584, Trained Tokens 519474, Peak mem 21.510 GB
+Iter 980: Train loss 0.121, Learning Rate 1.000e-06, It/sec 0.465, Tokens/sec 248.349, Trained Tokens 524810, Peak mem 21.510 GB
+Iter 990: Train loss 0.128, Learning Rate 1.000e-06, It/sec 0.468, Tokens/sec 251.687, Trained Tokens 530186, Peak mem 21.510 GB
+Iter 1000: Val loss 0.132, Val took 25.900s
+Iter 1000: Train loss 0.120, Learning Rate 1.000e-06, It/sec 4.528, Tokens/sec 2408.978, Trained Tokens 535506, Peak mem 21.510 GB
+Iter 1000: Saved adapter weights to ../adapters/preflop-llama-3.1-8B-Instruct/adapters.safetensors and ../adapters/preflop-llama-3.1-8B-Instruct/0001000_adapters.safetensors.
+Iter 1010: Train loss 0.124, Learning Rate 1.000e-06, It/sec 0.373, Tokens/sec 199.193, Trained Tokens 540850, Peak mem 21.510 GB
+Iter 1020: Train loss 0.125, Learning Rate 1.000e-06, It/sec 0.452, Tokens/sec 240.309, Trained Tokens 546168, Peak mem 21.510 GB
+Iter 1030: Train loss 0.131, Learning Rate 1.000e-06, It/sec 0.469, Tokens/sec 251.215, Trained Tokens 551524, Peak mem 21.510 GB
+Iter 1040: Train loss 0.128, Learning Rate 1.000e-06, It/sec 0.400, Tokens/sec 213.589, Trained Tokens 556862, Peak mem 21.510 GB
+Iter 1050: Train loss 0.125, Learning Rate 1.000e-06, It/sec 0.455, Tokens/sec 240.652, Trained Tokens 562152, Peak mem 21.510 GB
+Iter 1060: Train loss 0.117, Learning Rate 1.000e-06, It/sec 0.418, Tokens/sec 219.930, Trained Tokens 567414, Peak mem 21.510 GB
+Iter 1070: Train loss 0.122, Learning Rate 1.000e-06, It/sec 0.476, Tokens/sec 255.173, Trained Tokens 572780, Peak mem 21.510 GB
+Iter 1080: Train loss 0.113, Learning Rate 1.000e-06, It/sec 0.487, Tokens/sec 258.153, Trained Tokens 578076, Peak mem 21.510 GB
+Iter 1090: Train loss 0.121, Learning Rate 1.000e-06, It/sec 0.473, Tokens/sec 255.328, Trained Tokens 583470, Peak mem 21.510 GB
+Iter 1100: Val loss 0.120, Val took 24.813s
+Iter 1100: Train loss 0.144, Learning Rate 1.000e-06, It/sec 4.699, Tokens/sec 2545.086, Trained Tokens 588886, Peak mem 21.510 GB
+Iter 1100: Saved adapter weights to ../adapters/preflop-llama-3.1-8B-Instruct/adapters.safetensors and ../adapters/preflop-llama-3.1-8B-Instruct/0001100_adapters.safetensors.
+Iter 1110: Train loss 0.117, Learning Rate 1.000e-06, It/sec 0.479, Tokens/sec 249.909, Trained Tokens 594098, Peak mem 21.510 GB
+Iter 1120: Train loss 0.120, Learning Rate 1.000e-06, It/sec 0.467, Tokens/sec 249.737, Trained Tokens 599444, Peak mem 21.510 GB
+Iter 1130: Train loss 0.119, Learning Rate 1.000e-06, It/sec 0.385, Tokens/sec 206.241, Trained Tokens 604800, Peak mem 21.510 GB
+Iter 1140: Train loss 0.120, Learning Rate 1.000e-06, It/sec 0.465, Tokens/sec 247.205, Trained Tokens 610118, Peak mem 21.510 GB
+Iter 1150: Train loss 0.125, Learning Rate 1.000e-06, It/sec 0.456, Tokens/sec 246.321, Trained Tokens 615524, Peak mem 21.510 GB
+Iter 1160: Train loss 0.122, Learning Rate 1.000e-06, It/sec 0.473, Tokens/sec 253.468, Trained Tokens 620880, Peak mem 21.510 GB
+Iter 1170: Train loss 0.116, Learning Rate 1.000e-06, It/sec 0.465, Tokens/sec 250.822, Trained Tokens 626276, Peak mem 21.510 GB
+Iter 1180: Train loss 0.117, Learning Rate 1.000e-06, It/sec 0.379, Tokens/sec 203.124, Trained Tokens 631642, Peak mem 21.510 GB
+Iter 1190: Train loss 0.124, Learning Rate 1.000e-06, It/sec 0.457, Tokens/sec 244.709, Trained Tokens 637000, Peak mem 21.510 GB
+Iter 1200: Val loss 0.116, Val took 26.992s
+Iter 1200: Train loss 0.125, Learning Rate 1.000e-06, It/sec 4.666, Tokens/sec 2503.625, Trained Tokens 642366, Peak mem 21.510 GB
+Iter 1200: Saved adapter weights to ../adapters/preflop-llama-3.1-8B-Instruct/adapters.safetensors and ../adapters/preflop-llama-3.1-8B-Instruct/0001200_adapters.safetensors.
+Iter 1210: Train loss 0.115, Learning Rate 1.000e-06, It/sec 0.469, Tokens/sec 248.121, Trained Tokens 647656, Peak mem 21.510 GB
+Iter 1220: Train loss 0.129, Learning Rate 1.000e-06, It/sec 0.457, Tokens/sec 249.226, Trained Tokens 653104, Peak mem 21.510 GB
+Iter 1230: Train loss 0.125, Learning Rate 1.000e-06, It/sec 0.429, Tokens/sec 228.492, Trained Tokens 658428, Peak mem 21.510 GB
+Iter 1240: Train loss 0.124, Learning Rate 1.000e-06, It/sec 0.281, Tokens/sec 150.471, Trained Tokens 663782, Peak mem 21.510 GB
+Iter 1250: Train loss 0.120, Learning Rate 1.000e-06, It/sec 0.400, Tokens/sec 215.152, Trained Tokens 669158, Peak mem 21.510 GB
+Iter 1260: Train loss 0.120, Learning Rate 1.000e-06, It/sec 0.478, Tokens/sec 257.790, Trained Tokens 674554, Peak mem 21.510 GB
+Iter 1270: Train loss 0.119, Learning Rate 1.000e-06, It/sec 0.477, Tokens/sec 254.421, Trained Tokens 679884, Peak mem 21.510 GB
+Iter 1280: Train loss 0.113, Learning Rate 1.000e-06, It/sec 0.394, Tokens/sec 211.234, Trained Tokens 685248, Peak mem 21.510 GB
+Iter 1290: Train loss 0.115, Learning Rate 1.000e-06, It/sec 0.491, Tokens/sec 257.620, Trained Tokens 690500, Peak mem 21.510 GB
+Iter 1300: Val loss 0.118, Val took 25.078s
+Iter 1300: Train loss 0.124, Learning Rate 1.000e-06, It/sec 5.304, Tokens/sec 2853.444, Trained Tokens 695880, Peak mem 21.510 GB
+Iter 1300: Saved adapter weights to ../adapters/preflop-llama-3.1-8B-Instruct/adapters.safetensors and ../adapters/preflop-llama-3.1-8B-Instruct/0001300_adapters.safetensors.
+Iter 1310: Train loss 0.119, Learning Rate 1.000e-06, It/sec 0.172, Tokens/sec 92.745, Trained Tokens 701280, Peak mem 21.510 GB
+Iter 1320: Train loss 0.124, Learning Rate 1.000e-06, It/sec 0.471, Tokens/sec 254.044, Trained Tokens 706676, Peak mem 21.510 GB
+Iter 1330: Train loss 0.122, Learning Rate 1.000e-06, It/sec 0.420, Tokens/sec 230.260, Trained Tokens 712156, Peak mem 21.510 GB
+Iter 1340: Train loss 0.112, Learning Rate 1.000e-06, It/sec 0.378, Tokens/sec 200.799, Trained Tokens 717464, Peak mem 21.510 GB
+Iter 1350: Train loss 0.119, Learning Rate 1.000e-06, It/sec 0.212, Tokens/sec 112.590, Trained Tokens 722764, Peak mem 21.510 GB
+Iter 1360: Train loss 0.113, Learning Rate 1.000e-06, It/sec 0.413, Tokens/sec 220.416, Trained Tokens 728106, Peak mem 21.510 GB
+Iter 1370: Train loss 0.115, Learning Rate 1.000e-06, It/sec 0.233, Tokens/sec 123.565, Trained Tokens 733414, Peak mem 21.510 GB
+Iter 1380: Train loss 0.113, Learning Rate 1.000e-06, It/sec 0.376, Tokens/sec 202.164, Trained Tokens 738794, Peak mem 21.510 GB
+Iter 1390: Train loss 0.120, Learning Rate 1.000e-06, It/sec 0.290, Tokens/sec 158.164, Trained Tokens 744246, Peak mem 21.510 GB
+Iter 1400: Val loss 0.117, Val took 25.269s
+Iter 1400: Train loss 0.117, Learning Rate 1.000e-06, It/sec 4.807, Tokens/sec 2608.987, Trained Tokens 749674, Peak mem 21.510 GB
+Iter 1400: Saved adapter weights to ../adapters/preflop-llama-3.1-8B-Instruct/adapters.safetensors and ../adapters/preflop-llama-3.1-8B-Instruct/0001400_adapters.safetensors.
+Iter 1410: Train loss 0.110, Learning Rate 1.000e-06, It/sec 0.475, Tokens/sec 252.921, Trained Tokens 755000, Peak mem 21.510 GB
+Iter 1420: Train loss 0.123, Learning Rate 1.000e-06, It/sec 0.402, Tokens/sec 215.981, Trained Tokens 760372, Peak mem 21.510 GB
+Iter 1430: Train loss 0.117, Learning Rate 1.000e-06, It/sec 0.408, Tokens/sec 219.427, Trained Tokens 765748, Peak mem 21.510 GB
+Iter 1440: Train loss 0.121, Learning Rate 1.000e-06, It/sec 0.482, Tokens/sec 258.598, Trained Tokens 771108, Peak mem 21.510 GB
+Iter 1450: Train loss 0.110, Learning Rate 1.000e-06, It/sec 0.442, Tokens/sec 234.667, Trained Tokens 776416, Peak mem 21.510 GB
+Iter 1460: Train loss 0.102, Learning Rate 1.000e-06, It/sec 0.445, Tokens/sec 234.114, Trained Tokens 781678, Peak mem 21.510 GB
+Iter 1470: Train loss 0.114, Learning Rate 1.000e-06, It/sec 0.472, Tokens/sec 257.902, Trained Tokens 787146, Peak mem 21.510 GB
+Iter 1480: Train loss 0.100, Learning Rate 1.000e-06, It/sec 0.467, Tokens/sec 244.618, Trained Tokens 792384, Peak mem 21.510 GB
+Iter 1490: Train loss 0.108, Learning Rate 1.000e-06, It/sec 0.430, Tokens/sec 226.122, Trained Tokens 797648, Peak mem 21.510 GB
+Iter 1500: Val loss 0.108, Val took 24.953s
+Iter 1500: Train loss 0.114, Learning Rate 1.000e-06, It/sec 4.681, Tokens/sec 2493.047, Trained Tokens 802974, Peak mem 21.510 GB
+Iter 1500: Saved adapter weights to ../adapters/preflop-llama-3.1-8B-Instruct/adapters.safetensors and ../adapters/preflop-llama-3.1-8B-Instruct/0001500_adapters.safetensors.
+Iter 1510: Train loss 0.106, Learning Rate 1.000e-06, It/sec 0.422, Tokens/sec 223.291, Trained Tokens 808260, Peak mem 21.510 GB
+Iter 1520: Train loss 0.102, Learning Rate 1.000e-06, It/sec 0.320, Tokens/sec 168.905, Trained Tokens 813546, Peak mem 21.510 GB
+Iter 1530: Train loss 0.109, Learning Rate 1.000e-06, It/sec 0.454, Tokens/sec 244.573, Trained Tokens 818928, Peak mem 21.510 GB
+Iter 1540: Train loss 0.109, Learning Rate 1.000e-06, It/sec 0.409, Tokens/sec 218.873, Trained Tokens 824278, Peak mem 21.510 GB
+Iter 1550: Train loss 0.107, Learning Rate 1.000e-06, It/sec 0.484, Tokens/sec 259.143, Trained Tokens 829636, Peak mem 21.510 GB
+Iter 1560: Train loss 0.124, Learning Rate 1.000e-06, It/sec 0.408, Tokens/sec 217.572, Trained Tokens 834970, Peak mem 21.510 GB
+Iter 1570: Train loss 0.108, Learning Rate 1.000e-06, It/sec 0.484, Tokens/sec 257.191, Trained Tokens 840280, Peak mem 21.510 GB
+Iter 1580: Train loss 0.108, Learning Rate 1.000e-06, It/sec 0.409, Tokens/sec 218.169, Trained Tokens 845618, Peak mem 21.510 GB
+Iter 1590: Train loss 0.107, Learning Rate 1.000e-06, It/sec 0.358, Tokens/sec 190.638, Trained Tokens 850940, Peak mem 21.510 GB
+Iter 1600: Val loss 0.105, Val took 30.181s
+Iter 1600: Train loss 0.109, Learning Rate 1.000e-06, It/sec 5.194, Tokens/sec 2756.018, Trained Tokens 856246, Peak mem 21.510 GB
+Iter 1600: Saved adapter weights to ../adapters/preflop-llama-3.1-8B-Instruct/adapters.safetensors and ../adapters/preflop-llama-3.1-8B-Instruct/0001600_adapters.safetensors.
+Iter 1610: Train loss 0.106, Learning Rate 1.000e-06, It/sec 0.386, Tokens/sec 203.704, Trained Tokens 861520, Peak mem 21.510 GB
+Iter 1620: Train loss 0.108, Learning Rate 1.000e-06, It/sec 0.435, Tokens/sec 235.664, Trained Tokens 866938, Peak mem 21.510 GB
+Iter 1630: Train loss 0.107, Learning Rate 1.000e-06, It/sec 0.477, Tokens/sec 254.399, Trained Tokens 872274, Peak mem 21.510 GB
+Iter 1640: Train loss 0.100, Learning Rate 1.000e-06, It/sec 0.385, Tokens/sec 203.987, Trained Tokens 877570, Peak mem 21.510 GB
+Iter 1650: Train loss 0.100, Learning Rate 1.000e-06, It/sec 0.454, Tokens/sec 236.093, Trained Tokens 882768, Peak mem 21.510 GB
+Iter 1660: Train loss 0.115, Learning Rate 1.000e-06, It/sec 0.283, Tokens/sec 151.130, Trained Tokens 888104, Peak mem 21.510 GB
+Iter 1670: Train loss 0.113, Learning Rate 1.000e-06, It/sec 0.373, Tokens/sec 200.113, Trained Tokens 893474, Peak mem 21.510 GB
+Iter 1680: Train loss 0.098, Learning Rate 1.000e-06, It/sec 0.413, Tokens/sec 219.484, Trained Tokens 898786, Peak mem 21.510 GB
+Iter 1690: Train loss 0.105, Learning Rate 1.000e-06, It/sec 0.407, Tokens/sec 215.760, Trained Tokens 904084, Peak mem 21.510 GB
+Iter 1700: Val loss 0.101, Val took 26.436s
+Iter 1700: Train loss 0.112, Learning Rate 1.000e-06, It/sec 4.846, Tokens/sec 2609.024, Trained Tokens 909468, Peak mem 21.510 GB
+Iter 1700: Saved adapter weights to ../adapters/preflop-llama-3.1-8B-Instruct/adapters.safetensors and ../adapters/preflop-llama-3.1-8B-Instruct/0001700_adapters.safetensors.
+Iter 1710: Train loss 0.112, Learning Rate 1.000e-06, It/sec 0.403, Tokens/sec 219.258, Trained Tokens 914913, Peak mem 21.510 GB
