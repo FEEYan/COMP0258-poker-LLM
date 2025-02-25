@@ -1,0 +1,1001 @@
+Prediction,Ground Truth
+fold,fold
+fold,fold
+fold,fold
+check,check
+raise 2.5,check
+call,call
+raise 2.0,check
+call,call
+raise 2.0,check
+fold,fold
+call,fold
+fold,fold
+check,raise 2.5
+raise 2.0,check
+call,fold
+raise 2.0,check
+call,raise 32.0
+raise 2.5,raise 2.5
+raise 2.5,check
+check,check
+fold,fold
+check,check
+raise 5,raise 11.0
+fold,fold
+fold,fold
+call,call
+fold,call
+fold,raise 10.0
+check,raise 2.3
+fold,raise 10.0
+call,call
+raise 5,raise 11.0
+raise 2.5,check
+check,check
+check,check
+call,raise 19.0
+check,raise 3.0
+check,check
+fold,fold
+call,fold
+call,raise 28.0
+fold,call
+fold,fold
+call,fold
+call,fold
+check,raise 2.3
+call,raise 10.0
+call,call
+fold,call
+call,raise 13.0
+fold,raise 21.0
+check,check
+check,check
+fold,call
+fold,fold
+fold,fold
+call,raise 17.5
+check,call
+fold,fold
+check,check
+raise 2.0,check
+fold,call
+call,raise 28.0
+raise 5.0,raise 14.0
+call,raise 26.0
+fold,fold
+call,raise 27.0
+call,raise 21.0
+fold,fold
+call,call
+fold,raise 20.0
+raise,check
+fold,call
+call,call
+check,raise 3.0
+fold,fold
+fold,fold
+check,raise 2.3
+fold,fold
+check,raise 2.3
+fold,call
+fold,raise 23.0
+fold,raise 13.0
+fold,raise 21.0
+raise 2.0,check
+call,call
+fold,fold
+fold,call
+fold,fold
+check,raise 3.0
+fold,fold
+fold,raise 22.9
+call,raise 12.0
+fold,fold
+fold,fold
+check,raise 2.5
+check,check
+check,check
+fold,fold
+call,call
+call,raise 14.0
+raise 2.5,check
+call,raise 13.5
+raise 2.5,check
+fold,call
+call,call
+call,raise 19.0
+check,raise 14.0
+raise 2.0,check
+fold,fold
+fold,fold
+fold,fold
+call,fold
+fold,fold
+fold,call
+check,check
+check,check
+fold,call
+fold,call
+call,fold
+call,call
+fold,raise 11.0
+raise 3.0,check
+fold,fold
+fold,fold
+fold,call
+fold,call
+fold,raise 13.1
+check,check
+raise 2.5,check
+check,check
+raise 2.0,check
+fold,call
+call,fold
+raise 2.0,check
+call,fold
+fold,raise 11.5
+fold,fold
+check,check
+fold,call
+fold,fold
+raise 2.5,check
+check,check
+raise 11.0,raise 24.1
+check,check
+raise 5.0,raise 11.0
+call,call
+raise 5,raise 15.0
+call,fold
+call,fold
+fold,fold
+check,check
+check,call
+raise 2.5,raise 2.0
+raise 2.0,check
+fold,fold
+fold,fold
+call,fold
+check,raise 2.3
+raise 2.5,raise 2.5
+raise 2.5,check
+call,fold
+fold,fold
+fold,call
+check,raise 3.0
+call,call
+check,check
+fold,fold
+call,call
+fold,fold
+fold,fold
+fold,call
+raise 2.5,check
+fold,fold
+check,check
+call,fold
+fold,fold
+call,call
+fold,raise 31.0
+fold,fold
+fold,call
+raise 2.5,check
+raise 2.5,check
+call,raise 12.3
+fold,raise 6.5
+raise 2.0,check
+raise 3.0,check
+fold,fold
+fold,fold
+call,call
+call,call
+fold,fold
+call,fold
+call,raise 13.1
+raise 2.0,check
+check,raise 2.0
+check,check
+fold,fold
+fold,fold
+fold,fold
+fold,fold
+raise 2.0,check
+fold,fold
+fold,fold
+fold,call
+check,check
+check,check
+call,call
+fold,fold
+call,raise 6.5
+check,check
+check,raise 3.0
+fold,fold
+fold,call
+fold,fold
+call,call
+call,fold
+raise 3.0,check
+call,raise 7.5
+raise 5.0,raise 11.0
+check,check
+call,fold
+call,call
+fold,call
+fold,call
+fold,fold
+check,check
+fold,call
+call,fold
+fold,fold
+fold,fold
+fold,fold
+fold,fold
+call,raise 9.5
+fold,call
+call,raise 22.0
+check,check
+fold,call
+check,check
+fold,call
+call,call
+call,call
+fold,fold
+raise 2.0,check
+raise 3.0,check
+fold,fold
+call,call
+fold,raise 22.0
+raise 5,raise 15.0
+call,call
+check,check
+fold,fold
+fold,raise 21.0
+raise 2.5,check
+fold,fold
+fold,fold
+check,check
+check,raise 3.0
+fold,raise 23.0
+check,raise 2.0
+raise 2.5,check
+fold,fold
+raise 2.0,check
+check,raise 2.5
+fold,call
+call,raise 10.0
+fold,fold
+raise 3,raise 2.0
+check,check
+check,check
+raise 2.5,raise 2.0
+call,call
+check,raise 3.0
+raise 5,raise 14.0
+check,check
+check,check
+call,fold
+fold,call
+check,raise 3.0
+raise 2.5,check
+check,raise 2.0
+fold,fold
+fold,call
+raise,fold
+fold,call
+fold,fold
+fold,call
+fold,raise 12.5
+fold,raise 27.0
+raise 2.0,check
+check,raise 3.0
+raise 20.0,fold
+fold,call
+fold,fold
+fold,fold
+fold,call
+call,call
+call,fold
+raise 2.5,check
+raise 3.0,check
+fold,fold
+check,raise 2.3
+fold,call
+raise 2.5,check
+fold,call
+raise 5.0,raise 9.5
+call,call
+check,check
+raise,check
+fold,raise 11.0
+fold,call
+raise 2.5,check
+call,raise 13.0
+check,check
+fold,raise 34.4
+fold,fold
+check,check
+fold,fold
+check,check
+check,check
+call,raise 13.0
+fold,fold
+fold,raise 11.5
+check,check
+fold,fold
+raise 2.5,check
+check,raise 2.5
+fold,call
+fold,fold
+check,check
+raise 2.5,check
+raise 3.0,check
+fold,call
+fold,fold
+check,check
+fold,fold
+call,fold
+fold,fold
+fold,fold
+call,raise 7.5
+raise 5,raise 15.0
+fold,call
+fold,fold
+fold,call
+raise 5,raise 14.5
+fold,call
+fold,call
+fold,call
+fold,call
+fold,call
+fold,fold
+fold,fold
+check,check
+raise 2.5,check
+raise 2.0,check
+raise 2.5,check
+fold,call
+raise 5.0,raise 9.5
+call,raise 14.0
+fold,fold
+check,check
+call,call
+raise 25.0,fold
+raise 2.5,check
+fold,raise 7.5
+call,fold
+fold,call
+fold,fold
+call,call
+fold,call
+check,check
+check,check
+call,call
+call,fold
+fold,fold
+call,fold
+fold,fold
+check,check
+check,check
+call,raise 26.0
+check,check
+check,check
+fold,raise 20.0
+check,raise 3.0
+check,check
+check,check
+check,raise 3.0
+call,raise 14.0
+call,call
+fold,fold
+fold,call
+raise 2.5,check
+raise 2.0,check
+fold,raise 35.0
+raise 3.0,check
+raise 3,check
+fold,fold
+fold,fold
+fold,raise 15.0
+check,raise 3.0
+fold,fold
+fold,raise 20.0
+call,raise 14.0
+raise 2.0,check
+call,call
+check,check
+raise 3.0,check
+fold,call
+fold,call
+call,call
+check,raise 2.5
+call,raise 15.0
+check,raise 2.3
+fold,raise 12.5
+check,raise 5.0
+check,raise 2.0
+raise 3.0,check
+call,fold
+raise 3.0,check
+fold,call
+check,raise 2.0
+fold,raise 12.5
+raise 3.0,check
+raise 2.0,check
+raise 2.5,check
+fold,call
+raise 5,raise 11.0
+fold,call
+check,check
+fold,call
+call,call
+call,fold
+call,call
+call,call
+fold,call
+call,raise 18.0
+check,raise 2.5
+fold,call
+check,raise 5.0
+call,raise 28.0
+fold,fold
+call,raise 11.0
+fold,fold
+fold,fold
+fold,raise 10.0
+call,call
+call,fold
+call,call
+call,raise 13.0
+call,raise 19.0
+call,call
+check,check
+raise 2.0,check
+call,call
+raise 3.0,check
+fold,call
+call,call
+check,check
+check,check
+raise 2.0,check
+fold,call
+fold,raise 23.0
+check,raise 3.0
+check,raise 3.0
+check,check
+fold,call
+call,call
+fold,call
+check,check
+fold,call
+call,call
+call,raise 19.0
+call,call
+raise 20.0,fold
+raise,check
+check,raise 2.5
+raise 2.5,check
+call,raise 17.5
+call,call
+fold,fold
+check,check
+fold,fold
+check,check
+raise 2.0,check
+call,call
+raise 2.5,check
+fold,fold
+fold,fold
+check,raise 2.0
+check,check
+call,call
+fold,fold
+raise 2.0,check
+call,call
+raise 5,raise 14.0
+call,call
+call,call
+fold,fold
+raise 3.0,check
+call,fold
+call,call
+fold,fold
+fold,call
+raise 2.5,check
+fold,fold
+check,check
+check,check
+call,call
+check,check
+call,fold
+check,check
+check,raise 2.3
+raise,check
+check,check
+fold,call
+fold,fold
+call,call
+call,call
+check,raise 2.0
+call,call
+call,raise 12.0
+fold,call
+raise 2.5,check
+raise 2.5,check
+check,raise 3.0
+fold,raise 11.0
+fold,fold
+fold,fold
+fold,call
+fold,call
+raise 2.5,check
+fold,call
+fold,fold
+raise 5,raise 15.0
+fold,raise 27.0
+call,call
+call,raise 13.0
+fold,fold
+raise 5,raise 13.5
+check,check
+fold,call
+call,fold
+fold,call
+call,call
+raise 2.0,check
+fold,fold
+check,check
+fold,fold
+raise 2.5,check
+fold,call
+fold,fold
+check,check
+fold,fold
+fold,raise 23.0
+raise 2.5,check
+fold,call
+fold,call
+raise 2.5,check
+call,raise 25.0
+check,raise 3.0
+call,call
+fold,call
+fold,call
+fold,fold
+call,fold
+raise 2.0,check
+check,raise 2.0
+fold,call
+call,call
+fold,fold
+fold,call
+call,raise 14.0
+fold,call
+fold,fold
+raise 3,raise 2.5
+fold,raise 25.0
+fold,call
+fold,call
+check,check
+check,check
+fold,call
+fold,fold
+call,raise 18.0
+check,check
+fold,fold
+call,call
+check,check
+raise 40.0,call
+check,check
+fold,fold
+fold,raise 10.0
+check,fold
+raise 3.0,check
+raise 3.0,check
+call,call
+fold,raise 20.0
+call,call
+call,call
+call,fold
+fold,fold
+fold,fold
+raise 2.0,check
+fold,fold
+raise 2.5,check
+fold,fold
+fold,raise 10.0
+raise 5,raise 14.0
+call,call
+raise 3.0,check
+check,raise 2.0
+fold,fold
+raise 3.0,check
+check,check
+raise 2.5,check
+check,raise 2.3
+call,fold
+call,call
+check,check
+raise 2.0,check
+raise 2.5,check
+fold,fold
+fold,fold
+call,fold
+raise 10.0,raise 14.0
+fold,raise 7.5
+check,check
+fold,fold
+fold,call
+fold,fold
+raise 2.0,check
+call,fold
+call,call
+call,call
+call,raise 14.0
+call,call
+fold,raise 29.2
+call,call
+check,check
+fold,fold
+call,call
+check,check
+fold,raise 21.0
+raise 2.0,check
+fold,fold
+check,check
+check,call
+fold,raise 27.0
+call,call
+fold,fold
+raise 2.5,check
+raise 3.0,check
+call,fold
+fold,call
+check,check
+call,call
+call,fold
+check,check
+call,call
+call,call
+check,raise 2.3
+call,call
+fold,call
+call,raise 11.0
+raise 5,raise 9.5
+check,check
+raise 5,raise 11.0
+check,check
+check,raise 3.0
+call,call
+fold,fold
+raise 2.5,raise 3.0
+raise 5,raise 11.0
+call,fold
+fold,fold
+fold,fold
+raise 5,raise 12.5
+call,raise 6.5
+call,call
+call,call
+fold,call
+fold,call
+fold,raise 24.3
+fold,raise 23.0
+fold,fold
+fold,raise 12.0
+check,check
+raise 2.0,check
+fold,fold
+fold,raise 29.6
+call,raise 13.0
+fold,fold
+fold,raise 12.5
+fold,call
+fold,call
+check,raise 2.5
+raise,check
+call,raise 18.0
+check,check
+check,check
+raise 2.5,check
+call,raise 6.5
+fold,call
+fold,call
+check,check
+raise 10.0,call
+fold,fold
+raise 2.5,raise 2.5
+fold,call
+raise 2.5,check
+check,raise 3.0
+call,call
+fold,fold
+check,check
+fold,fold
+fold,raise 21.0
+raise 2.5,check
+fold,fold
+call,call
+call,call
+raise 5.0,raise 11.0
+call,call
+check,check
+fold,raise 23.0
+fold,fold
+fold,call
+fold,raise 19.0
+fold,call
+call,call
+check,check
+check,check
+call,raise 6.5
+call,call
+call,call
+call,raise 19.0
+fold,call
+fold,fold
+check,check
+call,raise 18.0
+fold,call
+fold,call
+fold,raise 10.0
+call,call
+call,raise 21.0
+fold,raise 35.0
+call,call
+fold,fold
+fold,fold
+check,check
+call,fold
+fold,fold
+fold,fold
+raise 2.0,check
+check,raise 2.5
+fold,call
+raise 11.0,fold
+fold,raise 10.0
+call,call
+check,check
+check,raise 3.0
+call,raise 26.0
+raise 32,fold
+fold,call
+fold,raise 19.0
+fold,fold
+fold,fold
+raise 2.5,check
+raise 5,raise 14.0
+fold,fold
+fold,call
+raise 5.0,raise 14.0
+call,call
+fold,fold
+raise 5.7,raise 11.0
+call,call
+check,raise 2.0
+fold,call
+fold,call
+call,call
+call,fold
+check,check
+check,raise 2.5
+check,raise 5.0
+fold,call
+raise 2.0,check
+raise 5,raise 15.0
+call,call
+fold,call
+fold,call
+raise 2.5,check
+raise 2.0,check
+fold,fold
+check,raise 2.5
+fold,raise 26.0
+check,check
+fold,raise 21.0
+fold,fold
+check,check
+raise 2.0,check
+fold,call
+check,check
+fold,call
+call,call
+fold,fold
+check,raise 3.0
+raise 5,raise 11.0
+fold,call
+fold,raise 14.0
+call,fold
+raise 5,raise 9.5
+fold,fold
+raise 2.5,check
+fold,call
+call,raise 14.0
+fold,fold
+raise 2.0,check
+fold,raise 19.0
+raise 6,raise 16.0
+fold,call
+fold,fold
+fold,raise 22.0
+fold,call
+raise 2.0,check
+fold,call
+check,check
+fold,raise 12.5
+call,call
+fold,call
+raise 5.0,raise 9.5
+fold,call
+raise 5,raise 15.0
+fold,raise 20.0
+call,raise 18.0
+call,fold
+raise 2.0,check
+raise 2.5,check
+fold,call
+fold,fold
+raise 2.0,check
+fold,fold
+check,check
+raise 2.0,check
+check,check
+raise 2.0,check
+call,call
+raise 2.5,check
+call,fold
+fold,call
+raise 5.0,raise 11.0
+raise 2.0,check
+raise 2.0,check
+call,fold
+raise 2.5,check
+call,call
+fold,fold
+raise 3,raise 3.0
+check,raise 5.0
+call,call
+raise 2.0,check
+raise 2.0,check
+fold,call
+raise 5,raise 14.0
+call,call
+fold,call
+raise 5,raise 14.5
+fold,fold
+call,raise 20.0
+raise 5,raise 14.5
+fold,call
+fold,fold
+raise 5.0,raise 13.5
+raise 2.5,check
+fold,fold
+call,raise 6.5
+check,check
+fold,fold
+fold,raise 11.5
+check,check
+fold,call
+call,call
+check,raise 2.0
+fold,call
+fold,fold
+raise 2.5,check
+fold,fold
+call,call
+call,call
+fold,call
+fold,fold
+check,check
+check,raise 2.3
+fold,fold
+fold,call
+fold,fold
+check,raise 3.0
+call,fold
+check,raise 2.3
+fold,call
+check,check
+check,raise 3.0
+fold,raise 11.5
+raise 5,fold
+raise 2.5,check
+fold,fold
+call,call
+fold,fold
+call,fold
+raise 5,raise 9.5
+check,raise 3.0
+fold,fold
+fold,fold
+fold,fold
+call,raise 11.0
+fold,fold
+raise 3.0,check
+fold,fold
+raise 2.5,check
+fold,call
+call,call
+raise 2.0,check
+check,raise 2.0
+check,check
+fold,fold
+fold,call
+check,raise 3.0
+raise 2.0,check
+fold,call
+call,fold
+check,raise 2.5
+fold,fold
+fold,call
+fold,raise 29.2
+check,raise 3.0
+raise 5,raise 15.0
+check,check
+check,check
+fold,fold
+raise 2.5,check
+raise 5,raise 11.0
+fold,call
+fold,fold
+fold,raise 11.0
+check,check
+call,call
+raise 2.5,check
+fold,call
+fold,fold
+call,call
+check,raise 3.0
+call,raise 11.5
+fold,call
+fold,fold
+check,check
+call,raise 15.0
+check,check
+check,raise 3.0
+raise 5,raise 14.0
+raise 2.5,check
+call,fold
+fold,fold
+fold,fold
+fold,raise 12.0
+fold,fold
+fold,fold
+check,check
+raise 2.5,check
+fold,call
+fold,fold
+raise 2.0,check
+fold,fold
+check,check
+fold,fold
+check,check
+call,call
+fold,call
+check,check
+call,call
+raise 2.0,check
+raise 5,raise 14.0
+fold,raise 20.0
+call,fold
+call,call
+call,raise 12.0
+call,raise 15.0
+raise 2.0,check
+fold,fold
+raise 10.0,fold
+fold,fold
+raise 2.0,check
+fold,call
+fold,fold
+raise 5.0,raise 14.0
+call,call
+call,call
+fold,call
+check,raise 5.0
+call,fold
+check,check
+check,check
+fold,fold
+raise 5,raise 14.0

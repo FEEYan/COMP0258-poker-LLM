@@ -1,0 +1,2001 @@
+Prediction,Ground Truth
+"Call 
+<end_of_turn>",fold
+"Call 
+<end_of_turn>",fold
+"Call 
+<end_of_turn>",fold
+"Raise  
+<end_of_turn>",check
+"Raise  
+<end_of_turn>",check
+"Call 
+<end_of_turn>",call
+"Raise  
+<end_of_turn>",check
+"Call 
+<end_of_turn>",call
+"Raise 3.0 chips  
+<end_of_turn>",check
+"Call 
+<end_of_turn>",fold
+"Call 
+<end_of_turn>",fold
+"Call 
+<end_of_turn>",fold
+"Raise 3 chips.  
+<end_of_turn>",raise 2.5
+"Raise 3.0 chips  
+<end_of_turn>",check
+"Call 
+<end_of_turn>",fold
+"Raise  
+<end_of_turn>",check
+"Call 
+<end_of_turn>",raise 32.0
+"Raise  
+<end_of_turn>",raise 2.5
+"Raise  
+<end_of_turn>",check
+"Raise  
+<end_of_turn>",check
+"Fold 
+<end_of_turn>",fold
+"Raise 
+<end_of_turn>",check
+"Call 
+<end_of_turn>",raise 11.0
+"Fold 
+<end_of_turn>",fold
+"Call 
+<end_of_turn>",fold
+"Call 
+<end_of_turn>",call
+"Call 
+<end_of_turn>",call
+"Call 
+<end_of_turn>",raise 10.0
+"Raise 3 chips. 
+<end_of_turn>",raise 2.3
+"Call 
+<end_of_turn>",raise 10.0
+"Call 
+<end_of_turn>",call
+"Call 
+<end_of_turn>",raise 11.0
+"Raise 3.0 chips  
+<end_of_turn>",check
+"Raise  
+<end_of_turn>",check
+"Fold 
+<end_of_turn>",check
+"Fold 
+<end_of_turn>",raise 19.0
+"Raise 3 chips.  
+<end_of_turn>",raise 3.0
+"Raise  
+<end_of_turn>",check
+"Fold 
+<end_of_turn>",fold
+"Call 
+<end_of_turn>",fold
+"Fold 
+<end_of_turn>",raise 28.0
+"Call 
+<end_of_turn>",call
+"Fold 
+<end_of_turn>",fold
+"Call 
+<end_of_turn>",fold
+"Call 
+<end_of_turn>",fold
+"Raise 3 chips. 
+<end_of_turn>",raise 2.3
+"Call 
+<end_of_turn>",raise 10.0
+"Call 
+<end_of_turn>",call
+"Fold 
+<end_of_turn>",call
+"Call 
+<end_of_turn>",raise 13.0
+"Call 
+<end_of_turn>",raise 21.0
+"Raise  
+<end_of_turn>",check
+"Raise  
+<end_of_turn>",check
+"Call 
+<end_of_turn>",call
+"Fold 
+<end_of_turn>",fold
+"Call 
+<end_of_turn>",fold
+"Call 
+<end_of_turn>",raise 17.5
+"Call 
+<end_of_turn>",call
+"Fold 
+<end_of_turn>",fold
+"Raise 3.0 chips  
+<end_of_turn>",check
+"Raise 3.0 chips  
+<end_of_turn>",check
+"Call 
+<end_of_turn>",call
+"Fold 
+<end_of_turn>",raise 28.0
+"Call 
+<end_of_turn>",raise 14.0
+"Fold 
+<end_of_turn>",raise 26.0
+"Call 
+<end_of_turn>",fold
+"Fold 
+<end_of_turn>",raise 27.0
+"Fold 
+<end_of_turn>",raise 21.0
+"Call 
+<end_of_turn>",fold
+"Call 
+<end_of_turn>",call
+"Call 
+<end_of_turn>",raise 20.0
+"Raise  
+<end_of_turn>",check
+"Call 
+<end_of_turn>",call
+"Call 
+<end_of_turn>",call
+"Raise  
+<end_of_turn>",raise 3.0
+"Fold 
+<end_of_turn>",fold
+"Call 
+<end_of_turn>",fold
+"Raise  
+<end_of_turn>",raise 2.3
+"Fold 
+<end_of_turn>",fold
+"Raise. 
+<end_of_turn>",raise 2.3
+"Call 
+<end_of_turn>",call
+"Fold 
+<end_of_turn>",raise 23.0
+"Call 
+<end_of_turn>",raise 13.0
+"Fold 
+<end_of_turn>",raise 21.0
+"Raise 3.0 chips  
+<end_of_turn>",check
+"Call 
+<end_of_turn>",call
+"Fold 
+<end_of_turn>",fold
+"Call 
+<end_of_turn>",call
+"Call 
+<end_of_turn>",fold
+"Call 
+<end_of_turn>",raise 3.0
+"Fold 
+<end_of_turn>",fold
+"Fold 
+<end_of_turn>",raise 22.9
+"Call 
+<end_of_turn>",raise 12.0
+"Call 
+<end_of_turn>",fold
+"Call 
+<end_of_turn>",fold
+"Raise 3 chips.  
+<end_of_turn>",raise 2.5
+"Raise  
+<end_of_turn>",check
+"Raise  
+<end_of_turn>",check
+"Call 
+<end_of_turn>",fold
+"Call 
+<end_of_turn>",call
+"Call 
+<end_of_turn>",raise 14.0
+"Raise 3.0 chips  
+<end_of_turn>",check
+"Call 
+<end_of_turn>",raise 13.5
+"Raise  
+<end_of_turn>",check
+"Call 
+<end_of_turn>",call
+"Call 
+<end_of_turn>",call
+"Fold 
+<end_of_turn>",raise 19.0
+"Call 
+<end_of_turn>",raise 14.0
+"Raise  
+<end_of_turn>",check
+"Fold 
+<end_of_turn>",fold
+"Fold 
+<end_of_turn>",fold
+"Fold 
+<end_of_turn>",fold
+"Call 
+<end_of_turn>",fold
+"Fold 
+<end_of_turn>",fold
+"Call 
+<end_of_turn>",call
+"Raise  
+<end_of_turn>",check
+"Raise 
+<end_of_turn>",check
+"Call 
+<end_of_turn>",call
+"Fold 
+<end_of_turn>",call
+"Call 
+<end_of_turn>",fold
+"Call  
+<end_of_turn>",call
+"Call 
+<end_of_turn>",raise 11.0
+"Raise  
+<end_of_turn>",check
+"Call 
+<end_of_turn>",fold
+"Call 
+<end_of_turn>",fold
+"Call 
+<end_of_turn>",call
+"Call 
+<end_of_turn>",call
+"Call 
+<end_of_turn>",raise 13.1
+"Raise  
+<end_of_turn>",check
+"Raise  
+<end_of_turn>",check
+"Raise  
+<end_of_turn>",check
+"Raise 
+<end_of_turn>",check
+"Call 
+<end_of_turn>",call
+"Call 
+<end_of_turn>",fold
+"Raise  
+<end_of_turn>",check
+"Call 
+<end_of_turn>",fold
+"Call 
+<end_of_turn>",raise 11.5
+"Call 
+<end_of_turn>",fold
+"Raise  
+<end_of_turn>",check
+"Call 
+<end_of_turn>",call
+"Call 
+<end_of_turn>",fold
+"Raise  
+<end_of_turn>",check
+"Fold 
+<end_of_turn>",check
+"Call 
+<end_of_turn>",raise 24.1
+"Raise  
+<end_of_turn>",check
+"Raise 
+<end_of_turn>",raise 11.0
+"Call 
+<end_of_turn>",call
+"Call 
+<end_of_turn>",raise 15.0
+"Call 
+<end_of_turn>",fold
+"Call 
+<end_of_turn>",fold
+"Fold 
+<end_of_turn>",fold
+"Raise  
+<end_of_turn>",check
+"Call 
+<end_of_turn>",call
+"Fold 
+<end_of_turn>",raise 2.0
+"Raise  
+<end_of_turn>",check
+"Call 
+<end_of_turn>",fold
+"Fold 
+<end_of_turn>",fold
+"Call 
+<end_of_turn>",fold
+"Raise  
+<end_of_turn>",raise 2.3
+"Raise 3 chips. 
+<end_of_turn>",raise 2.5
+"Raise  
+<end_of_turn>",check
+"Call 
+<end_of_turn>",fold
+"Call 
+<end_of_turn>",fold
+"Call 
+<end_of_turn>",call
+"Raise  
+<end_of_turn>",raise 3.0
+"Call 
+<end_of_turn>",call
+"Raise  
+<end_of_turn>",check
+"Fold 
+<end_of_turn>",fold
+"Call 
+<end_of_turn>",call
+"Call 
+<end_of_turn>",fold
+"Call 
+<end_of_turn>",fold
+"Call 
+<end_of_turn>",call
+"Raise 3.0 chips  
+<end_of_turn>",check
+"Call 
+<end_of_turn>",fold
+"Raise 
+<end_of_turn>",check
+"Call 
+<end_of_turn>",fold
+"Call 
+<end_of_turn>",fold
+"Call 
+<end_of_turn>",call
+"Fold 
+<end_of_turn>",raise 31.0
+"Call 
+<end_of_turn>",fold
+"Fold 
+<end_of_turn>",call
+"Raise  
+<end_of_turn>",check
+"Raise  
+<end_of_turn>",check
+"Call 
+<end_of_turn>",raise 12.3
+"Call 
+<end_of_turn>",raise 6.5
+"Raise 
+<end_of_turn>",check
+"Raise 3.0 chips  
+<end_of_turn>",check
+"Call 
+<end_of_turn>",fold
+"Fold 
+<end_of_turn>",fold
+"Call 
+<end_of_turn>",call
+"Call 
+<end_of_turn>",call
+"Fold 
+<end_of_turn>",fold
+"Call 
+<end_of_turn>",fold
+"Call 
+<end_of_turn>",raise 13.1
+"Raise  
+<end_of_turn>",check
+"Raise  
+<end_of_turn>",raise 2.0
+"Raise  
+<end_of_turn>",check
+"Fold 
+<end_of_turn>",fold
+"Call 
+<end_of_turn>",fold
+"Call 
+<end_of_turn>",fold
+"Fold 
+<end_of_turn>",fold
+"Raise 
+<end_of_turn>",check
+"Call 
+<end_of_turn>",fold
+"Call 
+<end_of_turn>",fold
+"Call 
+<end_of_turn>",call
+"Raise  
+<end_of_turn>",check
+"Raise 
+<end_of_turn>",check
+"Call 
+<end_of_turn>",call
+"Call 
+<end_of_turn>",fold
+"Call 
+<end_of_turn>",raise 6.5
+"Fold 
+<end_of_turn>",check
+"Raise  
+<end_of_turn>",raise 3.0
+"Fold 
+<end_of_turn>",fold
+"Call 
+<end_of_turn>",call
+"Fold 
+<end_of_turn>",fold
+"Call 
+<end_of_turn>",call
+"Call 
+<end_of_turn>",fold
+"Raise 
+<end_of_turn>",check
+"3-bet  
+<end_of_turn>",raise 7.5
+"Raise 
+<end_of_turn>",raise 11.0
+"Raise  
+<end_of_turn>",check
+"Call  
+<end_of_turn>",fold
+"Call 
+<end_of_turn>",call
+"Call 
+<end_of_turn>",call
+"Fold 
+<end_of_turn>",call
+"Call 
+<end_of_turn>",fold
+"Raise  
+<end_of_turn>",check
+"Call 
+<end_of_turn>",call
+"Call 
+<end_of_turn>",fold
+"Call 
+<end_of_turn>",fold
+"Fold 
+<end_of_turn>",fold
+"Fold 
+<end_of_turn>",fold
+"Call 
+<end_of_turn>",fold
+"Call 
+<end_of_turn>",raise 9.5
+"Call 
+<end_of_turn>",call
+"Fold 
+<end_of_turn>",raise 22.0
+"Raise  
+<end_of_turn>",check
+"Call 
+<end_of_turn>",call
+"Raise  
+<end_of_turn>",check
+"Call 
+<end_of_turn>",call
+"Fold 
+<end_of_turn>",call
+"Call 
+<end_of_turn>",call
+"Call 
+<end_of_turn>",fold
+"Raise  
+<end_of_turn>",check
+"Raise  
+<end_of_turn>",check
+"Fold 
+<end_of_turn>",fold
+"Call 
+<end_of_turn>",call
+"Fold 
+<end_of_turn>",raise 22.0
+"Call 
+<end_of_turn>",raise 15.0
+"Call  
+<end_of_turn>",call
+"Raise  
+<end_of_turn>",check
+"Call 
+<end_of_turn>",fold
+"Fold 
+<end_of_turn>",raise 21.0
+"Raise  
+<end_of_turn>",check
+"Call 
+<end_of_turn>",fold
+"Fold 
+<end_of_turn>",fold
+"Raise  
+<end_of_turn>",check
+"Raise  
+<end_of_turn>",raise 3.0
+"Fold 
+<end_of_turn>",raise 23.0
+"Raise 3 chips. 
+<end_of_turn>",raise 2.0
+"Raise 3.0 chips  
+<end_of_turn>",check
+"Call 
+<end_of_turn>",fold
+"Raise 3.0 chips  
+<end_of_turn>",check
+"Raise 3 chips. 
+<end_of_turn>",raise 2.5
+"Call 
+<end_of_turn>",call
+"Call 
+<end_of_turn>",raise 10.0
+"Fold 
+<end_of_turn>",fold
+"Raise 3 chips.  
+<end_of_turn>",raise 2.0
+"Call 
+<end_of_turn>",check
+"Raise 3.0 chips  
+<end_of_turn>",check
+"Fold 
+<end_of_turn>",raise 2.0
+"Call  
+<end_of_turn>",call
+"Raise 
+<end_of_turn>",raise 3.0
+"Call 
+<end_of_turn>",raise 14.0
+"Fold 
+<end_of_turn>",check
+"Raise 
+<end_of_turn>",check
+"Fold 
+<end_of_turn>",fold
+"Call 
+<end_of_turn>",call
+"Raise  
+<end_of_turn>",raise 3.0
+"Raise 3.0 chips  
+<end_of_turn>",check
+"Raise  
+<end_of_turn>",raise 2.0
+"Fold 
+<end_of_turn>",fold
+"Call 
+<end_of_turn>",call
+"Call 
+<end_of_turn>",fold
+"Fold 
+<end_of_turn>",call
+"Fold 
+<end_of_turn>",fold
+"Call 
+<end_of_turn>",call
+"Call 
+<end_of_turn>",raise 12.5
+"Fold 
+<end_of_turn>",raise 27.0
+"Raise  
+<end_of_turn>",check
+"Raise  
+<end_of_turn>",raise 3.0
+"Fold 
+<end_of_turn>",fold
+"Call 
+<end_of_turn>",call
+"Call 
+<end_of_turn>",fold
+"Fold 
+<end_of_turn>",fold
+"Call 
+<end_of_turn>",call
+"Call 
+<end_of_turn>",call
+"Call 
+<end_of_turn>",fold
+"Raise 3.0 chips  
+<end_of_turn>",check
+"Raise 3.0 chips  
+<end_of_turn>",check
+"Fold 
+<end_of_turn>",fold
+"Raise 3 chips.  
+<end_of_turn>",raise 2.3
+"Fold 
+<end_of_turn>",call
+"Raise  
+<end_of_turn>",check
+"Call 
+<end_of_turn>",call
+"3-bet 6.0  
+<end_of_turn>",raise 9.5
+"Call 
+<end_of_turn>",call
+"Fold 
+<end_of_turn>",check
+"Raise 3 chips.  
+<end_of_turn>",check
+"Call 
+<end_of_turn>",raise 11.0
+"Call 
+<end_of_turn>",call
+"Raise 3.0 chips  
+<end_of_turn>",check
+"Call 
+<end_of_turn>",raise 13.0
+"Raise  
+<end_of_turn>",check
+"Call 
+<end_of_turn>",raise 34.4
+"Fold 
+<end_of_turn>",fold
+"Raise  
+<end_of_turn>",check
+"Call 
+<end_of_turn>",fold
+"Raise  
+<end_of_turn>",check
+"Raise  
+<end_of_turn>",check
+"Call 
+<end_of_turn>",raise 13.0
+"Call 
+<end_of_turn>",fold
+"Call 
+<end_of_turn>",raise 11.5
+"Raise  
+<end_of_turn>",check
+"Fold 
+<end_of_turn>",fold
+"Raise 3 chips.  
+<end_of_turn>",check
+"Raise  
+<end_of_turn>",raise 2.5
+"Call 
+<end_of_turn>",call
+"Call 
+<end_of_turn>",fold
+"Raise  
+<end_of_turn>",check
+"Raise  
+<end_of_turn>",check
+"Call 
+<end_of_turn>",check
+"Call 
+<end_of_turn>",call
+"Call 
+<end_of_turn>",fold
+"Raise 3.0 chips  
+<end_of_turn>",check
+"Fold 
+<end_of_turn>",fold
+"Call 
+<end_of_turn>",fold
+"Call 
+<end_of_turn>",fold
+"Fold 
+<end_of_turn>",fold
+"Call 
+<end_of_turn>",raise 7.5
+"Call 
+<end_of_turn>",raise 15.0
+"Call  
+<end_of_turn>",call
+"Call 
+<end_of_turn>",fold
+"Call 
+<end_of_turn>",call
+"Call 
+<end_of_turn>",raise 14.5
+"Call 
+<end_of_turn>",call
+"Call 
+<end_of_turn>",call
+"Call 
+<end_of_turn>",call
+"Call 
+<end_of_turn>",call
+"Call 
+<end_of_turn>",call
+"Fold 
+<end_of_turn>",fold
+"Fold 
+<end_of_turn>",fold
+"Raise  
+<end_of_turn>",check
+"Raise  
+<end_of_turn>",check
+"Raise  
+<end_of_turn>",check
+"Raise  
+<end_of_turn>",check
+"Call 
+<end_of_turn>",call
+"3-bet 6.0  
+<end_of_turn>",raise 9.5
+"Raise  
+<end_of_turn>",raise 14.0
+"Call 
+<end_of_turn>",fold
+"Call 
+<end_of_turn>",check
+"Call 
+<end_of_turn>",call
+"Call 
+<end_of_turn>",fold
+"Raise 
+<end_of_turn>",check
+"Call 
+<end_of_turn>",raise 7.5
+"Call 
+<end_of_turn>",fold
+"Fold 
+<end_of_turn>",call
+"Fold 
+<end_of_turn>",fold
+"Call 
+<end_of_turn>",call
+"Call 
+<end_of_turn>",call
+"Raise 
+<end_of_turn>",check
+"Raise  
+<end_of_turn>",check
+"Call 
+<end_of_turn>",call
+"Call 
+<end_of_turn>",fold
+"Fold 
+<end_of_turn>",fold
+"Call 
+<end_of_turn>",fold
+"Fold 
+<end_of_turn>",fold
+"Raise  
+<end_of_turn>",check
+"Raise 
+<end_of_turn>",check
+"Call 
+<end_of_turn>",raise 26.0
+"Raise  
+<end_of_turn>",check
+"Raise 3.0 chips  
+<end_of_turn>",check
+"Fold 
+<end_of_turn>",raise 20.0
+"Raise  
+<end_of_turn>",raise 3.0
+"Raise 3.0 chips  
+<end_of_turn>",check
+"Raise  
+<end_of_turn>",check
+"Raise  
+<end_of_turn>",raise 3.0
+"Fold 
+<end_of_turn>",raise 14.0
+"Call 
+<end_of_turn>",call
+"Call 
+<end_of_turn>",fold
+"Call 
+<end_of_turn>",call
+"Raise  
+<end_of_turn>",check
+"Raise  
+<end_of_turn>",check
+"All in  
+<end_of_turn>",raise 35.0
+"Call 
+<end_of_turn>",check
+"Raise  
+<end_of_turn>",check
+"Call 
+<end_of_turn>",fold
+"Fold 
+<end_of_turn>",fold
+"Call 
+<end_of_turn>",raise 15.0
+"Fold 
+<end_of_turn>",raise 3.0
+"Fold 
+<end_of_turn>",fold
+"Fold 
+<end_of_turn>",raise 20.0
+"Raise 
+<end_of_turn>",raise 14.0
+"Raise  
+<end_of_turn>",check
+"Call 
+<end_of_turn>",call
+"Raise  
+<end_of_turn>",check
+"Raise 3.0 chips  
+<end_of_turn>",check
+"Call 
+<end_of_turn>",call
+"Call 
+<end_of_turn>",call
+"Call 
+<end_of_turn>",call
+"Raise  
+<end_of_turn>",raise 2.5
+"Call 
+<end_of_turn>",raise 15.0
+"Raise 3 chips.  
+<end_of_turn>",raise 2.3
+"Call 
+<end_of_turn>",raise 12.5
+"Fold 
+<end_of_turn>",raise 5.0
+"Raise 
+<end_of_turn>",raise 2.0
+"Raise  
+<end_of_turn>",check
+"Call 
+<end_of_turn>",fold
+"Raise  
+<end_of_turn>",check
+"Call 
+<end_of_turn>",call
+"Raise  
+<end_of_turn>",raise 2.0
+"Call 
+<end_of_turn>",raise 12.5
+"Raise  
+<end_of_turn>",check
+"Raise 
+<end_of_turn>",check
+"Raise  
+<end_of_turn>",check
+"Call 
+<end_of_turn>",call
+"Call 
+<end_of_turn>",raise 11.0
+"Call  
+<end_of_turn>",call
+"Raise 3.0 chips  
+<end_of_turn>",check
+"Call 
+<end_of_turn>",call
+"Call 
+<end_of_turn>",call
+"Call 
+<end_of_turn>",fold
+"Call 
+<end_of_turn>",call
+"Call 
+<end_of_turn>",call
+"Call 
+<end_of_turn>",call
+"Call 
+<end_of_turn>",raise 18.0
+"Raise 3 chips. 
+<end_of_turn>",raise 2.5
+"Call 
+<end_of_turn>",call
+"Raise  
+<end_of_turn>",raise 5.0
+"Fold 
+<end_of_turn>",raise 28.0
+"Call 
+<end_of_turn>",fold
+"Raise 
+<end_of_turn>",raise 11.0
+"Call 
+<end_of_turn>",fold
+"Call 
+<end_of_turn>",fold
+"Call 
+<end_of_turn>",raise 10.0
+"Call 
+<end_of_turn>",call
+"Call 
+<end_of_turn>",fold
+"Call 
+<end_of_turn>",call
+"Call 
+<end_of_turn>",raise 13.0
+"Call 
+<end_of_turn>",raise 19.0
+"Call 
+<end_of_turn>",call
+"Raise 3.0 chips  
+<end_of_turn>",check
+"Raise 3.0 chips  
+<end_of_turn>",check
+"Call 
+<end_of_turn>",call
+"Raise  
+<end_of_turn>",check
+"Fold 
+<end_of_turn>",call
+"Call 
+<end_of_turn>",call
+"Raise  
+<end_of_turn>",check
+"Raise  
+<end_of_turn>",check
+"Raise 3.0 chips  
+<end_of_turn>",check
+"Call 
+<end_of_turn>",call
+"Fold 
+<end_of_turn>",raise 23.0
+"Raise  
+<end_of_turn>",raise 3.0
+"Raise 
+<end_of_turn>",raise 3.0
+"Raise  
+<end_of_turn>",check
+"Call 
+<end_of_turn>",call
+"Call 
+<end_of_turn>",call
+"Call 
+<end_of_turn>",call
+"Call 
+<end_of_turn>",check
+"Fold 
+<end_of_turn>",call
+"Call 
+<end_of_turn>",call
+"Fold 
+<end_of_turn>",raise 19.0
+"Call 
+<end_of_turn>",call
+"Fold 
+<end_of_turn>",fold
+"Raise 3.0 chips  
+<end_of_turn>",check
+"Raise  
+<end_of_turn>",raise 2.5
+"Raise 3.0 chips  
+<end_of_turn>",check
+"Call 
+<end_of_turn>",raise 17.5
+"Call 
+<end_of_turn>",call
+"Fold 
+<end_of_turn>",fold
+"Raise  
+<end_of_turn>",check
+"Call 
+<end_of_turn>",fold
+"Fold 
+<end_of_turn>",check
+"Raise  
+<end_of_turn>",check
+"Call  
+<end_of_turn>",call
+"Raise 3.0 chips  
+<end_of_turn>",check
+"Fold 
+<end_of_turn>",fold
+"Call 
+<end_of_turn>",fold
+"Raise. 
+<end_of_turn>",raise 2.0
+"Raise 
+<end_of_turn>",check
+"Call 
+<end_of_turn>",call
+"Call 
+<end_of_turn>",fold
+"Raise 3.0 chips  
+<end_of_turn>",check
+"Call 
+<end_of_turn>",call
+"Call 
+<end_of_turn>",raise 14.0
+"Call 
+<end_of_turn>",call
+"Call 
+<end_of_turn>",call
+"Fold 
+<end_of_turn>",fold
+"Fold 
+<end_of_turn>",check
+"Call 
+<end_of_turn>",fold
+"Call 
+<end_of_turn>",call
+"Fold 
+<end_of_turn>",fold
+"Call 
+<end_of_turn>",call
+"Raise 3.0 chips  
+<end_of_turn>",check
+"Fold 
+<end_of_turn>",fold
+"Raise  
+<end_of_turn>",check
+"Raise  
+<end_of_turn>",check
+"Call  
+<end_of_turn>",call
+"Raise  
+<end_of_turn>",check
+"Call 
+<end_of_turn>",fold
+"Fold 
+<end_of_turn>",check
+"Raise  
+<end_of_turn>",raise 2.3
+"Raise 3.0 chips  
+<end_of_turn>",check
+"Raise  
+<end_of_turn>",check
+"Call 
+<end_of_turn>",call
+"Call  
+<end_of_turn>",fold
+"Call 
+<end_of_turn>",call
+"Call 
+<end_of_turn>",call
+"Raise 3 chips.  
+<end_of_turn>",raise 2.0
+"Call 
+<end_of_turn>",call
+"Call 
+<end_of_turn>",raise 12.0
+"Call 
+<end_of_turn>",call
+"Raise 
+<end_of_turn>",check
+"Raise 
+<end_of_turn>",check
+"Raise  
+<end_of_turn>",raise 3.0
+"Call 
+<end_of_turn>",raise 11.0
+"Call 
+<end_of_turn>",fold
+"Call 
+<end_of_turn>",fold
+"Fold 
+<end_of_turn>",call
+"Call 
+<end_of_turn>",call
+"Raise  
+<end_of_turn>",check
+"Call 
+<end_of_turn>",call
+"Fold 
+<end_of_turn>",fold
+"Call 
+<end_of_turn>",raise 15.0
+"Fold 
+<end_of_turn>",raise 27.0
+"Call 
+<end_of_turn>",call
+"Raise 
+<end_of_turn>",raise 13.0
+"Fold 
+<end_of_turn>",fold
+"Call 
+<end_of_turn>",raise 13.5
+"Raise 
+<end_of_turn>",check
+"Call 
+<end_of_turn>",call
+"Fold 
+<end_of_turn>",fold
+"Call 
+<end_of_turn>",call
+"Fold 
+<end_of_turn>",call
+"Raise  
+<end_of_turn>",check
+"Fold 
+<end_of_turn>",fold
+"Raise 3.0 chips  
+<end_of_turn>",check
+"Fold 
+<end_of_turn>",fold
+"Raise  
+<end_of_turn>",check
+"Fold 
+<end_of_turn>",call
+"Call 
+<end_of_turn>",fold
+"Raise 3.0 chips  
+<end_of_turn>",check
+"Fold 
+<end_of_turn>",fold
+"Fold 
+<end_of_turn>",raise 23.0
+"Raise 
+<end_of_turn>",check
+"Call 
+<end_of_turn>",call
+"Call 
+<end_of_turn>",call
+"Raise 3.0 chips  
+<end_of_turn>",check
+"Fold 
+<end_of_turn>",raise 25.0
+"Fold 
+<end_of_turn>",raise 3.0
+"Call 
+<end_of_turn>",call
+"Call 
+<end_of_turn>",call
+"Call 
+<end_of_turn>",call
+"Fold 
+<end_of_turn>",fold
+"Call 
+<end_of_turn>",fold
+"Raise 3.0 chips  
+<end_of_turn>",check
+"Raise  
+<end_of_turn>",raise 2.0
+"Fold 
+<end_of_turn>",call
+"Call 
+<end_of_turn>",call
+"Call 
+<end_of_turn>",fold
+"Call 
+<end_of_turn>",call
+"Call 
+<end_of_turn>",raise 14.0
+"Fold 
+<end_of_turn>",call
+"Fold 
+<end_of_turn>",fold
+"Raise 3 chips.  
+<end_of_turn>",raise 2.5
+"Call 
+<end_of_turn>",raise 25.0
+"Call 
+<end_of_turn>",call
+"Call 
+<end_of_turn>",call
+"Call 
+<end_of_turn>",check
+"Raise  
+<end_of_turn>",check
+"Fold 
+<end_of_turn>",call
+"Fold 
+<end_of_turn>",fold
+"Call 
+<end_of_turn>",raise 18.0
+"Raise 3.0 chips  
+<end_of_turn>",check
+"Fold 
+<end_of_turn>",fold
+"Fold 
+<end_of_turn>",call
+"Call 
+<end_of_turn>",check
+"Call 
+<end_of_turn>",call
+"Raise 3.0 chips  
+<end_of_turn>",check
+"Call 
+<end_of_turn>",fold
+"Call 
+<end_of_turn>",raise 10.0
+"Call 
+<end_of_turn>",fold
+"Fold 
+<end_of_turn>",check
+"Raise  
+<end_of_turn>",check
+"Call 
+<end_of_turn>",call
+"Call 
+<end_of_turn>",raise 20.0
+"Call 
+<end_of_turn>",call
+"Call  
+<end_of_turn>",call
+"Call 
+<end_of_turn>",fold
+"Fold 
+<end_of_turn>",fold
+"Call 
+<end_of_turn>",fold
+"Raise  
+<end_of_turn>",check
+"Fold 
+<end_of_turn>",fold
+"Raise  
+<end_of_turn>",check
+"Call 
+<end_of_turn>",fold
+"Call 
+<end_of_turn>",raise 10.0
+"Call 
+<end_of_turn>",raise 14.0
+"Call  
+<end_of_turn>",call
+"Call 
+<end_of_turn>",check
+"Raise  
+<end_of_turn>",raise 2.0
+"Fold 
+<end_of_turn>",fold
+"Raise 
+<end_of_turn>",check
+"Raise 3.0 chips  
+<end_of_turn>",check
+"Raise  
+<end_of_turn>",check
+"Fold 
+<end_of_turn>",raise 2.3
+"Call 
+<end_of_turn>",fold
+"Call 
+<end_of_turn>",call
+"Raise  
+<end_of_turn>",check
+"Raise  
+<end_of_turn>",check
+"Raise 
+<end_of_turn>",check
+"Call 
+<end_of_turn>",fold
+"Call 
+<end_of_turn>",fold
+"Call 
+<end_of_turn>",fold
+"Call 
+<end_of_turn>",raise 14.0
+"Call 
+<end_of_turn>",raise 7.5
+"Raise  
+<end_of_turn>",check
+"Call 
+<end_of_turn>",fold
+"Call 
+<end_of_turn>",call
+"Fold 
+<end_of_turn>",fold
+"Raise  
+<end_of_turn>",check
+"Call 
+<end_of_turn>",fold
+"Call 
+<end_of_turn>",call
+"Call 
+<end_of_turn>",call
+"Raise 
+<end_of_turn>",raise 14.0
+"Call 
+<end_of_turn>",call
+"Fold 
+<end_of_turn>",raise 29.2
+"Call  
+<end_of_turn>",call
+"Raise  
+<end_of_turn>",check
+"Call 
+<end_of_turn>",fold
+"Call 
+<end_of_turn>",call
+"Call 
+<end_of_turn>",check
+"Fold 
+<end_of_turn>",raise 21.0
+"Call 
+<end_of_turn>",check
+"Call 
+<end_of_turn>",fold
+"Raise 
+<end_of_turn>",check
+"Call 
+<end_of_turn>",call
+"Fold 
+<end_of_turn>",raise 27.0
+"Call 
+<end_of_turn>",call
+"Fold 
+<end_of_turn>",fold
+"Raise  
+<end_of_turn>",check
+"Raise  
+<end_of_turn>",check
+"Call 
+<end_of_turn>",fold
+"Call 
+<end_of_turn>",call
+"Call 
+<end_of_turn>",check
+"Fold 
+<end_of_turn>",call
+"Call 
+<end_of_turn>",fold
+"Raise  
+<end_of_turn>",check
+"Call 
+<end_of_turn>",call
+"Call 
+<end_of_turn>",call
+"Raise  
+<end_of_turn>",raise 2.3
+"Call 
+<end_of_turn>",call
+"Call 
+<end_of_turn>",call
+"Call 
+<end_of_turn>",raise 11.0
+"Call 
+<end_of_turn>",raise 9.5
+"Raise  
+<end_of_turn>",check
+"Call 
+<end_of_turn>",raise 11.0
+"Raise  
+<end_of_turn>",check
+"Raise  
+<end_of_turn>",raise 3.0
+"Fold 
+<end_of_turn>",call
+"Call 
+<end_of_turn>",fold
+"Raise  
+<end_of_turn>",raise 3.0
+"Call 
+<end_of_turn>",raise 11.0
+"Call 
+<end_of_turn>",fold
+"Call 
+<end_of_turn>",fold
+"Fold 
+<end_of_turn>",fold
+"Call 
+<end_of_turn>",raise 12.5
+"Call 
+<end_of_turn>",raise 6.5
+"Call 
+<end_of_turn>",call
+"Call 
+<end_of_turn>",call
+"Call 
+<end_of_turn>",call
+"Call 
+<end_of_turn>",call
+"Fold 
+<end_of_turn>",raise 24.3
+"Fold 
+<end_of_turn>",raise 23.0
+"Fold 
+<end_of_turn>",fold
+"Call 
+<end_of_turn>",raise 12.0
+"Raise 3.0 chips  
+<end_of_turn>",check
+"Raise 3.0 chips  
+<end_of_turn>",check
+"Call 
+<end_of_turn>",fold
+"Fold 
+<end_of_turn>",raise 29.6
+"Call 
+<end_of_turn>",raise 13.0
+"Fold 
+<end_of_turn>",fold
+"Call 
+<end_of_turn>",raise 12.5
+"Call 
+<end_of_turn>",call
+"Call 
+<end_of_turn>",call
+"Raise 3 chips. 
+<end_of_turn>",raise 2.5
+"Call 
+<end_of_turn>",check
+"Fold 
+<end_of_turn>",raise 18.0
+"Raise  
+<end_of_turn>",check
+"Raise 3.0 chips  
+<end_of_turn>",check
+"Raise  
+<end_of_turn>",check
+"Raise 
+<end_of_turn>",raise 6.5
+"Fold 
+<end_of_turn>",call
+"Call 
+<end_of_turn>",call
+"Call 
+<end_of_turn>",check
+"Call 
+<end_of_turn>",call
+"Fold 
+<end_of_turn>",fold
+"Raise  
+<end_of_turn>",raise 2.5
+"Call 
+<end_of_turn>",call
+"Raise 3 chips.  
+<end_of_turn>",check
+"Fold 
+<end_of_turn>",raise 3.0
+"Call 
+<end_of_turn>",call
+"Call 
+<end_of_turn>",fold
+"Raise 3.0 chips  
+<end_of_turn>",check
+"Call 
+<end_of_turn>",fold
+"Call 
+<end_of_turn>",raise 21.0
+"Raise 
+<end_of_turn>",check
+"Call 
+<end_of_turn>",fold
+"Call 
+<end_of_turn>",call
+"Call 
+<end_of_turn>",call
+"Call 
+<end_of_turn>",raise 11.0
+"Call 
+<end_of_turn>",call
+"Raise  
+<end_of_turn>",check
+"Fold 
+<end_of_turn>",raise 23.0
+"Fold 
+<end_of_turn>",fold
+"Call 
+<end_of_turn>",call
+"Call 
+<end_of_turn>",raise 19.0
+"Call 
+<end_of_turn>",call
+"Call 
+<end_of_turn>",call
+"Raise 
+<end_of_turn>",check
+"Raise  
+<end_of_turn>",check
+"Call 
+<end_of_turn>",raise 6.5
+"Call 
+<end_of_turn>",call
+"Call 
+<end_of_turn>",call
+"Fold 
+<end_of_turn>",raise 19.0
+"Call 
+<end_of_turn>",call
+"Fold 
+<end_of_turn>",fold
+"Raise 3.0 chips  
+<end_of_turn>",check
+"Call 
+<end_of_turn>",raise 18.0
+"Call 
+<end_of_turn>",call
+"Fold 
+<end_of_turn>",call
+"Call 
+<end_of_turn>",raise 10.0
+"Call 
+<end_of_turn>",call
+"Fold 
+<end_of_turn>",raise 21.0
+"Fold 
+<end_of_turn>",raise 35.0
+"Call 
+<end_of_turn>",call
+"Fold 
+<end_of_turn>",fold
+"Fold 
+<end_of_turn>",fold
+"Raise 3.0 chips  
+<end_of_turn>",check
+"Call 
+<end_of_turn>",fold
+"Call 
+<end_of_turn>",fold
+"Call 
+<end_of_turn>",fold
+"Raise  
+<end_of_turn>",check
+"Raise  
+<end_of_turn>",raise 2.5
+"Call 
+<end_of_turn>",call
+"Fold 
+<end_of_turn>",fold
+"Call 
+<end_of_turn>",raise 10.0
+"Call 
+<end_of_turn>",call
+"Raise 
+<end_of_turn>",check
+"Raise 3 chips.  
+<end_of_turn>",raise 3.0
+"Call 
+<end_of_turn>",raise 26.0
+"Call 
+<end_of_turn>",fold
+"Fold 
+<end_of_turn>",call
+"Fold 
+<end_of_turn>",raise 19.0
+"Fold 
+<end_of_turn>",fold
+"Fold 
+<end_of_turn>",fold
+"Raise  
+<end_of_turn>",check
+"Raise 
+<end_of_turn>",raise 14.0
+"Call 
+<end_of_turn>",fold
+"Fold 
+<end_of_turn>",call
+"3-bet  
+<end_of_turn>",raise 14.0
+"Call 
+<end_of_turn>",call
+"Fold 
+<end_of_turn>",fold
+"Call 
+<end_of_turn>",raise 11.0
+"Call 
+<end_of_turn>",call
+"Raise 3 chips.  
+<end_of_turn>",raise 2.0
+"Fold 
+<end_of_turn>",call
+"Call 
+<end_of_turn>",call
+"Call 
+<end_of_turn>",call
+"Fold 
+<end_of_turn>",fold
+"Raise  
+<end_of_turn>",check
+"Raise 
+<end_of_turn>",raise 2.5
+"Raise 
+<end_of_turn>",raise 5.0
+"Call 
+<end_of_turn>",call
+"Raise  
+<end_of_turn>",check
+"Raise 
+<end_of_turn>",raise 15.0
+"Call 
+<end_of_turn>",call
+"Call 
+<end_of_turn>",call
+"Call 
+<end_of_turn>",call
+"Raise 3.0 chips  
+<end_of_turn>",check
+"Raise  
+<end_of_turn>",check
+"Call 
+<end_of_turn>",fold
+"Raise  
+<end_of_turn>",raise 2.5
+"Fold 
+<end_of_turn>",raise 26.0
+"Raise 3.0 chips  
+<end_of_turn>",check
+"Fold 
+<end_of_turn>",raise 21.0
+"Call 
+<end_of_turn>",fold
+"Raise  
+<end_of_turn>",check
+"Raise  
+<end_of_turn>",check
+"Call 
+<end_of_turn>",call
+"Fold 
+<end_of_turn>",check
+"Call 
+<end_of_turn>",call
+"Call 
+<end_of_turn>",call
+"Fold 
+<end_of_turn>",fold
+"Raise  
+<end_of_turn>",raise 3.0
+"Call 
+<end_of_turn>",raise 11.0
+"Call 
+<end_of_turn>",call
+"Call 
+<end_of_turn>",raise 14.0
+"Fold 
+<end_of_turn>",fold
+"3-bet  
+<end_of_turn>",raise 9.5
+"Fold 
+<end_of_turn>",fold
+"Raise 3.0 chips  
+<end_of_turn>",check
+"Call 
+<end_of_turn>",call
+"Call 
+<end_of_turn>",raise 14.0
+"Fold 
+<end_of_turn>",fold
+"Raise  
+<end_of_turn>",check
+"Fold 
+<end_of_turn>",raise 19.0
+"Call 
+<end_of_turn>",raise 16.0
+"Call 
+<end_of_turn>",call
+"Fold 
+<end_of_turn>",fold
+"Fold 
+<end_of_turn>",raise 22.0
+"Call 
+<end_of_turn>",call
+"Raise  
+<end_of_turn>",check
+"Call 
+<end_of_turn>",call
+"Raise  
+<end_of_turn>",check
+"Call 
+<end_of_turn>",raise 12.5
+"Call 
+<end_of_turn>",call
+"Fold 
+<end_of_turn>",call
+"3-bet 6.0  
+<end_of_turn>",raise 9.5
+"Fold 
+<end_of_turn>",call
+"3-bet  
+<end_of_turn>",raise 15.0
+"Fold 
+<end_of_turn>",raise 20.0
+"Call 
+<end_of_turn>",raise 18.0
+"Call 
+<end_of_turn>",fold
+"Raise  
+<end_of_turn>",check
+"Raise 3.0 chips  
+<end_of_turn>",check
+"Call 
+<end_of_turn>",call
+"Fold 
+<end_of_turn>",fold
+"Raise  
+<end_of_turn>",check
+"Fold 
+<end_of_turn>",fold
+"Raise 3.0 chips  
+<end_of_turn>",check
+"Raise  
+<end_of_turn>",check
+"Raise  
+<end_of_turn>",check
+"Raise  
+<end_of_turn>",check
+"Call 
+<end_of_turn>",call
+"Raise 3.0 chips  
+<end_of_turn>",check
+"Call 
+<end_of_turn>",fold
+"Call 
+<end_of_turn>",call
+"Call 
+<end_of_turn>",raise 11.0
+"Raise  
+<end_of_turn>",check
+"Raise 3.0 chips  
+<end_of_turn>",check
+"Fold 
+<end_of_turn>",fold
+"Raise  
+<end_of_turn>",check
+"Call 
+<end_of_turn>",call
+"Call 
+<end_of_turn>",fold
+"Fold 
+<end_of_turn>",raise 3.0
+"Raise  
+<end_of_turn>",raise 5.0
+"Call 
+<end_of_turn>",call
+"Raise  
+<end_of_turn>",check
+"Raise  
+<end_of_turn>",check
+"Fold 
+<end_of_turn>",call
+"Call 
+<end_of_turn>",raise 14.0
+"Call 
+<end_of_turn>",call
+"Call 
+<end_of_turn>",call
+"Call 
+<end_of_turn>",raise 14.5
+"Fold 
+<end_of_turn>",fold
+"Call 
+<end_of_turn>",raise 20.0
+"Call 
+<end_of_turn>",raise 14.5
+"Call 
+<end_of_turn>",call
+"Call 
+<end_of_turn>",fold
+"Call 
+<end_of_turn>",raise 13.5
+"Raise 3.0 chips  
+<end_of_turn>",check
+"Fold 
+<end_of_turn>",fold
+"Call 
+<end_of_turn>",raise 6.5
+"Raise 
+<end_of_turn>",check
+"Fold 
+<end_of_turn>",fold
+"Call 
+<end_of_turn>",raise 11.5
+"Raise  
+<end_of_turn>",check
+"Call 
+<end_of_turn>",call
+"Call 
+<end_of_turn>",call
+"Raise 3 chips.  
+<end_of_turn>",raise 2.0
+"Call 
+<end_of_turn>",call
+"Call 
+<end_of_turn>",fold
+"Raise 
+<end_of_turn>",check
+"Fold 
+<end_of_turn>",fold
+"Call 
+<end_of_turn>",call
+"Call 
+<end_of_turn>",call
+"Call  
+<end_of_turn>",call
+"Fold 
+<end_of_turn>",fold
+"Raise 
+<end_of_turn>",check
+"Raise  
+<end_of_turn>",raise 2.3
+"Fold 
+<end_of_turn>",fold
+"Call 
+<end_of_turn>",call
+"Call 
+<end_of_turn>",fold
+"Raise  
+<end_of_turn>",raise 3.0
+"Call 
+<end_of_turn>",fold
+"Raise 3 chips. 
+<end_of_turn>",raise 2.3
+"Call 
+<end_of_turn>",call
+"Raise  
+<end_of_turn>",check
+"Raise 3 chips. 
+<end_of_turn>",raise 3.0
+"Call 
+<end_of_turn>",raise 11.5
+"Call 
+<end_of_turn>",fold
+"Raise  
+<end_of_turn>",check
+"Fold 
+<end_of_turn>",fold
+"Call 
+<end_of_turn>",call
+"Fold 
+<end_of_turn>",fold
+"Call 
+<end_of_turn>",fold
+"3-bet  
+<end_of_turn>",raise 9.5
+"Raise  
+<end_of_turn>",raise 3.0
+"Call 
+<end_of_turn>",fold
+"Fold 
+<end_of_turn>",fold
+"Fold 
+<end_of_turn>",fold
+"Call 
+<end_of_turn>",raise 11.0
+"Call 
+<end_of_turn>",fold
+"Raise 3.0 chips  
+<end_of_turn>",check
+"Fold 
+<end_of_turn>",fold
+"Raise  
+<end_of_turn>",check
+"Call 
+<end_of_turn>",call
+"Call 
+<end_of_turn>",call
+"Raise  
+<end_of_turn>",check
+"Raise  
+<end_of_turn>",raise 2.0
+"Raise 
+<end_of_turn>",check
+"Fold 
+<end_of_turn>",fold
+"Call  
+<end_of_turn>",call
+"Raise  
+<end_of_turn>",raise 3.0
+"Raise  
+<end_of_turn>",check
+"Call 
+<end_of_turn>",call
+"Call 
+<end_of_turn>",fold
+"Raise 3 chips. 
+<end_of_turn>",raise 2.5
+"Call 
+<end_of_turn>",fold
+"Call 
+<end_of_turn>",call
+"Fold 
+<end_of_turn>",raise 29.2
+"Raise  
+<end_of_turn>",raise 3.0
+"Call 
+<end_of_turn>",raise 15.0
+"Raise  
+<end_of_turn>",check
+"Raise  
+<end_of_turn>",check
+"Fold 
+<end_of_turn>",fold
+"Raise  
+<end_of_turn>",check
+"Call 
+<end_of_turn>",raise 11.0
+"Call 
+<end_of_turn>",call
+"Fold 
+<end_of_turn>",fold
+"Call 
+<end_of_turn>",raise 11.0
+"Raise 3.0 chips  
+<end_of_turn>",check
+"Call 
+<end_of_turn>",call
+"Raise  
+<end_of_turn>",check
+"Call 
+<end_of_turn>",call
+"Fold 
+<end_of_turn>",fold
+"Call 
+<end_of_turn>",call
+"Fold 
+<end_of_turn>",raise 3.0
+"Call 
+<end_of_turn>",raise 11.5
+"Fold 
+<end_of_turn>",call
+"Call 
+<end_of_turn>",fold
+"Raise  
+<end_of_turn>",check
+"3-bet  
+<end_of_turn>",raise 15.0
+"Raise  
+<end_of_turn>",check
+"Raise 
+<end_of_turn>",raise 3.0
+"Raise  
+<end_of_turn>",raise 14.0
+"Raise 
+<end_of_turn>",check
+"Call 
+<end_of_turn>",fold
+"Call 
+<end_of_turn>",fold
+"Fold 
+<end_of_turn>",fold
+"Call 
+<end_of_turn>",raise 12.0
+"Call 
+<end_of_turn>",fold
+"Fold 
+<end_of_turn>",fold
+"Call 
+<end_of_turn>",check
+"Raise 3.0 chips  
+<end_of_turn>",check
+"Call 
+<end_of_turn>",call
+"Call 
+<end_of_turn>",fold
+"Raise  
+<end_of_turn>",check
+"Call 
+<end_of_turn>",fold
+"Call 
+<end_of_turn>",check
+"Fold 
+<end_of_turn>",fold
+"Raise  
+<end_of_turn>",check
+"Call 
+<end_of_turn>",call
+"Call 
+<end_of_turn>",call
+"Raise  
+<end_of_turn>",check
+"Call 
+<end_of_turn>",call
+"Raise  
+<end_of_turn>",check
+"Call 
+<end_of_turn>",raise 14.0
+"Fold 
+<end_of_turn>",raise 20.0
+"Fold 
+<end_of_turn>",fold
+"Call 
+<end_of_turn>",call
+"Raise  
+<end_of_turn>",raise 12.0
+"Call 
+<end_of_turn>",raise 15.0
+"Raise  
+<end_of_turn>",check
+"Check.  
+<end_of_turn>",fold
+"Fold 
+<end_of_turn>",fold
+"Fold 
+<end_of_turn>",fold
+"Raise  
+<end_of_turn>",check
+"Call 
+<end_of_turn>",call
+"Fold 
+<end_of_turn>",fold
+"Call 
+<end_of_turn>",raise 14.0
+"Call  
+<end_of_turn>",call
+"Call 
+<end_of_turn>",call
+"Call 
+<end_of_turn>",call
+"Raise  
+<end_of_turn>",raise 5.0
+"Fold 
+<end_of_turn>",fold
+"Raise 3.0 chips  
+<end_of_turn>",check
+"Raise 3.0 chips  
+<end_of_turn>",check
+"Fold 
+<end_of_turn>",fold
+"Call 
+<end_of_turn>",raise 14.0

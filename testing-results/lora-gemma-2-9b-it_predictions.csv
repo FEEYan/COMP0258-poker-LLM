@@ -1,0 +1,2001 @@
+Prediction,Ground Truth
+"call<end_of_turn>
+<pad>",fold
+"fold<end_of_turn>
+<pad>",fold
+"call<end_of_turn>
+<pad>",fold
+"call<end_of_turn>
+<pad>",check
+"raise 2.5<end_of_turn>
+<pad>",check
+"call<end_of_turn>
+<pad>",call
+"call<end_of_turn>
+<pad>",check
+"call<end_of_turn>
+<pad>",call
+"raise 2.5<end_of_turn>
+<pad>",check
+"call<end_of_turn>
+<pad>",fold
+"call<end_of_turn>
+<pad>",fold
+"call<end_of_turn>
+<pad>",fold
+"raise 3.5<end_of_turn>
+<pad>",raise 2.5
+"raise 2.5<end_of_turn>
+<pad>",check
+"call<end_of_turn>
+<pad>",fold
+"raise 2.0<end_of_turn>
+<pad>",check
+"call<end_of_turn>
+<pad>",raise 32.0
+"raise 3.5<end_of_turn>
+<pad>",raise 2.5
+"raise 2.5<end_of_turn>
+<pad>",check
+"check<end_of_turn>
+<pad>",check
+"fold<end_of_turn>
+<pad>",fold
+"raise 2.5<end_of_turn>
+<pad>",check
+"call<end_of_turn>
+<pad>",raise 11.0
+"fold<end_of_turn>
+<pad>",fold
+"raise 5.0<end_of_turn>
+<pad>",fold
+"call<end_of_turn>
+<pad>",call
+"call<end_of_turn>
+<pad>",call
+"raise 10.0<end_of_turn>
+<pad>",raise 10.0
+"raise 2.0<end_of_turn>
+<pad>",raise 2.3
+"call<end_of_turn>
+<pad>",raise 10.0
+"call<end_of_turn>
+<pad>",call
+"raise 10.0<end_of_turn>
+<pad>",raise 11.0
+"raise 2.5<end_of_turn>
+<pad>",check
+"raise 3.0<end_of_turn>
+<pad>",check
+"raise 2.5<end_of_turn>
+<pad>",check
+"fold<end_of_turn>
+<pad>",raise 19.0
+"raise 3.0<end_of_turn>
+<pad>",raise 3.0
+"check<end_of_turn>
+<pad>",check
+"fold<end_of_turn>
+<pad>",fold
+"call<end_of_turn>
+<pad>",fold
+"fold<end_of_turn>
+<pad>",raise 28.0
+"call<end_of_turn>
+<pad>",call
+"fold<end_of_turn>
+<pad>",fold
+"fold<end_of_turn>
+<pad>",fold
+"call<end_of_turn>
+<pad>",fold
+"raise 2.0<end_of_turn>
+<pad>",raise 2.3
+"call<end_of_turn>
+<pad>",raise 10.0
+"call<end_of_turn>
+<pad>",call
+"call<end_of_turn>
+<pad>",call
+"raise 10.0<end_of_turn>
+<pad>",raise 13.0
+"fold<end_of_turn>
+<pad>",raise 21.0
+"check<end_of_turn>
+<pad>",check
+"raise 2.5<end_of_turn>
+<pad>",check
+"call<end_of_turn>
+<pad>",call
+"fold<end_of_turn>
+<pad>",fold
+"call<end_of_turn>
+<pad>",fold
+"fold<end_of_turn>
+<pad>",raise 17.5
+"call<end_of_turn>
+<pad>",call
+"fold<end_of_turn>
+<pad>",fold
+"raise 2.5<end_of_turn>
+<pad>",check
+"raise 2.5<end_of_turn>
+<pad>",check
+"call<end_of_turn>
+<pad>",call
+"fold<end_of_turn>
+<pad>",raise 28.0
+"fold<end_of_turn>
+<pad>",raise 14.0
+"fold<end_of_turn>
+<pad>",raise 26.0
+"call<end_of_turn>
+<pad>",fold
+"fold<end_of_turn>
+<pad>",raise 27.0
+"fold<end_of_turn>
+<pad>",raise 21.0
+"fold<end_of_turn>
+<pad>",fold
+"call<end_of_turn>
+<pad>",call
+"fold<end_of_turn>
+<pad>",raise 20.0
+"raise 2.5<end_of_turn>
+<pad>",check
+"call<end_of_turn>
+<pad>",call
+"call<end_of_turn>
+<pad>",call
+"raise 3.0<end_of_turn>
+<pad>",raise 3.0
+"fold<end_of_turn>
+<pad>",fold
+"fold<end_of_turn>
+<pad>",fold
+"raise 2.5<end_of_turn>
+<pad>",raise 2.3
+"fold<end_of_turn>
+<pad>",fold
+"raise 2.0<end_of_turn>
+<pad>",raise 2.3
+"call<end_of_turn>
+<pad>",call
+"fold<end_of_turn>
+<pad>",raise 23.0
+"raise 8.0<end_of_turn>
+<pad>",raise 13.0
+"fold<end_of_turn>
+<pad>",raise 21.0
+"call<end_of_turn>
+<pad>",check
+"call<end_of_turn>
+<pad>",call
+"fold<end_of_turn>
+<pad>",fold
+"call<end_of_turn>
+<pad>",call
+"call<end_of_turn>
+<pad>",fold
+"check<end_of_turn>
+<pad>",raise 3.0
+"fold<end_of_turn>
+<pad>",fold
+"fold<end_of_turn>
+<pad>",raise 22.9
+"raise 10.0<end_of_turn>
+<pad>",raise 12.0
+"call<end_of_turn>
+<pad>",fold
+"call<end_of_turn>
+<pad>",fold
+"raise 3.5<end_of_turn>
+<pad>",raise 2.5
+"raise 2.5<end_of_turn>
+<pad>",check
+"check<end_of_turn>
+<pad>",check
+"call<end_of_turn>
+<pad>",fold
+"call<end_of_turn>
+<pad>",call
+"raise 13.0<end_of_turn>
+<pad>",raise 14.0
+"raise 2.5<end_of_turn>
+<pad>",check
+"raise 8.0<end_of_turn>
+<pad>",raise 13.5
+"raise 2.5<end_of_turn>
+<pad>",check
+"call<end_of_turn>
+<pad>",call
+"call<end_of_turn>
+<pad>",call
+"fold<end_of_turn>
+<pad>",raise 19.0
+"fold<end_of_turn>
+<pad>",raise 14.0
+"raise 2.5<end_of_turn>
+<pad>",check
+"fold<end_of_turn>
+<pad>",fold
+"fold<end_of_turn>
+<pad>",fold
+"fold<end_of_turn>
+<pad>",fold
+"raise 8.0<end_of_turn>
+<pad>",fold
+"fold<end_of_turn>
+<pad>",fold
+"call<end_of_turn>
+<pad>",call
+"raise 2.5<end_of_turn>
+<pad>",check
+"raise 2.5<end_of_turn>
+<pad>",check
+"call<end_of_turn>
+<pad>",call
+"fold<end_of_turn>
+<pad>",call
+"fold<end_of_turn>
+<pad>",fold
+"call<end_of_turn>
+<pad>",call
+"raise 8.0<end_of_turn>
+<pad>",raise 11.0
+"raise 2.5<end_of_turn>
+<pad>",check
+"call<end_of_turn>
+<pad>",fold
+"fold<end_of_turn>
+<pad>",fold
+"call<end_of_turn>
+<pad>",call
+"call<end_of_turn>
+<pad>",call
+"fold<end_of_turn>
+<pad>",raise 13.1
+"raise 2.5<end_of_turn>
+<pad>",check
+"raise 2.0<end_of_turn>
+<pad>",check
+"check<end_of_turn>
+<pad>",check
+"raise 2.5<end_of_turn>
+<pad>",check
+"call<end_of_turn>
+<pad>",call
+"call<end_of_turn>
+<pad>",fold
+"raise 2.5<end_of_turn>
+<pad>",check
+"call<end_of_turn>
+<pad>",fold
+"call<end_of_turn>
+<pad>",raise 11.5
+"call<end_of_turn>
+<pad>",fold
+"raise 2.5<end_of_turn>
+<pad>",check
+"call<end_of_turn>
+<pad>",call
+"fold<end_of_turn>
+<pad>",fold
+"raise 2.0<end_of_turn>
+<pad>",check
+"raise 2.5<end_of_turn>
+<pad>",check
+"fold<end_of_turn>
+<pad>",raise 24.1
+"raise 2.5<end_of_turn>
+<pad>",check
+"raise 10.0<end_of_turn>
+<pad>",raise 11.0
+"call<end_of_turn>
+<pad>",call
+"raise 10.0<end_of_turn>
+<pad>",raise 15.0
+"call<end_of_turn>
+<pad>",fold
+"call<end_of_turn>
+<pad>",fold
+"fold<end_of_turn>
+<pad>",fold
+"raise 2.5<end_of_turn>
+<pad>",check
+"fold<end_of_turn>
+<pad>",call
+"raise 2.0<end_of_turn>
+<pad>",raise 2.0
+"raise 2.5<end_of_turn>
+<pad>",check
+"fold<end_of_turn>
+<pad>",fold
+"call<end_of_turn>
+<pad>",fold
+"call<end_of_turn>
+<pad>",fold
+"raise 2.0<end_of_turn>
+<pad>",raise 2.3
+"raise 3.5<end_of_turn>
+<pad>",raise 2.5
+"raise 2.5<end_of_turn>
+<pad>",check
+"fold<end_of_turn>
+<pad>",fold
+"fold<end_of_turn>
+<pad>",fold
+"fold<end_of_turn>
+<pad>",call
+"raise 3.0<end_of_turn>
+<pad>",raise 3.0
+"call<end_of_turn>
+<pad>",call
+"check<end_of_turn>
+<pad>",check
+"fold<end_of_turn>
+<pad>",fold
+"call<end_of_turn>
+<pad>",call
+"call<end_of_turn>
+<pad>",fold
+"call<end_of_turn>
+<pad>",fold
+"call<end_of_turn>
+<pad>",call
+"check<end_of_turn>
+<pad>",check
+"call<end_of_turn>
+<pad>",fold
+"check<end_of_turn>
+<pad>",check
+"call<end_of_turn>
+<pad>",fold
+"call<end_of_turn>
+<pad>",fold
+"call<end_of_turn>
+<pad>",call
+"fold<end_of_turn>
+<pad>",raise 31.0
+"call<end_of_turn>
+<pad>",fold
+"fold<end_of_turn>
+<pad>",call
+"raise 2.5<end_of_turn>
+<pad>",check
+"call<end_of_turn>
+<pad>",check
+"call<end_of_turn>
+<pad>",raise 12.3
+"call<end_of_turn>
+<pad>",raise 6.5
+"raise 2.5<end_of_turn>
+<pad>",check
+"raise 2.5<end_of_turn>
+<pad>",check
+"call<end_of_turn>
+<pad>",fold
+"fold<end_of_turn>
+<pad>",fold
+"call<end_of_turn>
+<pad>",call
+"call<end_of_turn>
+<pad>",call
+"fold<end_of_turn>
+<pad>",fold
+"call<end_of_turn>
+<pad>",fold
+"fold<end_of_turn>
+<pad>",raise 13.1
+"raise 2.0<end_of_turn>
+<pad>",check
+"raise 2.0<end_of_turn>
+<pad>",raise 2.0
+"raise 2.5<end_of_turn>
+<pad>",check
+"fold<end_of_turn>
+<pad>",fold
+"fold<end_of_turn>
+<pad>",fold
+"call<end_of_turn>
+<pad>",fold
+"fold<end_of_turn>
+<pad>",fold
+"raise 2.5<end_of_turn>
+<pad>",check
+"fold<end_of_turn>
+<pad>",fold
+"fold<end_of_turn>
+<pad>",fold
+"fold<end_of_turn>
+<pad>",call
+"raise 2.5<end_of_turn>
+<pad>",check
+"raise 2.5<end_of_turn>
+<pad>",check
+"fold<end_of_turn>
+<pad>",call
+"fold<end_of_turn>
+<pad>",fold
+"raise 10.0<end_of_turn>
+<pad>",raise 6.5
+"check<end_of_turn>
+<pad>",check
+"raise 3.0<end_of_turn>
+<pad>",raise 3.0
+"fold<end_of_turn>
+<pad>",fold
+"call<end_of_turn>
+<pad>",call
+"fold<end_of_turn>
+<pad>",fold
+"call<end_of_turn>
+<pad>",call
+"call<end_of_turn>
+<pad>",fold
+"raise 2.5<end_of_turn>
+<pad>",check
+"raise 10.0<end_of_turn>
+<pad>",raise 7.5
+"raise 5.0<end_of_turn>
+<pad>",raise 11.0
+"check<end_of_turn>
+<pad>",check
+"call<end_of_turn>
+<pad>",fold
+"call<end_of_turn>
+<pad>",call
+"fold<end_of_turn>
+<pad>",call
+"fold<end_of_turn>
+<pad>",call
+"call<end_of_turn>
+<pad>",fold
+"call<end_of_turn>
+<pad>",check
+"call<end_of_turn>
+<pad>",call
+"call<end_of_turn>
+<pad>",fold
+"call<end_of_turn>
+<pad>",fold
+"fold<end_of_turn>
+<pad>",fold
+"fold<end_of_turn>
+<pad>",fold
+"call<end_of_turn>
+<pad>",fold
+"raise 8.0<end_of_turn>
+<pad>",raise 9.5
+"fold<end_of_turn>
+<pad>",call
+"fold<end_of_turn>
+<pad>",raise 22.0
+"check<end_of_turn>
+<pad>",check
+"call<end_of_turn>
+<pad>",call
+"raise 2.5<end_of_turn>
+<pad>",check
+"call<end_of_turn>
+<pad>",call
+"fold<end_of_turn>
+<pad>",call
+"call<end_of_turn>
+<pad>",call
+"call<end_of_turn>
+<pad>",fold
+"raise 2.5<end_of_turn>
+<pad>",check
+"call<end_of_turn>
+<pad>",check
+"fold<end_of_turn>
+<pad>",fold
+"call<end_of_turn>
+<pad>",call
+"fold<end_of_turn>
+<pad>",raise 22.0
+"raise 10.0<end_of_turn>
+<pad>",raise 15.0
+"call<end_of_turn>
+<pad>",call
+"raise 2.5<end_of_turn>
+<pad>",check
+"fold<end_of_turn>
+<pad>",fold
+"fold<end_of_turn>
+<pad>",raise 21.0
+"raise 2.5<end_of_turn>
+<pad>",check
+"fold<end_of_turn>
+<pad>",fold
+"fold<end_of_turn>
+<pad>",fold
+"raise 2.5<end_of_turn>
+<pad>",check
+"raise 3.0<end_of_turn>
+<pad>",raise 3.0
+"fold<end_of_turn>
+<pad>",raise 23.0
+"raise 2.0<end_of_turn>
+<pad>",raise 2.0
+"raise 2.5<end_of_turn>
+<pad>",check
+"call<end_of_turn>
+<pad>",fold
+"raise 2.5<end_of_turn>
+<pad>",check
+"raise 3.5<end_of_turn>
+<pad>",raise 2.5
+"fold<end_of_turn>
+<pad>",call
+"raise 10.0<end_of_turn>
+<pad>",raise 10.0
+"fold<end_of_turn>
+<pad>",fold
+"raise 2.0<end_of_turn>
+<pad>",raise 2.0
+"raise 2.5<end_of_turn>
+<pad>",check
+"raise 2.5<end_of_turn>
+<pad>",check
+"raise 2.0<end_of_turn>
+<pad>",raise 2.0
+"call<end_of_turn>
+<pad>",call
+"raise 2.5<end_of_turn>
+<pad>",raise 3.0
+"raise 10.0<end_of_turn>
+<pad>",raise 14.0
+"check<end_of_turn>
+<pad>",check
+"check<end_of_turn>
+<pad>",check
+"fold<end_of_turn>
+<pad>",fold
+"fold<end_of_turn>
+<pad>",call
+"raise 3.0<end_of_turn>
+<pad>",raise 3.0
+"call<end_of_turn>
+<pad>",check
+"raise 3.5<end_of_turn>
+<pad>",raise 2.0
+"fold<end_of_turn>
+<pad>",fold
+"call<end_of_turn>
+<pad>",call
+"fold<end_of_turn>
+<pad>",fold
+"fold<end_of_turn>
+<pad>",call
+"fold<end_of_turn>
+<pad>",fold
+"call<end_of_turn>
+<pad>",call
+"raise 10.0<end_of_turn>
+<pad>",raise 12.5
+"fold<end_of_turn>
+<pad>",raise 27.0
+"raise 2.5<end_of_turn>
+<pad>",check
+"raise 3.0<end_of_turn>
+<pad>",raise 3.0
+"fold<end_of_turn>
+<pad>",fold
+"fold<end_of_turn>
+<pad>",call
+"call<end_of_turn>
+<pad>",fold
+"fold<end_of_turn>
+<pad>",fold
+"call<end_of_turn>
+<pad>",call
+"call<end_of_turn>
+<pad>",call
+"call<end_of_turn>
+<pad>",fold
+"raise 2.5<end_of_turn>
+<pad>",check
+"raise 2.5<end_of_turn>
+<pad>",check
+"fold<end_of_turn>
+<pad>",fold
+"raise 2.0<end_of_turn>
+<pad>",raise 2.3
+"fold<end_of_turn>
+<pad>",call
+"raise 2.5<end_of_turn>
+<pad>",check
+"call<end_of_turn>
+<pad>",call
+"raise 8.0<end_of_turn>
+<pad>",raise 9.5
+"call<end_of_turn>
+<pad>",call
+"raise 2.5<end_of_turn>
+<pad>",check
+"check<end_of_turn>
+<pad>",check
+"raise 10.0<end_of_turn>
+<pad>",raise 11.0
+"call<end_of_turn>
+<pad>",call
+"raise 2.5<end_of_turn>
+<pad>",check
+"call<end_of_turn>
+<pad>",raise 13.0
+"raise 2.5<end_of_turn>
+<pad>",check
+"fold<end_of_turn>
+<pad>",raise 34.4
+"fold<end_of_turn>
+<pad>",fold
+"raise 2.5<end_of_turn>
+<pad>",check
+"fold<end_of_turn>
+<pad>",fold
+"raise 2.5<end_of_turn>
+<pad>",check
+"raise 2.5<end_of_turn>
+<pad>",check
+"raise 8.0<end_of_turn>
+<pad>",raise 13.0
+"call<end_of_turn>
+<pad>",fold
+"call<end_of_turn>
+<pad>",raise 11.5
+"check<end_of_turn>
+<pad>",check
+"fold<end_of_turn>
+<pad>",fold
+"raise 2.5<end_of_turn>
+<pad>",check
+"raise 2.0<end_of_turn>
+<pad>",raise 2.5
+"fold<end_of_turn>
+<pad>",call
+"call<end_of_turn>
+<pad>",fold
+"check<end_of_turn>
+<pad>",check
+"raise 3.0<end_of_turn>
+<pad>",check
+"call<end_of_turn>
+<pad>",check
+"call<end_of_turn>
+<pad>",call
+"call<end_of_turn>
+<pad>",fold
+"raise 2.5<end_of_turn>
+<pad>",check
+"fold<end_of_turn>
+<pad>",fold
+"call<end_of_turn>
+<pad>",fold
+"call<end_of_turn>
+<pad>",fold
+"fold<end_of_turn>
+<pad>",fold
+"call<end_of_turn>
+<pad>",raise 7.5
+"raise 10.0<end_of_turn>
+<pad>",raise 15.0
+"call<end_of_turn>
+<pad>",call
+"call<end_of_turn>
+<pad>",fold
+"call<end_of_turn>
+<pad>",call
+"raise 10.0<end_of_turn>
+<pad>",raise 14.5
+"call<end_of_turn>
+<pad>",call
+"call<end_of_turn>
+<pad>",call
+"call<end_of_turn>
+<pad>",call
+"call<end_of_turn>
+<pad>",call
+"call<end_of_turn>
+<pad>",call
+"fold<end_of_turn>
+<pad>",fold
+"fold<end_of_turn>
+<pad>",fold
+"check<end_of_turn>
+<pad>",check
+"raise 2.5<end_of_turn>
+<pad>",check
+"raise 2.5<end_of_turn>
+<pad>",check
+"raise 2.5<end_of_turn>
+<pad>",check
+"call<end_of_turn>
+<pad>",call
+"raise 8.0<end_of_turn>
+<pad>",raise 9.5
+"fold<end_of_turn>
+<pad>",raise 14.0
+"call<end_of_turn>
+<pad>",fold
+"raise 2.5<end_of_turn>
+<pad>",check
+"call<end_of_turn>
+<pad>",call
+"call<end_of_turn>
+<pad>",fold
+"raise 2.5<end_of_turn>
+<pad>",check
+"raise 10.0<end_of_turn>
+<pad>",raise 7.5
+"fold<end_of_turn>
+<pad>",fold
+"fold<end_of_turn>
+<pad>",call
+"fold<end_of_turn>
+<pad>",fold
+"call<end_of_turn>
+<pad>",call
+"call<end_of_turn>
+<pad>",call
+"check<end_of_turn>
+<pad>",check
+"raise 2.5<end_of_turn>
+<pad>",check
+"call<end_of_turn>
+<pad>",call
+"fold<end_of_turn>
+<pad>",fold
+"fold<end_of_turn>
+<pad>",fold
+"fold<end_of_turn>
+<pad>",fold
+"fold<end_of_turn>
+<pad>",fold
+"call<end_of_turn>
+<pad>",check
+"raise 2.5<end_of_turn>
+<pad>",check
+"fold<end_of_turn>
+<pad>",raise 26.0
+"raise 2.5<end_of_turn>
+<pad>",check
+"raise 2.5<end_of_turn>
+<pad>",check
+"fold<end_of_turn>
+<pad>",raise 20.0
+"raise 3.0<end_of_turn>
+<pad>",raise 3.0
+"raise 2.5<end_of_turn>
+<pad>",check
+"raise 2.5<end_of_turn>
+<pad>",check
+"raise 5.0<end_of_turn>
+<pad>",raise 3.0
+"fold<end_of_turn>
+<pad>",raise 14.0
+"raise 10.0<end_of_turn>
+<pad>",call
+"call<end_of_turn>
+<pad>",fold
+"fold<end_of_turn>
+<pad>",call
+"raise 2.5<end_of_turn>
+<pad>",check
+"raise 2.5<end_of_turn>
+<pad>",check
+"fold<end_of_turn>
+<pad>",raise 35.0
+"call<end_of_turn>
+<pad>",check
+"raise 2.5<end_of_turn>
+<pad>",check
+"fold<end_of_turn>
+<pad>",fold
+"fold<end_of_turn>
+<pad>",fold
+"raise 10.0<end_of_turn>
+<pad>",raise 15.0
+"raise 2.5<end_of_turn>
+<pad>",raise 3.0
+"fold<end_of_turn>
+<pad>",fold
+"fold<end_of_turn>
+<pad>",raise 20.0
+"raise 8.0<end_of_turn>
+<pad>",raise 14.0
+"raise 2.5<end_of_turn>
+<pad>",check
+"call<end_of_turn>
+<pad>",call
+"raise 2.5<end_of_turn>
+<pad>",check
+"check<end_of_turn>
+<pad>",check
+"call<end_of_turn>
+<pad>",call
+"call<end_of_turn>
+<pad>",call
+"call<end_of_turn>
+<pad>",call
+"check<end_of_turn>
+<pad>",raise 2.5
+"raise 10.0<end_of_turn>
+<pad>",raise 15.0
+"raise 3.5<end_of_turn>
+<pad>",raise 2.3
+"raise 10.0<end_of_turn>
+<pad>",raise 12.5
+"raise 2.5<end_of_turn>
+<pad>",raise 5.0
+"raise 3.5<end_of_turn>
+<pad>",raise 2.0
+"raise 2.5<end_of_turn>
+<pad>",check
+"call<end_of_turn>
+<pad>",fold
+"call<end_of_turn>
+<pad>",check
+"call<end_of_turn>
+<pad>",call
+"raise 2.0<end_of_turn>
+<pad>",raise 2.0
+"raise 10.0<end_of_turn>
+<pad>",raise 12.5
+"raise 2.5<end_of_turn>
+<pad>",check
+"check<end_of_turn>
+<pad>",check
+"raise 2.5<end_of_turn>
+<pad>",check
+"call<end_of_turn>
+<pad>",call
+"call<end_of_turn>
+<pad>",raise 11.0
+"call<end_of_turn>
+<pad>",call
+"raise 2.5<end_of_turn>
+<pad>",check
+"call<end_of_turn>
+<pad>",call
+"call<end_of_turn>
+<pad>",call
+"call<end_of_turn>
+<pad>",fold
+"call<end_of_turn>
+<pad>",call
+"call<end_of_turn>
+<pad>",call
+"call<end_of_turn>
+<pad>",call
+"fold<end_of_turn>
+<pad>",raise 18.0
+"raise 3.5<end_of_turn>
+<pad>",raise 2.5
+"call<end_of_turn>
+<pad>",call
+"raise 2.5<end_of_turn>
+<pad>",raise 5.0
+"fold<end_of_turn>
+<pad>",raise 28.0
+"fold<end_of_turn>
+<pad>",fold
+"raise 10.0<end_of_turn>
+<pad>",raise 11.0
+"call<end_of_turn>
+<pad>",fold
+"call<end_of_turn>
+<pad>",fold
+"call<end_of_turn>
+<pad>",raise 10.0
+"call<end_of_turn>
+<pad>",call
+"call<end_of_turn>
+<pad>",fold
+"call<end_of_turn>
+<pad>",call
+"raise 8.0<end_of_turn>
+<pad>",raise 13.0
+"fold<end_of_turn>
+<pad>",raise 19.0
+"call<end_of_turn>
+<pad>",call
+"raise 2.5<end_of_turn>
+<pad>",check
+"raise 2.5<end_of_turn>
+<pad>",check
+"call<end_of_turn>
+<pad>",call
+"raise 2.5<end_of_turn>
+<pad>",check
+"fold<end_of_turn>
+<pad>",call
+"call<end_of_turn>
+<pad>",call
+"raise 2.5<end_of_turn>
+<pad>",check
+"raise 5.0<end_of_turn>
+<pad>",check
+"raise 2.5<end_of_turn>
+<pad>",check
+"call<end_of_turn>
+<pad>",call
+"fold<end_of_turn>
+<pad>",raise 23.0
+"raise 3.0<end_of_turn>
+<pad>",raise 3.0
+"check<end_of_turn>
+<pad>",raise 3.0
+"raise 2.5<end_of_turn>
+<pad>",check
+"call<end_of_turn>
+<pad>",call
+"call<end_of_turn>
+<pad>",call
+"call<end_of_turn>
+<pad>",call
+"raise 2.5<end_of_turn>
+<pad>",check
+"fold<end_of_turn>
+<pad>",call
+"call<end_of_turn>
+<pad>",call
+"fold<end_of_turn>
+<pad>",raise 19.0
+"call<end_of_turn>
+<pad>",call
+"fold<end_of_turn>
+<pad>",fold
+"raise 2.5<end_of_turn>
+<pad>",check
+"raise 3.5<end_of_turn>
+<pad>",raise 2.5
+"raise 2.5<end_of_turn>
+<pad>",check
+"fold<end_of_turn>
+<pad>",raise 17.5
+"call<end_of_turn>
+<pad>",call
+"fold<end_of_turn>
+<pad>",fold
+"raise 2.5<end_of_turn>
+<pad>",check
+"call<end_of_turn>
+<pad>",fold
+"raise 2.5<end_of_turn>
+<pad>",check
+"raise 2.5<end_of_turn>
+<pad>",check
+"call<end_of_turn>
+<pad>",call
+"raise 2.5<end_of_turn>
+<pad>",check
+"fold<end_of_turn>
+<pad>",fold
+"call<end_of_turn>
+<pad>",fold
+"raise 3.5<end_of_turn>
+<pad>",raise 2.0
+"check<end_of_turn>
+<pad>",check
+"fold<end_of_turn>
+<pad>",call
+"fold<end_of_turn>
+<pad>",fold
+"call<end_of_turn>
+<pad>",check
+"call<end_of_turn>
+<pad>",call
+"call<end_of_turn>
+<pad>",raise 14.0
+"call<end_of_turn>
+<pad>",call
+"call<end_of_turn>
+<pad>",call
+"fold<end_of_turn>
+<pad>",fold
+"raise 2.5<end_of_turn>
+<pad>",check
+"call<end_of_turn>
+<pad>",fold
+"fold<end_of_turn>
+<pad>",call
+"fold<end_of_turn>
+<pad>",fold
+"call<end_of_turn>
+<pad>",call
+"raise 2.5<end_of_turn>
+<pad>",check
+"fold<end_of_turn>
+<pad>",fold
+"raise 2.5<end_of_turn>
+<pad>",check
+"check<end_of_turn>
+<pad>",check
+"call<end_of_turn>
+<pad>",call
+"raise 2.5<end_of_turn>
+<pad>",check
+"call<end_of_turn>
+<pad>",fold
+"raise 2.5<end_of_turn>
+<pad>",check
+"raise 2.0<end_of_turn>
+<pad>",raise 2.3
+"raise 2.5<end_of_turn>
+<pad>",check
+"raise 2.5<end_of_turn>
+<pad>",check
+"fold<end_of_turn>
+<pad>",call
+"fold<end_of_turn>
+<pad>",fold
+"call<end_of_turn>
+<pad>",call
+"call<end_of_turn>
+<pad>",call
+"raise 2.0<end_of_turn>
+<pad>",raise 2.0
+"fold<end_of_turn>
+<pad>",call
+"call<end_of_turn>
+<pad>",raise 12.0
+"call<end_of_turn>
+<pad>",call
+"raise 2.5<end_of_turn>
+<pad>",check
+"raise 2.5<end_of_turn>
+<pad>",check
+"raise 3.0<end_of_turn>
+<pad>",raise 3.0
+"fold<end_of_turn>
+<pad>",raise 11.0
+"call<end_of_turn>
+<pad>",fold
+"fold<end_of_turn>
+<pad>",fold
+"fold<end_of_turn>
+<pad>",call
+"fold<end_of_turn>
+<pad>",call
+"raise 2.5<end_of_turn>
+<pad>",check
+"fold<end_of_turn>
+<pad>",call
+"fold<end_of_turn>
+<pad>",fold
+"raise 10.0<end_of_turn>
+<pad>",raise 15.0
+"fold<end_of_turn>
+<pad>",raise 27.0
+"fold<end_of_turn>
+<pad>",call
+"raise 8.0<end_of_turn>
+<pad>",raise 13.0
+"fold<end_of_turn>
+<pad>",fold
+"raise 8.0<end_of_turn>
+<pad>",raise 13.5
+"check<end_of_turn>
+<pad>",check
+"call<end_of_turn>
+<pad>",call
+"fold<end_of_turn>
+<pad>",fold
+"call<end_of_turn>
+<pad>",call
+"fold<end_of_turn>
+<pad>",call
+"raise 2.5<end_of_turn>
+<pad>",check
+"fold<end_of_turn>
+<pad>",fold
+"raise 2.5<end_of_turn>
+<pad>",check
+"fold<end_of_turn>
+<pad>",fold
+"raise 2.5<end_of_turn>
+<pad>",check
+"fold<end_of_turn>
+<pad>",call
+"fold<end_of_turn>
+<pad>",fold
+"raise 2.5<end_of_turn>
+<pad>",check
+"fold<end_of_turn>
+<pad>",fold
+"fold<end_of_turn>
+<pad>",raise 23.0
+"raise 2.5<end_of_turn>
+<pad>",check
+"call<end_of_turn>
+<pad>",call
+"call<end_of_turn>
+<pad>",call
+"raise 2.5<end_of_turn>
+<pad>",check
+"fold<end_of_turn>
+<pad>",raise 25.0
+"raise 3.0<end_of_turn>
+<pad>",raise 3.0
+"fold<end_of_turn>
+<pad>",call
+"call<end_of_turn>
+<pad>",call
+"call<end_of_turn>
+<pad>",call
+"fold<end_of_turn>
+<pad>",fold
+"call<end_of_turn>
+<pad>",fold
+"raise 2.5<end_of_turn>
+<pad>",check
+"raise 2.0<end_of_turn>
+<pad>",raise 2.0
+"fold<end_of_turn>
+<pad>",call
+"call<end_of_turn>
+<pad>",call
+"call<end_of_turn>
+<pad>",fold
+"call<end_of_turn>
+<pad>",call
+"fold<end_of_turn>
+<pad>",raise 14.0
+"fold<end_of_turn>
+<pad>",call
+"fold<end_of_turn>
+<pad>",fold
+"raise 2.0<end_of_turn>
+<pad>",raise 2.5
+"fold<end_of_turn>
+<pad>",raise 25.0
+"call<end_of_turn>
+<pad>",call
+"call<end_of_turn>
+<pad>",call
+"check<end_of_turn>
+<pad>",check
+"check<end_of_turn>
+<pad>",check
+"fold<end_of_turn>
+<pad>",call
+"fold<end_of_turn>
+<pad>",fold
+"fold<end_of_turn>
+<pad>",raise 18.0
+"call<end_of_turn>
+<pad>",check
+"fold<end_of_turn>
+<pad>",fold
+"fold<end_of_turn>
+<pad>",call
+"check<end_of_turn>
+<pad>",check
+"call<end_of_turn>
+<pad>",call
+"raise 2.5<end_of_turn>
+<pad>",check
+"call<end_of_turn>
+<pad>",fold
+"call<end_of_turn>
+<pad>",raise 10.0
+"call<end_of_turn>
+<pad>",fold
+"raise 2.5<end_of_turn>
+<pad>",check
+"raise 2.0<end_of_turn>
+<pad>",check
+"call<end_of_turn>
+<pad>",call
+"raise 10.0<end_of_turn>
+<pad>",raise 20.0
+"fold<end_of_turn>
+<pad>",call
+"call<end_of_turn>
+<pad>",call
+"call<end_of_turn>
+<pad>",fold
+"fold<end_of_turn>
+<pad>",fold
+"fold<end_of_turn>
+<pad>",fold
+"raise 2.5<end_of_turn>
+<pad>",check
+"fold<end_of_turn>
+<pad>",fold
+"raise 2.5<end_of_turn>
+<pad>",check
+"call<end_of_turn>
+<pad>",fold
+"call<end_of_turn>
+<pad>",raise 10.0
+"call<end_of_turn>
+<pad>",raise 14.0
+"call<end_of_turn>
+<pad>",call
+"call<end_of_turn>
+<pad>",check
+"raise 2.0<end_of_turn>
+<pad>",raise 2.0
+"fold<end_of_turn>
+<pad>",fold
+"call<end_of_turn>
+<pad>",check
+"raise 2.5<end_of_turn>
+<pad>",check
+"raise 2.5<end_of_turn>
+<pad>",check
+"raise 3.5<end_of_turn>
+<pad>",raise 2.3
+"call<end_of_turn>
+<pad>",fold
+"call<end_of_turn>
+<pad>",call
+"raise 2.5<end_of_turn>
+<pad>",check
+"raise 2.5<end_of_turn>
+<pad>",check
+"check<end_of_turn>
+<pad>",check
+"call<end_of_turn>
+<pad>",fold
+"fold<end_of_turn>
+<pad>",fold
+"call<end_of_turn>
+<pad>",fold
+"raise 10.0<end_of_turn>
+<pad>",raise 14.0
+"call<end_of_turn>
+<pad>",raise 7.5
+"raise 2.5<end_of_turn>
+<pad>",check
+"call<end_of_turn>
+<pad>",fold
+"call<end_of_turn>
+<pad>",call
+"fold<end_of_turn>
+<pad>",fold
+"raise 2.5<end_of_turn>
+<pad>",check
+"fold<end_of_turn>
+<pad>",fold
+"call<end_of_turn>
+<pad>",call
+"call<end_of_turn>
+<pad>",call
+"fold<end_of_turn>
+<pad>",raise 14.0
+"call<end_of_turn>
+<pad>",call
+"fold<end_of_turn>
+<pad>",raise 29.2
+"call<end_of_turn>
+<pad>",call
+"raise 2.5<end_of_turn>
+<pad>",check
+"call<end_of_turn>
+<pad>",fold
+"call<end_of_turn>
+<pad>",call
+"raise 2.5<end_of_turn>
+<pad>",check
+"fold<end_of_turn>
+<pad>",raise 21.0
+"raise 2.5<end_of_turn>
+<pad>",check
+"call<end_of_turn>
+<pad>",fold
+"check<end_of_turn>
+<pad>",check
+"fold<end_of_turn>
+<pad>",call
+"fold<end_of_turn>
+<pad>",raise 27.0
+"call<end_of_turn>
+<pad>",call
+"fold<end_of_turn>
+<pad>",fold
+"raise 2.5<end_of_turn>
+<pad>",check
+"check<end_of_turn>
+<pad>",check
+"call<end_of_turn>
+<pad>",fold
+"call<end_of_turn>
+<pad>",call
+"raise 2.5<end_of_turn>
+<pad>",check
+"fold<end_of_turn>
+<pad>",call
+"call<end_of_turn>
+<pad>",fold
+"raise 2.5<end_of_turn>
+<pad>",check
+"call<end_of_turn>
+<pad>",call
+"call<end_of_turn>
+<pad>",call
+"raise 2.0<end_of_turn>
+<pad>",raise 2.3
+"fold<end_of_turn>
+<pad>",call
+"call<end_of_turn>
+<pad>",call
+"raise 10.0<end_of_turn>
+<pad>",raise 11.0
+"raise 8.0<end_of_turn>
+<pad>",raise 9.5
+"raise 2.5<end_of_turn>
+<pad>",check
+"fold<end_of_turn>
+<pad>",raise 11.0
+"check<end_of_turn>
+<pad>",check
+"raise 3.0<end_of_turn>
+<pad>",raise 3.0
+"fold<end_of_turn>
+<pad>",call
+"call<end_of_turn>
+<pad>",fold
+"raise 3.0<end_of_turn>
+<pad>",raise 3.0
+"raise 10.0<end_of_turn>
+<pad>",raise 11.0
+"call<end_of_turn>
+<pad>",fold
+"call<end_of_turn>
+<pad>",fold
+"fold<end_of_turn>
+<pad>",fold
+"raise 10.0<end_of_turn>
+<pad>",raise 12.5
+"call<end_of_turn>
+<pad>",raise 6.5
+"call<end_of_turn>
+<pad>",call
+"call<end_of_turn>
+<pad>",call
+"call<end_of_turn>
+<pad>",call
+"call<end_of_turn>
+<pad>",call
+"fold<end_of_turn>
+<pad>",raise 24.3
+"fold<end_of_turn>
+<pad>",raise 23.0
+"fold<end_of_turn>
+<pad>",fold
+"raise 8.0<end_of_turn>
+<pad>",raise 12.0
+"call<end_of_turn>
+<pad>",check
+"raise 2.5<end_of_turn>
+<pad>",check
+"fold<end_of_turn>
+<pad>",fold
+"fold<end_of_turn>
+<pad>",raise 29.6
+"call<end_of_turn>
+<pad>",raise 13.0
+"fold<end_of_turn>
+<pad>",fold
+"raise 10.0<end_of_turn>
+<pad>",raise 12.5
+"call<end_of_turn>
+<pad>",call
+"call<end_of_turn>
+<pad>",call
+"raise 3.5<end_of_turn>
+<pad>",raise 2.5
+"check<end_of_turn>
+<pad>",check
+"fold<end_of_turn>
+<pad>",raise 18.0
+"check<end_of_turn>
+<pad>",check
+"raise 2.5<end_of_turn>
+<pad>",check
+"raise 2.5<end_of_turn>
+<pad>",check
+"raise 10.0<end_of_turn>
+<pad>",raise 6.5
+"fold<end_of_turn>
+<pad>",call
+"call<end_of_turn>
+<pad>",call
+"raise 2.5<end_of_turn>
+<pad>",check
+"call<end_of_turn>
+<pad>",call
+"fold<end_of_turn>
+<pad>",fold
+"raise 3.0<end_of_turn>
+<pad>",raise 2.5
+"fold<end_of_turn>
+<pad>",call
+"raise 2.5<end_of_turn>
+<pad>",check
+"raise 3.0<end_of_turn>
+<pad>",raise 3.0
+"fold<end_of_turn>
+<pad>",call
+"call<end_of_turn>
+<pad>",fold
+"raise 2.5<end_of_turn>
+<pad>",check
+"call<end_of_turn>
+<pad>",fold
+"fold<end_of_turn>
+<pad>",raise 21.0
+"raise 2.5<end_of_turn>
+<pad>",check
+"call<end_of_turn>
+<pad>",fold
+"call<end_of_turn>
+<pad>",call
+"call<end_of_turn>
+<pad>",call
+"raise 8.0<end_of_turn>
+<pad>",raise 11.0
+"call<end_of_turn>
+<pad>",call
+"raise 2.5<end_of_turn>
+<pad>",check
+"fold<end_of_turn>
+<pad>",raise 23.0
+"fold<end_of_turn>
+<pad>",fold
+"call<end_of_turn>
+<pad>",call
+"fold<end_of_turn>
+<pad>",raise 19.0
+"call<end_of_turn>
+<pad>",call
+"call<end_of_turn>
+<pad>",call
+"check<end_of_turn>
+<pad>",check
+"check<end_of_turn>
+<pad>",check
+"call<end_of_turn>
+<pad>",raise 6.5
+"fold<end_of_turn>
+<pad>",call
+"fold<end_of_turn>
+<pad>",call
+"fold<end_of_turn>
+<pad>",raise 19.0
+"call<end_of_turn>
+<pad>",call
+"fold<end_of_turn>
+<pad>",fold
+"check<end_of_turn>
+<pad>",check
+"fold<end_of_turn>
+<pad>",raise 18.0
+"call<end_of_turn>
+<pad>",call
+"fold<end_of_turn>
+<pad>",call
+"call<end_of_turn>
+<pad>",raise 10.0
+"call<end_of_turn>
+<pad>",call
+"fold<end_of_turn>
+<pad>",raise 21.0
+"fold<end_of_turn>
+<pad>",raise 35.0
+"call<end_of_turn>
+<pad>",call
+"fold<end_of_turn>
+<pad>",fold
+"fold<end_of_turn>
+<pad>",fold
+"raise 2.5<end_of_turn>
+<pad>",check
+"call<end_of_turn>
+<pad>",fold
+"call<end_of_turn>
+<pad>",fold
+"fold<end_of_turn>
+<pad>",fold
+"raise 2.5<end_of_turn>
+<pad>",check
+"raise 3.5<end_of_turn>
+<pad>",raise 2.5
+"call<end_of_turn>
+<pad>",call
+"fold<end_of_turn>
+<pad>",fold
+"call<end_of_turn>
+<pad>",raise 10.0
+"call<end_of_turn>
+<pad>",call
+"check<end_of_turn>
+<pad>",check
+"raise 3.0<end_of_turn>
+<pad>",raise 3.0
+"fold<end_of_turn>
+<pad>",raise 26.0
+"call<end_of_turn>
+<pad>",fold
+"fold<end_of_turn>
+<pad>",call
+"fold<end_of_turn>
+<pad>",raise 19.0
+"fold<end_of_turn>
+<pad>",fold
+"fold<end_of_turn>
+<pad>",fold
+"raise 2.0<end_of_turn>
+<pad>",check
+"fold<end_of_turn>
+<pad>",raise 14.0
+"call<end_of_turn>
+<pad>",fold
+"call<end_of_turn>
+<pad>",call
+"raise 8.0<end_of_turn>
+<pad>",raise 14.0
+"call<end_of_turn>
+<pad>",call
+"fold<end_of_turn>
+<pad>",fold
+"call<end_of_turn>
+<pad>",raise 11.0
+"call<end_of_turn>
+<pad>",call
+"raise 2.0<end_of_turn>
+<pad>",raise 2.0
+"fold<end_of_turn>
+<pad>",call
+"call<end_of_turn>
+<pad>",call
+"call<end_of_turn>
+<pad>",call
+"raise 10.0<end_of_turn>
+<pad>",fold
+"call<end_of_turn>
+<pad>",check
+"raise 3.5<end_of_turn>
+<pad>",raise 2.5
+"check<end_of_turn>
+<pad>",raise 5.0
+"call<end_of_turn>
+<pad>",call
+"raise 2.5<end_of_turn>
+<pad>",check
+"fold<end_of_turn>
+<pad>",raise 15.0
+"call<end_of_turn>
+<pad>",call
+"call<end_of_turn>
+<pad>",call
+"call<end_of_turn>
+<pad>",call
+"raise 2.5<end_of_turn>
+<pad>",check
+"raise 2.5<end_of_turn>
+<pad>",check
+"fold<end_of_turn>
+<pad>",fold
+"raise 3.5<end_of_turn>
+<pad>",raise 2.5
+"fold<end_of_turn>
+<pad>",raise 26.0
+"raise 2.0<end_of_turn>
+<pad>",check
+"fold<end_of_turn>
+<pad>",raise 21.0
+"call<end_of_turn>
+<pad>",fold
+"check<end_of_turn>
+<pad>",check
+"raise 2.5<end_of_turn>
+<pad>",check
+"call<end_of_turn>
+<pad>",call
+"raise 2.5<end_of_turn>
+<pad>",check
+"call<end_of_turn>
+<pad>",call
+"call<end_of_turn>
+<pad>",call
+"fold<end_of_turn>
+<pad>",fold
+"raise 3.0<end_of_turn>
+<pad>",raise 3.0
+"call<end_of_turn>
+<pad>",raise 11.0
+"call<end_of_turn>
+<pad>",call
+"fold<end_of_turn>
+<pad>",raise 14.0
+"fold<end_of_turn>
+<pad>",fold
+"raise 8.0<end_of_turn>
+<pad>",raise 9.5
+"fold<end_of_turn>
+<pad>",fold
+"raise 2.5<end_of_turn>
+<pad>",check
+"call<end_of_turn>
+<pad>",call
+"fold<end_of_turn>
+<pad>",raise 14.0
+"fold<end_of_turn>
+<pad>",fold
+"raise 2.5<end_of_turn>
+<pad>",check
+"fold<end_of_turn>
+<pad>",raise 19.0
+"fold<end_of_turn>
+<pad>",raise 16.0
+"call<end_of_turn>
+<pad>",call
+"fold<end_of_turn>
+<pad>",fold
+"fold<end_of_turn>
+<pad>",raise 22.0
+"call<end_of_turn>
+<pad>",call
+"raise 2.0<end_of_turn>
+<pad>",check
+"call<end_of_turn>
+<pad>",call
+"check<end_of_turn>
+<pad>",check
+"raise 10.0<end_of_turn>
+<pad>",raise 12.5
+"call<end_of_turn>
+<pad>",call
+"fold<end_of_turn>
+<pad>",call
+"raise 8.0<end_of_turn>
+<pad>",raise 9.5
+"fold<end_of_turn>
+<pad>",call
+"raise 10.0<end_of_turn>
+<pad>",raise 15.0
+"fold<end_of_turn>
+<pad>",raise 20.0
+"fold<end_of_turn>
+<pad>",raise 18.0
+"fold<end_of_turn>
+<pad>",fold
+"raise 2.5<end_of_turn>
+<pad>",check
+"raise 2.5<end_of_turn>
+<pad>",check
+"call<end_of_turn>
+<pad>",call
+"fold<end_of_turn>
+<pad>",fold
+"raise 2.5<end_of_turn>
+<pad>",check
+"raise 5.0<end_of_turn>
+<pad>",fold
+"raise 2.5<end_of_turn>
+<pad>",check
+"raise 2.5<end_of_turn>
+<pad>",check
+"check<end_of_turn>
+<pad>",check
+"raise 2.5<end_of_turn>
+<pad>",check
+"raise 10.0<end_of_turn>
+<pad>",call
+"raise 2.5<end_of_turn>
+<pad>",check
+"call<end_of_turn>
+<pad>",fold
+"call<end_of_turn>
+<pad>",call
+"raise 5.0<end_of_turn>
+<pad>",raise 11.0
+"raise 2.5<end_of_turn>
+<pad>",check
+"raise 2.5<end_of_turn>
+<pad>",check
+"fold<end_of_turn>
+<pad>",fold
+"check<end_of_turn>
+<pad>",check
+"call<end_of_turn>
+<pad>",call
+"call<end_of_turn>
+<pad>",fold
+"raise 3.0<end_of_turn>
+<pad>",raise 3.0
+"raise 3.0<end_of_turn>
+<pad>",raise 5.0
+"call<end_of_turn>
+<pad>",call
+"raise 2.5<end_of_turn>
+<pad>",check
+"raise 2.5<end_of_turn>
+<pad>",check
+"fold<end_of_turn>
+<pad>",call
+"fold<end_of_turn>
+<pad>",raise 14.0
+"call<end_of_turn>
+<pad>",call
+"call<end_of_turn>
+<pad>",call
+"raise 10.0<end_of_turn>
+<pad>",raise 14.5
+"fold<end_of_turn>
+<pad>",fold
+"fold<end_of_turn>
+<pad>",raise 20.0
+"raise 10.0<end_of_turn>
+<pad>",raise 14.5
+"call<end_of_turn>
+<pad>",call
+"fold<end_of_turn>
+<pad>",fold
+"raise 8.0<end_of_turn>
+<pad>",raise 13.5
+"raise 2.5<end_of_turn>
+<pad>",check
+"fold<end_of_turn>
+<pad>",fold
+"raise 10.0<end_of_turn>
+<pad>",raise 6.5
+"check<end_of_turn>
+<pad>",check
+"fold<end_of_turn>
+<pad>",fold
+"call<end_of_turn>
+<pad>",raise 11.5
+"raise 2.5<end_of_turn>
+<pad>",check
+"call<end_of_turn>
+<pad>",call
+"call<end_of_turn>
+<pad>",call
+"raise 2.0<end_of_turn>
+<pad>",raise 2.0
+"fold<end_of_turn>
+<pad>",call
+"call<end_of_turn>
+<pad>",fold
+"raise 2.5<end_of_turn>
+<pad>",check
+"fold<end_of_turn>
+<pad>",fold
+"call<end_of_turn>
+<pad>",call
+"call<end_of_turn>
+<pad>",call
+"fold<end_of_turn>
+<pad>",call
+"fold<end_of_turn>
+<pad>",fold
+"raise 2.5<end_of_turn>
+<pad>",check
+"raise 2.0<end_of_turn>
+<pad>",raise 2.3
+"fold<end_of_turn>
+<pad>",fold
+"call<end_of_turn>
+<pad>",call
+"call<end_of_turn>
+<pad>",fold
+"raise 3.0<end_of_turn>
+<pad>",raise 3.0
+"call<end_of_turn>
+<pad>",fold
+"raise 2.0<end_of_turn>
+<pad>",raise 2.3
+"fold<end_of_turn>
+<pad>",call
+"check<end_of_turn>
+<pad>",check
+"raise 3.0<end_of_turn>
+<pad>",raise 3.0
+"call<end_of_turn>
+<pad>",raise 11.5
+"fold<end_of_turn>
+<pad>",fold
+"check<end_of_turn>
+<pad>",check
+"fold<end_of_turn>
+<pad>",fold
+"call<end_of_turn>
+<pad>",call
+"fold<end_of_turn>
+<pad>",fold
+"fold<end_of_turn>
+<pad>",fold
+"raise 8.0<end_of_turn>
+<pad>",raise 9.5
+"raise 3.0<end_of_turn>
+<pad>",raise 3.0
+"raise 8.0<end_of_turn>
+<pad>",fold
+"fold<end_of_turn>
+<pad>",fold
+"fold<end_of_turn>
+<pad>",fold
+"raise 10.0<end_of_turn>
+<pad>",raise 11.0
+"fold<end_of_turn>
+<pad>",fold
+"raise 2.5<end_of_turn>
+<pad>",check
+"fold<end_of_turn>
+<pad>",fold
+"raise 2.0<end_of_turn>
+<pad>",check
+"call<end_of_turn>
+<pad>",call
+"call<end_of_turn>
+<pad>",call
+"raise 2.5<end_of_turn>
+<pad>",check
+"raise 2.0<end_of_turn>
+<pad>",raise 2.0
+"check<end_of_turn>
+<pad>",check
+"fold<end_of_turn>
+<pad>",fold
+"fold<end_of_turn>
+<pad>",call
+"raise 3.0<end_of_turn>
+<pad>",raise 3.0
+"call<end_of_turn>
+<pad>",check
+"call<end_of_turn>
+<pad>",call
+"call<end_of_turn>
+<pad>",fold
+"raise 2.5<end_of_turn>
+<pad>",raise 2.5
+"call<end_of_turn>
+<pad>",fold
+"call<end_of_turn>
+<pad>",call
+"fold<end_of_turn>
+<pad>",raise 29.2
+"raise 3.0<end_of_turn>
+<pad>",raise 3.0
+"fold<end_of_turn>
+<pad>",raise 15.0
+"raise 2.5<end_of_turn>
+<pad>",check
+"check<end_of_turn>
+<pad>",check
+"fold<end_of_turn>
+<pad>",fold
+"raise 2.5<end_of_turn>
+<pad>",check
+"raise 10.0<end_of_turn>
+<pad>",raise 11.0
+"call<end_of_turn>
+<pad>",call
+"fold<end_of_turn>
+<pad>",fold
+"raise 10.0<end_of_turn>
+<pad>",raise 11.0
+"raise 2.5<end_of_turn>
+<pad>",check
+"call<end_of_turn>
+<pad>",call
+"raise 2.5<end_of_turn>
+<pad>",check
+"call<end_of_turn>
+<pad>",call
+"fold<end_of_turn>
+<pad>",fold
+"call<end_of_turn>
+<pad>",call
+"raise 3.0<end_of_turn>
+<pad>",raise 3.0
+"raise 10.0<end_of_turn>
+<pad>",raise 11.5
+"fold<end_of_turn>
+<pad>",call
+"fold<end_of_turn>
+<pad>",fold
+"raise 2.5<end_of_turn>
+<pad>",check
+"raise 10.0<end_of_turn>
+<pad>",raise 15.0
+"check<end_of_turn>
+<pad>",check
+"raise 3.0<end_of_turn>
+<pad>",raise 3.0
+"fold<end_of_turn>
+<pad>",raise 14.0
+"raise 2.5<end_of_turn>
+<pad>",check
+"call<end_of_turn>
+<pad>",fold
+"call<end_of_turn>
+<pad>",fold
+"fold<end_of_turn>
+<pad>",fold
+"raise 10.0<end_of_turn>
+<pad>",raise 12.0
+"fold<end_of_turn>
+<pad>",fold
+"fold<end_of_turn>
+<pad>",fold
+"check<end_of_turn>
+<pad>",check
+"raise 2.5<end_of_turn>
+<pad>",check
+"call<end_of_turn>
+<pad>",call
+"fold<end_of_turn>
+<pad>",fold
+"raise 2.5<end_of_turn>
+<pad>",check
+"call<end_of_turn>
+<pad>",fold
+"raise 2.5<end_of_turn>
+<pad>",check
+"fold<end_of_turn>
+<pad>",fold
+"raise 2.5<end_of_turn>
+<pad>",check
+"call<end_of_turn>
+<pad>",call
+"call<end_of_turn>
+<pad>",call
+"raise 2.5<end_of_turn>
+<pad>",check
+"call<end_of_turn>
+<pad>",call
+"raise 2.5<end_of_turn>
+<pad>",check
+"fold<end_of_turn>
+<pad>",raise 14.0
+"fold<end_of_turn>
+<pad>",raise 20.0
+"fold<end_of_turn>
+<pad>",fold
+"call<end_of_turn>
+<pad>",call
+"call<end_of_turn>
+<pad>",raise 12.0
+"raise 10.0<end_of_turn>
+<pad>",raise 15.0
+"raise 2.5<end_of_turn>
+<pad>",check
+"call<end_of_turn>
+<pad>",fold
+"fold<end_of_turn>
+<pad>",fold
+"fold<end_of_turn>
+<pad>",fold
+"raise 2.5<end_of_turn>
+<pad>",check
+"call<end_of_turn>
+<pad>",call
+"fold<end_of_turn>
+<pad>",fold
+"raise 8.0<end_of_turn>
+<pad>",raise 14.0
+"call<end_of_turn>
+<pad>",call
+"call<end_of_turn>
+<pad>",call
+"call<end_of_turn>
+<pad>",call
+"check<end_of_turn>
+<pad>",raise 5.0
+"fold<end_of_turn>
+<pad>",fold
+"raise 2.5<end_of_turn>
+<pad>",check
+"raise 2.5<end_of_turn>
+<pad>",check
+"fold<end_of_turn>
+<pad>",fold
+"fold<end_of_turn>
+<pad>",raise 14.0

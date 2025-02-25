@@ -1,0 +1,162 @@
+Start time: Thu 13 Feb 2025 21:18:40 GMT
+Loading pretrained model
+Fetching 11 files:   0%|                                                                                                | 0/11 [00:00<?, ?it/s]Fetching 11 files: 100%|████████████████████████████████████████████████████████████████████████████████████| 11/11 [00:00<00:00, 30453.69it/s]
+Loading datasets
+Training
+Trainable parameters: 0.048% (4.473M/9241.706M)
+Starting training..., iters: 5000
+Iter 1: Val loss 2.957, Val took 55.793s
+Iter 100: Val loss 1.599, Val took 42.000s
+Iter 100: Train loss 2.134, Learning Rate 1.000e-06, It/sec 8.624, Tokens/sec 5238.668, Trained Tokens 60744, Peak mem 30.420 GB
+Iter 100: Saved adapter weights to ../adapters/lora-gemma-2-9b-it/adapters.safetensors and ../adapters/lora-gemma-2-9b-it/0000100_adapters.safetensors.
+Iter 200: Val loss 0.703, Val took 35.167s
+Iter 200: Train loss 1.132, Learning Rate 1.000e-06, It/sec 9.891, Tokens/sec 6010.708, Trained Tokens 121512, Peak mem 30.736 GB
+Iter 200: Saved adapter weights to ../adapters/lora-gemma-2-9b-it/adapters.safetensors and ../adapters/lora-gemma-2-9b-it/0000200_adapters.safetensors.
+Iter 300: Val loss 0.486, Val took 93.397s
+Iter 300: Train loss 0.558, Learning Rate 1.000e-06, It/sec 5.337, Tokens/sec 3271.042, Trained Tokens 182804, Peak mem 30.915 GB
+Iter 300: Saved adapter weights to ../adapters/lora-gemma-2-9b-it/adapters.safetensors and ../adapters/lora-gemma-2-9b-it/0000300_adapters.safetensors.
+Iter 400: Val loss 0.406, Val took 39.060s
+Iter 400: Train loss 0.440, Learning Rate 1.000e-06, It/sec 6.321, Tokens/sec 3899.686, Trained Tokens 244498, Peak mem 30.915 GB
+Iter 400: Saved adapter weights to ../adapters/lora-gemma-2-9b-it/adapters.safetensors and ../adapters/lora-gemma-2-9b-it/0000400_adapters.safetensors.
+Iter 500: Val loss 0.361, Val took 41.934s
+Iter 500: Train loss 0.379, Learning Rate 1.000e-06, It/sec 8.808, Tokens/sec 5367.194, Trained Tokens 305430, Peak mem 30.915 GB
+Iter 500: Saved adapter weights to ../adapters/lora-gemma-2-9b-it/adapters.safetensors and ../adapters/lora-gemma-2-9b-it/0000500_adapters.safetensors.
+Iter 600: Val loss 0.348, Val took 35.652s
+Iter 600: Train loss 0.351, Learning Rate 1.000e-06, It/sec 16.254, Tokens/sec 9894.221, Trained Tokens 366302, Peak mem 30.915 GB
+Iter 600: Saved adapter weights to ../adapters/lora-gemma-2-9b-it/adapters.safetensors and ../adapters/lora-gemma-2-9b-it/0000600_adapters.safetensors.
+Iter 700: Val loss 0.331, Val took 35.511s
+Iter 700: Train loss 0.341, Learning Rate 1.000e-06, It/sec 9.801, Tokens/sec 5948.886, Trained Tokens 426996, Peak mem 30.915 GB
+Iter 700: Saved adapter weights to ../adapters/lora-gemma-2-9b-it/adapters.safetensors and ../adapters/lora-gemma-2-9b-it/0000700_adapters.safetensors.
+Iter 800: Val loss 0.322, Val took 36.541s
+Iter 800: Train loss 0.329, Learning Rate 1.000e-06, It/sec 10.350, Tokens/sec 6290.602, Trained Tokens 487776, Peak mem 30.915 GB
+Iter 800: Saved adapter weights to ../adapters/lora-gemma-2-9b-it/adapters.safetensors and ../adapters/lora-gemma-2-9b-it/0000800_adapters.safetensors.
+Iter 900: Val loss 0.317, Val took 36.295s
+Iter 900: Train loss 0.322, Learning Rate 1.000e-06, It/sec 10.966, Tokens/sec 6611.574, Trained Tokens 548070, Peak mem 30.915 GB
+Iter 900: Saved adapter weights to ../adapters/lora-gemma-2-9b-it/adapters.safetensors and ../adapters/lora-gemma-2-9b-it/0000900_adapters.safetensors.
+Iter 1000: Val loss 0.316, Val took 35.846s
+Iter 1000: Train loss 0.314, Learning Rate 1.000e-06, It/sec 29.747, Tokens/sec 18396.200, Trained Tokens 609912, Peak mem 30.915 GB
+Iter 1000: Saved adapter weights to ../adapters/lora-gemma-2-9b-it/adapters.safetensors and ../adapters/lora-gemma-2-9b-it/0001000_adapters.safetensors.
+Iter 1100: Val loss 0.304, Val took 42.956s
+Iter 1100: Train loss 0.310, Learning Rate 1.000e-06, It/sec 19.563, Tokens/sec 11839.783, Trained Tokens 670432, Peak mem 30.915 GB
+Iter 1100: Saved adapter weights to ../adapters/lora-gemma-2-9b-it/adapters.safetensors and ../adapters/lora-gemma-2-9b-it/0001100_adapters.safetensors.
+Iter 1200: Val loss 0.306, Val took 45.092s
+Iter 1200: Train loss 0.306, Learning Rate 1.000e-06, It/sec 9.173, Tokens/sec 5599.757, Trained Tokens 731478, Peak mem 30.915 GB
+Iter 1200: Saved adapter weights to ../adapters/lora-gemma-2-9b-it/adapters.safetensors and ../adapters/lora-gemma-2-9b-it/0001200_adapters.safetensors.
+Iter 1300: Val loss 0.299, Val took 45.161s
+Iter 1300: Train loss 0.298, Learning Rate 1.000e-06, It/sec 12.421, Tokens/sec 7639.696, Trained Tokens 792982, Peak mem 31.036 GB
+Iter 1300: Saved adapter weights to ../adapters/lora-gemma-2-9b-it/adapters.safetensors and ../adapters/lora-gemma-2-9b-it/0001300_adapters.safetensors.
+Iter 1400: Val loss 0.287, Val took 97.273s
+Iter 1400: Train loss 0.290, Learning Rate 1.000e-06, It/sec 33.386, Tokens/sec 20692.224, Trained Tokens 854960, Peak mem 31.036 GB
+Iter 1400: Saved adapter weights to ../adapters/lora-gemma-2-9b-it/adapters.safetensors and ../adapters/lora-gemma-2-9b-it/0001400_adapters.safetensors.
+Iter 1500: Val loss 0.282, Val took 42.698s
+Iter 1500: Train loss 0.288, Learning Rate 1.000e-06, It/sec 25.871, Tokens/sec 15801.715, Trained Tokens 916040, Peak mem 31.036 GB
+Iter 1500: Saved adapter weights to ../adapters/lora-gemma-2-9b-it/adapters.safetensors and ../adapters/lora-gemma-2-9b-it/0001500_adapters.safetensors.
+Iter 1600: Val loss 0.281, Val took 36.312s
+Iter 1600: Train loss 0.284, Learning Rate 1.000e-06, It/sec 6.419, Tokens/sec 3932.003, Trained Tokens 977294, Peak mem 31.036 GB
+Iter 1600: Saved adapter weights to ../adapters/lora-gemma-2-9b-it/adapters.safetensors and ../adapters/lora-gemma-2-9b-it/0001600_adapters.safetensors.
+Iter 1700: Val loss 0.282, Val took 35.310s
+Iter 1700: Train loss 0.285, Learning Rate 1.000e-06, It/sec 37.893, Tokens/sec 23279.475, Trained Tokens 1038728, Peak mem 31.036 GB
+Iter 1700: Saved adapter weights to ../adapters/lora-gemma-2-9b-it/adapters.safetensors and ../adapters/lora-gemma-2-9b-it/0001700_adapters.safetensors.
+Iter 1800: Val loss 0.274, Val took 38.363s
+Iter 1800: Train loss 0.278, Learning Rate 1.000e-06, It/sec 8.484, Tokens/sec 5159.361, Trained Tokens 1099542, Peak mem 31.036 GB
+Iter 1800: Saved adapter weights to ../adapters/lora-gemma-2-9b-it/adapters.safetensors and ../adapters/lora-gemma-2-9b-it/0001800_adapters.safetensors.
+Iter 1900: Val loss 0.281, Val took 34.974s
+Iter 1900: Train loss 0.276, Learning Rate 1.000e-06, It/sec 9.817, Tokens/sec 6072.591, Trained Tokens 1161400, Peak mem 31.036 GB
+Iter 1900: Saved adapter weights to ../adapters/lora-gemma-2-9b-it/adapters.safetensors and ../adapters/lora-gemma-2-9b-it/0001900_adapters.safetensors.
+Iter 2000: Val loss 0.263, Val took 35.995s
+Iter 2000: Train loss 0.272, Learning Rate 1.000e-06, It/sec 8.239, Tokens/sec 5044.975, Trained Tokens 1222630, Peak mem 31.036 GB
+Iter 2000: Saved adapter weights to ../adapters/lora-gemma-2-9b-it/adapters.safetensors and ../adapters/lora-gemma-2-9b-it/0002000_adapters.safetensors.
+Iter 2100: Val loss 0.263, Val took 35.737s
+Iter 2100: Train loss 0.267, Learning Rate 1.000e-06, It/sec 8.595, Tokens/sec 5275.075, Trained Tokens 1284006, Peak mem 31.036 GB
+Iter 2100: Saved adapter weights to ../adapters/lora-gemma-2-9b-it/adapters.safetensors and ../adapters/lora-gemma-2-9b-it/0002100_adapters.safetensors.
+Iter 2200: Val loss 0.263, Val took 35.118s
+Iter 2200: Train loss 0.266, Learning Rate 1.000e-06, It/sec 7.075, Tokens/sec 4298.243, Trained Tokens 1344756, Peak mem 31.036 GB
+Iter 2200: Saved adapter weights to ../adapters/lora-gemma-2-9b-it/adapters.safetensors and ../adapters/lora-gemma-2-9b-it/0002200_adapters.safetensors.
+Iter 2300: Val loss 0.259, Val took 35.865s
+Iter 2300: Train loss 0.261, Learning Rate 1.000e-06, It/sec 9.264, Tokens/sec 5694.140, Trained Tokens 1406220, Peak mem 31.036 GB
+Iter 2300: Saved adapter weights to ../adapters/lora-gemma-2-9b-it/adapters.safetensors and ../adapters/lora-gemma-2-9b-it/0002300_adapters.safetensors.
+Iter 2400: Val loss 0.254, Val took 36.452s
+Iter 2400: Train loss 0.260, Learning Rate 1.000e-06, It/sec 30.277, Tokens/sec 18537.956, Trained Tokens 1467448, Peak mem 31.036 GB
+Iter 2400: Saved adapter weights to ../adapters/lora-gemma-2-9b-it/adapters.safetensors and ../adapters/lora-gemma-2-9b-it/0002400_adapters.safetensors.
+Iter 2500: Val loss 0.257, Val took 69.538s
+Iter 2500: Train loss 0.256, Learning Rate 1.000e-06, It/sec 8.410, Tokens/sec 5177.867, Trained Tokens 1529018, Peak mem 31.036 GB
+Iter 2500: Saved adapter weights to ../adapters/lora-gemma-2-9b-it/adapters.safetensors and ../adapters/lora-gemma-2-9b-it/0002500_adapters.safetensors.
+Iter 2600: Val loss 0.250, Val took 36.133s
+Iter 2600: Train loss 0.251, Learning Rate 1.000e-06, It/sec 35.252, Tokens/sec 21579.918, Trained Tokens 1590234, Peak mem 31.036 GB
+Iter 2600: Saved adapter weights to ../adapters/lora-gemma-2-9b-it/adapters.safetensors and ../adapters/lora-gemma-2-9b-it/0002600_adapters.safetensors.
+Iter 2700: Val loss 0.250, Val took 35.349s
+Iter 2700: Train loss 0.250, Learning Rate 1.000e-06, It/sec 9.195, Tokens/sec 5576.808, Trained Tokens 1650886, Peak mem 31.036 GB
+Iter 2700: Saved adapter weights to ../adapters/lora-gemma-2-9b-it/adapters.safetensors and ../adapters/lora-gemma-2-9b-it/0002700_adapters.safetensors.
+Iter 2800: Val loss 0.250, Val took 80.434s
+Iter 2800: Train loss 0.246, Learning Rate 1.000e-06, It/sec 9.186, Tokens/sec 5565.064, Trained Tokens 1711466, Peak mem 31.036 GB
+Iter 2800: Saved adapter weights to ../adapters/lora-gemma-2-9b-it/adapters.safetensors and ../adapters/lora-gemma-2-9b-it/0002800_adapters.safetensors.
+Iter 2900: Val loss 0.242, Val took 35.223s
+Iter 2900: Train loss 0.249, Learning Rate 1.000e-06, It/sec 9.991, Tokens/sec 6076.296, Trained Tokens 1772282, Peak mem 31.036 GB
+Iter 2900: Saved adapter weights to ../adapters/lora-gemma-2-9b-it/adapters.safetensors and ../adapters/lora-gemma-2-9b-it/0002900_adapters.safetensors.
+Iter 3000: Val loss 0.244, Val took 35.738s
+Iter 3000: Train loss 0.241, Learning Rate 1.000e-06, It/sec 9.745, Tokens/sec 6001.219, Trained Tokens 1833862, Peak mem 31.036 GB
+Iter 3000: Saved adapter weights to ../adapters/lora-gemma-2-9b-it/adapters.safetensors and ../adapters/lora-gemma-2-9b-it/0003000_adapters.safetensors.
+Iter 3100: Val loss 0.237, Val took 36.055s
+Iter 3100: Train loss 0.238, Learning Rate 1.000e-06, It/sec 9.875, Tokens/sec 6044.234, Trained Tokens 1895070, Peak mem 31.036 GB
+Iter 3100: Saved adapter weights to ../adapters/lora-gemma-2-9b-it/adapters.safetensors and ../adapters/lora-gemma-2-9b-it/0003100_adapters.safetensors.
+Iter 3200: Val loss 0.239, Val took 35.525s
+Iter 3200: Train loss 0.238, Learning Rate 1.000e-06, It/sec 10.115, Tokens/sec 6205.874, Trained Tokens 1956422, Peak mem 31.036 GB
+Iter 3200: Saved adapter weights to ../adapters/lora-gemma-2-9b-it/adapters.safetensors and ../adapters/lora-gemma-2-9b-it/0003200_adapters.safetensors.
+Iter 3300: Val loss 0.235, Val took 36.151s
+Iter 3300: Train loss 0.236, Learning Rate 1.000e-06, It/sec 8.897, Tokens/sec 5385.688, Trained Tokens 2016956, Peak mem 31.036 GB
+Iter 3300: Saved adapter weights to ../adapters/lora-gemma-2-9b-it/adapters.safetensors and ../adapters/lora-gemma-2-9b-it/0003300_adapters.safetensors.
+Iter 3400: Val loss 0.227, Val took 35.499s
+Iter 3400: Train loss 0.231, Learning Rate 1.000e-06, It/sec 9.055, Tokens/sec 5607.670, Trained Tokens 2078882, Peak mem 31.036 GB
+Iter 3400: Saved adapter weights to ../adapters/lora-gemma-2-9b-it/adapters.safetensors and ../adapters/lora-gemma-2-9b-it/0003400_adapters.safetensors.
+Iter 3500: Val loss 0.228, Val took 36.820s
+Iter 3500: Train loss 0.231, Learning Rate 1.000e-06, It/sec 9.031, Tokens/sec 5559.243, Trained Tokens 2140442, Peak mem 31.036 GB
+Iter 3500: Saved adapter weights to ../adapters/lora-gemma-2-9b-it/adapters.safetensors and ../adapters/lora-gemma-2-9b-it/0003500_adapters.safetensors.
+Iter 3600: Val loss 0.228, Val took 109.245s
+Iter 3600: Train loss 0.229, Learning Rate 1.000e-06, It/sec 7.042, Tokens/sec 4323.871, Trained Tokens 2201840, Peak mem 31.036 GB
+Iter 3600: Saved adapter weights to ../adapters/lora-gemma-2-9b-it/adapters.safetensors and ../adapters/lora-gemma-2-9b-it/0003600_adapters.safetensors.
+Iter 3700: Val loss 0.220, Val took 35.548s
+Iter 3700: Train loss 0.227, Learning Rate 1.000e-06, It/sec 7.220, Tokens/sec 4484.198, Trained Tokens 2263944, Peak mem 31.036 GB
+Iter 3700: Saved adapter weights to ../adapters/lora-gemma-2-9b-it/adapters.safetensors and ../adapters/lora-gemma-2-9b-it/0003700_adapters.safetensors.
+Iter 3800: Val loss 0.224, Val took 38.476s
+Iter 3800: Train loss 0.224, Learning Rate 1.000e-06, It/sec 7.360, Tokens/sec 4479.500, Trained Tokens 2324810, Peak mem 31.036 GB
+Iter 3800: Saved adapter weights to ../adapters/lora-gemma-2-9b-it/adapters.safetensors and ../adapters/lora-gemma-2-9b-it/0003800_adapters.safetensors.
+Iter 3900: Val loss 0.216, Val took 40.750s
+Iter 3900: Train loss 0.222, Learning Rate 1.000e-06, It/sec 8.977, Tokens/sec 5384.634, Trained Tokens 2384790, Peak mem 31.036 GB
+Iter 3900: Saved adapter weights to ../adapters/lora-gemma-2-9b-it/adapters.safetensors and ../adapters/lora-gemma-2-9b-it/0003900_adapters.safetensors.
+Iter 4000: Val loss 0.218, Val took 36.269s
+Iter 4000: Train loss 0.218, Learning Rate 1.000e-06, It/sec 34.824, Tokens/sec 21060.711, Trained Tokens 2445268, Peak mem 31.036 GB
+Iter 4000: Saved adapter weights to ../adapters/lora-gemma-2-9b-it/adapters.safetensors and ../adapters/lora-gemma-2-9b-it/0004000_adapters.safetensors.
+Iter 4100: Val loss 0.216, Val took 34.227s
+Iter 4100: Train loss 0.218, Learning Rate 1.000e-06, It/sec 35.001, Tokens/sec 21112.675, Trained Tokens 2505588, Peak mem 31.036 GB
+Iter 4100: Saved adapter weights to ../adapters/lora-gemma-2-9b-it/adapters.safetensors and ../adapters/lora-gemma-2-9b-it/0004100_adapters.safetensors.
+Iter 4200: Val loss 0.210, Val took 35.853s
+Iter 4200: Train loss 0.214, Learning Rate 1.000e-06, It/sec 10.171, Tokens/sec 6185.249, Trained Tokens 2566400, Peak mem 31.036 GB
+Iter 4200: Saved adapter weights to ../adapters/lora-gemma-2-9b-it/adapters.safetensors and ../adapters/lora-gemma-2-9b-it/0004200_adapters.safetensors.
+Iter 4300: Val loss 0.211, Val took 35.096s
+Iter 4300: Train loss 0.208, Learning Rate 1.000e-06, It/sec 8.832, Tokens/sec 5394.149, Trained Tokens 2627474, Peak mem 31.036 GB
+Iter 4300: Saved adapter weights to ../adapters/lora-gemma-2-9b-it/adapters.safetensors and ../adapters/lora-gemma-2-9b-it/0004300_adapters.safetensors.
+Iter 4400: Val loss 0.208, Val took 36.166s
+Iter 4400: Train loss 0.207, Learning Rate 1.000e-06, It/sec 40.274, Tokens/sec 24377.168, Trained Tokens 2688002, Peak mem 31.036 GB
+Iter 4400: Saved adapter weights to ../adapters/lora-gemma-2-9b-it/adapters.safetensors and ../adapters/lora-gemma-2-9b-it/0004400_adapters.safetensors.
+Iter 4500: Val loss 0.204, Val took 36.137s
+Iter 4500: Train loss 0.205, Learning Rate 1.000e-06, It/sec 29.705, Tokens/sec 18388.486, Trained Tokens 2749906, Peak mem 31.036 GB
+Iter 4500: Saved adapter weights to ../adapters/lora-gemma-2-9b-it/adapters.safetensors and ../adapters/lora-gemma-2-9b-it/0004500_adapters.safetensors.
+Iter 4600: Val loss 0.198, Val took 35.874s
+Iter 4600: Train loss 0.199, Learning Rate 1.000e-06, It/sec 23.385, Tokens/sec 14434.626, Trained Tokens 2811632, Peak mem 31.036 GB
+Iter 4600: Saved adapter weights to ../adapters/lora-gemma-2-9b-it/adapters.safetensors and ../adapters/lora-gemma-2-9b-it/0004600_adapters.safetensors.
+Iter 4700: Val loss 0.197, Val took 83.669s
+Iter 4700: Train loss 0.200, Learning Rate 1.000e-06, It/sec 7.264, Tokens/sec 4422.444, Trained Tokens 2872512, Peak mem 31.036 GB
+Iter 4700: Saved adapter weights to ../adapters/lora-gemma-2-9b-it/adapters.safetensors and ../adapters/lora-gemma-2-9b-it/0004700_adapters.safetensors.
+Iter 4800: Val loss 0.195, Val took 41.189s
+Iter 4800: Train loss 0.197, Learning Rate 1.000e-06, It/sec 6.708, Tokens/sec 4094.424, Trained Tokens 2933546, Peak mem 31.036 GB
+Iter 4800: Saved adapter weights to ../adapters/lora-gemma-2-9b-it/adapters.safetensors and ../adapters/lora-gemma-2-9b-it/0004800_adapters.safetensors.
+Iter 4900: Val loss 0.190, Val took 44.634s
+Iter 4900: Train loss 0.193, Learning Rate 1.000e-06, It/sec 7.381, Tokens/sec 4484.811, Trained Tokens 2994304, Peak mem 31.036 GB
+Iter 4900: Saved adapter weights to ../adapters/lora-gemma-2-9b-it/adapters.safetensors and ../adapters/lora-gemma-2-9b-it/0004900_adapters.safetensors.
+Iter 5000: Val loss 0.189, Val took 41.300s
+Iter 5000: Train loss 0.193, Learning Rate 1.000e-06, It/sec 6.075, Tokens/sec 3747.103, Trained Tokens 3055984, Peak mem 31.036 GB
+Iter 5000: Saved adapter weights to ../adapters/lora-gemma-2-9b-it/adapters.safetensors and ../adapters/lora-gemma-2-9b-it/0005000_adapters.safetensors.
+Saved final weights to ../adapters/lora-gemma-2-9b-it/adapters.safetensors.
+Testing
+Test loss 0.192, Test ppl 1.212.
+End time: Fri 14 Feb 2025 08:37:06 GMT

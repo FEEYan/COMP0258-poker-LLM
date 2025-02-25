@@ -1,0 +1,1001 @@
+Prediction,Ground Truth
+Call,fold
+Call 14.5,fold
+Call 14.5,fold
+Call,check
+Call,check
+Call 26.0 chips,call
+Call,check
+Call 14.0 chips.,call
+Call,check
+Call 29.2,fold
+Call 17.5,fold
+Call 7.5,fold
+Call,raise 2.5
+Call,check
+Call 34.0 chips.,fold
+Call,check
+Call 14.0,raise 32.0
+Call,raise 2.5
+Call,check
+Call,check
+Call 40.1,fold
+Call,check
+Call 2.3 chips.,raise 11.0
+Call 27.0 chips.,fold
+Call 2.0 chips,fold
+Call 20.0 chips.,call
+Call,call
+Call 2.0,raise 10.0
+Call,raise 2.3
+Call 3.0 chips.,raise 10.0
+Call 14.0 chips,call
+Call 2.5 chips.,raise 11.0
+Call,check
+Call,check
+Call,check
+Call 10.0,raise 19.0
+Call,raise 3.0
+Call,check
+Call 2.0,fold
+Call 24.3,fold
+Call 13.5,raise 28.0
+Call 9.5,call
+Call 6.5,fold
+Call 2.0 chips,fold
+Call 12.3 chips.,fold
+Call,raise 2.3
+Call 3.0 chips,raise 10.0
+Call 100 chips.,call
+Call 2.0,call
+Call 2.0,raise 13.0
+Call 7.5,raise 21.0
+Call,check
+Call,check
+Call 24.0 chips.,call
+Call 28.0 chips.,fold
+Call 24.0 chips.,fold
+Call 6.5,raise 17.5
+Call 14.0,call
+Call 15.0 chips,fold
+Call,check
+Call,check
+Call 2.3 chips.,call
+Call 13.5,raise 28.0
+Call 2.0 chips.,raise 14.0
+Call 12.0,raise 26.0
+Call 29.0 chips.,fold
+Call 13.0 chips.,raise 27.0
+Call 7.5,raise 21.0
+Call 21.0 chips.,fold
+Call 33.0 chips.,call
+Call 10.0,raise 20.0
+Call,check
+Call 100.0,call
+Call 24.1 chips,call
+Call,raise 3.0
+Call 2.0,fold
+Call 15.0 chips,fold
+Call,raise 2.3
+Call 20.0 chips.,fold
+Call,raise 2.3
+Call 28.0 chips.,call
+Call 9.5,raise 23.0
+Call 2.0 chips.,raise 13.0
+Call 10.0,raise 21.0
+Call,check
+Call 21.0 chips.,call
+Call 11.0 chips.,fold
+Call 15.0 chips.,call
+Call 14.0,fold
+Call,raise 3.0
+Call 6.5,fold
+Call 6.5,raise 22.9
+Call 2.5 chips.,raise 12.0
+Call,fold
+Call 2.0,fold
+Call,raise 2.5
+Call,check
+Call,check
+Call 9.5 chips.,fold
+Call 26.0,call
+Call 6.5,raise 14.0
+Call,check
+Call 2.0 chips.,raise 13.5
+Call,check
+Call 2.3 chips,call
+Call 15.7,call
+Call 6.5,raise 19.0
+Call 2.3,raise 14.0
+Call,check
+Call 25.8,fold
+Call 13.0 chips.,fold
+Call 24.0 chips.,fold
+Call 2.0,fold
+Call 2.3 chips.,fold
+Call 11.0 chips.,call
+Call,check
+Call,check
+Call 30.0 chips.,call
+Call 2.0,call
+Call 23.0 chips,fold
+Call 12.5 chips.,call
+Call 2.5 chips.,raise 11.0
+Call,check
+Call 24.0 chips.,fold
+Call 2.0 chips,fold
+Call 29.2,call
+Call 26.2 chips.,call
+Call 6.5,raise 13.1
+Call,check
+Call,check
+Call,check
+Call,check
+Call 2.0 chips,call
+Call 18.0 chips,fold
+Call,check
+Call 15.0 chips,fold
+Call 2.3 chips.,raise 11.5
+Call,fold
+Call,check
+Call 13.0 chips,call
+Call 2.0,fold
+Call,check
+Call,check
+Call 6.5,raise 24.1
+Call,check
+Call 2.0 chips,raise 11.0
+Call 26.0 chips,call
+Call 2.0 chips.,raise 15.0
+Call 40.1,fold
+Call 30.1,fold
+Call 14.0 chips.,fold
+Call,check
+Call 2.0 chips,call
+Call,raise 2.0
+Call,check
+Call 14.5 chips,fold
+Call 29.0,fold
+Call 27.0 chips,fold
+Call,raise 2.3
+Call,raise 2.5
+Call,check
+Call 26.0 chips,fold
+Call 24.0 chips.,fold
+Call 2.0,call
+Call,raise 3.0
+Call 16.0 chips.,call
+Call,check
+Call 6.5,fold
+Call,call
+Call 14.0 chips,fold
+Call 17.5,fold
+Call 3.0 chips,call
+Call,check
+Call 7.5,fold
+Call,check
+Call 24.0 chips,fold
+Call 24.1 chips.,fold
+Call 18.0 chips.,call
+Call 14.0 chips.,raise 31.0
+Call,fold
+Call 2.0,call
+Call,check
+Call,check
+Call 2.0,raise 12.3
+Call 2.0,raise 6.5
+Call,check
+Call,check
+Call 6.5,fold
+Call 12.0 chips.,fold
+Call 6.5,call
+Call 13.0 chips.,call
+Call 14.0 chips.,fold
+Call 24.0 chips.,fold
+Call 6.5,raise 13.1
+Call,check
+Call,raise 2.0
+Call,check
+Call 2.0 chips,fold
+Call 19.0 chips.,fold
+Call 14.0,fold
+Call 34.0 chips.,fold
+Call,check
+Call 2.0,fold
+Call 2.0 chips,fold
+Call 34.0 chips.,call
+Call,check
+Call,check
+Call 32.0 chips,call
+Call 20.0 chips.,fold
+Call 2.0,raise 6.5
+Call,check
+Call,raise 3.0
+Call 12.0 chips.,fold
+Call 25.0 chips.,call
+Call 21.0 chips.,fold
+Call 25.9,call
+Call 12.0,fold
+Call,check
+Call 2.0,raise 7.5
+Call 2.0 chips,raise 11.0
+Call,check
+Call 23.0 chips,fold
+Call 9.5,call
+Call 2.0,call
+Call 25.0,call
+Call,fold
+Call,check
+Call 2.3 chips.,call
+Call 34.0 chips,fold
+Call 15.0 chips,fold
+Call 6.5,fold
+Call 14.5 chips,fold
+Call 6.5,fold
+Call 2.0,raise 9.5
+Call 27.0 chips.,call
+Call 11.0 chips.,raise 22.0
+Call,check
+Call,call
+Call,check
+Call 12.5 chips.,call
+Call 7.5,call
+Call 16.5,call
+Call 10.0,fold
+Call,check
+Call,check
+Call,fold
+Call 14.0 chips,call
+Call 11.0 chips.,raise 22.0
+Call 2.0 chips.,raise 15.0
+Call 26.0 chips.,call
+Call,check
+Call 26.2 chips.,fold
+Call 7.5,raise 21.0
+Call,check
+Call 26.2 chips.,fold
+Call 6.5,fold
+Call,check
+Call,raise 3.0
+Call 11.0 chips.,raise 23.0
+Call,raise 2.0
+Call,check
+Call 30.1,fold
+Call,check
+Call,raise 2.5
+Call 6.5,call
+Call 2.0,raise 10.0
+Call 14.0 chips.,fold
+Call,raise 2.0
+Call,check
+Call,check
+Call,raise 2.0
+Call,call
+Call,raise 3.0
+Call 2.0 chips,raise 14.0
+Call,check
+Call,check
+Call 20.0 chips.,fold
+Call 2.0 chips,call
+Call,raise 3.0
+Call,check
+Call,raise 2.0
+Call 28.0,fold
+Call 9.5 chips,call
+Call,fold
+Call 2.0 chips,call
+Call 14.0 chips,fold
+Call 2.0 chips,call
+Call 2.3 chips.,raise 12.5
+Call 13.0 chips.,raise 27.0
+Call,check
+Call,raise 3.0
+Call 11.0 chips.,fold
+Call 31.2 chips.,call
+Call 1.0,fold
+Call 2.0,fold
+Call 9.5,call
+Call 21.0,call
+Call 30.0 chips.,fold
+Call,check
+Call,check
+Call 15.0,fold
+Call,raise 2.3
+Call 33.3,call
+Call,check
+Call 3.0 chips.,call
+Call 2.0 chips.,raise 9.5
+Call 14.0 chips,call
+Call,check
+Call,check
+Call 2.0,raise 11.0
+Call,call
+Call,check
+Call 2.5 chips.,raise 13.0
+Call,check
+Call 19.0 chips.,raise 34.4
+Call 14.0 chips.,fold
+Call,check
+Call 2.0 chips,fold
+Call,check
+Call,check
+Call 2.0,raise 13.0
+Call 24.3,fold
+Call 2.3 chips.,raise 11.5
+Call,check
+Call 13.0 chips.,fold
+Call,check
+Call,raise 2.5
+Call 24.0 chips.,call
+Call 27.0 chips.,fold
+Call,check
+Call,check
+Call,check
+Call 29.2,call
+Call 7.5,fold
+Call,check
+Call 13.1,fold
+Call 31.2,fold
+Call 34.0 chips,fold
+Call 29.0 chips.,fold
+Call 2.3 chips.,raise 7.5
+Call 2.0 chips,raise 15.0
+Call 21.0 chips,call
+Call 14.5 chips.,fold
+Call 6.5,call
+Call 2.0 chips,raise 14.5
+Call 14.0 chips.,call
+Call 14.0 chips,call
+Call 15.0 chips,call
+Call 2.0,call
+Call 24.9 chips.,call
+Call 22.0 chips.,fold
+Call 24.0,fold
+Call,check
+Call,check
+Call,check
+Call,check
+Call,call
+Call 2.0 chips.,raise 9.5
+Call 2.3 chips.,raise 14.0
+Call 40.0 chips.,fold
+Call,check
+Call 27.0 chips.,call
+Call 15.0 chips.,fold
+Call,check
+Call 2.0,raise 7.5
+Call 19.0,fold
+Call 13.0 chips.,call
+Call 2.3 chips,fold
+Call 29.0 chips.,call
+Call 2.5 chips.,call
+Call,check
+Call,check
+Call 27.0,call
+Call 24.0 chips,fold
+Call 13.1,fold
+Call 24.0 chips.,fold
+Call 28.0,fold
+Call,check
+Call,check
+Call 12.0,raise 26.0
+Call,check
+Call,check
+Call 6.5,raise 20.0
+Call,raise 3.0
+Call,check
+Call,check
+Call,raise 3.0
+Call 6.5,raise 14.0
+Call 2.0,call
+Call 12.0,fold
+Call 28.0 chips.,call
+Call,check
+Call,check
+Call 17.5,raise 35.0
+Call,check
+Call,check
+Call 2.0 chips,fold
+Call 20.0 chips.,fold
+Call 2.0 chips.,raise 15.0
+Call,raise 3.0
+Call 21.0,fold
+Call 7.5,raise 20.0
+Call 2.0 chips,raise 14.0
+Call,check
+Call 24.1 chips,call
+Call,check
+Call,check
+Call 25.0 chips.,call
+Call 22.0 chips,call
+Call 23.0 chips.,call
+Call,raise 2.5
+Call 2.0 chips.,raise 15.0
+Call,raise 2.3
+Call 2.3 chips.,raise 12.5
+Call,raise 5.0
+Call,raise 2.0
+Call,check
+Call 24.0 chips,fold
+Call,check
+Call 2.3 chips.,call
+Call,raise 2.0
+Call 2.3 chips.,raise 12.5
+Call,check
+Call,check
+Call,check
+Call 29.0,call
+Call 2.3 chips.,raise 11.0
+Call 14.0,call
+Call,check
+Call 28.0 chips.,call
+Call 2.5 chips.,call
+Call 30.1 chips,fold
+Call 6.5,call
+Call 30.0 chips.,call
+Call 12.5 chips.,call
+Call 6.5,raise 18.0
+Call,raise 2.5
+Call 14.0,call
+Call,raise 5.0
+Call 13.5,raise 28.0
+Call,fold
+Call 2.0 chips,raise 11.0
+Call 14.0,fold
+Call 6.5,fold
+Call 3.0 chips.,raise 10.0
+Call 21.0 chips,call
+Call 21.0 chips.,fold
+Call 24.0 chips.,call
+Call 2.0 chips.,raise 13.0
+Call 10.0,raise 19.0
+Call 16.0 chips.,call
+Call,check
+Call,check
+Call 2.0,call
+Call,check
+Call 10.0,call
+Call 31.2 chips,call
+Call,check
+Call,check
+Call,check
+Call 15.0,call
+Call 11.0 chips.,raise 23.0
+Call,raise 3.0
+Call,raise 3.0
+Call,check
+Call 15.0 chips,call
+Call 24.1 chips.,call
+Call 15.0,call
+Call,check
+Call 2.0,call
+Call 28.0 chips.,call
+Call 6.5,raise 19.0
+Call 15.0 chips.,call
+Call 9.5,fold
+Call,check
+Call,raise 2.5
+Call,check
+Call 6.5,raise 17.5
+Call 22.0 chips,call
+Call 10.0,fold
+Call,check
+Call 30.1,fold
+Call,check
+Call,check
+Call 21.0 chips.,call
+Call,check
+Call 21.0,fold
+Call 10.0,fold
+Call,raise 2.0
+Call,check
+Call 28.5 chips.,call
+Call 2.0,fold
+Call,check
+Call 2.0,call
+Call 2.3 chips.,raise 14.0
+Call 15.0 chips,call
+Call 16.0 chips.,call
+Call,fold
+Call,check
+Call 20.0 chips,fold
+Call 31.0 chips.,call
+Call 14.0 chips.,fold
+Call 6.5,call
+Call,check
+Call 33.0,fold
+Call,check
+Call,check
+Call 14.0 chips,call
+Call,check
+Call 24.1 chips,fold
+Call,check
+Call,raise 2.3
+Call,check
+Call,check
+Call 14.0 chips,call
+Call 2.0,fold
+Call 15.0 chips,call
+Call 15.0 chips.,call
+Call,raise 2.0
+Call 18.0 chips,call
+Call 2.5 chips.,raise 12.0
+Call 24.1,call
+Call,check
+Call,check
+Call,raise 3.0
+Call 2.5 chips.,raise 11.0
+Call 2.3 chips.,fold
+Call 2.3 chips,fold
+Call 13.0 chips.,call
+Call 31.0 chips.,call
+Call,check
+Call 31.2,call
+Call 29.2,fold
+Call 2.0 chips,raise 15.0
+Call 12.5,raise 27.0
+Call 30.5,call
+Call 2.0 chips.,raise 13.0
+Call,fold
+Call 2.0 chips.,raise 13.5
+Call,check
+Call 2.5 chips.,call
+Call 9.5,fold
+Call 9.5,call
+Call 2.0,call
+Call,check
+Call 2.0,fold
+Call,check
+Call 15.0 chips.,fold
+Call,check
+Call 13.5,call
+Call 2.0 chips,fold
+Call,check
+Call 24.0,fold
+Call 12.0,raise 23.0
+Call,check
+Call 11.0 chips,call
+Call 15.0 chips.,call
+Call,check
+Call 9.5,raise 25.0
+Call,raise 3.0
+Call 19.0,call
+Call 2.0 chips,call
+Call 2.0,call
+Call 14.0 chips.,fold
+Call 15.0 chips.,fold
+Call,check
+Call,raise 2.0
+Call 11.0 chips.,call
+Call 15.0,call
+Call 13.5 chips,fold
+Call 6.5,call
+Call 2.0 chips,raise 14.0
+Call 11.0 chips.,call
+Call 6.5,fold
+Call,raise 2.5
+Call 11.5,raise 25.0
+Call 2.3 chips,call
+Call,call
+Call,check
+Call,check
+Call 11.5,call
+Call 13.0 chips.,fold
+Call 6.5,raise 18.0
+Call,check
+Call 3.0 chips,fold
+Call 11.0 chips.,call
+Call,check
+Call 14.0 chips,call
+Call,check
+Call 15.0 chips,fold
+Call 3.0 chips,raise 10.0
+Call 2.3 chips,fold
+Call,check
+Call,check
+Call 14.0 chips,call
+Call 6.5,raise 20.0
+Call 34.0,call
+Call 13.5 chips.,call
+Call 31.2,fold
+Call 24.1 chips.,fold
+Call 2.0 chips,fold
+Call,check
+Call 6.5,fold
+Call,check
+Call,fold
+Call 3.0 chips,raise 10.0
+Call 2.3 chips.,raise 14.0
+Call 12.1,call
+Call,check
+Raise,raise 2.0
+Call 38.0 chips,fold
+Call,check
+Call,check
+Call,check
+Call,raise 2.3
+Call 36.3,fold
+Call 29.6,call
+Call,check
+Call,check
+Call,check
+Call 15.0 chips.,fold
+Call 2.0,fold
+Call 14.0 chips,fold
+Call 6.5,raise 14.0
+Call 2.3 chips,raise 7.5
+Call,check
+Call 9.5,fold
+Call 2.3 chips,call
+Call 16.0 chips.,fold
+Call,check
+Call 28.0 chips.,fold
+Call 13.0,call
+Call 31.2 chips,call
+Call 2.0 chips.,raise 14.0
+Call 16.0 chips.,call
+Call 15.0 chips.,raise 29.2
+Call 16.0 chips,call
+Call,check
+Call 24.3 chips.,fold
+Call 30.0 chips.,call
+Call,check
+Call 10.0 chips.,raise 21.0
+Call,check
+Call,fold
+Call,check
+Call 14.0 chips.,call
+Call 14.0 chips.,raise 27.0
+Call 14.0 chips,call
+Call 14.5 chips.,fold
+Call,check
+Call,check
+Call 24.1 chips.,fold
+Call 29.0 chips.,call
+Call,check
+Call 10.0,call
+Call 15.0 chips,fold
+Call,check
+Call 31.0 chips,call
+Call 11.0 chips.,call
+Call,raise 2.3
+Call 2.0 chips,call
+Call 2.5 chips.,call
+Call 2.5 chips.,raise 11.0
+Call 2.0 chips.,raise 9.5
+Call,check
+Call 2.3 chips.,raise 11.0
+Call,check
+Call,raise 3.0
+Call 19.0 chips.,call
+Call 31.2,fold
+Call,raise 3.0
+Call 2.5 chips.,raise 11.0
+Call 13.1 chips.,fold
+Call 24.0 chips.,fold
+Call 20.0 chips.,fold
+Call 2.3 chips.,raise 12.5
+Call 2.0,raise 6.5
+Call 25.2,call
+Call 14.0 chips.,call
+Call 2.0 chips,call
+Call 14.5,call
+Call 9.5,raise 24.3
+Call 11.0 chips.,raise 23.0
+Call 13.0,fold
+Call 2.0,raise 12.0
+Call,check
+Call,check
+Call 24.1 chips.,fold
+Call 15.0 chips.,raise 29.6
+Call 2.5 chips.,raise 13.0
+Call 6.5,fold
+Call 2.3 chips.,raise 12.5
+Call 2.5 chips,call
+Call 11.0 chips,call
+Call,raise 2.5
+Call,check
+Call 6.5,raise 18.0
+Call,check
+Call,check
+Call,check
+Call 2.0,raise 6.5
+Call 12.0 chips.,call
+Call 14.0 chips,call
+Call,check
+Call 2.0 chips,call
+Call 40.1,fold
+Call,raise 2.5
+Call 12.5 chips.,call
+Call,check
+Call,raise 3.0
+Call 31.0 chips.,call
+Call,fold
+Call,check
+Call 33.0 chips.,fold
+Call 7.5,raise 21.0
+Call,check
+Call 9.5,fold
+Call 30.0,call
+Call 19.0 chips,call
+Call 2.0 chips,raise 11.0
+Call 29.0 chips.,call
+Call,check
+Call 11.0 chips.,raise 23.0
+Call 24.1 chips.,fold
+Call 15.0,call
+Call 6.5,raise 19.0
+Call 11.0 chips.,call
+Call,call
+Call,check
+Call,check
+Call 2.0,raise 6.5
+Call 26.0,call
+Call 100.0,call
+Call 6.5,raise 19.0
+Call 15.6,call
+Call 11.0 chips.,fold
+Call,check
+Call 6.5,raise 18.0
+Call 15.0 chips.,call
+Call 2.0,call
+Call 3.0 chips.,raise 10.0
+Call 14.0 chips,call
+Call 7.5,raise 21.0
+Call 20.0,raise 35.0
+Call 31.2 chips.,call
+Call 14.0 chips.,fold
+Call 30.1,fold
+Call,check
+Call 24.1 chips.,fold
+Call 7.5,fold
+Call 2.0 chips.,fold
+Call,check
+Call,raise 2.5
+Call 30.0,call
+Call 6.5,fold
+Call 3.0 chips,raise 10.0
+Call 28.0 chips.,call
+Call,check
+Call,raise 3.0
+Call 14.0 chips.,raise 26.0
+Call 15.0 chips,fold
+Call 6.5,call
+Call 10.0,raise 19.0
+Call 14.0 chips.,fold
+Call 6.5,fold
+Call,check
+Call 2.0 chips,raise 14.0
+Call,fold
+Call 3.0 chips,call
+Call 2.0 chips,raise 14.0
+Call,call
+Call,fold
+Call 2.3 chips.,raise 11.0
+Call 2.0,call
+Call,raise 2.0
+Call 12.3,call
+Call 3.0 chips,call
+Call 40.0,call
+Call 5.0 chips.,fold
+Call,check
+Call,raise 2.5
+Call,raise 5.0
+Call 13.0 chips,call
+Call,check
+Call 2.0 chips,raise 15.0
+Call 30.1 chips,call
+Call 3.0 chips.,call
+Call 31.2,call
+Call,check
+Call,check
+Call 33.7,fold
+Call,raise 2.5
+Call 12.0,raise 26.0
+Call,check
+Call 7.5,raise 21.0
+Call 11.0 chips.,fold
+Call,check
+Call,check
+Call 34.0 chips.,call
+Call,check
+Call 28.0 chips.,call
+Call 14.5 chips.,call
+Call 31.2 chips,fold
+Call,raise 3.0
+Call 2.3 chips.,raise 11.0
+Call 6.5,call
+Call 2.3,raise 14.0
+Call 30.1 chips,fold
+Call 2.0 chips.,raise 9.5
+Call 14.0 chips.,fold
+Call,check
+Call 10.5,call
+Call 2.0 chips,raise 14.0
+Call 12.5,fold
+Call,check
+Call 10.0,raise 19.0
+Call 2.0 chips,raise 16.0
+Call 2.0,call
+Call 6.5,fold
+Call 11.0 chips.,raise 22.0
+Call 14.0 chips,call
+Call,check
+Call 15.0 chips,call
+Call,check
+Call 2.3 chips.,raise 12.5
+Call 14.0,call
+Call 2.0,call
+Call 2.0 chips.,raise 9.5
+Call 27.0 chips.,call
+Call 2.0 chips,raise 15.0
+Call 7.5,raise 20.0
+Call 6.5,raise 18.0
+Call 26.2 chips.,fold
+Call,check
+Call,check
+Call 15.0 chips.,call
+Call 9.5 chips.,fold
+Call,check
+Call 2.0,fold
+Call,check
+Call,check
+Call,check
+Call,check
+Call 2.0,call
+Call,check
+Call 21.0 chips,fold
+Call,call
+Call 2.0 chips.,raise 11.0
+Call,check
+Call,check
+Call 14.0 chips.,fold
+Call,check
+Call 6.5,call
+Call 30.0 chips.,fold
+Call,raise 3.0
+Call,raise 5.0
+Call 7.5,call
+Call,check
+Call,check
+Call 14.0 chips.,call
+Call 2.3 chips.,raise 14.0
+Call 28.0 chips.,call
+Call 3.0 chips,call
+Call 2.0 chips,raise 14.5
+Call 15.0 chips,fold
+Call 7.5,raise 20.0
+Call 2.0 chips,raise 14.5
+Call 15.0 chips,call
+Call,fold
+Call 2.0 chips.,raise 13.5
+Call,check
+Call 14.0 chips.,fold
+Call 2.0,raise 6.5
+Call,check
+Call 26.0 chips.,fold
+Call 2.3 chips,raise 11.5
+Call,check
+Call 15.0 chips.,call
+Call 15.0 chips.,call
+Call,raise 2.0
+Call 2.0,call
+Call 12.0 chips.,fold
+Call,check
+Call 25.2 chips.,fold
+Call 17.5,call
+Call 30.0,call
+Call 2.0,call
+Call 31.0 chips.,fold
+Call,check
+Call,raise 2.3
+Call 28.0,fold
+Call 2.0 chips.,call
+Call 15.0 chips.,fold
+Call,raise 3.0
+Call 40.1,fold
+Call,raise 2.3
+Call 26.2 chips.,call
+Call,check
+Call,raise 3.0
+Call 2.3 chips.,raise 11.5
+Call 2.0 chips,fold
+Call,check
+Call 33.0,fold
+Call 2.0,call
+Call 24.1,fold
+Call 23.0 chips,fold
+Call 2.0 chips,raise 9.5
+Call,raise 3.0
+Call 2.0,fold
+Call 6.5,fold
+Call 11.0 chips.,fold
+Call 2.0,raise 11.0
+Call 28.0 chips.,fold
+Call,check
+Call 25.0,fold
+Call,check
+Call,call
+Call 13.0,call
+Call,check
+Call,raise 2.0
+Call,check
+Call 26.0 chips,fold
+Call 2.3 chips,call
+Call,raise 3.0
+Call,check
+Call 9.5,call
+Call 21.0 chips.,fold
+Call,raise 2.5
+Call 17.5,fold
+Call 6.5,call
+Call 15.0 chips.,raise 29.2
+Call,raise 3.0
+Call 2.0,raise 15.0
+Call,check
+Call,check
+Call 6.5,fold
+Call,check
+Call 2.5 chips.,raise 11.0
+Call 30.0 chips.,call
+Call 28.0,fold
+Call 2.0,raise 11.0
+Call,check
+Call 16.0 chips.,call
+Call,check
+Call 9.5,call
+Call 20.0 chips.,fold
+Call 25.0 chips.,call
+Call,raise 3.0
+Call 2.3 chips.,raise 11.5
+Call 11.0 chips.,call
+Call 15.0 chips,fold
+Call,check
+Call 2.0,raise 15.0
+Call,check
+Call,raise 3.0
+Call 2.0 chips,raise 14.0
+Call,check
+Call 24.1,fold
+Call 14.0 chips,fold
+Call 33.3,fold
+Call 2.5 chips.,raise 12.0
+Call 38.0 chips.,fold
+Call 13.0 chips,fold
+Call,check
+Call,check
+Call 14.0 chips,call
+Call 29.0 chips,fold
+Call,check
+Call,fold
+Call,check
+Call 11.0 chips.,fold
+Call,check
+Call 31.0,call
+Call 28.0 chips.,call
+Call,check
+Call 24.1 chips.,call
+Call,check
+Call 2.3 chips,raise 14.0
+Call 7.5,raise 20.0
+Call 7.5,fold
+Call 22.5,call
+Call 2.0,raise 12.0
+Call 2.0,raise 15.0
+Call,check
+Call 30.0 chips.,fold
+Call 2.0 chips,fold
+Call 11.5,fold
+Call,check
+Call 31.2,call
+Call,fold
+Call 2.0 chips.,raise 14.0
+Call 25.8 chips.,call
+Call 31.0,call
+Call 13.5 chips.,call
+Call,raise 5.0
+Call 6.5,fold
+Call,check
+Call,check
+Call 14.0 chips.,fold
+Call 2.0 chips,raise 14.0

@@ -1,6 +1,7 @@
 # Install unbuffer if needed: brew install expect
-job_name="total-DeepSeek-R1-Distill-Llama-8B"
-model="deepseek-ai/DeepSeek-R1-Distill-Llama-8B"  # Add this line
+fine_tune_type="lora"
+model="google/gemma-2-9b-it"  # Add this line
+job_name="${fine_tune_type}-gemma-2-9b-it"
 data_path=../data/poker-total
 output_path_base=../adapters/${job_name}
 log_dir="../logs"
@@ -14,6 +15,7 @@ unbuffer \
 python -m mlx_lm.lora \
     --train \
     --test \
+    --fine-tune-type $fine_tune_type \
     --adapter-path $output_path_base \
     --model $model \
     --data $data_path \
