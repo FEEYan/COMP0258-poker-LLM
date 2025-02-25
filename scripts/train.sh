@@ -1,7 +1,7 @@
 # Install unbuffer if needed: brew install expect
 fine_tune_type="lora"
-model="google/gemma-2-9b-it"  # Add this line
-job_name="${fine_tune_type}-gemma-2-9b-it"
+model="meta-llama/Meta-Llama-3-8B-Instruct"  # Add this line
+job_name="${fine_tune_type}-Meta-Llama-3-8B-Instruct"
 data_path=../data/poker-total
 output_path_base=../adapters/${job_name}
 log_dir="../logs"

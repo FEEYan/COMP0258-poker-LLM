@@ -1,0 +1,1001 @@
+Prediction,Ground Truth
+Call,fold
+Call,fold
+Call,fold
+Call,check
+Call,check
+Raise 30.0,call
+Call,check
+Call,call
+Call,check
+Call 29.2,fold
+Call,fold
+Call,fold
+Raise,raise 2.5
+Call,check
+Call,fold
+Call,check
+Raise 18.0 chips,raise 32.0
+Call,raise 2.5
+Call,check
+Call,check
+Call,fold
+Call,check
+Call,raise 11.0
+Fold,fold
+Call,fold
+Call,call
+Call,call
+Call,raise 10.0
+Raise,raise 2.3
+Call,raise 10.0
+Call,call
+Call,raise 11.0
+Call,check
+Call,check
+Call,check
+Call 10.0,raise 19.0
+Call,raise 3.0
+Call,check
+Call,fold
+Call,fold
+Call,raise 28.0
+Call,call
+Call 6.5,fold
+Call,fold
+Call,fold
+Call,raise 2.3
+Call,raise 10.0
+Call,call
+Call,call
+Call,raise 13.0
+Raise 5.5,raise 21.0
+Call,check
+Call,check
+Call 24.0,call
+Call 28.0,fold
+Call,fold
+Raise 8.5,raise 17.5
+Call,call
+Call,fold
+Call,check
+Call,check
+Call,call
+Call,raise 28.0
+Call,raise 14.0
+Call,raise 26.0
+Call 29.0,fold
+Call,raise 27.0
+Call 7.5,raise 21.0
+Call,fold
+Call,call
+Call 10.0 chips,raise 20.0
+Call,check
+Call,call
+Call,call
+Call,raise 3.0
+Call,fold
+Call,fold
+Call,raise 2.3
+Call 20.0,fold
+Call,raise 2.3
+Call,call
+Call,raise 23.0
+Call,raise 13.0
+Call 10.0,raise 21.0
+Call,check
+Raise 15.0,call
+Call 11.0,fold
+Call,call
+Call,fold
+Call,raise 3.0
+Call,fold
+Call,raise 22.9
+Call,raise 12.0
+Call,fold
+Call,fold
+Call,raise 2.5
+Call,check
+Call,check
+Call,fold
+Raise 30.0,call
+Call 6.5,raise 14.0
+Call,check
+Call,raise 13.5
+Call,check
+Call,call
+Call,call
+Call 6.5,raise 19.0
+Call,raise 14.0
+Call,check
+Call,fold
+Call,fold
+Fold,fold
+Call,fold
+Call,fold
+Call,call
+Call,check
+Call,check
+Call,call
+Call,call
+Call,fold
+Call,call
+Call,raise 11.0
+Call,check
+Call,fold
+Call,fold
+Call,call
+Call,call
+Call 6.5,raise 13.1
+Call,check
+Call,check
+Call,check
+Call,check
+Call,call
+Call,fold
+Call,check
+Call,fold
+Call,raise 11.5
+Call,fold
+Call,check
+Call,call
+Call,fold
+Call,check
+Call,check
+Call,raise 24.1
+Call,check
+Call,raise 11.0
+Call,call
+Call,raise 15.0
+Call,fold
+Call 30.1,fold
+Call,fold
+Call,check
+Call,call
+Raise,raise 2.0
+Call,check
+Call,fold
+Call,fold
+Call,fold
+Call,raise 2.3
+Call,raise 2.5
+Call,check
+Call 14.0,fold
+Call,fold
+Call,call
+Call,raise 3.0
+Call,call
+Call,check
+Call,fold
+Call,call
+Call,fold
+Call,fold
+Call,call
+Call,check
+Call,fold
+Call,check
+Call,fold
+Call,fold
+Call,call
+Call,raise 31.0
+Call,fold
+Call,call
+Call,check
+Call,check
+Call,raise 12.3
+Call,raise 6.5
+Call,check
+Call,check
+Call,fold
+Call 4.0,fold
+Call,call
+Call,call
+Call,fold
+Call 24.0,fold
+Call 6.5,raise 13.1
+Call,check
+Call,raise 2.0
+Call,check
+Call,fold
+Fold,fold
+Call,fold
+Call,fold
+Call,check
+Call,fold
+Call,fold
+Call,call
+Call,check
+Call,check
+Call 32.0,call
+Call,fold
+Call,raise 6.5
+Call,check
+Call,raise 3.0
+Fold,fold
+Call,call
+Call,fold
+Call,call
+Call,fold
+Call,check
+Call,raise 7.5
+Call,raise 11.0
+Call,check
+Call,fold
+Call,call
+Call,call
+Call,call
+Call,fold
+Call,check
+Call,call
+Call,fold
+Call,fold
+Call,fold
+Call,fold
+Call,fold
+Call,raise 9.5
+Call,call
+Call,raise 22.0
+Call,check
+Call,call
+Call,check
+Call,call
+Call 7.5,call
+Call,call
+Call,fold
+Call,check
+Call,check
+Call,fold
+Call,call
+Call,raise 22.0
+Call,raise 15.0
+Call,call
+Call,check
+Call,fold
+Call 7.5,raise 21.0
+Call,check
+Call,fold
+Call,fold
+Call,check
+Call,raise 3.0
+Call,raise 23.0
+Call,raise 2.0
+Call,check
+Call,fold
+Call,check
+Call,raise 2.5
+Call,call
+Call,raise 10.0
+Call,fold
+Call,raise 2.0
+Call,check
+Call,check
+Raise to 3 chips.,raise 2.0
+Call,call
+Call,raise 3.0
+Call,raise 14.0
+Call,check
+Call,check
+Fold,fold
+Call,call
+Call,raise 3.0
+Call,check
+Call,raise 2.0
+Call,fold
+Call,call
+Call,fold
+Call,call
+Fold,fold
+Call,call
+Call,raise 12.5
+Call,raise 27.0
+Call,check
+Call,raise 3.0
+Call,fold
+Call,call
+Call,fold
+Call,fold
+Call,call
+Raise 15.0,call
+Raise 40.0,fold
+Call,check
+Call,check
+Call,fold
+Raise,raise 2.3
+Call,call
+Call,check
+Call,call
+Call,raise 9.5
+Call,call
+Call,check
+Call,check
+Call,raise 11.0
+Call,call
+Call,check
+Call,raise 13.0
+Call,check
+Call 19.0,raise 34.4
+Call,fold
+Call,check
+Call,fold
+Call,check
+Call,check
+Call,raise 13.0
+Call,fold
+Call,raise 11.5
+Call,check
+Fold,fold
+Call,check
+Call,raise 2.5
+Call 24.0,call
+Fold,fold
+Call,check
+Call,check
+Call,check
+Call,call
+Call,fold
+Call,check
+Call,fold
+Call 31.2,fold
+Call 34.0,fold
+Call,fold
+Call,raise 7.5
+Call,raise 15.0
+Call,call
+Call,fold
+Call,call
+Call,raise 14.5
+Call,call
+Call,call
+Call,call
+Call,call
+Call,call
+Fold,fold
+Call 14.0,fold
+Call,check
+Call,check
+Call,check
+Call,check
+Call,call
+Call,raise 9.5
+Call,raise 14.0
+Call,fold
+Call,check
+Call,call
+Call,fold
+Call,check
+Call,raise 7.5
+Call,fold
+Call,call
+Call,fold
+Call,call
+Call,call
+Call,check
+Call,check
+Call,call
+Call,fold
+Call,fold
+Call 24.0,fold
+Call,fold
+Call,check
+Call,check
+Call,raise 26.0
+Call,check
+Call,check
+Call 6.5,raise 20.0
+Call,raise 3.0
+Call,check
+Call,check
+Raise,raise 3.0
+Call 6.5,raise 14.0
+Call,call
+Call,fold
+Call 28.0,call
+Call,check
+Call,check
+Call 17.5,raise 35.0
+Call,check
+Call,check
+Call,fold
+Fold,fold
+Call,raise 15.0
+Call,raise 3.0
+Call,fold
+Call 7.5,raise 20.0
+Call,raise 14.0
+Call,check
+Call,call
+Call,check
+Call,check
+Call,call
+Call,call
+Call,call
+Call,raise 2.5
+Call,raise 15.0
+Raise,raise 2.3
+Call,raise 12.5
+Call,raise 5.0
+Raise,raise 2.0
+Call,check
+Call,fold
+Call,check
+Call,call
+Call,raise 2.0
+Call,raise 12.5
+Call,check
+Call,check
+Call,check
+Call,call
+Call,raise 11.0
+Call,call
+Call,check
+Call,call
+Call,call
+Call 30.1,fold
+Call,call
+Call 30.0,call
+Call,call
+Call,raise 18.0
+Call,raise 2.5
+Call,call
+Call,raise 5.0
+Call,raise 28.0
+Fold,fold
+Call,raise 11.0
+Call,fold
+Call,fold
+Call,raise 10.0
+Call,call
+Call,fold
+Call,call
+Call,raise 13.0
+Call 10.0,raise 19.0
+Call,call
+Call,check
+Call,check
+Call,call
+Call,check
+Call 10.0,call
+Call,call
+Call,check
+Call,check
+Call,check
+Call,call
+Call,raise 23.0
+Call,raise 3.0
+Call,raise 3.0
+Call,check
+Call,call
+All-in,call
+Call,call
+Call,check
+Call,call
+Call,call
+Call 6.5,raise 19.0
+Call,call
+Call,fold
+Call,check
+Call,raise 2.5
+Call,check
+Call 6.5,raise 17.5
+Raise 30.0 chips,call
+Call 10.0,fold
+Call,check
+Call 30.1,fold
+Call,check
+Call,check
+Call,call
+Call,check
+Fold,fold
+Call,fold
+Call,raise 2.0
+Call,check
+Call,call
+Call,fold
+Call,check
+Call,call
+Call,raise 14.0
+Call,call
+Call 16.0,call
+Fold,fold
+Call,check
+Call,fold
+Call,call
+Call,fold
+Call,call
+Call,check
+Fold,fold
+Call,check
+Call,check
+Call,call
+Call,check
+Call,fold
+Call,check
+Call,raise 2.3
+Call,check
+Call,check
+Call,call
+Call,fold
+Call,call
+Call,call
+Raise,raise 2.0
+Call 18.0,call
+Call,raise 12.0
+Call,call
+Call,check
+Call,check
+Call,raise 3.0
+Call,raise 11.0
+Call,fold
+Call,fold
+Call,call
+Call,call
+Call,check
+Call,call
+Call,fold
+Call,raise 15.0
+Call,raise 27.0
+Call 30.5,call
+Call,raise 13.0
+Call,fold
+Call,raise 13.5
+Call,check
+Call,call
+Call,fold
+Call,call
+Call,call
+Call,check
+Call,fold
+Call,check
+Call,fold
+Call,check
+Call,call
+Call,fold
+Call,check
+Fold,fold
+Call,raise 23.0
+Call,check
+Call,call
+Call,call
+Call,check
+Call,raise 25.0
+Call,raise 3.0
+Call,call
+Call,call
+Call,call
+Fold,fold
+Call,fold
+Call,check
+Call,raise 2.0
+Call,call
+Call,call
+Call,fold
+Call,call
+Call,raise 14.0
+Call,call
+Call,fold
+Call,raise 2.5
+Call,raise 25.0
+Call,call
+Call,call
+Call,check
+Call,check
+Call,call
+Call,fold
+Call 6.5,raise 18.0
+Call,check
+Call,fold
+Call,call
+Call,check
+Call,call
+Call,check
+Call,fold
+Call,raise 10.0
+Call,fold
+Call,check
+Call,check
+Call,call
+Call 6.5,raise 20.0
+Call,call
+Call,call
+Call,fold
+Call,fold
+Call,fold
+Call,check
+Call 6.5,fold
+Call,check
+Call,fold
+Call,raise 10.0
+Call,raise 14.0
+Call,call
+Call,check
+Call,raise 2.0
+Fold,fold
+Call,check
+Call,check
+Call,check
+Call,raise 2.3
+Call,fold
+Call,call
+Call,check
+Call,check
+Call,check
+Call,fold
+Call,fold
+Call,fold
+Call 6.5,raise 14.0
+Call,raise 7.5
+Call,check
+Call,fold
+Call,call
+Call,fold
+Call,check
+Call 28.0,fold
+Call,call
+Call,call
+Call,raise 14.0
+Call,call
+Call,raise 29.2
+Call,call
+Call,check
+Call,fold
+Call 30.0,call
+Call,check
+Call 10.0,raise 21.0
+Call,check
+Call,fold
+Fold,check
+Call,call
+Fold,raise 27.0
+Call,call
+Call,fold
+Call,check
+Call,check
+Call,fold
+Call,call
+Call,check
+Call,call
+Call,fold
+Call,check
+Call,call
+Call,call
+Call,raise 2.3
+Call,call
+Call,call
+Call,raise 11.0
+Call,raise 9.5
+Call,check
+Call,raise 11.0
+Call,check
+Call,raise 3.0
+Call 19.0,call
+Call,fold
+Call,raise 3.0
+Call,raise 11.0
+Call 13.1,fold
+Call,fold
+Call,fold
+Call,raise 12.5
+Call,raise 6.5
+Call,call
+Call,call
+Call,call
+Call,call
+Call 9.5,raise 24.3
+Fold,raise 23.0
+Call,fold
+Call,raise 12.0
+Call,check
+Call,check
+Fold,fold
+Call,raise 29.6
+Call,raise 13.0
+Call 6.5,fold
+Call,raise 12.5
+Call,call
+Call,call
+Call,raise 2.5
+Call,check
+Call,raise 18.0
+Call,check
+Call,check
+Call,check
+Call,raise 6.5
+Call 12.0,call
+Call,call
+Call,check
+Call,call
+Fold,fold
+Raise to 3 chips.,raise 2.5
+All-in,call
+Call,check
+Call,raise 3.0
+Call 31.0,call
+Call,fold
+Call,check
+Call,fold
+Call 7.5 chips,raise 21.0
+Call,check
+Call,fold
+Call 30.0,call
+Call,call
+Call,raise 11.0
+Call,call
+Call,check
+Call,raise 23.0
+Call,fold
+Call,call
+Call 6.5,raise 19.0
+Call,call
+Call,call
+Call,check
+Call,check
+Call,raise 6.5
+Raise 20.0,call
+Call,call
+Call 6.5,raise 19.0
+Call,call
+Call,fold
+Call,check
+Call 6.5,raise 18.0
+Call,call
+Call,call
+Call,raise 10.0
+Call,call
+Call,raise 21.0
+Call 20.0,raise 35.0
+Call,call
+Call,fold
+Call,fold
+Call,check
+Call,fold
+Call,fold
+Call,fold
+Call,check
+Call,raise 2.5
+Call,call
+Call,fold
+Call,raise 10.0
+Call,call
+Call,check
+Call,raise 3.0
+Call 14.0,raise 26.0
+Call,fold
+Call,call
+Call 8.0 chips,raise 19.0
+Call,fold
+Call 6.5,fold
+Call,check
+Call,raise 14.0
+Call,fold
+Call,call
+Call,raise 14.0
+Call,call
+Call,fold
+Call,raise 11.0
+Call,call
+Call,raise 2.0
+Call,call
+Call,call
+Call,call
+Call,fold
+Call,check
+Call,raise 2.5
+Call,raise 5.0
+Call,call
+Call,check
+Call,raise 15.0
+Call 30.1,call
+Call,call
+Call,call
+Call,check
+Call,check
+Call,fold
+Call,raise 2.5
+Call,raise 26.0
+Call,check
+Call,raise 21.0
+Call,fold
+Call,check
+Call,check
+Call,call
+Call,check
+Call,call
+Call,call
+Call,fold
+Call,raise 3.0
+Call,raise 11.0
+Call,call
+Call,raise 14.0
+Call,fold
+Call,raise 9.5
+Call,fold
+Call,check
+Call,call
+Call,raise 14.0
+Call,fold
+Call,check
+Call 10.0,raise 19.0
+Call,raise 16.0
+Call,call
+Call,fold
+Call,raise 22.0
+Call,call
+Call,check
+Call,call
+Call,check
+Call,raise 12.5
+Call,call
+Call,call
+Call,raise 9.5
+Fold,call
+Call,raise 15.0
+Call,raise 20.0
+Call 6.5,raise 18.0
+Call 26.2,fold
+Call,check
+Call,check
+Call,call
+Call,fold
+Call,check
+Call,fold
+Call,check
+Call,check
+Call,check
+Call,check
+Call,call
+Call,check
+Call,fold
+Call,call
+Call,raise 11.0
+Call,check
+Call,check
+Call 14.0,fold
+Call,check
+Call,call
+Call,fold
+Call,raise 3.0
+Call,raise 5.0
+Call,call
+Call,check
+Call,check
+Call 14.0,call
+Call,raise 14.0
+Call,call
+Call,call
+Call,raise 14.5
+Call,fold
+Call 7.5 chips,raise 20.0
+Call,raise 14.5
+Call,call
+Call,fold
+Call,raise 13.5
+Call,check
+Fold,fold
+Call,raise 6.5
+Call,check
+Call,fold
+Call,raise 11.5
+Call,check
+Call,call
+Call,call
+Call,raise 2.0
+Call,call
+Call,fold
+Call,check
+Fold,fold
+Call,call
+Call 13.0,call
+Call,call
+Call,fold
+Call,check
+Raise,raise 2.3
+Fold,fold
+Call,call
+Call,fold
+Call,raise 3.0
+Call,fold
+Call,raise 2.3
+Call,call
+Call,check
+Call,raise 3.0
+Call,raise 11.5
+Call,fold
+Call,check
+Fold,fold
+Call,call
+Call,fold
+Call 23.0,fold
+Call,raise 9.5
+Call,raise 3.0
+Call,fold
+Call 6.5,fold
+Call,fold
+Call,raise 11.0
+Call,fold
+Call,check
+Call 14.0,fold
+Call,check
+Call,call
+Call,call
+Call,check
+Call,raise 2.0
+Call,check
+Call 26.0,fold
+Call,call
+Call,raise 3.0
+Call,check
+Call,call
+Call,fold
+Call,raise 2.5
+Call,fold
+Call,call
+Call,raise 29.2
+Call,raise 3.0
+Call,raise 15.0
+Call,check
+Call,check
+Call,fold
+Call,check
+Call,raise 11.0
+Call,call
+Call,fold
+Call,raise 11.0
+Call,check
+Call,call
+Call,check
+Call,call
+Fold,fold
+Call,call
+Call,raise 3.0
+Call,raise 11.5
+Call 11.0,call
+Call,fold
+Call,check
+Call,raise 15.0
+Call,check
+Call,raise 3.0
+Call,raise 14.0
+Call,check
+Call,fold
+Call,fold
+Fold,fold
+Call,raise 12.0
+Call,fold
+Call,fold
+Call,check
+Call,check
+Call,call
+Call,fold
+Call,check
+Call,fold
+Call,check
+Fold,fold
+Call,check
+Call,call
+Call,call
+Call,check
+Raise 24.1,call
+Call,check
+Call,raise 14.0
+Call,raise 20.0
+Call 7.5,fold
+Call,call
+Call,raise 12.0
+Call,raise 15.0
+Call,check
+Call 30.0,fold
+Call,fold
+Call,fold
+Call,check
+Call,call
+Fold,fold
+Call,raise 14.0
+Call,call
+Call,call
+Call,call
+Call,raise 5.0
+Call,fold
+Call,check
+Call,check
+Call,fold
+Call,raise 14.0
