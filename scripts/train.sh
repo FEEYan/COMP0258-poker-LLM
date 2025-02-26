@@ -1,9 +1,10 @@
 # Install unbuffer if needed: brew install expect
 fine_tune_type="lora"
 model="meta-llama/Meta-Llama-3-8B-Instruct"  # Add this line
-job_name="${fine_tune_type}-Meta-Llama-3-8B-Instruct"
+job_name="${fine_tune_type}-Meta-Llama-3-8B-Instruct-lr-6"
 data_path=../data/poker-total
 output_path_base=../adapters/${job_name}
+adapter_file=../adapters/${job_name}/adapters.safetensors
 log_dir="../logs"
 mkdir -p "$log_dir"
 log_file="$log_dir/${job_name}.log"
@@ -17,6 +18,7 @@ python -m mlx_lm.lora \
     --test \
     --fine-tune-type $fine_tune_type \
     --adapter-path $output_path_base \
+    --resume-adapter-file $adapter_file\
     --model $model \
     --data $data_path \
     --iters 5000 \
