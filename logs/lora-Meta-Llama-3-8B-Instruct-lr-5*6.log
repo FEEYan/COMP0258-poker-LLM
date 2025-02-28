@@ -1,0 +1,163 @@
+Start time: Wed 26 Feb 2025 21:16:15 GMT
+Loading pretrained model
+Fetching 11 files:   0%|                                                                                   | 0/11 [00:00<?, ?it/s]Fetching 11 files: 100%|███████████████████████████████████████████████████████████████████████| 11/11 [00:00<00:00, 64347.76it/s]
+Loading datasets
+Training
+Loading fine-tuned weights from ../adapters/lora-Meta-Llama-3-8B-Instruct-lr-5/adapters.safetensors
+Trainable parameters: 0.042% (3.408M/8030.261M)
+Starting training..., iters: 5000
+Iter 1: Val loss 0.076, Val took 27.946s
+Iter 100: Val loss 0.078, Val took 42.892s
+Iter 100: Train loss 0.078, Learning Rate 1.000e-06, It/sec 38.848, Tokens/sec 22620.594, Trained Tokens 58228, Peak mem 22.077 GB
+Iter 100: Saved adapter weights to ../adapters/lora-Meta-Llama-3-8B-Instruct-lr-5*6/adapters.safetensors and ../adapters/lora-Meta-Llama-3-8B-Instruct-lr-5*6/0000100_adapters.safetensors.
+Iter 200: Val loss 0.075, Val took 29.426s
+Iter 200: Train loss 0.076, Learning Rate 1.000e-06, It/sec 40.949, Tokens/sec 23851.934, Trained Tokens 116476, Peak mem 22.140 GB
+Iter 200: Saved adapter weights to ../adapters/lora-Meta-Llama-3-8B-Instruct-lr-5*6/adapters.safetensors and ../adapters/lora-Meta-Llama-3-8B-Instruct-lr-5*6/0000200_adapters.safetensors.
+Iter 300: Val loss 0.074, Val took 28.181s
+Iter 300: Train loss 0.076, Learning Rate 1.000e-06, It/sec 40.577, Tokens/sec 23844.380, Trained Tokens 175240, Peak mem 22.299 GB
+Iter 300: Saved adapter weights to ../adapters/lora-Meta-Llama-3-8B-Instruct-lr-5*6/adapters.safetensors and ../adapters/lora-Meta-Llama-3-8B-Instruct-lr-5*6/0000300_adapters.safetensors.
+Iter 400: Val loss 0.075, Val took 28.963s
+Iter 400: Train loss 0.073, Learning Rate 1.000e-06, It/sec 35.512, Tokens/sec 21011.966, Trained Tokens 234408, Peak mem 22.299 GB
+Iter 400: Saved adapter weights to ../adapters/lora-Meta-Llama-3-8B-Instruct-lr-5*6/adapters.safetensors and ../adapters/lora-Meta-Llama-3-8B-Instruct-lr-5*6/0000400_adapters.safetensors.
+Iter 500: Val loss 0.077, Val took 111.614s
+Iter 500: Train loss 0.075, Learning Rate 1.000e-06, It/sec 42.778, Tokens/sec 25001.344, Trained Tokens 292852, Peak mem 22.299 GB
+Iter 500: Saved adapter weights to ../adapters/lora-Meta-Llama-3-8B-Instruct-lr-5*6/adapters.safetensors and ../adapters/lora-Meta-Llama-3-8B-Instruct-lr-5*6/0000500_adapters.safetensors.
+Iter 600: Val loss 0.072, Val took 28.781s
+Iter 600: Train loss 0.072, Learning Rate 1.000e-06, It/sec 39.096, Tokens/sec 22816.536, Trained Tokens 351212, Peak mem 22.299 GB
+Iter 600: Saved adapter weights to ../adapters/lora-Meta-Llama-3-8B-Instruct-lr-5*6/adapters.safetensors and ../adapters/lora-Meta-Llama-3-8B-Instruct-lr-5*6/0000600_adapters.safetensors.
+Iter 700: Val loss 0.073, Val took 28.736s
+Iter 700: Train loss 0.073, Learning Rate 1.000e-06, It/sec 18.976, Tokens/sec 11040.896, Trained Tokens 409394, Peak mem 22.299 GB
+Iter 700: Saved adapter weights to ../adapters/lora-Meta-Llama-3-8B-Instruct-lr-5*6/adapters.safetensors and ../adapters/lora-Meta-Llama-3-8B-Instruct-lr-5*6/0000700_adapters.safetensors.
+Iter 800: Val loss 0.072, Val took 29.574s
+Iter 800: Train loss 0.074, Learning Rate 1.000e-06, It/sec 44.575, Tokens/sec 25967.439, Trained Tokens 467650, Peak mem 22.299 GB
+Iter 800: Saved adapter weights to ../adapters/lora-Meta-Llama-3-8B-Instruct-lr-5*6/adapters.safetensors and ../adapters/lora-Meta-Llama-3-8B-Instruct-lr-5*6/0000800_adapters.safetensors.
+Iter 900: Val loss 0.072, Val took 29.799s
+Iter 900: Train loss 0.073, Learning Rate 1.000e-06, It/sec 39.043, Tokens/sec 22574.591, Trained Tokens 525470, Peak mem 22.299 GB
+Iter 900: Saved adapter weights to ../adapters/lora-Meta-Llama-3-8B-Instruct-lr-5*6/adapters.safetensors and ../adapters/lora-Meta-Llama-3-8B-Instruct-lr-5*6/0000900_adapters.safetensors.
+Iter 1000: Val loss 0.073, Val took 67.937s
+Iter 1000: Train loss 0.072, Learning Rate 1.000e-06, It/sec 45.358, Tokens/sec 26910.390, Trained Tokens 584799, Peak mem 22.299 GB
+Iter 1000: Saved adapter weights to ../adapters/lora-Meta-Llama-3-8B-Instruct-lr-5*6/adapters.safetensors and ../adapters/lora-Meta-Llama-3-8B-Instruct-lr-5*6/0001000_adapters.safetensors.
+Iter 1100: Val loss 0.073, Val took 27.958s
+Iter 1100: Train loss 0.075, Learning Rate 1.000e-06, It/sec 44.806, Tokens/sec 25995.637, Trained Tokens 642817, Peak mem 22.299 GB
+Iter 1100: Saved adapter weights to ../adapters/lora-Meta-Llama-3-8B-Instruct-lr-5*6/adapters.safetensors and ../adapters/lora-Meta-Llama-3-8B-Instruct-lr-5*6/0001100_adapters.safetensors.
+Iter 1200: Val loss 0.078, Val took 28.372s
+Iter 1200: Train loss 0.074, Learning Rate 1.000e-06, It/sec 43.967, Tokens/sec 25734.978, Trained Tokens 701349, Peak mem 22.299 GB
+Iter 1200: Saved adapter weights to ../adapters/lora-Meta-Llama-3-8B-Instruct-lr-5*6/adapters.safetensors and ../adapters/lora-Meta-Llama-3-8B-Instruct-lr-5*6/0001200_adapters.safetensors.
+Iter 1300: Val loss 0.073, Val took 29.559s
+Iter 1300: Train loss 0.071, Learning Rate 1.000e-06, It/sec 39.184, Tokens/sec 23119.921, Trained Tokens 760353, Peak mem 22.299 GB
+Iter 1300: Saved adapter weights to ../adapters/lora-Meta-Llama-3-8B-Instruct-lr-5*6/adapters.safetensors and ../adapters/lora-Meta-Llama-3-8B-Instruct-lr-5*6/0001300_adapters.safetensors.
+Iter 1400: Val loss 0.071, Val took 30.199s
+Iter 1400: Train loss 0.072, Learning Rate 1.000e-06, It/sec 41.539, Tokens/sec 24700.265, Trained Tokens 819816, Peak mem 22.299 GB
+Iter 1400: Saved adapter weights to ../adapters/lora-Meta-Llama-3-8B-Instruct-lr-5*6/adapters.safetensors and ../adapters/lora-Meta-Llama-3-8B-Instruct-lr-5*6/0001400_adapters.safetensors.
+Iter 1500: Val loss 0.073, Val took 31.550s
+Iter 1500: Train loss 0.072, Learning Rate 1.000e-06, It/sec 43.156, Tokens/sec 25278.966, Trained Tokens 878392, Peak mem 22.299 GB
+Iter 1500: Saved adapter weights to ../adapters/lora-Meta-Llama-3-8B-Instruct-lr-5*6/adapters.safetensors and ../adapters/lora-Meta-Llama-3-8B-Instruct-lr-5*6/0001500_adapters.safetensors.
+Iter 1600: Val loss 0.074, Val took 30.100s
+Iter 1600: Train loss 0.072, Learning Rate 1.000e-06, It/sec 35.005, Tokens/sec 20562.637, Trained Tokens 937134, Peak mem 22.299 GB
+Iter 1600: Saved adapter weights to ../adapters/lora-Meta-Llama-3-8B-Instruct-lr-5*6/adapters.safetensors and ../adapters/lora-Meta-Llama-3-8B-Instruct-lr-5*6/0001600_adapters.safetensors.
+Iter 1700: Val loss 0.075, Val took 30.741s
+Iter 1700: Train loss 0.072, Learning Rate 1.000e-06, It/sec 48.589, Tokens/sec 28620.183, Trained Tokens 996036, Peak mem 22.299 GB
+Iter 1700: Saved adapter weights to ../adapters/lora-Meta-Llama-3-8B-Instruct-lr-5*6/adapters.safetensors and ../adapters/lora-Meta-Llama-3-8B-Instruct-lr-5*6/0001700_adapters.safetensors.
+Iter 1800: Val loss 0.073, Val took 30.940s
+Iter 1800: Train loss 0.074, Learning Rate 1.000e-06, It/sec 40.631, Tokens/sec 23686.975, Trained Tokens 1054334, Peak mem 22.299 GB
+Iter 1800: Saved adapter weights to ../adapters/lora-Meta-Llama-3-8B-Instruct-lr-5*6/adapters.safetensors and ../adapters/lora-Meta-Llama-3-8B-Instruct-lr-5*6/0001800_adapters.safetensors.
+Iter 1900: Val loss 0.072, Val took 26.494s
+Iter 1900: Train loss 0.071, Learning Rate 1.000e-06, It/sec 42.465, Tokens/sec 25197.198, Trained Tokens 1113670, Peak mem 22.299 GB
+Iter 1900: Saved adapter weights to ../adapters/lora-Meta-Llama-3-8B-Instruct-lr-5*6/adapters.safetensors and ../adapters/lora-Meta-Llama-3-8B-Instruct-lr-5*6/0001900_adapters.safetensors.
+Iter 2000: Val loss 0.070, Val took 31.556s
+Iter 2000: Train loss 0.074, Learning Rate 1.000e-06, It/sec 37.423, Tokens/sec 21960.377, Trained Tokens 1172352, Peak mem 22.299 GB
+Iter 2000: Saved adapter weights to ../adapters/lora-Meta-Llama-3-8B-Instruct-lr-5*6/adapters.safetensors and ../adapters/lora-Meta-Llama-3-8B-Instruct-lr-5*6/0002000_adapters.safetensors.
+Iter 2100: Val loss 0.073, Val took 29.232s
+Iter 2100: Train loss 0.071, Learning Rate 1.000e-06, It/sec 40.149, Tokens/sec 23623.824, Trained Tokens 1231192, Peak mem 22.299 GB
+Iter 2100: Saved adapter weights to ../adapters/lora-Meta-Llama-3-8B-Instruct-lr-5*6/adapters.safetensors and ../adapters/lora-Meta-Llama-3-8B-Instruct-lr-5*6/0002100_adapters.safetensors.
+Iter 2200: Val loss 0.071, Val took 35.021s
+Iter 2200: Train loss 0.072, Learning Rate 1.000e-06, It/sec 15.784, Tokens/sec 9193.875, Trained Tokens 1289440, Peak mem 22.299 GB
+Iter 2200: Saved adapter weights to ../adapters/lora-Meta-Llama-3-8B-Instruct-lr-5*6/adapters.safetensors and ../adapters/lora-Meta-Llama-3-8B-Instruct-lr-5*6/0002200_adapters.safetensors.
+Iter 2300: Val loss 0.072, Val took 108.561s
+Iter 2300: Train loss 0.073, Learning Rate 1.000e-06, It/sec 41.108, Tokens/sec 24235.508, Trained Tokens 1348396, Peak mem 22.299 GB
+Iter 2300: Saved adapter weights to ../adapters/lora-Meta-Llama-3-8B-Instruct-lr-5*6/adapters.safetensors and ../adapters/lora-Meta-Llama-3-8B-Instruct-lr-5*6/0002300_adapters.safetensors.
+Iter 2400: Val loss 0.074, Val took 29.640s
+Iter 2400: Train loss 0.072, Learning Rate 1.000e-06, It/sec 43.229, Tokens/sec 25389.446, Trained Tokens 1407128, Peak mem 22.299 GB
+Iter 2400: Saved adapter weights to ../adapters/lora-Meta-Llama-3-8B-Instruct-lr-5*6/adapters.safetensors and ../adapters/lora-Meta-Llama-3-8B-Instruct-lr-5*6/0002400_adapters.safetensors.
+Iter 2500: Val loss 0.072, Val took 27.296s
+Iter 2500: Train loss 0.071, Learning Rate 1.000e-06, It/sec 21.993, Tokens/sec 12987.893, Trained Tokens 1466184, Peak mem 22.299 GB
+Iter 2500: Saved adapter weights to ../adapters/lora-Meta-Llama-3-8B-Instruct-lr-5*6/adapters.safetensors and ../adapters/lora-Meta-Llama-3-8B-Instruct-lr-5*6/0002500_adapters.safetensors.
+Iter 2600: Val loss 0.071, Val took 37.864s
+Iter 2600: Train loss 0.072, Learning Rate 1.000e-06, It/sec 19.575, Tokens/sec 11497.040, Trained Tokens 1524916, Peak mem 22.299 GB
+Iter 2600: Saved adapter weights to ../adapters/lora-Meta-Llama-3-8B-Instruct-lr-5*6/adapters.safetensors and ../adapters/lora-Meta-Llama-3-8B-Instruct-lr-5*6/0002600_adapters.safetensors.
+Iter 2700: Val loss 0.073, Val took 37.005s
+Iter 2700: Train loss 0.071, Learning Rate 1.000e-06, It/sec 43.189, Tokens/sec 25121.909, Trained Tokens 1583084, Peak mem 22.299 GB
+Iter 2700: Saved adapter weights to ../adapters/lora-Meta-Llama-3-8B-Instruct-lr-5*6/adapters.safetensors and ../adapters/lora-Meta-Llama-3-8B-Instruct-lr-5*6/0002700_adapters.safetensors.
+Iter 2800: Val loss 0.073, Val took 28.695s
+Iter 2800: Train loss 0.072, Learning Rate 1.000e-06, It/sec 37.767, Tokens/sec 21929.976, Trained Tokens 1641150, Peak mem 22.299 GB
+Iter 2800: Saved adapter weights to ../adapters/lora-Meta-Llama-3-8B-Instruct-lr-5*6/adapters.safetensors and ../adapters/lora-Meta-Llama-3-8B-Instruct-lr-5*6/0002800_adapters.safetensors.
+Iter 2900: Val loss 0.074, Val took 27.291s
+Iter 2900: Train loss 0.072, Learning Rate 1.000e-06, It/sec 43.994, Tokens/sec 25635.953, Trained Tokens 1699422, Peak mem 22.299 GB
+Iter 2900: Saved adapter weights to ../adapters/lora-Meta-Llama-3-8B-Instruct-lr-5*6/adapters.safetensors and ../adapters/lora-Meta-Llama-3-8B-Instruct-lr-5*6/0002900_adapters.safetensors.
+Iter 3000: Val loss 0.073, Val took 28.919s
+Iter 3000: Train loss 0.072, Learning Rate 1.000e-06, It/sec 41.143, Tokens/sec 24298.120, Trained Tokens 1758480, Peak mem 22.299 GB
+Iter 3000: Saved adapter weights to ../adapters/lora-Meta-Llama-3-8B-Instruct-lr-5*6/adapters.safetensors and ../adapters/lora-Meta-Llama-3-8B-Instruct-lr-5*6/0003000_adapters.safetensors.
+Iter 3100: Val loss 0.076, Val took 32.244s
+Iter 3100: Train loss 0.072, Learning Rate 1.000e-06, It/sec 38.267, Tokens/sec 22465.804, Trained Tokens 1817188, Peak mem 22.299 GB
+Iter 3100: Saved adapter weights to ../adapters/lora-Meta-Llama-3-8B-Instruct-lr-5*6/adapters.safetensors and ../adapters/lora-Meta-Llama-3-8B-Instruct-lr-5*6/0003100_adapters.safetensors.
+Iter 3200: Val loss 0.073, Val took 35.260s
+Iter 3200: Train loss 0.072, Learning Rate 1.000e-06, It/sec 39.732, Tokens/sec 23366.982, Trained Tokens 1876000, Peak mem 22.299 GB
+Iter 3200: Saved adapter weights to ../adapters/lora-Meta-Llama-3-8B-Instruct-lr-5*6/adapters.safetensors and ../adapters/lora-Meta-Llama-3-8B-Instruct-lr-5*6/0003200_adapters.safetensors.
+Iter 3300: Val loss 0.071, Val took 29.030s
+Iter 3300: Train loss 0.074, Learning Rate 1.000e-06, It/sec 36.886, Tokens/sec 21410.054, Trained Tokens 1934044, Peak mem 22.299 GB
+Iter 3300: Saved adapter weights to ../adapters/lora-Meta-Llama-3-8B-Instruct-lr-5*6/adapters.safetensors and ../adapters/lora-Meta-Llama-3-8B-Instruct-lr-5*6/0003300_adapters.safetensors.
+Iter 3400: Val loss 0.072, Val took 28.778s
+Iter 3400: Train loss 0.070, Learning Rate 1.000e-06, It/sec 41.320, Tokens/sec 24547.937, Trained Tokens 1993454, Peak mem 22.299 GB
+Iter 3400: Saved adapter weights to ../adapters/lora-Meta-Llama-3-8B-Instruct-lr-5*6/adapters.safetensors and ../adapters/lora-Meta-Llama-3-8B-Instruct-lr-5*6/0003400_adapters.safetensors.
+Iter 3500: Val loss 0.076, Val took 37.210s
+Iter 3500: Train loss 0.071, Learning Rate 1.000e-06, It/sec 14.115, Tokens/sec 8335.471, Trained Tokens 2052508, Peak mem 22.299 GB
+Iter 3500: Saved adapter weights to ../adapters/lora-Meta-Llama-3-8B-Instruct-lr-5*6/adapters.safetensors and ../adapters/lora-Meta-Llama-3-8B-Instruct-lr-5*6/0003500_adapters.safetensors.
+Iter 3600: Val loss 0.071, Val took 70.271s
+Iter 3600: Train loss 0.070, Learning Rate 1.000e-06, It/sec 38.422, Tokens/sec 22631.291, Trained Tokens 2111410, Peak mem 22.299 GB
+Iter 3600: Saved adapter weights to ../adapters/lora-Meta-Llama-3-8B-Instruct-lr-5*6/adapters.safetensors and ../adapters/lora-Meta-Llama-3-8B-Instruct-lr-5*6/0003600_adapters.safetensors.
+Iter 3700: Val loss 0.071, Val took 28.024s
+Iter 3700: Train loss 0.069, Learning Rate 1.000e-06, It/sec 42.999, Tokens/sec 25601.402, Trained Tokens 2170950, Peak mem 22.299 GB
+Iter 3700: Saved adapter weights to ../adapters/lora-Meta-Llama-3-8B-Instruct-lr-5*6/adapters.safetensors and ../adapters/lora-Meta-Llama-3-8B-Instruct-lr-5*6/0003700_adapters.safetensors.
+Iter 3800: Val loss 0.071, Val took 27.967s
+Iter 3800: Train loss 0.072, Learning Rate 1.000e-06, It/sec 40.342, Tokens/sec 23538.983, Trained Tokens 2229298, Peak mem 22.299 GB
+Iter 3800: Saved adapter weights to ../adapters/lora-Meta-Llama-3-8B-Instruct-lr-5*6/adapters.safetensors and ../adapters/lora-Meta-Llama-3-8B-Instruct-lr-5*6/0003800_adapters.safetensors.
+Iter 3900: Val loss 0.072, Val took 29.631s
+Iter 3900: Train loss 0.071, Learning Rate 1.000e-06, It/sec 41.589, Tokens/sec 23905.243, Trained Tokens 2286778, Peak mem 22.299 GB
+Iter 3900: Saved adapter weights to ../adapters/lora-Meta-Llama-3-8B-Instruct-lr-5*6/adapters.safetensors and ../adapters/lora-Meta-Llama-3-8B-Instruct-lr-5*6/0003900_adapters.safetensors.
+Iter 4000: Val loss 0.071, Val took 88.013s
+Iter 4000: Train loss 0.071, Learning Rate 1.000e-06, It/sec 18.153, Tokens/sec 10522.603, Trained Tokens 2344744, Peak mem 22.299 GB
+Iter 4000: Saved adapter weights to ../adapters/lora-Meta-Llama-3-8B-Instruct-lr-5*6/adapters.safetensors and ../adapters/lora-Meta-Llama-3-8B-Instruct-lr-5*6/0004000_adapters.safetensors.
+Iter 4100: Val loss 0.073, Val took 52.687s
+Iter 4100: Train loss 0.071, Learning Rate 1.000e-06, It/sec 38.979, Tokens/sec 22544.444, Trained Tokens 2402582, Peak mem 22.299 GB
+Iter 4100: Saved adapter weights to ../adapters/lora-Meta-Llama-3-8B-Instruct-lr-5*6/adapters.safetensors and ../adapters/lora-Meta-Llama-3-8B-Instruct-lr-5*6/0004100_adapters.safetensors.
+Iter 4200: Val loss 0.075, Val took 29.101s
+Iter 4200: Train loss 0.071, Learning Rate 1.000e-06, It/sec 38.830, Tokens/sec 22646.486, Trained Tokens 2460904, Peak mem 22.299 GB
+Iter 4200: Saved adapter weights to ../adapters/lora-Meta-Llama-3-8B-Instruct-lr-5*6/adapters.safetensors and ../adapters/lora-Meta-Llama-3-8B-Instruct-lr-5*6/0004200_adapters.safetensors.
+Iter 4300: Val loss 0.074, Val took 27.633s
+Iter 4300: Train loss 0.070, Learning Rate 1.000e-06, It/sec 40.297, Tokens/sec 23594.956, Trained Tokens 2519456, Peak mem 22.299 GB
+Iter 4300: Saved adapter weights to ../adapters/lora-Meta-Llama-3-8B-Instruct-lr-5*6/adapters.safetensors and ../adapters/lora-Meta-Llama-3-8B-Instruct-lr-5*6/0004300_adapters.safetensors.
+Iter 4400: Val loss 0.073, Val took 29.703s
+Iter 4400: Train loss 0.070, Learning Rate 1.000e-06, It/sec 42.289, Tokens/sec 24541.391, Trained Tokens 2577488, Peak mem 22.299 GB
+Iter 4400: Saved adapter weights to ../adapters/lora-Meta-Llama-3-8B-Instruct-lr-5*6/adapters.safetensors and ../adapters/lora-Meta-Llama-3-8B-Instruct-lr-5*6/0004400_adapters.safetensors.
+Iter 4500: Val loss 0.074, Val took 36.134s
+Iter 4500: Train loss 0.070, Learning Rate 1.000e-06, It/sec 17.051, Tokens/sec 10127.624, Trained Tokens 2636884, Peak mem 22.299 GB
+Iter 4500: Saved adapter weights to ../adapters/lora-Meta-Llama-3-8B-Instruct-lr-5*6/adapters.safetensors and ../adapters/lora-Meta-Llama-3-8B-Instruct-lr-5*6/0004500_adapters.safetensors.
+Iter 4600: Val loss 0.068, Val took 43.895s
+Iter 4600: Train loss 0.070, Learning Rate 1.000e-06, It/sec 42.200, Tokens/sec 24984.227, Trained Tokens 2696088, Peak mem 22.299 GB
+Iter 4600: Saved adapter weights to ../adapters/lora-Meta-Llama-3-8B-Instruct-lr-5*6/adapters.safetensors and ../adapters/lora-Meta-Llama-3-8B-Instruct-lr-5*6/0004600_adapters.safetensors.
+Iter 4700: Val loss 0.073, Val took 30.743s
+Iter 4700: Train loss 0.070, Learning Rate 1.000e-06, It/sec 30.640, Tokens/sec 17886.289, Trained Tokens 2754464, Peak mem 22.299 GB
+Iter 4700: Saved adapter weights to ../adapters/lora-Meta-Llama-3-8B-Instruct-lr-5*6/adapters.safetensors and ../adapters/lora-Meta-Llama-3-8B-Instruct-lr-5*6/0004700_adapters.safetensors.
+Iter 4800: Val loss 0.074, Val took 29.027s
+Iter 4800: Train loss 0.070, Learning Rate 1.000e-06, It/sec 39.185, Tokens/sec 22931.917, Trained Tokens 2812986, Peak mem 22.299 GB
+Iter 4800: Saved adapter weights to ../adapters/lora-Meta-Llama-3-8B-Instruct-lr-5*6/adapters.safetensors and ../adapters/lora-Meta-Llama-3-8B-Instruct-lr-5*6/0004800_adapters.safetensors.
+Iter 4900: Val loss 0.070, Val took 29.912s
+Iter 4900: Train loss 0.069, Learning Rate 1.000e-06, It/sec 38.460, Tokens/sec 22409.185, Trained Tokens 2871252, Peak mem 22.299 GB
+Iter 4900: Saved adapter weights to ../adapters/lora-Meta-Llama-3-8B-Instruct-lr-5*6/adapters.safetensors and ../adapters/lora-Meta-Llama-3-8B-Instruct-lr-5*6/0004900_adapters.safetensors.
+Iter 5000: Val loss 0.077, Val took 29.585s
+Iter 5000: Train loss 0.069, Learning Rate 1.000e-06, It/sec 39.413, Tokens/sec 23309.011, Trained Tokens 2930392, Peak mem 22.299 GB
+Iter 5000: Saved adapter weights to ../adapters/lora-Meta-Llama-3-8B-Instruct-lr-5*6/adapters.safetensors and ../adapters/lora-Meta-Llama-3-8B-Instruct-lr-5*6/0005000_adapters.safetensors.
+Saved final weights to ../adapters/lora-Meta-Llama-3-8B-Instruct-lr-5*6/adapters.safetensors.
+Testing
+Test loss 0.071, Test ppl 1.074.
+End time: Thu 27 Feb 2025 01:56:43 GMT
