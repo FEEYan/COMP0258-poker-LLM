@@ -1,5 +1,7 @@
 adapters/*
-data/*
+*.json
+*.jsonl
+*/test
 evaluation/*
 models/*
-.DS_Store
+*/.DS_Store
