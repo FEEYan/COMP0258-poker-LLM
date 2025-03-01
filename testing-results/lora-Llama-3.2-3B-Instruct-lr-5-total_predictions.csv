@@ -1,0 +1,11001 @@
+Prediction,Ground Truth
+raise 2.0,check
+raise 18,call
+check,check
+check,bet 2
+check,raise 74
+fold,fold
+call,fold
+call,fold
+check,bet 4
+fold,call
+check,check
+call,call
+fold,fold
+check,check
+call,call
+fold,fold
+check,check
+fold,fold
+raise 81,raise 95
+fold,fold
+call,raise 84
+call,call
+raise 2.5,check
+fold,fold
+check,check
+bet 17,bet 17
+raise 3.0,check
+raise 25,fold
+fold,call
+call,fold
+raise 90,call
+raise 81,raise 83
+raise 2.5,check
+fold,fold
+fold,fold
+check,check
+call,fold
+check,check
+call,fold
+raise 58,fold
+raise 40,raise 41
+call,call
+raise 2.5,check
+raise 58,call
+call,call
+check,check
+raise 11.0,raise 11.0
+raise 74,raise 77
+raise 85,fold
+call,raise 13
+fold,fold
+fold,fold
+check,check
+call,raise 80
+check,check
+raise 88,call
+call,call
+raise 25,raise 25
+check,check
+call,raise 84
+raise 87,call
+check,check
+bet 16,check
+raise 90,fold
+call,fold
+check,bet 5
+call,call
+raise 81,raise 81
+check,check
+check,check
+check,check
+call,call
+fold,fold
+check,check
+call,fold
+call,call
+call,call
+raise 11.0,raise 11.0
+call,raise 19
+call,call
+call,call
+check,check
+raise 3.0,check
+raise 14.0,raise 14.0
+call,raise 84
+fold,fold
+fold,fold
+raise 32,raise 32
+call,call
+check,bet 24
+raise 18,raise 18
+check,check
+call,raise 83
+fold,fold
+call,call
+call,call
+raise 40,raise 41
+raise 39,raise 41
+fold,call
+fold,fold
+call,fold
+raise 14.0,raise 14.5
+check,bet 12
+check,bet 3
+call,raise 92
+check,check
+fold,raise 80
+check,check
+fold,call
+fold,fold
+check,check
+raise 81,call
+check,check
+fold,fold
+fold,fold
+call,call
+raise 18,raise 18
+raise 3.0,check
+call,raise 89
+fold,fold
+raise 32,fold
+check,bet 4
+check,bet 23
+check,bet 3
+check,bet 17
+call,call
+fold,call
+check,check
+fold,call
+raise 90,raise 86
+call,call
+raise 84,call
+fold,raise 82
+raise 74,raise 85
+fold,fold
+raise 18,call
+fold,fold
+call,call
+raise 58,call
+raise 40,call
+check,check
+call,fold
+raise 16,raise 16
+check,check
+fold,fold
+check,check
+check,check
+call,call
+fold,fold
+check,check
+raise 2.5,check
+raise 17.0,raise 18.0
+raise 81,raise 81
+check,check
+raise 25,call
+raise 58,call
+check,check
+call,call
+fold,call
+raise 18,raise 16
+raise 25,call
+check,check
+call,call
+call,call
+check,check
+call,call
+check,check
+check,bet 13
+bet 29,bet 29
+raise 81,raise 73
+check,check
+call,raise 13
+raise 3.0,check
+call,call
+check,check
+raise 51,raise 86
+raise 13,call
+check,bet 24
+check,check
+call,raise 77
+raise 74,raise 85
+raise 14,call
+check,bet 7
+fold,call
+call,fold
+call,call
+call,fold
+call,fold
+raise 88,call
+raise 88,raise 70
+raise 10,fold
+raise 88,raise 89
+check,check
+call,call
+check,check
+fold,fold
+fold,fold
+check,check
+check,check
+check,check
+check,check
+call,call
+raise 2.5,check
+call,call
+check,bet 12
+check,check
+check,check
+check,check
+call,call
+call,fold
+check,check
+fold,fold
+check,check
+check,bet 11
+call,call
+raise 25,raise 22
+call,fold
+call,raise 7
+call,fold
+check,check
+check,bet 23
+call,fold
+raise 51,call
+raise 12.0,raise 11.0
+call,call
+raise 81,fold
+fold,fold
+check,check
+raise 2.5,check
+fold,fold
+raise 16,raise 16
+call,fold
+call,call
+check,check
+fold,fold
+call,fold
+call,call
+call,call
+call,call
+call,raise 29
+check,bet 17
+fold,fold
+check,check
+raise 26,raise 25
+fold,fold
+fold,call
+call,call
+call,fold
+raise 20,raise 19
+call,fold
+check,check
+call,call
+call,call
+check,check
+check,check
+check,bet 29
+call,raise 34
+check,bet 27
+fold,fold
+check,check
+raise 58,raise 89
+check,raise 65
+fold,fold
+check,bet 3
+fold,fold
+fold,fold
+call,fold
+fold,call
+check,check
+raise 89,raise 74
+check,check
+raise 51,call
+call,call
+fold,fold
+fold,call
+check,check
+raise 2.5,check
+check,check
+raise 89,fold
+call,call
+call,call
+check,check
+raise 81,raise 77
+check,raise 64
+check,check
+fold,fold
+check,check
+call,fold
+fold,raise 88
+raise 84,raise 85
+call,call
+check,bet 29
+raise 88,call
+call,call
+call,fold
+check,check
+check,check
+call,raise 31
+check,bet 23
+raise 11.0,raise 12.5
+check,check
+check,check
+call,raise 88
+raise 123,call
+fold,fold
+call,fold
+check,check
+fold,fold
+check,check
+check,check
+check,check
+call,call
+raise 90,raise 94
+call,call
+check,bet 27
+check,check
+raise 2.5,check
+check,bet 4
+fold,call
+fold,fold
+check,bet 4
+call,fold
+raise 8.0,call
+fold,fold
+raise 11.0,raise 14.0
+fold,fold
+fold,fold
+call,call
+check,check
+raise 88,raise 87
+raise 40,call
+raise 18,call
+fold,fold
+check,check
+raise 3.0,raise 2.3
+call,fold
+raise 81,raise 90
+call,call
+call,call
+call,call
+check,bet 2
+call,call
+check,check
+raise 90,fold
+fold,fold
+fold,fold
+fold,fold
+raise 2.5,raise 3.0
+call,fold
+check,check
+check,check
+fold,fold
+fold,fold
+call,fold
+call,call
+check,check
+call,call
+fold,call
+raise 58,raise 83
+raise 90,raise 82
+check,bet 29
+raise 88,raise 89
+raise 88,raise 77
+raise 51,call
+fold,fold
+check,check
+check,bet 29
+call,raise 88
+call,fold
+check,check
+fold,call
+call,call
+call,fold
+fold,fold
+raise 90,call
+fold,fold
+call,raise 7
+check,check
+check,check
+fold,call
+check,check
+check,check
+call,call
+check,check
+check,bet 12
+call,fold
+fold,check
+fold,fold
+raise 81,fold
+call,raise 13
+check,check
+fold,fold
+call,fold
+check,check
+check,check
+fold,fold
+call,call
+call,call
+call,raise 88
+check,check
+raise 90,raise 75
+call,call
+check,check
+call,call
+fold,fold
+raise 2.5,check
+fold,call
+raise 25,raise 25
+check,check
+call,fold
+raise 90,raise 80
+fold,fold
+call,call
+raise 29,raise 29
+check,check
+check,check
+raise 25,raise 25
+raise 89,raise 88
+raise 99,call
+call,call
+raise 7.0,raise 11.5
+raise 2.0,raise 3.0
+fold,fold
+fold,fold
+call,call
+check,check
+raise 22,call
+fold,fold
+call,call
+raise 3.0,check
+call,call
+raise 2.5,check
+fold,fold
+raise 37,call
+call,fold
+check,bet 2
+fold,check
+fold,fold
+raise 2.5,raise 3.0
+check,bet 29
+call,fold
+fold,fold
+call,call
+check,check
+fold,fold
+fold,call
+call,call
+raise 16,fold
+call,call
+call,call
+raise 18,raise 18
+fold,fold
+fold,call
+fold,fold
+raise 87,call
+check,check
+fold,fold
+check,bet 15
+fold,fold
+fold,fold
+check,check
+check,check
+raise 29,call
+fold,call
+check,check
+call,call
+fold,fold
+call,raise 86
+check,check
+call,raise 83
+call,call
+fold,fold
+check,check
+call,call
+check,check
+fold,fold
+check,check
+check,check
+call,call
+call,call
+check,check
+check,check
+check,check
+check,check
+call,call
+call,call
+call,call
+check,check
+call,fold
+call,raise 83
+check,check
+raise 85,call
+call,fold
+check,check
+call,call
+raise 22,call
+fold,call
+check,bet 8
+check,check
+call,call
+check,check
+call,call
+raise 25.0,raise 27.0
+fold,fold
+fold,fold
+call,raise 10
+check,check
+check,check
+raise 89,call
+check,check
+raise 84,fold
+call,fold
+check,check
+check,check
+call,fold
+raise 51,raise 37
+check,check
+check,bet 23
+check,bet 16
+check,check
+check,check
+raise 32,raise 32
+call,raise 7
+check,raise 64
+raise 22,fold
+check,bet 29
+call,raise 83
+check,bet 11
+fold,fold
+raise 81,raise 90
+fold,fold
+check,bet 11
+call,fold
+call,raise 41
+raise 88,call
+call,fold
+check,bet 20
+call,call
+check,check
+check,check
+call,call
+raise 32,call
+check,check
+raise 90,fold
+call,call
+call,fold
+call,call
+raise 25,call
+call,fold
+call,call
+raise 14.0,raise 18.0
+check,bet 23
+call,call
+raise 11,raise 13
+raise 3.0,check
+call,call
+fold,fold
+raise 10,call
+raise 7,call
+call,fold
+fold,fold
+check,check
+call,fold
+call,fold
+call,call
+check,check
+check,check
+call,call
+raise 84,call
+raise 2.0,raise 3.0
+call,raise 22
+call,call
+fold,fold
+check,check
+fold,fold
+fold,fold
+call,raise 10
+call,call
+raise 90,raise 72
+raise 88,raise 77
+raise 58,fold
+raise 7,raise 7
+check,check
+raise 74,fold
+raise 88,raise 80
+check,check
+fold,fold
+raise 89,call
+check,check
+check,check
+fold,call
+raise 18,raise 18
+check,check
+raise 11.0,raise 14.0
+call,fold
+raise 13,call
+raise 31,raise 30
+check,bet 17
+check,check
+check,check
+check,check
+check,check
+call,call
+call,call
+call,call
+raise 18,call
+check,check
+check,check
+raise 48,call
+check,bet 3
+bet 4,bet 4
+raise 10,raise 10
+check,check
+check,check
+check,check
+call,fold
+raise 87,fold
+call,call
+fold,call
+check,check
+call,fold
+call,fold
+fold,call
+call,call
+call,fold
+check,check
+check,bet 18
+fold,fold
+fold,fold
+fold,call
+call,call
+check,check
+raise 90,fold
+check,check
+check,bet 40
+fold,call
+check,check
+check,check
+check,check
+raise 38,call
+raise 22.0,raise 21.0
+fold,fold
+raise 10,fold
+check,check
+raise 2.5,check
+fold,fold
+check,raise 64
+call,call
+call,call
+check,check
+call,fold
+raise 32,raise 32
+call,call
+check,check
+check,check
+fold,fold
+call,call
+call,call
+fold,fold
+call,raise 86
+fold,fold
+fold,fold
+call,call
+raise 2.5,check
+check,check
+fold,fold
+raise 29,call
+check,check
+call,call
+call,fold
+check,check
+raise 18,raise 17
+fold,call
+call,call
+call,call
+raise 38,call
+fold,fold
+raise 32,call
+check,check
+raise 38,raise 86
+call,raise 4
+raise 84,raise 83
+raise 29,raise 27
+check,check
+check,bet 34
+raise 90,fold
+check,bet 30
+fold,fold
+raise 51,raise 46
+raise 23.0,raise 24.3
+check,bet 18
+call,call
+check,bet 3
+fold,fold
+fold,fold
+call,call
+call,fold
+check,check
+fold,fold
+call,call
+raise 89,fold
+check,raise 73
+check,bet 18
+check,bet 13
+raise 58,call
+check,check
+raise 51,fold
+check,check
+call,call
+raise 22,call
+fold,fold
+call,call
+call,call
+raise 88,fold
+call,call
+check,check
+call,fold
+check,check
+raise 81,raise 83
+fold,fold
+call,call
+raise 37,raise 35
+check,bet 13
+check,check
+call,call
+raise 11.0,raise 9.5
+raise 38,call
+check,check
+call,call
+call,call
+check,check
+fold,fold
+call,raise 92
+check,bet 39
+call,call
+raise 29,call
+check,check
+call,fold
+raise 90,call
+check,check
+fold,call
+call,call
+raise 17,call
+fold,call
+raise 40,fold
+check,check
+fold,fold
+check,check
+call,call
+fold,fold
+raise 90,raise 88
+check,check
+check,bet 29
+check,check
+raise 87,call
+fold,fold
+check,check
+call,fold
+check,bet 29
+call,call
+raise 90,call
+check,check
+fold,fold
+check,bet 5
+check,bet 12
+call,raise 93
+raise 32,call
+call,call
+check,check
+fold,call
+fold,fold
+check,check
+call,fold
+check,check
+call,call
+check,check
+call,fold
+fold,call
+check,check
+check,bet 13
+raise 81,raise 81
+check,check
+check,check
+call,raise 90
+raise 8.0,raise 10.0
+call,call
+fold,fold
+check,check
+check,check
+check,check
+call,call
+raise 38,call
+check,bet 29
+check,bet 24
+fold,fold
+raise 58,call
+call,fold
+call,fold
+call,call
+call,call
+call,fold
+raise 18,call
+check,bet 12
+raise 25,call
+fold,fold
+check,check
+call,call
+check,check
+check,check
+check,check
+call,call
+raise 89,raise 67
+call,call
+check,check
+check,check
+fold,call
+raise 7.0,raise 7.5
+check,check
+check,check
+check,check
+call,call
+call,fold
+call,call
+call,call
+raise 29,call
+raise 89,fold
+raise 2.5,raise 5.0
+fold,fold
+call,fold
+call,fold
+fold,fold
+call,fold
+raise 32,raise 32
+fold,fold
+call,call
+call,call
+call,call
+fold,fold
+raise 74,raise 73
+call,raise 88
+call,call
+check,bet 11
+check,raise 58
+check,check
+check,check
+call,raise 44
+fold,fold
+check,check
+raise 22,fold
+check,check
+call,call
+check,check
+fold,fold
+raise 20,call
+check,check
+check,check
+check,check
+call,call
+fold,fold
+fold,fold
+check,check
+call,call
+fold,fold
+check,check
+call,call
+fold,fold
+raise 90,call
+check,check
+check,bet 23
+check,bet 11
+call,call
+call,fold
+call,fold
+check,check
+fold,fold
+check,bet 3
+call,call
+call,raise 83
+call,fold
+check,check
+check,check
+raise 90,call
+call,call
+bet 4,bet 5
+check,check
+raise 22,call
+check,check
+raise 51,fold
+fold,fold
+fold,fold
+raise 26,raise 25
+check,check
+fold,fold
+check,check
+check,check
+raise 16,call
+call,call
+raise 81,call
+check,check
+raise 28.0,raise 27.0
+fold,check
+raise 14.0,raise 15.0
+fold,fold
+call,raise 22
+check,bet 3
+check,bet 29
+raise 32,call
+check,check
+raise 2.0,check
+call,call
+call,call
+call,fold
+call,call
+call,call
+call,fold
+check,check
+call,call
+check,bet 18
+check,check
+raise 88,call
+fold,fold
+raise 51,fold
+check,bet 5
+raise 89,call
+raise 81,raise 87
+fold,fold
+check,check
+check,check
+call,call
+raise 88,fold
+fold,fold
+call,raise 35
+check,bet 18
+check,check
+raise 90,call
+raise 3.0,raise 2.3
+raise 3.0,check
+call,call
+call,call
+check,check
+fold,fold
+raise 29,call
+check,check
+fold,fold
+check,check
+fold,call
+raise 3.0,check
+raise 51,call
+call,fold
+fold,call
+fold,fold
+raise 18,call
+check,check
+fold,fold
+check,bet 11
+raise 16,raise 16
+check,check
+call,raise 10
+check,bet 8
+fold,fold
+raise 90,fold
+call,fold
+raise 22,call
+raise 84,call
+check,check
+fold,fold
+fold,fold
+raise 10,raise 11
+call,fold
+call,raise 16
+check,check
+call,fold
+call,call
+check,check
+call,call
+check,check
+check,check
+fold,raise 81
+call,call
+raise 25,call
+fold,fold
+check,bet 29
+check,check
+fold,fold
+call,call
+raise 22.0,raise 21.0
+check,bet 8
+call,call
+check,bet 3
+raise 90,call
+fold,call
+check,bet 29
+check,check
+check,bet 29
+raise 53,call
+call,call
+check,check
+raise 88,call
+check,bet 29
+raise 89,call
+call,call
+raise 22,raise 22
+check,check
+call,raise 33
+check,bet 12
+fold,fold
+call,raise 37
+call,call
+check,bet 23
+check,check
+raise 32,call
+call,raise 95
+raise 28,raise 27
+call,fold
+raise 10,raise 10
+raise 32,call
+check,check
+fold,call
+raise 90,call
+raise 84,call
+raise 87,fold
+check,bet 4
+check,check
+call,call
+raise 25,call
+check,check
+raise 25,call
+check,check
+fold,fold
+check,check
+fold,fold
+call,raise 92
+fold,call
+raise 32,raise 35
+check,check
+fold,fold
+raise 81,call
+check,check
+fold,fold
+raise 81,fold
+call,fold
+check,bet 23
+raise 28,raise 27
+check,bet 29
+call,call
+call,call
+fold,call
+raise 38,raise 43
+check,bet 13
+raise 22,call
+fold,fold
+raise 28,call
+fold,raise 86
+check,check
+check,check
+check,bet 29
+fold,fold
+call,call
+call,call
+fold,call
+call,fold
+call,fold
+fold,fold
+raise 40,raise 41
+call,call
+raise 18,call
+raise 32,call
+check,check
+fold,fold
+call,call
+call,call
+check,bet 16
+check,check
+raise 10,raise 10
+raise 3.0,check
+call,raise 92
+call,fold
+check,check
+call,raise 87
+call,raise 87
+check,check
+fold,raise 88
+call,raise 86
+check,check
+check,bet 3
+fold,fold
+call,fold
+call,fold
+check,check
+call,call
+check,check
+fold,fold
+raise 88,fold
+fold,fold
+raise 3.0,raise 3.0
+check,raise 58
+call,raise 7
+call,call
+raise 88,call
+check,bet 29
+fold,fold
+fold,fold
+check,check
+raise 7.0,raise 6.5
+raise 2.5,check
+raise 74,raise 84
+raise 88,raise 86
+call,raise 85
+call,raise 77
+fold,call
+fold,call
+check,check
+fold,fold
+call,raise 87
+raise 38,raise 38
+check,bet 32
+raise 87,call
+raise 84,call
+check,check
+check,bet 22
+raise 25,raise 25
+check,check
+fold,fold
+call,fold
+check,bet 24
+raise 38,call
+check,check
+fold,fold
+check,check
+check,check
+check,check
+check,check
+check,check
+fold,fold
+raise 10,raise 10
+call,raise 58
+call,fold
+raise 89,fold
+call,fold
+check,check
+check,check
+check,bet 31
+check,check
+fold,fold
+fold,call
+check,check
+call,call
+check,check
+bet 29,bet 29
+fold,fold
+call,call
+fold,call
+call,call
+call,raise 31
+call,call
+call,call
+call,call
+raise 39,fold
+check,check
+raise 3.0,check
+check,bet 17
+raise 74,call
+call,fold
+fold,fold
+raise 90,raise 84
+raise 90,call
+call,raise 33
+call,fold
+raise 2.5,check
+check,check
+fold,call
+fold,fold
+raise 51,raise 86
+call,raise 88
+raise 3.0,check
+call,call
+check,check
+raise 88,raise 80
+check,check
+call,call
+fold,raise 88
+fold,fold
+check,check
+check,bet 5
+call,call
+fold,fold
+raise 2.0,check
+check,bet 17
+fold,fold
+call,raise 83
+check,check
+check,bet 17
+call,call
+check,check
+call,raise 43
+call,call
+fold,call
+check,check
+call,call
+fold,fold
+call,fold
+call,fold
+fold,fold
+fold,fold
+check,check
+fold,fold
+check,check
+check,raise 61
+raise 90,call
+call,call
+raise 74,raise 77
+call,raise 25
+check,check
+check,check
+check,check
+check,check
+check,check
+check,check
+raise 37,call
+check,check
+call,call
+raise 89,call
+check,check
+check,check
+raise 51,fold
+check,bet 39
+fold,fold
+call,fold
+check,check
+call,call
+call,call
+fold,fold
+call,raise 77
+fold,fold
+call,fold
+raise 38,call
+call,call
+check,check
+raise 40,call
+check,bet 29
+fold,fold
+fold,raise 81
+check,check
+check,check
+fold,fold
+check,bet 18
+check,bet 8
+raise 3.0,check
+fold,fold
+check,check
+raise 10,raise 11
+call,call
+call,call
+raise 3.0,check
+raise 16,call
+raise 89,raise 83
+check,bet 25
+check,bet 31
+check,check
+fold,fold
+fold,fold
+check,check
+fold,call
+check,bet 23
+check,check
+raise 14.0,raise 13.1
+raise 37,call
+call,raise 41
+check,check
+fold,fold
+check,check
+check,raise 58
+check,bet 8
+check,bet 12
+check,check
+call,raise 10
+fold,fold
+check,bet 34
+fold,call
+call,call
+fold,fold
+check,bet 7
+fold,call
+fold,fold
+fold,fold
+raise 88,raise 92
+call,raise 85
+fold,fold
+check,check
+fold,fold
+raise 58,call
+call,fold
+check,check
+fold,fold
+fold,fold
+call,raise 92
+check,check
+fold,fold
+check,check
+call,call
+check,bet 29
+raise 90,call
+call,call
+check,check
+fold,fold
+fold,fold
+raise 88,raise 86
+fold,fold
+check,check
+fold,fold
+raise 84,raise 85
+fold,fold
+check,check
+call,call
+check,check
+fold,fold
+raise 88,fold
+check,check
+raise 3.0,raise 2.0
+call,call
+call,raise 19
+check,check
+check,check
+call,call
+raise 38,raise 31
+raise 90,raise 91
+check,check
+call,call
+check,check
+check,check
+check,check
+check,check
+fold,fold
+fold,fold
+raise 28.0,raise 35.0
+check,check
+raise 90,raise 92
+check,check
+fold,fold
+raise 32,call
+fold,fold
+call,raise 81
+call,call
+check,raise 61
+check,check
+raise 2.5,check
+call,call
+call,call
+fold,fold
+call,fold
+check,check
+check,check
+check,check
+raise 37,raise 35
+call,call
+call,call
+raise 40,call
+raise 58,raise 89
+raise 99,call
+check,check
+check,check
+call,call
+call,call
+check,check
+check,check
+check,check
+check,bet 25
+raise 29,raise 29
+check,check
+check,check
+check,check
+call,call
+call,call
+check,check
+call,raise 89
+raise 29,fold
+raise 3.0,check
+call,call
+fold,call
+raise 19.0,raise 21.0
+check,check
+raise 32,call
+raise 2.5,check
+check,bet 18
+check,bet 18
+check,check
+call,call
+check,check
+call,call
+check,bet 3
+check,check
+call,call
+fold,fold
+check,bet 8
+fold,fold
+check,check
+raise 10,call
+call,call
+check,check
+fold,fold
+raise 51,raise 48
+raise 81,raise 57
+check,check
+call,call
+raise 38,raise 38
+call,call
+check,bet 23
+raise 88,fold
+check,check
+raise 16,raise 16
+call,call
+fold,call
+check,check
+fold,fold
+call,call
+fold,call
+check,check
+call,call
+call,call
+fold,call
+check,check
+call,call
+call,raise 86
+check,bet 34
+check,check
+call,fold
+raise 10,call
+check,check
+fold,fold
+check,bet 29
+check,bet 12
+raise 2.0,check
+raise 90,call
+raise 29,call
+fold,fold
+fold,raise 93
+call,raise 90
+call,call
+check,check
+raise 82,raise 74
+fold,fold
+call,fold
+check,check
+call,fold
+check,bet 20
+call,call
+call,raise 88
+raise 2.5,check
+check,check
+call,raise 41
+check,check
+check,bet 29
+call,call
+check,bet 10
+call,fold
+call,call
+call,fold
+call,call
+check,check
+call,call
+call,fold
+raise 2.0,raise 2.0
+fold,raise 5.0
+call,call
+check,check
+check,check
+raise 3.0,check
+fold,fold
+check,bet 13
+check,bet 2
+call,fold
+fold,call
+raise 18,call
+raise 74,raise 81
+check,check
+raise 2.5,check
+check,bet 23
+raise 20,raise 19
+raise 28.0,raise 32.0
+call,call
+call,call
+fold,fold
+call,fold
+fold,raise 87
+raise 32,call
+fold,fold
+call,raise 92
+fold,call
+call,raise 33
+raise 38,call
+raise 90,call
+call,fold
+raise 48,fold
+check,check
+fold,fold
+check,check
+call,call
+raise 3.0,check
+check,bet 13
+check,bet 8
+check,check
+raise 44,call
+check,check
+check,check
+check,check
+fold,fold
+check,check
+check,check
+check,bet 3
+call,raise 87
+check,bet 15
+call,call
+check,check
+check,check
+check,check
+call,call
+check,check
+check,check
+raise 32,call
+call,call
+call,call
+raise 88,fold
+check,raise 64
+check,check
+check,check
+raise 85,fold
+check,bet 5
+raise 99,fold
+check,check
+check,check
+check,check
+check,check
+raise 40,call
+raise 3.0,raise 5.0
+call,fold
+fold,fold
+fold,fold
+check,check
+fold,call
+call,call
+raise 11,call
+raise 89,raise 94
+call,fold
+raise 58,fold
+check,check
+raise 90,raise 90
+fold,fold
+raise 28,raise 27
+fold,fold
+raise 37,call
+call,fold
+call,raise 16
+call,fold
+check,check
+fold,fold
+raise 32,call
+raise 32,call
+check,bet 4
+fold,fold
+call,call
+call,raise 29
+call,fold
+raise 10.0,raise 10.0
+raise 51,call
+call,call
+raise 18,raise 18
+call,call
+raise 22,raise 22
+fold,raise 92
+raise 88,raise 85
+fold,call
+call,call
+call,raise 93
+fold,fold
+fold,fold
+check,check
+raise 25,call
+check,check
+raise 22,call
+check,raise 58
+call,fold
+fold,fold
+check,check
+fold,fold
+raise 84,call
+raise 2.5,check
+call,raise 26
+raise 58,fold
+check,check
+fold,fold
+call,raise 16
+raise 10,call
+raise 25,call
+fold,fold
+call,call
+call,call
+check,check
+check,check
+raise 90,fold
+check,check
+bet 7,check
+check,check
+raise 38,call
+check,bet 29
+check,check
+raise 90,raise 56
+check,check
+call,call
+check,check
+check,check
+check,bet 29
+raise 88,raise 82
+call,call
+check,check
+call,fold
+fold,fold
+call,call
+check,check
+check,check
+raise 25,call
+check,check
+fold,fold
+fold,fold
+call,raise 88
+check,bet 16
+raise 25,fold
+check,check
+fold,fold
+check,bet 7
+raise 14.0,fold
+check,bet 10
+fold,fold
+check,check
+raise 38,raise 93
+raise 2.5,check
+check,bet 16
+raise 84,fold
+fold,fold
+raise 84,call
+raise 10,raise 10
+check,check
+fold,call
+check,check
+check,check
+check,check
+raise 144,call
+raise 3.0,check
+call,raise 16
+raise 7.0,raise 10.0
+check,bet 8
+check,check
+call,fold
+call,call
+raise 38,raise 38
+fold,call
+raise 90,call
+raise 10,raise 10
+raise 74,call
+call,raise 88
+call,call
+check,check
+raise 90,call
+check,check
+call,raise 92
+check,check
+check,check
+fold,call
+raise 7.0,call
+call,call
+raise 13,call
+call,fold
+call,fold
+check,bet 8
+check,check
+call,raise 81
+fold,fold
+check,check
+raise 11,call
+call,fold
+check,bet 29
+fold,fold
+fold,raise 81
+check,bet 29
+raise 32,fold
+raise 37,call
+fold,fold
+check,check
+raise 2.0,check
+check,check
+check,raise 54
+check,check
+call,call
+call,call
+call,call
+call,call
+raise 29,raise 29
+call,call
+raise 27.0,raise 34.4
+call,fold
+call,raise 86
+check,check
+call,fold
+check,check
+raise 81,fold
+fold,raise 20.0
+check,check
+check,check
+check,check
+check,check
+fold,fold
+bet 5,bet 5
+check,bet 29
+call,call
+raise 88,raise 92
+check,check
+raise 90,raise 86
+check,check
+check,bet 17
+check,bet 17
+raise 88,fold
+raise 90,raise 90
+check,raise 74
+call,fold
+raise 2.0,check
+fold,fold
+raise 22,call
+raise 54,raise 58
+call,call
+check,bet 3
+call,call
+fold,fold
+call,call
+call,raise 43
+call,call
+check,check
+fold,fold
+raise 54,fold
+raise 38,call
+raise 17,call
+call,call
+raise 25,raise 25
+fold,fold
+call,fold
+fold,fold
+check,check
+check,check
+check,check
+fold,fold
+fold,raise 85
+check,check
+call,call
+check,check
+call,raise 41
+raise 10,call
+check,bet 18
+call,raise 43
+check,bet 18
+raise 44,call
+call,call
+call,call
+check,check
+fold,check
+call,call
+check,raise 54
+fold,fold
+raise 25,raise 25
+check,check
+call,call
+fold,fold
+call,call
+call,fold
+check,check
+raise 32,call
+raise 51,call
+fold,fold
+check,check
+fold,call
+raise 38,raise 38
+fold,fold
+fold,fold
+check,check
+call,fold
+fold,fold
+call,call
+fold,fold
+raise 12.0,raise 11.0
+call,fold
+check,check
+check,check
+check,check
+raise 32,raise 32
+raise 38,raise 38
+call,call
+fold,fold
+raise 81,raise 84
+fold,call
+raise 38,fold
+check,check
+check,bet 22
+call,fold
+check,bet 11
+fold,call
+raise 38,call
+raise 58,raise 83
+call,raise 58
+raise 2.5,check
+check,bet 12
+raise 25,call
+call,raise 22
+raise 51,raise 48
+check,check
+check,check
+call,call
+call,call
+check,check
+check,bet 8
+fold,fold
+raise 16,raise 16
+call,raise 80
+fold,fold
+raise 22,fold
+call,call
+check,check
+check,check
+check,check
+check,check
+raise 90,call
+check,bet 29
+fold,call
+check,check
+check,check
+fold,fold
+check,bet 34
+fold,fold
+fold,fold
+raise 11,call
+raise 90,raise 80
+call,fold
+check,check
+call,raise 84
+raise 48,fold
+call,raise 77
+check,bet 29
+check,check
+raise 29,raise 27
+raise 32,call
+call,call
+raise 81,raise 93
+call,raise 81
+check,check
+call,call
+call,fold
+check,check
+check,check
+check,check
+fold,fold
+call,call
+raise 89,raise 74
+check,bet 13
+call,call
+raise 29,raise 30
+call,call
+call,fold
+raise 25,fold
+check,check
+check,check
+call,call
+raise 88,raise 77
+check,bet 34
+raise 74,raise 85
+raise 88,raise 82
+raise 29,raise 28
+check,check
+check,check
+raise 51,fold
+raise 81,raise 90
+check,check
+check,check
+raise 38,call
+call,raise 31
+call,fold
+fold,fold
+call,call
+raise 10,call
+check,check
+call,fold
+raise 88,raise 89
+raise 13,call
+call,call
+fold,fold
+check,check
+check,check
+raise 7.0,call
+check,raise 54
+call,raise 89
+check,check
+call,raise 90
+fold,call
+check,check
+raise 13,raise 11
+check,check
+raise 11,raise 13
+call,fold
+fold,call
+raise 58,raise 89
+check,bet 3
+call,call
+check,bet 8
+raise 90,raise 92
+check,check
+fold,fold
+raise 90,call
+raise 38,raise 38
+call,fold
+raise 81,fold
+raise 51,raise 54
+call,call
+call,call
+raise 74,call
+fold,fold
+fold,fold
+check,bet 5
+fold,call
+fold,fold
+fold,check
+call,fold
+raise 13.0,fold
+call,fold
+raise 18,raise 18
+check,check
+check,raise 64
+check,check
+check,check
+call,fold
+check,check
+call,call
+fold,fold
+raise 84,call
+check,check
+call,raise 88
+raise 88,raise 92
+raise 2.5,check
+raise 51,call
+fold,fold
+call,call
+raise 90,call
+fold,fold
+call,fold
+bet 29,bet 29
+raise 32,call
+raise 89,raise 88
+check,check
+fold,fold
+call,call
+raise 81,raise 77
+fold,fold
+call,call
+raise 25,fold
+raise 90,call
+check,check
+call,call
+call,fold
+call,raise 89
+raise 38,call
+fold,fold
+fold,fold
+check,check
+fold,fold
+check,check
+check,check
+fold,fold
+check,check
+raise 10,call
+fold,fold
+check,check
+call,call
+check,check
+call,call
+check,bet 18
+raise 58,raise 89
+raise 16,call
+call,call
+call,fold
+check,check
+call,call
+call,raise 23
+raise 18.0,raise 18.0
+check,check
+fold,fold
+call,fold
+check,check
+check,check
+check,bet 4
+raise 90,fold
+raise 89,raise 48
+call,call
+check,bet 12
+call,fold
+call,call
+fold,fold
+call,call
+call,call
+check,bet 12
+raise 44,raise 44
+raise 18,raise 18
+call,fold
+call,raise 35
+check,check
+call,raise 81
+check,check
+raise 10,raise 10
+call,raise 88
+raise 11.0,raise 11.0
+call,call
+raise 29,call
+raise 32,raise 32
+fold,fold
+raise 14.0,raise 14.0
+raise 90,fold
+check,check
+raise 88,fold
+call,call
+check,check
+call,call
+check,bet 10
+raise 29,call
+raise 2.5,check
+fold,fold
+raise 95,call
+fold,fold
+raise 80,raise 83
+fold,fold
+fold,fold
+call,fold
+fold,call
+raise 38.0,call
+check,check
+check,bet 5
+fold,fold
+check,check
+fold,fold
+call,call
+check,check
+raise 31,call
+call,call
+fold,call
+call,raise 83
+check,check
+call,fold
+check,check
+raise 90,fold
+raise 88,fold
+call,call
+call,call
+check,check
+check,check
+call,call
+call,call
+check,bet 2
+raise 25,call
+call,raise 10
+call,call
+check,check
+check,check
+raise 16,raise 16
+raise 32,fold
+raise 2.5,check
+check,check
+fold,fold
+raise 32,raise 32
+fold,fold
+call,call
+call,fold
+fold,fold
+raise 16,fold
+fold,raise 11.5
+call,fold
+fold,fold
+call,fold
+fold,call
+check,check
+call,call
+check,check
+check,bet 11
+check,check
+check,check
+raise 82,call
+call,call
+check,check
+check,check
+raise 38,call
+raise 10,raise 11
+check,bet 24
+call,raise 88
+check,check
+fold,call
+fold,fold
+check,check
+fold,fold
+raise 88,raise 72
+raise 89,call
+check,check
+check,bet 5
+call,call
+call,fold
+call,call
+call,call
+fold,fold
+fold,fold
+check,check
+check,bet 10
+call,fold
+fold,call
+call,call
+call,call
+raise 88,fold
+check,check
+fold,fold
+fold,fold
+raise 51,call
+call,call
+check,check
+fold,fold
+raise 22,call
+call,call
+call,call
+call,raise 77
+raise 88,raise 89
+check,bet 22
+check,check
+check,check
+call,call
+call,call
+fold,fold
+check,check
+fold,fold
+check,bet 3
+raise 16,raise 16
+raise 16,raise 16
+check,check
+fold,call
+raise 16,raise 16
+check,check
+check,check
+fold,fold
+raise 23,raise 22
+call,call
+call,call
+call,call
+check,check
+fold,fold
+check,check
+fold,fold
+fold,fold
+check,check
+check,check
+call,call
+check,check
+check,bet 4
+call,call
+raise 13,raise 13
+check,check
+raise 18,raise 16
+check,bet 25
+call,fold
+call,fold
+call,raise 93
+raise 81,fold
+check,bet 13
+fold,fold
+fold,fold
+raise 38,raise 30
+check,check
+check,check
+raise 10,raise 11
+raise 7.0,raise 11.0
+fold,call
+call,call
+check,bet 28
+call,call
+raise 84,call
+call,call
+fold,fold
+fold,fold
+call,call
+check,check
+check,check
+fold,fold
+check,check
+raise 81,fold
+call,call
+raise 38,raise 38
+check,check
+check,check
+fold,fold
+fold,call
+check,check
+fold,raise 93
+raise 51,raise 88
+check,check
+call,fold
+call,call
+raise 28,fold
+call,call
+check,bet 16
+call,call
+check,check
+fold,fold
+fold,fold
+call,call
+call,fold
+check,check
+raise 13,raise 13
+check,bet 7
+raise 51,raise 89
+check,bet 13
+raise 2.0,check
+call,fold
+call,call
+raise 40,call
+call,call
+fold,fold
+raise 40,fold
+call,call
+call,fold
+raise 40,raise 41
+check,check
+call,call
+call,call
+fold,fold
+call,fold
+call,raise 14
+check,bet 4
+raise 84,raise 85
+check,check
+raise 10,raise 10
+check,check
+check,check
+check,check
+fold,fold
+fold,raise 89
+raise 25,raise 25
+check,check
+check,check
+check,bet 27
+raise 2.5,check
+call,call
+raise 3.0,check
+raise 20.0,raise 19.0
+call,fold
+call,fold
+call,raise 81
+raise 13,fold
+fold,fold
+check,bet 18
+raise 44,call
+call,raise 83
+check,bet 24
+raise 8.0,raise 12.0
+raise 3.0,check
+call,raise 93
+check,bet 23
+check,bet 12
+raise 32,call
+raise 11.0,fold
+fold,fold
+raise 35,raise 35
+raise 25,call
+bet 13,check
+check,check
+check,bet 17
+check,bet 16
+call,raise 88
+call,raise 26
+check,raise 65
+check,check
+check,check
+fold,fold
+call,call
+check,bet 16
+raise 3.0,raise 3.0
+call,call
+call,fold
+raise 81,call
+fold,fold
+check,check
+call,fold
+fold,call
+raise 40,raise 41
+raise 3.0,check
+call,call
+call,call
+fold,fold
+check,check
+fold,fold
+call,fold
+call,fold
+call,call
+raise 89,fold
+raise 90,call
+raise 2.5,check
+call,call
+check,bet 23
+raise 84,raise 74
+raise 90,call
+raise 32,call
+fold,fold
+check,check
+raise 88,fold
+call,call
+call,call
+raise 16,fold
+bet 11,bet 11
+check,bet 18
+raise 54,raise 89
+call,fold
+check,check
+check,check
+check,bet 17
+raise 2.0,raise 3.0
+raise 10,raise 10
+check,check
+raise 34,call
+check,check
+check,bet 10
+call,fold
+check,check
+fold,call
+check,check
+check,bet 12
+call,call
+call,raise 83
+call,call
+call,call
+call,fold
+check,bet 17
+call,fold
+check,bet 10
+fold,fold
+raise 25,call
+fold,fold
+call,call
+check,check
+call,raise 95
+call,fold
+fold,fold
+fold,fold
+raise 90,raise 84
+call,call
+check,check
+check,bet 3
+check,check
+fold,call
+raise 58,raise 83
+fold,call
+call,raise 91
+check,check
+fold,fold
+check,bet 10
+check,check
+raise 90,call
+check,check
+call,call
+fold,raise 70
+raise 51,fold
+check,bet 17
+raise 37,call
+call,call
+check,bet 18
+raise 74,fold
+call,call
+raise 81,fold
+raise 82,raise 74
+fold,fold
+check,check
+call,fold
+check,check
+check,bet 11
+check,check
+call,call
+call,call
+fold,fold
+check,check
+check,check
+raise 81,raise 81
+raise 90,call
+call,fold
+check,check
+call,call
+call,call
+call,fold
+check,check
+fold,raise 14
+call,fold
+fold,raise 73
+fold,fold
+call,fold
+fold,raise 20.0
+fold,fold
+raise 10.0,raise 10.0
+fold,fold
+raise 84,fold
+fold,fold
+call,raise 95
+check,check
+check,bet 25
+call,call
+check,check
+check,raise 64
+raise 58,call
+raise 2.0,raise 2.0
+check,check
+check,bet 2
+raise 90,raise 90
+fold,fold
+call,raise 21
+call,call
+raise 74,raise 77
+call,call
+check,check
+call,fold
+check,check
+fold,fold
+check,check
+check,check
+bet 3,bet 3
+raise 38,call
+fold,fold
+check,check
+check,check
+fold,fold
+call,raise 86
+call,fold
+check,bet 12
+check,bet 17
+fold,fold
+call,call
+fold,fold
+call,call
+fold,fold
+raise 18,call
+raise 40,raise 41
+raise 81,fold
+fold,fold
+check,bet 23
+check,check
+check,check
+call,call
+call,call
+call,call
+check,check
+call,raise 31
+check,check
+call,raise 85
+call,call
+call,call
+call,raise 11
+check,check
+call,raise 89
+call,fold
+raise 32,call
+call,call
+call,call
+check,bet 23
+call,fold
+fold,fold
+call,fold
+raise 90,raise 93
+call,call
+raise 22,raise 22
+check,bet 15
+fold,fold
+check,check
+check,check
+raise 3.0,check
+call,raise 33
+raise 51,call
+call,raise 10
+call,raise 84
+raise 51,raise 37
+fold,raise 21.0
+call,call
+raise 88,raise 84
+fold,call
+fold,fold
+check,raise 61
+call,call
+raise 14,call
+check,bet 4
+fold,raise 75
+check,bet 4
+check,check
+call,call
+fold,fold
+call,call
+call,raise 27
+check,bet 23
+call,call
+call,call
+call,call
+check,check
+fold,fold
+raise 10,raise 11
+check,raise 64
+call,call
+check,bet 8
+raise 18,call
+raise 13,fold
+call,call
+check,check
+call,call
+call,call
+check,bet 4
+call,fold
+call,call
+raise 51,call
+raise 29,call
+raise 25,call
+check,check
+call,call
+check,bet 4
+check,check
+call,call
+check,bet 4
+check,check
+fold,fold
+check,bet 3
+check,bet 2
+call,raise 8
+check,check
+check,raise 64
+call,call
+call,call
+raise 14.0,raise 15.0
+check,raise 58
+raise 85,raise 83
+raise 38,raise 38
+check,check
+call,call
+call,call
+check,check
+raise 3.0,check
+raise 95,fold
+bet 18,bet 18
+call,call
+call,fold
+check,check
+raise 3.0,check
+fold,fold
+fold,fold
+call,raise 84
+raise 90,call
+check,check
+fold,fold
+call,call
+fold,check
+check,check
+raise 2.5,check
+check,check
+fold,fold
+call,call
+raise 7.0,raise 7.5
+check,check
+call,fold
+call,fold
+raise 88,raise 72
+fold,fold
+check,check
+raise 23.0,raise 23.0
+call,raise 58
+call,call
+raise 89,raise 65
+raise 88,raise 84
+raise 3.0,check
+call,call
+check,check
+call,fold
+raise 90,fold
+fold,fold
+call,fold
+check,bet 6
+raise 8.0,raise 12.0
+bet 29,bet 29
+fold,call
+fold,fold
+fold,fold
+call,fold
+call,call
+call,call
+call,call
+raise 84,raise 85
+call,fold
+check,check
+call,fold
+call,call
+raise 84,fold
+raise 23,call
+raise 90,raise 78
+fold,fold
+fold,fold
+check,check
+raise 89,fold
+raise 2.5,check
+fold,fold
+fold,call
+check,check
+check,check
+raise 3.0,raise 2.3
+call,fold
+check,check
+raise 29,raise 36
+raise 14.0,raise 15.0
+fold,fold
+call,fold
+check,check
+call,call
+raise 14.0,raise 14.0
+raise 90,fold
+call,call
+raise 99,call
+call,raise 82
+raise 38,raise 38
+call,raise 10
+call,fold
+fold,fold
+check,check
+call,fold
+fold,call
+raise 89,fold
+fold,fold
+fold,fold
+fold,fold
+check,check
+fold,call
+call,call
+check,check
+check,bet 13
+call,call
+raise 14.0,raise 14.0
+fold,call
+check,check
+fold,fold
+raise 32,call
+check,bet 11
+check,check
+check,check
+fold,fold
+check,bet 11
+fold,fold
+call,raise 93
+check,check
+raise 90,raise 90
+raise 90,raise 89
+check,bet 7
+check,check
+check,check
+raise 32,call
+raise 32,call
+raise 3.0,check
+call,call
+fold,fold
+fold,fold
+fold,fold
+check,check
+check,bet 10
+call,call
+call,raise 90
+fold,call
+check,check
+raise 81,fold
+fold,call
+raise 85,raise 88
+call,fold
+call,call
+fold,fold
+call,call
+call,call
+call,call
+fold,fold
+call,raise 79
+raise 51,call
+fold,fold
+fold,call
+call,fold
+raise 32,call
+check,check
+fold,fold
+raise 84,call
+check,bet 29
+check,check
+raise 11.0,raise 14.0
+raise 88,fold
+call,call
+raise 25,raise 25
+check,check
+fold,raise 92
+check,bet 29
+call,call
+check,check
+call,call
+raise 108,call
+check,check
+call,call
+call,call
+raise 100,call
+call,fold
+raise 25,call
+check,bet 10
+call,call
+check,check
+call,call
+fold,fold
+check,bet 11
+fold,fold
+check,check
+check,check
+call,fold
+check,check
+fold,fold
+check,check
+check,check
+fold,call
+check,check
+call,call
+check,check
+fold,fold
+check,check
+fold,fold
+check,check
+raise 87,fold
+check,bet 23
+raise 28,raise 29
+check,check
+check,check
+fold,fold
+check,raise 70
+fold,fold
+raise 85,call
+raise 10,raise 11
+call,raise 88
+call,call
+check,check
+check,check
+fold,fold
+raise 85,call
+check,check
+check,check
+call,fold
+check,check
+call,call
+call,raise 89
+raise 3.0,check
+raise 40,fold
+fold,fold
+check,check
+raise 88,raise 92
+fold,call
+raise 2.5,raise 2.5
+fold,fold
+bet 29,bet 29
+check,check
+raise 3.0,raise 2.3
+check,check
+raise 90,fold
+fold,check
+raise 40,call
+raise 22,raise 22
+check,check
+raise 17,fold
+call,call
+check,check
+raise 90,fold
+raise 81,raise 84
+check,check
+check,check
+check,check
+call,call
+call,call
+call,raise 35
+call,fold
+check,check
+fold,call
+call,raise 86
+raise 13,raise 13
+call,fold
+check,check
+fold,fold
+fold,fold
+call,fold
+check,check
+raise 90,call
+fold,fold
+bet 8,bet 8
+call,fold
+call,call
+check,check
+call,call
+call,raise 58
+fold,fold
+call,fold
+fold,fold
+check,check
+raise 2.0,check
+call,raise 92
+check,bet 4
+check,check
+fold,fold
+raise 40,call
+call,fold
+fold,fold
+raise 90,raise 56
+call,call
+call,call
+fold,fold
+check,check
+call,raise 90
+check,check
+raise 25,call
+fold,fold
+check,check
+raise 51,raise 86
+check,bet 20
+call,call
+check,bet 7
+check,check
+raise 22,call
+call,raise 93
+call,raise 10
+raise 74,raise 77
+check,check
+call,call
+raise 90,call
+raise 58,call
+raise 32,raise 32
+check,bet 28
+raise 90,raise 88
+check,check
+check,check
+check,check
+raise 8.0,raise 13.0
+call,fold
+check,check
+call,fold
+raise 37,call
+check,bet 15
+raise 3.0,check
+raise 24,raise 21
+call,call
+raise 88,call
+raise 3.0,check
+check,check
+call,fold
+check,check
+call,call
+check,check
+call,fold
+check,check
+raise 90,raise 78
+fold,fold
+check,check
+call,call
+raise 22,raise 22
+fold,fold
+raise 25,call
+call,call
+call,call
+raise 32,raise 32
+call,call
+call,call
+check,check
+fold,fold
+raise 32,fold
+call,call
+fold,fold
+call,raise 35
+check,check
+call,call
+check,bet 16
+call,fold
+fold,fold
+call,call
+call,call
+check,bet 19
+raise 2.0,check
+check,check
+call,call
+check,check
+check,check
+check,check
+check,check
+check,check
+check,bet 18
+check,check
+fold,fold
+raise 81,raise 83
+raise 38,raise 41
+check,check
+fold,fold
+check,check
+call,raise 57
+check,check
+raise 74,call
+check,check
+check,check
+check,bet 24
+check,check
+check,bet 8
+check,check
+call,fold
+check,check
+check,check
+check,check
+raise 2.5,raise 3.0
+raise 25,raise 25
+call,call
+raise 3.0,check
+check,check
+call,raise 27
+fold,fold
+fold,call
+fold,fold
+call,call
+check,check
+fold,fold
+call,call
+check,check
+call,call
+check,check
+check,bet 4
+check,bet 29
+raise 74,raise 77
+raise 58,fold
+call,call
+check,bet 24
+call,raise 82
+fold,fold
+raise 88,raise 89
+check,bet 29
+raise 2.5,check
+fold,fold
+fold,fold
+check,check
+raise 81,raise 81
+check,check
+raise 88,fold
+call,raise 84
+fold,call
+check,bet 23
+raise 88,call
+check,bet 10
+call,call
+call,fold
+fold,fold
+check,bet 11
+fold,fold
+call,call
+raise 28,raise 28
+check,bet 40
+fold,fold
+check,check
+fold,fold
+call,raise 31
+check,bet 18
+raise 37,fold
+fold,call
+call,raise 28
+check,bet 18
+check,check
+call,call
+call,raise 13
+fold,fold
+raise 25,call
+fold,fold
+call,fold
+call,call
+fold,raise 41
+check,check
+call,raise 77
+call,call
+raise 14.0,raise 15.0
+check,check
+raise 2.5,check
+call,call
+raise 51,call
+call,fold
+raise 90,fold
+call,call
+fold,fold
+call,fold
+fold,fold
+raise 100,call
+fold,fold
+call,raise 81
+fold,fold
+fold,fold
+call,fold
+fold,fold
+call,call
+check,check
+check,bet 3
+check,check
+raise 88,raise 70
+call,raise 13
+raise 32,raise 32
+raise 38,fold
+call,call
+check,bet 29
+call,fold
+call,fold
+check,check
+raise 87,raise 91
+raise 90,raise 91
+fold,fold
+raise 20,call
+raise 13,raise 13
+check,bet 29
+check,check
+check,raise 61
+check,check
+fold,fold
+call,call
+call,fold
+call,fold
+fold,fold
+fold,fold
+check,check
+raise 90,raise 85
+fold,fold
+check,check
+fold,fold
+call,call
+raise 28.0,raise 29.6
+raise 38,fold
+call,raise 13
+fold,fold
+check,check
+raise 32,fold
+check,check
+raise 32,fold
+raise 74,raise 77
+check,check
+fold,fold
+raise 11.0,raise 13.0
+fold,fold
+fold,fold
+call,call
+raise 40,raise 41
+call,call
+check,check
+raise 22,raise 23
+call,raise 10
+raise 89,call
+check,check
+call,fold
+raise 34,raise 33
+call,raise 89
+call,raise 48
+raise 0 chips,call
+check,check
+call,call
+call,raise 14
+raise 25,fold
+raise 89,raise 95
+call,fold
+raise 88,raise 89
+fold,fold
+check,raise 54
+check,check
+raise 88,call
+check,bet 24
+raise 10,fold
+check,bet 12
+call,raise 13
+raise 10,fold
+fold,fold
+call,raise 77
+fold,raise 16
+call,call
+check,bet 12
+raise 26,fold
+check,check
+check,check
+call,call
+check,check
+call,raise 41
+call,call
+call,fold
+call,call
+call,fold
+call,call
+bet 4,check
+check,check
+fold,fold
+check,check
+raise 2.5,check
+check,check
+check,check
+raise 38,raise 38
+check,check
+fold,fold
+check,check
+call,call
+raise 32,raise 35
+call,fold
+fold,fold
+check,bet 12
+call,call
+check,bet 13
+fold,fold
+check,check
+check,bet 34
+call,fold
+fold,fold
+raise 32,raise 32
+check,check
+check,bet 23
+call,call
+raise 90,fold
+raise 34,raise 31
+call,call
+check,check
+fold,fold
+call,call
+check,bet 10
+raise 38,call
+raise 90,call
+call,fold
+fold,fold
+raise 37,raise 35
+check,bet 26
+fold,fold
+fold,fold
+check,check
+fold,fold
+raise 84,fold
+call,raise 46
+raise 16,call
+raise 3.0,check
+check,check
+check,check
+check,check
+fold,fold
+check,check
+check,check
+check,check
+check,bet 7
+call,raise 86
+fold,fold
+raise 84,raise 82
+raise 18,raise 18
+fold,fold
+call,fold
+raise 84,call
+raise 81,raise 90
+fold,fold
+call,call
+check,check
+raise 17,call
+check,bet 10
+check,check
+check,check
+check,bet 28
+raise 84,raise 77
+fold,fold
+check,check
+call,call
+check,check
+call,fold
+call,fold
+raise 7.0,raise 6.5
+fold,fold
+check,check
+raise 40,call
+call,call
+check,check
+call,fold
+fold,fold
+check,check
+check,check
+raise 10,call
+call,call
+call,call
+check,check
+check,check
+call,call
+check,check
+raise 18,raise 17
+raise 37,fold
+raise 10,raise 10
+check,bet 17
+fold,fold
+check,check
+bet 29,bet 29
+raise 14.0,raise 14.0
+check,bet 29
+call,call
+check,check
+call,call
+fold,fold
+raise 25,fold
+check,bet 3
+fold,fold
+check,check
+call,call
+check,check
+call,call
+call,raise 88
+raise 39,call
+call,call
+fold,fold
+check,bet 10
+call,call
+call,call
+fold,fold
+call,fold
+call,raise 59
+raise 74,raise 86
+check,bet 4
+raise 32,raise 32
+check,check
+fold,check
+call,call
+call,call
+fold,fold
+call,call
+call,call
+call,fold
+check,check
+raise 14.0,raise 20.0
+check,check
+check,bet 13
+raise 2.5,raise 2.3
+fold,fold
+fold,fold
+check,bet 13
+fold,fold
+call,call
+raise 89,call
+raise 32,call
+fold,fold
+check,check
+call,fold
+raise 90,raise 86
+call,call
+fold,fold
+raise 2.5,check
+raise 51,call
+raise 81,call
+check,check
+raise 32,raise 32
+raise 29,call
+call,fold
+call,call
+call,call
+check,check
+check,check
+fold,fold
+fold,fold
+check,bet 18
+fold,fold
+raise 90,raise 92
+call,call
+call,call
+check,check
+call,call
+raise 114,call
+check,bet 24
+raise 3.0,check
+call,call
+call,fold
+raise 58,raise 65
+fold,fold
+raise 13,raise 13
+call,call
+call,fold
+raise 10,raise 11
+check,raise 74
+call,call
+raise 14.0,raise 17.5
+check,bet 18
+raise 16,raise 16
+call,fold
+fold,fold
+check,bet 4
+call,call
+call,call
+check,check
+check,check
+raise 7.0,raise 6.5
+call,fold
+raise 90,raise 77
+call,fold
+raise 88,raise 86
+fold,fold
+fold,fold
+call,fold
+fold,fold
+check,check
+fold,fold
+check,bet 11
+raise 32,raise 29
+raise 90,raise 78
+check,bet 29
+check,bet 40
+check,check
+check,check
+fold,fold
+raise 88,raise 92
+check,bet 29
+check,bet 13
+call,fold
+call,call
+fold,fold
+check,bet 29
+call,call
+check,check
+check,check
+call,fold
+raise 89,raise 94
+fold,call
+fold,fold
+raise 20,raise 23
+fold,call
+raise 89,raise 82
+raise 123,fold
+check,bet 4
+check,check
+fold,fold
+check,check
+raise 38,call
+call,fold
+fold,fold
+fold,fold
+fold,fold
+raise 38,call
+call,call
+fold,fold
+check,check
+call,raise 57
+call,raise 88
+call,call
+fold,fold
+check,check
+check,check
+fold,fold
+call,fold
+fold,fold
+check,check
+check,bet 17
+bet 11,check
+call,fold
+call,call
+check,bet 18
+call,fold
+call,call
+call,raise 82
+check,check
+raise 51,fold
+check,check
+call,fold
+check,bet 11
+fold,fold
+fold,call
+fold,raise 86
+raise 58,fold
+bet 10,bet 11
+check,check
+raise 18,raise 18
+raise 90,raise 84
+check,check
+raise 35,call
+check,check
+fold,fold
+call,raise 84
+fold,fold
+check,bet 29
+call,call
+check,check
+fold,fold
+check,check
+call,call
+fold,fold
+raise 90,raise 72
+call,fold
+call,call
+fold,fold
+call,fold
+check,check
+check,check
+check,check
+fold,fold
+check,raise 62
+check,check
+call,call
+call,call
+call,fold
+check,check
+fold,fold
+fold,call
+fold,fold
+fold,fold
+call,fold
+call,call
+call,call
+call,fold
+check,bet 5
+call,call
+raise 13,raise 13
+check,check
+call,fold
+raise 81,call
+fold,call
+check,check
+check,bet 29
+raise 18,call
+raise 22,raise 22
+check,check
+check,check
+fold,fold
+check,bet 20
+call,call
+check,check
+call,call
+raise 38,fold
+check,check
+raise 90,fold
+raise 32,call
+check,check
+raise 51,fold
+fold,fold
+call,fold
+call,fold
+check,check
+call,raise 35
+fold,fold
+call,call
+check,check
+call,raise 81
+call,call
+raise 11.0,raise 14.0
+check,check
+call,call
+raise 38,raise 38
+fold,fold
+raise 22,fold
+raise 3.0,check
+check,check
+raise 25,call
+call,fold
+check,check
+check,bet 7
+check,bet 8
+call,call
+check,check
+check,check
+call,call
+call,call
+fold,fold
+check,check
+raise 84,raise 74
+raise 90,fold
+call,fold
+check,bet 29
+check,bet 17
+check,check
+fold,call
+call,call
+bet 13,bet 13
+raise 32,call
+check,check
+call,raise 23
+check,check
+call,fold
+raise 10,call
+raise 7.0,raise 6.5
+fold,fold
+check,check
+raise 32,fold
+fold,fold
+fold,fold
+call,raise 48
+call,call
+call,call
+bet 29,check
+check,bet 23
+fold,call
+call,call
+fold,fold
+check,check
+check,check
+fold,call
+call,fold
+call,call
+call,fold
+raise 2.5,check
+call,raise 29
+fold,call
+fold,fold
+check,bet 16
+fold,fold
+raise 81,call
+call,fold
+call,call
+call,call
+check,check
+call,raise 22
+raise 10,call
+call,raise 22
+call,call
+fold,fold
+raise 32,call
+check,check
+raise 51,raise 89
+check,check
+raise 89,raise 74
+call,call
+check,check
+call,raise 92
+check,check
+raise 2.0,check
+check,check
+fold,fold
+call,raise 80
+fold,fold
+call,call
+raise 25,call
+call,call
+call,call
+check,check
+raise 38,fold
+call,call
+check,raise 74
+check,check
+check,check
+call,call
+call,fold
+check,check
+call,fold
+raise 89,call
+fold,fold
+fold,fold
+raise 38,raise 38
+check,check
+call,raise 13
+call,call
+raise 32,raise 32
+check,check
+raise 18,raise 17
+call,raise 92
+call,fold
+check,check
+call,fold
+call,raise 80
+fold,check
+call,fold
+call,raise 89
+check,bet 25
+raise 90,raise 93
+raise 81,call
+fold,fold
+call,call
+check,bet 10
+fold,fold
+raise 22,raise 22
+check,check
+check,check
+raise 51,raise 86
+check,check
+raise 24.0,call
+raise 123,call
+check,check
+call,call
+check,check
+call,call
+check,check
+check,bet 11
+raise 10,fold
+check,check
+call,raise 13
+call,fold
+call,call
+call,fold
+fold,fold
+raise 29,call
+call,fold
+call,call
+fold,fold
+check,bet 18
+check,check
+check,bet 24
+check,check
+fold,fold
+check,check
+check,check
+call,raise 89
+check,check
+check,check
+check,check
+raise 81,call
+check,check
+raise 81,raise 81
+call,fold
+fold,fold
+call,call
+call,call
+call,call
+raise 10,call
+fold,fold
+check,check
+check,bet 5
+check,check
+check,check
+raise 58,call
+call,call
+check,bet 13
+raise 18,call
+check,raise 64
+call,call
+raise 90,call
+check,raise 70
+check,bet 12
+check,bet 23
+check,check
+raise 18,fold
+check,check
+fold,call
+call,fold
+raise 81,call
+check,check
+call,fold
+fold,fold
+fold,fold
+raise 58,call
+fold,fold
+raise 2.5,check
+check,check
+check,bet 3
+call,call
+check,check
+call,call
+check,check
+call,fold
+fold,fold
+call,fold
+check,bet 29
+raise 3.0,raise 3.0
+call,fold
+raise 58,call
+check,check
+raise 32,call
+fold,fold
+fold,fold
+call,fold
+check,check
+call,call
+call,call
+call,call
+raise 10,call
+check,check
+call,call
+check,bet 10
+call,fold
+check,check
+check,check
+check,check
+call,fold
+raise 88,raise 85
+call,call
+check,check
+call,call
+check,bet 21
+raise 35,raise 29
+fold,fold
+raise 29,call
+call,raise 84
+fold,fold
+raise 38,call
+call,fold
+call,call
+call,fold
+check,check
+raise 3.0,check
+check,check
+raise 14.0,fold
+check,check
+raise 40,raise 41
+check,check
+check,check
+check,bet 31
+call,raise 90
+check,check
+raise 3.0,check
+check,bet 51
+raise 89,raise 90
+check,check
+check,bet 10
+fold,call
+call,call
+check,check
+raise 3.0,check
+fold,fold
+check,check
+call,raise 84
+fold,fold
+call,fold
+check,check
+check,bet 10
+raise 74,call
+call,raise 13
+fold,fold
+call,call
+fold,fold
+fold,call
+check,check
+check,check
+call,call
+raise 25,call
+fold,call
+raise 89,raise 82
+check,check
+call,fold
+check,check
+check,check
+check,check
+call,fold
+check,check
+call,fold
+check,bet 17
+check,check
+fold,fold
+check,check
+raise 16.0,raise 16.0
+fold,fold
+raise 34,fold
+check,check
+call,fold
+fold,fold
+fold,fold
+raise 2.0,check
+raise 25,call
+check,check
+check,check
+fold,fold
+raise 88,raise 74
+call,call
+call,fold
+raise 22,call
+raise 32,call
+check,bet 13
+check,check
+check,check
+raise 22,raise 22
+call,call
+fold,call
+check,check
+raise 10,raise 10
+check,check
+raise 38,raise 37
+raise 14.0,fold
+raise 16,call
+raise 90,raise 80
+raise 90,raise 77
+raise 3.0,check
+check,check
+check,check
+raise 18,raise 17
+call,call
+fold,fold
+call,raise 32
+raise 3.0,check
+call,call
+check,bet 13
+check,check
+fold,fold
+fold,fold
+call,call
+fold,check
+fold,raise 82
+check,check
+call,raise 93
+fold,fold
+check,check
+call,call
+fold,fold
+fold,fold
+raise 58,raise 84
+fold,fold
+call,call
+call,fold
+raise 25,fold
+call,raise 33
+check,bet 4
+raise 40,raise 41
+check,check
+bet 11,check
+raise 32,call
+call,call
+raise 90,call
+fold,fold
+check,bet 10
+check,check
+check,check
+check,bet 13
+check,check
+fold,fold
+call,fold
+check,raise 64
+check,check
+call,call
+check,check
+raise 89,fold
+fold,fold
+call,fold
+check,bet 24
+raise 11.0,raise 11.0
+fold,fold
+call,fold
+raise 74,raise 85
+check,bet 12
+raise 81,fold
+fold,fold
+check,check
+check,bet 10
+fold,fold
+fold,call
+fold,raise 80
+check,check
+check,check
+call,call
+check,check
+check,check
+raise 90,raise 77
+call,call
+fold,fold
+call,fold
+raise 25,fold
+call,fold
+check,check
+check,check
+check,bet 13
+call,call
+check,check
+check,check
+check,check
+check,check
+check,check
+fold,fold
+fold,fold
+fold,call
+fold,fold
+raise 28,raise 29
+call,fold
+check,bet 5
+fold,fold
+call,fold
+check,raise 58
+raise 22,fold
+raise 82,call
+call,call
+check,check
+check,check
+check,check
+fold,fold
+check,check
+call,fold
+check,check
+raise 31,raise 30
+call,call
+call,call
+check,bet 29
+check,check
+check,check
+check,bet 51
+check,bet 12
+fold,raise 83
+fold,call
+call,fold
+fold,fold
+call,call
+check,check
+fold,fold
+check,check
+call,call
+raise 77,raise 77
+raise 25,fold
+check,bet 23
+check,check
+check,check
+call,call
+raise 14.0,raise 15.0
+fold,fold
+fold,fold
+call,fold
+check,bet 10
+check,check
+check,check
+check,check
+raise 89,raise 77
+raise 2.0,check
+check,check
+call,call
+check,check
+fold,fold
+check,bet 3
+raise 10,call
+check,check
+fold,fold
+call,call
+call,raise 41
+call,call
+call,call
+check,bet 4
+call,call
+call,fold
+call,call
+check,check
+check,check
+call,call
+check,check
+call,call
+call,call
+fold,fold
+raise 38,call
+check,bet 3
+call,fold
+fold,fold
+call,fold
+raise 51,fold
+fold,call
+raise 10,fold
+call,raise 88
+check,bet 4
+call,call
+check,check
+check,bet 39
+fold,call
+call,call
+check,check
+fold,call
+check,check
+raise 28,raise 27
+check,check
+raise 84,fold
+call,raise 93
+call,fold
+fold,fold
+check,bet 29
+check,check
+check,check
+call,call
+fold,fold
+check,check
+call,call
+check,bet 19
+raise 74,call
+check,check
+raise 11.0,raise 11.0
+fold,fold
+raise 32,call
+check,check
+fold,fold
+call,fold
+call,fold
+call,call
+raise 54,call
+raise 7.0,raise 11.0
+check,check
+check,check
+check,check
+raise 3.0,check
+raise 2.5,check
+fold,fold
+fold,fold
+raise 90,raise 89
+raise 51,call
+call,call
+fold,raise 31.0
+call,call
+call,call
+call,call
+check,check
+call,raise 82
+check,check
+check,bet 29
+check,check
+check,check
+call,raise 82
+raise 18,raise 18
+fold,raise 89
+call,raise 81
+check,bet 23
+check,bet 29
+call,raise 95
+raise 51,call
+raise 3.0,check
+raise 87,raise 80
+check,check
+check,check
+fold,call
+bet 23,bet 23
+fold,fold
+call,call
+call,call
+fold,fold
+call,fold
+check,check
+fold,fold
+fold,fold
+raise 84,raise 84
+check,check
+raise 88,call
+fold,fold
+raise 18,call
+fold,fold
+call,call
+raise 35,raise 29
+fold,fold
+check,check
+fold,fold
+check,bet 22
+check,check
+call,call
+raise 2.5,raise 2.3
+check,check
+raise 2.5,check
+raise 84,fold
+call,raise 84
+fold,fold
+raise 90,raise 90
+call,call
+raise 20,raise 23
+check,bet 10
+raise 3.0,check
+check,check
+call,call
+raise 81,fold
+check,check
+check,check
+check,check
+call,call
+fold,fold
+fold,raise 11.0
+raise 23,raise 23
+check,check
+check,check
+raise 84,call
+fold,fold
+fold,fold
+fold,fold
+check,bet 2
+fold,call
+check,check
+check,check
+call,call
+raise 22,raise 22
+raise 13,fold
+check,bet 4
+raise 2.5,check
+check,check
+call,raise 90
+call,call
+raise 39,raise 40
+check,bet 39
+raise 38,call
+check,raise 70
+raise 16,raise 16
+fold,fold
+fold,fold
+fold,fold
+raise 88,call
+call,raise 88
+check,check
+check,bet 18
+raise 84,raise 74
+fold,fold
+call,fold
+raise 25,raise 25
+fold,fold
+raise 20.0,call
+bet 11,check
+call,fold
+call,raise 31
+fold,fold
+fold,call
+check,check
+fold,fold
+check,bet 20
+call,call
+check,bet 18
+check,check
+raise 32,fold
+raise 90,raise 76
+check,check
+fold,fold
+raise 58,raise 89
+check,check
+fold,fold
+raise 13.0,raise 9.5
+call,call
+check,bet 8
+check,check
+call,call
+check,check
+call,fold
+call,raise 51
+call,call
+call,call
+raise 2.0,raise 2.5
+raise 8.0,fold
+check,bet 13
+call,call
+raise 25,fold
+call,fold
+check,bet 34
+check,check
+call,call
+check,check
+bet 13,check
+fold,fold
+check,bet 51
+call,raise 70
+call,fold
+raise 32,fold
+call,raise 95
+check,check
+fold,fold
+raise 74,raise 86
+raise 2.5,check
+call,raise 16
+check,bet 24
+check,check
+call,raise 86
+check,check
+raise 114,call
+check,check
+fold,call
+check,check
+call,call
+fold,fold
+call,fold
+check,bet 24
+check,bet 16
+fold,fold
+fold,fold
+call,call
+raise 2.0,raise 2.3
+fold,fold
+check,bet 32
+call,fold
+check,check
+check,check
+call,call
+check,check
+raise 32,call
+raise 85,fold
+call,call
+check,bet 13
+raise 31.0,raise 27.0
+raise 38,raise 38
+call,call
+call,call
+fold,call
+check,bet 8
+raise 81,call
+call,fold
+check,check
+check,bet 29
+check,bet 29
+check,bet 5
+raise 88,raise 74
+raise 3.0,raise 2.3
+fold,fold
+check,check
+raise 18,call
+call,call
+fold,fold
+call,fold
+call,call
+raise 40,raise 41
+raise 14.0,raise 14.0
+raise 25,call
+check,bet 1
+call,fold
+raise 51,fold
+call,call
+check,check
+check,check
+fold,fold
+check,check
+call,fold
+raise 3.0,check
+raise 88,call
+check,check
+fold,fold
+raise 32,raise 32
+check,bet 12
+call,raise 88
+fold,fold
+call,call
+check,bet 4
+fold,fold
+fold,call
+raise 29,raise 28
+check,check
+call,call
+fold,call
+call,fold
+check,check
+fold,fold
+fold,fold
+raise 88,raise 77
+check,check
+raise 16,raise 16
+raise 39,call
+call,call
+call,call
+raise 13,raise 13
+check,check
+call,call
+check,check
+check,check
+fold,fold
+fold,call
+call,call
+check,check
+call,fold
+check,bet 22
+fold,fold
+raise 18,fold
+call,fold
+fold,fold
+fold,fold
+check,check
+fold,fold
+fold,fold
+call,raise 81
+fold,fold
+check,check
+raise 3.0,check
+call,call
+check,raise 75
+call,raise 55
+raise 16,call
+check,check
+fold,fold
+check,bet 10
+call,call
+fold,fold
+call,call
+raise 32,call
+raise 90,call
+call,fold
+raise 2.5,check
+raise 14,call
+raise 10,raise 10
+call,call
+fold,fold
+call,call
+raise 89,fold
+raise 2.5,check
+check,check
+fold,fold
+fold,fold
+call,raise 17
+check,bet 29
+check,check
+check,check
+check,check
+check,check
+raise 3.0,raise 3.0
+check,check
+check,raise 61
+check,check
+raise 81,raise 83
+fold,check
+call,call
+raise 85,raise 58
+check,check
+raise 22,call
+call,fold
+check,check
+call,fold
+check,check
+call,call
+call,fold
+check,check
+fold,fold
+check,check
+call,call
+check,bet 2
+raise 32,call
+check,bet 2
+call,call
+check,check
+raise 51,raise 88
+raise 81,call
+check,check
+check,bet 17
+raise 16.0,raise 21.0
+call,call
+check,check
+raise 32,raise 32
+call,call
+raise 16,call
+fold,fold
+raise 38,call
+call,fold
+raise 3.0,check
+fold,call
+call,raise 17
+call,fold
+fold,call
+check,check
+raise 11.0,raise 11.0
+call,fold
+fold,fold
+fold,fold
+raise 89,raise 77
+raise 51,raise 54
+check,bet 20
+check,bet 18
+call,raise 80
+raise 85,call
+fold,fold
+call,call
+call,call
+call,raise 13
+check,bet 4
+call,fold
+check,bet 11
+call,call
+call,call
+call,call
+raise 51,call
+fold,fold
+call,call
+check,check
+fold,fold
+call,raise 13
+call,call
+fold,raise 93
+check,check
+fold,fold
+check,check
+raise 29,raise 28
+raise 85,fold
+call,call
+raise 32,call
+raise 89,raise 83
+call,call
+call,fold
+fold,raise 14.0
+call,fold
+check,check
+check,check
+raise 90,raise 88
+check,check
+check,bet 40
+fold,fold
+call,raise 93
+check,bet 10
+check,check
+check,check
+check,check
+raise 40,fold
+call,call
+call,call
+raise 88,raise 80
+check,check
+call,call
+check,check
+fold,fold
+check,check
+call,call
+call,call
+fold,fold
+check,check
+call,call
+fold,fold
+call,raise 91
+check,bet 10
+call,fold
+check,bet 24
+check,bet 13
+raise 25,raise 25
+raise 84,raise 83
+check,check
+check,check
+check,check
+call,fold
+fold,raise 89
+call,call
+check,check
+raise 74,raise 77
+call,fold
+fold,fold
+call,call
+check,bet 8
+call,call
+check,raise 61
+call,fold
+raise 3.0,raise 3.0
+raise 17,call
+raise 58,raise 83
+fold,fold
+call,fold
+call,raise 33
+raise 81,call
+raise 90,call
+raise 7.0,call
+call,raise 93
+raise 88,raise 87
+call,fold
+check,check
+call,call
+call,call
+check,bet 13
+check,check
+call,raise 84
+call,fold
+fold,fold
+check,check
+fold,fold
+raise 16,call
+raise 44,call
+call,raise 89
+call,call
+raise 32,raise 32
+call,raise 84
+check,bet 5
+raise 13,call
+check,check
+call,fold
+call,fold
+call,fold
+call,fold
+call,fold
+call,fold
+check,check
+raise 38,fold
+raise 51,fold
+raise 25,call
+raise 123,fold
+call,call
+check,check
+raise 3.0,raise 2.0
+call,fold
+check,check
+check,check
+call,call
+call,fold
+call,raise 82
+call,call
+call,call
+check,check
+raise 38,fold
+fold,fold
+raise 84,call
+raise 51,raise 35
+fold,call
+fold,fold
+raise 2.5,raise 2.3
+call,call
+check,check
+check,bet 23
+call,fold
+raise 18,fold
+call,call
+raise 81,raise 87
+check,check
+check,check
+check,check
+call,call
+call,raise 57
+raise 89,raise 89
+raise 88,call
+check,check
+check,check
+fold,call
+check,check
+fold,fold
+call,call
+fold,fold
+raise 32,call
+fold,fold
+call,call
+fold,fold
+raise 28,call
+check,check
+fold,raise 3.0
+check,check
+fold,fold
+check,check
+call,call
+raise 38,raise 38
+raise 88,raise 86
+call,fold
+fold,fold
+call,call
+check,check
+raise 89,fold
+raise 84,call
+raise 26,call
+check,check
+raise 14.0,raise 19.0
+fold,fold
+fold,fold
+call,fold
+check,bet 29
+call,fold
+fold,fold
+check,check
+call,fold
+check,bet 32
+call,call
+raise 3.0,raise 2.3
+check,check
+check,check
+call,call
+fold,fold
+check,check
+check,check
+raise 22,fold
+raise 25,call
+raise 13,call
+raise 74,raise 76
+check,bet 10
+raise 60,call
+check,check
+fold,fold
+call,fold
+call,call
+check,check
+fold,call
+raise 10,call
+check,check
+check,check
+call,call
+call,call
+fold,fold
+check,check
+call,raise 14
+fold,call
+call,raise 93
+raise 51,raise 93
+fold,call
+raise 44,fold
+call,fold
+fold,fold
+fold,fold
+call,call
+raise 38,call
+fold,fold
+fold,fold
+call,fold
+call,fold
+call,fold
+fold,fold
+call,call
+call,fold
+raise 90,raise 89
+check,check
+check,check
+check,check
+call,fold
+bet 29,bet 29
+fold,call
+check,check
+fold,fold
+check,bet 3
+check,check
+fold,fold
+check,check
+call,fold
+call,fold
+raise 3.0,check
+call,call
+fold,call
+check,bet 11
+check,bet 16
+check,check
+raise 38,raise 38
+call,call
+call,call
+call,raise 57
+raise 18,call
+check,check
+call,call
+fold,call
+raise 90,fold
+raise 87,raise 81
+fold,fold
+check,bet 23
+raise 85,raise 87
+raise 2.0,check
+check,check
+check,check
+raise 2.5,check
+check,check
+check,check
+check,check
+check,check
+check,bet 29
+call,raise 89
+raise 89,raise 79
+raise 87,raise 80
+call,fold
+fold,fold
+raise 7.0,raise 7.5
+call,fold
+raise 2.0,check
+call,call
+bet 38,raise 74
+fold,fold
+fold,fold
+check,check
+fold,fold
+call,call
+call,call
+check,bet 23
+bet 11,bet 11
+check,check
+call,fold
+fold,call
+raise 18,call
+check,check
+check,check
+call,call
+call,fold
+raise 74,raise 83
+check,check
+raise 14.0,raise 14.0
+call,call
+raise 90,raise 86
+check,check
+fold,fold
+call,call
+call,fold
+check,check
+fold,fold
+call,call
+check,bet 29
+raise 18,fold
+call,call
+check,check
+check,check
+raise 38,fold
+raise 22,call
+call,fold
+fold,fold
+fold,fold
+call,call
+check,raise 70
+check,check
+raise 3.0,check
+call,call
+call,call
+check,check
+check,check
+check,bet 17
+call,fold
+check,bet 20
+call,call
+call,call
+check,check
+check,check
+check,bet 10
+check,bet 13
+call,call
+raise 58,call
+fold,fold
+raise 2.5,check
+raise 88,raise 70
+fold,raise 90
+raise 85,raise 82
+fold,call
+fold,fold
+check,check
+check,check
+check,check
+raise 81,call
+raise 51,call
+fold,fold
+fold,call
+call,call
+raise 32,call
+check,check
+raise 13,fold
+raise 38,call
+raise 18,raise 18
+call,call
+raise 38,raise 37
+fold,fold
+call,call
+check,raise 64
+call,fold
+call,fold
+raise 39,fold
+raise 81,raise 83
+call,raise 13
+fold,fold
+check,check
+raise 89,raise 82
+call,fold
+call,raise 86
+check,check
+call,call
+call,call
+check,raise 54
+check,bet 40
+raise 38.0,fold
+fold,fold
+check,bet 2
+check,bet 13
+check,bet 8
+raise 90,fold
+check,check
+fold,fold
+raise 85,call
+call,call
+call,call
+raise 23,fold
+fold,fold
+call,call
+fold,fold
+call,call
+raise 37,call
+fold,fold
+raise 3.0,check
+check,check
+check,check
+check,raise 54
+check,bet 12
+check,check
+fold,fold
+raise 17.0,raise 18.0
+call,fold
+call,call
+check,check
+check,check
+call,call
+call,call
+fold,call
+fold,call
+call,call
+check,raise 74
+raise 10.0,raise 10.0
+check,check
+raise 11.0,raise 13.0
+call,call
+check,check
+check,check
+check,check
+call,raise 11
+fold,fold
+fold,fold
+call,call
+call,fold
+check,check
+call,raise 95
+check,bet 13
+call,call
+check,check
+check,bet 23
+call,call
+fold,fold
+raise 18,call
+call,fold
+check,bet 10
+raise 84,fold
+fold,fold
+call,call
+fold,fold
+check,check
+fold,raise 46
+check,bet 29
+check,check
+call,raise 92
+fold,fold
+raise 32,raise 29
+fold,fold
+check,bet 17
+call,raise 17
+fold,call
+fold,fold
+call,fold
+fold,fold
+call,call
+call,raise 36
+call,call
+fold,raise 83
+fold,fold
+call,raise 83
+call,fold
+raise 28,call
+call,call
+fold,fold
+raise 90,raise 92
+call,call
+raise 90,call
+fold,fold
+fold,fold
+check,bet 29
+fold,raise 70
+raise 7.0,raise 11.5
+check,check
+call,call
+raise 90,raise 94
+bet 4,bet 6
+raise 10,raise 11
+check,check
+fold,fold
+check,raise 64
+fold,fold
+call,call
+check,check
+fold,fold
+raise 90,raise 80
+check,check
+raise 22.0,call
+check,check
+call,fold
+check,check
+call,fold
+raise 32,fold
+check,bet 38
+call,call
+check,check
+call,call
+check,bet 27
+fold,fold
+call,call
+check,check
+call,raise 89
+raise 81,raise 81
+check,check
+check,bet 10
+raise 18,call
+raise 3.0,check
+raise 4.0,raise 14.0
+call,call
+raise 25,call
+fold,fold
+raise 17,call
+raise 7.0,raise 6.5
+raise 32,call
+fold,raise 41
+fold,fold
+call,raise 26
+check,bet 5
+call,call
+fold,fold
+raise 20,call
+check,check
+call,call
+check,bet 29
+check,check
+call,call
+raise 89,raise 92
+raise 16,call
+call,call
+call,raise 23
+check,check
+check,check
+fold,fold
+call,fold
+raise 10,call
+raise 89,fold
+raise 90,fold
+fold,fold
+raise 90,call
+check,check
+call,fold
+fold,fold
+call,raise 89
+raise 16,raise 16
+bet 29,check
+raise 13,raise 13
+fold,fold
+check,bet 7
+check,bet 29
+check,check
+check,check
+fold,fold
+check,check
+call,call
+check,check
+call,call
+check,bet 17
+fold,fold
+check,check
+raise 24.0,raise 25.0
+fold,fold
+check,check
+call,call
+fold,fold
+check,check
+raise 17,call
+fold,fold
+raise 89,raise 88
+check,check
+raise 29,call
+call,raise 84
+fold,fold
+call,call
+fold,fold
+fold,fold
+raise 17,call
+call,fold
+raise 14,call
+call,fold
+check,bet 23
+fold,call
+raise 90,call
+check,bet 8
+call,call
+raise 38,fold
+check,bet 10
+fold,call
+check,bet 8
+call,fold
+raise 89,raise 49
+raise 84,call
+call,call
+raise 10,raise 10
+call,fold
+call,raise 13
+call,raise 90
+check,check
+call,call
+call,call
+raise 90,raise 86
+call,fold
+call,fold
+fold,fold
+fold,fold
+fold,call
+fold,fold
+call,call
+call,fold
+call,fold
+fold,fold
+call,call
+raise 28,raise 29
+check,check
+raise 32,raise 32
+check,check
+call,call
+check,check
+raise 25.0,call
+call,call
+raise 90,call
+call,raise 80
+check,check
+raise 89,raise 81
+raise 3.0,check
+check,bet 35
+fold,fold
+fold,call
+fold,fold
+call,call
+fold,fold
+check,check
+check,check
+fold,fold
+call,raise 93
+raise 2.5,check
+call,raise 90
+call,call
+check,bet 28
+raise 14.0,raise 14.0
+call,call
+call,fold
+check,check
+call,call
+check,check
+check,check
+raise 10,call
+call,call
+raise 3.0,raise 2.5
+check,check
+check,bet 13
+call,fold
+raise 90,fold
+bet 10,check
+check,check
+fold,fold
+fold,call
+fold,call
+check,check
+check,check
+check,check
+fold,fold
+call,fold
+raise 88,raise 84
+raise 25,raise 25
+check,bet 22
+check,check
+check,check
+call,call
+call,call
+raise 3.0,check
+call,raise 10
+call,call
+call,call
+call,call
+check,check
+raise 88,fold
+fold,fold
+fold,fold
+check,bet 17
+call,call
+check,check
+raise 16,call
+check,check
+raise 29,call
+check,check
+raise 40,raise 41
+fold,call
+raise 54,fold
+fold,fold
+call,call
+call,call
+check,raise 70
+check,bet 23
+check,bet 5
+raise 3.0,check
+fold,call
+raise 84,call
+check,check
+call,call
+check,check
+raise 88,raise 86
+fold,fold
+fold,raise 89
+raise 90,call
+check,check
+raise 87,raise 80
+fold,fold
+check,check
+call,raise 74
+raise 25,call
+raise 10,raise 11
+check,check
+call,raise 82
+call,raise 90
+raise 74,raise 77
+check,bet 29
+call,call
+fold,fold
+raise 2.0,raise 3.0
+check,check
+call,fold
+raise 89,raise 67
+fold,fold
+check,check
+raise 32,fold
+call,fold
+call,raise 86
+call,raise 32
+check,check
+fold,fold
+check,bet 16
+check,bet 12
+bet 74,check
+call,call
+fold,fold
+raise 25,call
+raise 10,call
+call,call
+fold,fold
+call,fold
+call,call
+raise 11.0,raise 9.5
+call,call
+raise 11,call
+call,call
+call,call
+raise 32,raise 32
+fold,fold
+check,check
+raise 100,call
+raise 90,call
+call,fold
+check,check
+check,check
+fold,call
+fold,fold
+fold,fold
+fold,fold
+check,raise 61
+check,bet 7
+call,call
+raise 37,call
+call,fold
+check,check
+fold,check
+check,check
+call,fold
+fold,fold
+fold,fold
+raise 32,call
+raise 81,call
+check,check
+call,call
+fold,fold
+call,call
+call,call
+fold,call
+call,fold
+fold,fold
+call,call
+check,check
+check,check
+check,bet 29
+fold,fold
+check,raise 54
+check,check
+call,fold
+fold,fold
+fold,fold
+call,fold
+raise 88,raise 80
+fold,fold
+raise 2.0,check
+raise 44,raise 44
+call,call
+check,check
+fold,fold
+call,call
+raise 88,fold
+raise 38,call
+raise 38,raise 38
+fold,fold
+check,check
+raise 16,raise 16
+check,bet 22
+fold,fold
+call,call
+call,call
+fold,fold
+check,bet 17
+fold,fold
+check,bet 39
+check,check
+call,call
+fold,fold
+raise 81,call
+fold,fold
+raise 32,call
+fold,fold
+check,check
+check,bet 25
+fold,raise 93
+call,fold
+fold,fold
+call,fold
+raise 37,call
+call,raise 83
+fold,check
+raise 32,call
+call,fold
+raise 7,call
+call,fold
+check,bet 12
+fold,call
+raise 13,raise 13
+call,call
+raise 25,raise 22
+fold,fold
+call,fold
+raise 38,raise 30
+raise 90,raise 91
+check,raise 58
+check,check
+call,fold
+raise 2.5,check
+call,fold
+check,bet 12
+check,check
+check,raise 74
+check,check
+check,bet 10
+check,check
+call,call
+call,call
+call,call
+check,check
+raise 17,fold
+check,check
+check,bet 20
+fold,fold
+check,bet 11
+raise 38,call
+fold,fold
+raise 16,raise 16
+check,bet 24
+fold,fold
+check,check
+raise 18,raise 18
+call,call
+call,raise 41
+call,raise 87
+raise 89,call
+call,fold
+call,raise 81
+raise 40,raise 41
+raise 32,call
+raise 32,call
+call,call
+call,call
+check,bet 2
+raise 2.5,check
+call,fold
+call,raise 43
+check,bet 17
+raise 32,call
+check,check
+check,bet 13
+call,call
+check,check
+check,bet 8
+raise 18,call
+check,check
+check,bet 29
+fold,call
+check,bet 23
+call,call
+check,bet 18
+raise 88,raise 86
+raise 14.0,raise 14.0
+check,check
+check,check
+call,fold
+check,bet 5
+raise 88,call
+call,raise 87
+check,check
+raise 16,call
+check,bet 16
+call,raise 33
+raise 3.0,raise 3.0
+raise 40,call
+call,call
+raise 7.0,raise 11.5
+fold,fold
+call,raise 55
+raise 2.5,check
+call,call
+check,check
+check,bet 5
+fold,fold
+call,fold
+call,raise 83
+raise 16,call
+call,call
+call,raise 83
+bet 10,bet 10
+check,bet 16
+raise 51,call
+call,fold
+check,check
+check,check
+fold,fold
+fold,fold
+call,call
+raise 11.0,raise 13.5
+check,check
+check,check
+raise 51,raise 84
+check,bet 4
+check,bet 10
+check,check
+check,check
+check,check
+call,call
+check,bet 5
+raise 16,raise 16
+fold,fold
+check,bet 20
+raise 18,call
+check,bet 8
+raise 22,raise 25
+call,fold
+call,call
+fold,fold
+raise 25,fold
+call,raise 14
+check,check
+call,call
+check,check
+check,check
+call,call
+call,fold
+fold,fold
+call,fold
+check,bet 29
+check,bet 29
+fold,fold
+raise 90,fold
+check,bet 17
+check,bet 34
+check,check
+call,call
+check,check
+fold,call
+check,check
+raise 2.5,check
+raise 2.5,check
+raise 38,call
+raise 31,call
+call,fold
+check,check
+check,check
+check,check
+check,check
+call,fold
+check,check
+call,call
+raise 37,fold
+check,bet 17
+fold,fold
+call,call
+call,raise 84
+call,call
+call,call
+raise 17,call
+raise 24,raise 22
+check,check
+check,raise 61
+check,check
+fold,fold
+call,call
+raise 10,call
+check,check
+check,bet 23
+check,check
+fold,fold
+check,check
+check,check
+check,check
+fold,call
+call,fold
+check,bet 13
+fold,fold
+call,call
+check,check
+call,call
+check,check
+call,fold
+check,check
+fold,fold
+raise 38,raise 30
+fold,call
+check,check
+check,check
+call,call
+call,fold
+check,check
+check,check
+call,raise 13
+check,check
+raise 3.0,check
+raise 90,raise 90
+call,call
+check,check
+fold,fold
+check,check
+check,check
+fold,fold
+check,bet 4
+check,bet 3
+fold,fold
+raise 93,fold
+call,call
+fold,fold
+check,bet 8
+check,bet 15
+raise 90,raise 84
+check,bet 16
+call,fold
+check,bet 16
+call,call
+call,raise 85
+fold,fold
+raise 20,raise 25
+fold,fold
+raise 51,raise 86
+call,call
+raise 38,raise 37
+call,call
+call,call
+raise 3.0,raise 2.0
+fold,fold
+call,fold
+call,fold
+fold,fold
+fold,fold
+check,raise 61
+call,raise 83
+call,fold
+check,check
+check,check
+fold,fold
+call,call
+call,call
+raise 89,raise 77
+check,check
+raise 38,call
+call,fold
+call,call
+raise 14,fold
+call,fold
+check,check
+check,check
+check,check
+fold,fold
+check,check
+check,check
+call,call
+call,call
+call,call
+call,call
+raise 2.5,raise 3.0
+call,fold
+fold,fold
+check,check
+call,fold
+raise 10,call
+call,call
+call,call
+raise 88,fold
+raise 84,raise 85
+call,raise 87
+fold,fold
+check,bet 24
+call,call
+fold,fold
+fold,fold
+fold,fold
+fold,fold
+fold,fold
+call,call
+check,check
+check,bet 11
+raise 90,raise 92
+check,check
+check,bet 29
+fold,fold
+check,check
+call,call
+call,fold
+check,check
+fold,fold
+fold,fold
+fold,fold
+check,bet 2
+check,check
+raise 22,call
+call,fold
+call,call
+fold,fold
+check,check
+raise 84,call
+call,raise 36
+call,raise 84
+fold,fold
+fold,fold
+fold,call
+check,check
+fold,fold
+fold,fold
+fold,fold
+check,bet 4
+fold,call
+fold,raise 19.0
+check,check
+raise 85,call
+call,raise 46
+check,bet 5
+fold,fold
+call,call
+call,call
+call,call
+fold,fold
+fold,raise 90
+call,call
+raise 14.0,raise 15.0
+fold,fold
+fold,fold
+check,check
+fold,fold
+call,call
+raise 32,raise 29
+call,fold
+check,bet 11
+check,check
+fold,raise 84
+call,fold
+check,check
+check,bet 4
+fold,fold
+call,call
+check,check
+check,check
+call,call
+fold,fold
+raise 90,call
+call,call
+raise 10,raise 10
+call,call
+fold,fold
+call,call
+fold,fold
+check,bet 7
+fold,fold
+raise 48,raise 87
+check,check
+check,check
+call,raise 80
+check,check
+call,raise 48
+call,raise 10
+fold,fold
+fold,fold
+raise 32,call
+check,check
+raise 40,raise 41
+call,call
+check,bet 13
+check,check
+check,check
+check,check
+raise 37,call
+check,check
+call,raise 84
+call,raise 29
+fold,fold
+raise 58,fold
+fold,fold
+fold,fold
+raise 29,raise 27
+call,call
+raise 18,raise 16
+raise 88,call
+check,check
+check,bet 23
+fold,fold
+raise 84,fold
+fold,call
+call,fold
+check,check
+call,call
+call,fold
+raise 12.0,raise 13.0
+call,call
+call,call
+raise 25,fold
+raise 88,fold
+raise 81,raise 80
+fold,fold
+call,raise 57
+call,fold
+check,check
+raise 29,call
+check,check
+fold,fold
+check,check
+check,bet 18
+raise 32,call
+raise 2.5,check
+check,check
+check,check
+check,check
+fold,raise 75
+raise 32,raise 29
+raise 11.0,raise 11.0
+call,call
+raise 38,raise 41
+check,check
+call,call
+fold,fold
+fold,fold
+raise 32,call
+fold,fold
+raise 90,raise 77
+call,call
+check,check
+call,raise 16
+call,fold
+call,fold
+check,check
+call,raise 45
+call,fold
+call,call
+fold,fold
+call,raise 83
+fold,fold
+check,check
+raise 58,call
+raise 2.5,check
+call,call
+raise 7,call
+call,call
+call,fold
+check,bet 4
+raise 3.0,check
+raise 17,call
+check,check
+call,call
+raise 18,raise 18
+raise 22,call
+call,call
+check,check
+raise 3.0,raise 2.0
+check,check
+check,check
+check,check
+call,fold
+call,call
+fold,fold
+check,check
+raise 88,raise 88
+check,check
+call,call
+check,bet 4
+check,check
+raise 84,fold
+raise 32,raise 27
+raise 38,fold
+raise 2.5,check
+call,call
+fold,fold
+check,bet 7
+fold,fold
+fold,call
+call,raise 92
+fold,fold
+call,call
+raise 37,raise 35
+raise 32,fold
+raise 88,call
+raise 51,fold
+check,check
+fold,fold
+raise 22.0,raise 20.0
+fold,fold
+fold,fold
+fold,raise 88
+raise 14,fold
+check,check
+call,call
+call,fold
+call,call
+raise 16,raise 16
+call,call
+check,check
+raise 51,call
+call,call
+raise 11.0,raise 12.5
+call,call
+raise 13,raise 13
+call,call
+raise 90,fold
+fold,fold
+fold,call
+raise 37,raise 38
+check,check
+call,call
+raise 18,raise 19
+check,check
+check,check
+check,check
+raise 40,fold
+fold,fold
+check,check
+raise 38,raise 38
+fold,fold
+check,bet 8
+call,call
+call,raise 86
+call,call
+check,check
+fold,fold
+check,check
+call,call
+check,check
+raise 38,raise 41
+call,call
+check,check
+raise 51,fold
+fold,fold
+check,check
+call,call
+fold,fold
+check,bet 4
+fold,check
+fold,fold
+check,check
+raise 74,raise 77
+call,call
+raise 25,call
+call,fold
+raise 89,fold
+raise 90,raise 90
+call,call
+raise 38,raise 38
+call,fold
+call,raise 86
+check,check
+call,call
+call,fold
+fold,call
+check,bet 5
+fold,fold
+check,check
+call,fold
+raise 2.5,check
+call,raise 46
+call,fold
+raise 81,raise 81
+call,call
+check,check
+call,call
+call,call
+call,raise 92
+check,bet 39
+raise 28,raise 27
+call,call
+fold,fold
+check,check
+fold,fold
+check,check
+check,check
+call,call
+check,check
+call,call
+call,raise 95
+fold,call
+check,check
+raise 90,raise 90
+call,fold
+check,check
+call,fold
+call,fold
+raise 83,fold
+raise 2.5,raise 3.0
+fold,fold
+check,check
+call,call
+fold,call
+raise 38,call
+fold,fold
+call,call
+call,call
+raise 18,call
+raise 82,raise 74
+call,call
+call,call
+call,call
+check,raise 54
+call,call
+call,call
+fold,call
+check,check
+check,check
+check,check
+raise 100,call
+call,call
+check,check
+call,raise 88
+check,check
+raise 25,raise 25
+call,fold
+check,check
+check,check
+check,bet 29
+call,call
+call,call
+call,call
+fold,call
+raise 16,raise 16
+check,check
+check,check
+raise 8.0,raise 12.3
+call,call
+call,call
+check,check
+raise 29,call
+call,fold
+fold,fold
+call,raise 86
+raise 3.0,check
+bet 17,bet 17
+raise 3.0,check
+call,raise 77
+check,bet 29
+call,raise 36
+call,call
+check,check
+check,raise 58
+raise 89,raise 82
+check,check
+fold,fold
+raise 3.0,check
+fold,fold
+check,bet 23
+raise 88,raise 87
+fold,fold
+check,check
+call,call
+raise 89,call
+call,call
+fold,fold
+raise 32,raise 35
+call,fold
+raise 85,call
+fold,fold
+fold,fold
+call,call
+call,fold
+call,call
+fold,fold
+call,call
+check,check
+check,check
+call,fold
+fold,fold
+raise 2.5,check
+call,raise 81
+call,fold
+call,call
+fold,fold
+call,call
+raise 3.0,check
+check,check
+fold,fold
+raise 74,raise 77
+raise 74,fold
+fold,fold
+raise 10,raise 10
+call,call
+call,call
+fold,fold
+raise 38,fold
+check,check
+call,call
+check,check
+check,check
+check,bet 17
+fold,fold
+fold,fold
+raise 144,call
+call,raise 80
+raise 88,fold
+raise 40,fold
+call,fold
+call,call
+call,call
+fold,fold
+fold,fold
+check,check
+check,check
+check,bet 39
+raise 25,call
+check,check
+call,fold
+check,bet 25
+raise 29,fold
+check,check
+fold,call
+fold,fold
+check,bet 17
+check,check
+check,check
+call,fold
+call,call
+check,bet 7
+fold,fold
+check,bet 29
+raise 90,fold
+raise 32,call
+fold,fold
+raise 74,raise 73
+check,check
+raise 25.0,raise 22.0
+call,call
+check,check
+check,raise 61
+fold,fold
+check,check
+check,bet 13
+check,bet 22
+raise 3.0,raise 3.0
+call,call
+fold,fold
+call,call
+raise 84,call
+check,check
+check,check
+fold,fold
+fold,fold
+check,check
+call,call
+fold,fold
+call,raise 19
+check,check
+raise 29,raise 29
+check,check
+raise 81,raise 81
+fold,fold
+check,bet 8
+call,call
+check,check
+raise 90,fold
+raise 187,fold
+raise 22,call
+raise 51,fold
+raise 17,fold
+call,fold
+call,call
+call,raise 35
+call,raise 58
+call,raise 86
+raise 89,raise 82
+raise 88,raise 77
+check,raise 58
+check,bet 18
+call,call
+call,fold
+check,check
+check,check
+call,fold
+check,check
+call,raise 88
+check,check
+call,call
+check,check
+fold,call
+raise 3.0,raise 2.5
+check,check
+call,call
+fold,call
+raise 2.5,check
+raise 2.5,raise 2.5
+call,call
+check,check
+check,check
+raise 10,call
+fold,fold
+check,check
+call,call
+check,check
+call,fold
+call,raise 48
+fold,call
+check,bet 23
+fold,fold
+fold,fold
+call,call
+call,fold
+call,fold
+check,check
+raise 3.0,check
+fold,fold
+fold,raise 90
+call,fold
+fold,fold
+call,raise 96
+call,call
+check,bet 23
+call,call
+fold,fold
+fold,fold
+call,fold
+check,bet 24
+fold,fold
+check,check
+raise 3.0,raise 5.0
+check,check
+check,check
+raise 81,call
+check,check
+raise 3.0,raise 5.0
+call,call
+call,call
+call,fold
+check,check
+call,call
+raise 89,fold
+check,check
+call,raise 10
+check,check
+check,check
+check,check
+check,check
+check,check
+call,call
+call,call
+call,call
+raise 38,call
+check,check
+check,bet 8
+check,check
+check,bet 3
+check,check
+raise 22,raise 25
+call,raise 29
+check,check
+check,check
+check,check
+fold,raise 88
+raise 38,call
+raise 99,fold
+raise 16,raise 16
+call,call
+fold,fold
+check,bet 4
+raise 3.0,check
+check,bet 22
+call,call
+raise 13,call
+check,bet 18
+call,call
+check,check
+check,check
+raise 32,call
+check,check
+call,fold
+raise 123,call
+raise 88,call
+raise 3.0,check
+raise 13,call
+check,check
+check,bet 10
+check,check
+call,call
+call,call
+check,check
+call,call
+raise 84,call
+raise 17,raise 16
+check,check
+fold,fold
+fold,fold
+call,fold
+check,check
+fold,fold
+call,fold
+call,call
+fold,fold
+fold,fold
+check,check
+call,call
+call,raise 76
+fold,fold
+fold,call
+raise 38,raise 27
+fold,fold
+check,check
+call,call
+raise 20,raise 25
+raise 90,fold
+call,fold
+raise 81,call
+check,check
+fold,raise 84
+check,check
+fold,call
+raise 144,call
+fold,fold
+check,bet 29
+fold,check
+fold,call
+check,check
+fold,fold
+check,check
+call,call
+call,call
+check,check
+call,call
+fold,fold
+call,fold
+raise 32,call
+raise 22,fold
+check,check
+check,check
+fold,fold
+check,bet 20
+call,call
+check,check
+raise 81,call
+raise 81,fold
+call,call
+check,check
+fold,call
+call,call
+fold,fold
+call,fold
+raise 74,fold
+raise 25,call
+raise 40,raise 41
+check,bet 8
+call,call
+check,check
+fold,fold
+raise 38,call
+check,check
+call,call
+call,raise 84
+check,check
+raise 2.5,raise 2.3
+fold,call
+check,check
+check,bet 13
+check,bet 29
+check,check
+check,check
+fold,fold
+call,raise 57
+raise 89,call
+check,check
+check,check
+call,fold
+check,bet 5
+check,check
+check,check
+check,check
+raise 38,call
+call,call
+raise 32,call
+fold,fold
+call,call
+check,check
+call,fold
+check,check
+call,call
+bet 11,check
+check,raise 62
+raise 18,raise 18
+call,call
+fold,fold
+fold,fold
+raise 16,raise 16
+raise 2.5,raise 2.5
+raise 3.0,check
+fold,raise 84
+fold,fold
+check,bet 12
+bet 4,bet 4
+fold,fold
+call,call
+call,call
+check,check
+check,bet 17
+bet 29,bet 29
+fold,fold
+check,check
+call,call
+check,bet 4
+fold,raise 37
+raise 81,fold
+fold,fold
+check,bet 40
+check,check
+raise 91,call
+raise 90,call
+call,call
+raise 13,raise 13
+call,call
+raise 18,call
+check,bet 20
+call,fold
+call,call
+check,check
+bet 4,check
+call,fold
+call,fold
+check,bet 7
+check,check
+call,call
+fold,fold
+check,check
+call,fold
+raise 2.5,check
+raise 25,raise 25
+call,call
+fold,fold
+raise 81,raise 44
+raise 89,call
+raise 38,fold
+check,bet 17
+call,raise 16
+call,call
+raise 87,fold
+check,check
+fold,fold
+check,check
+fold,raise 92
+raise 2.5,check
+check,check
+check,check
+check,bet 23
+raise 3.0,raise 2.5
+check,check
+check,check
+call,fold
+check,check
+check,bet 2
+check,check
+raise 12.0,raise 11.0
+fold,fold
+call,fold
+raise 90,raise 92
+fold,fold
+raise 8.0,raise 12.0
+fold,fold
+raise 40,call
+check,check
+fold,call
+call,call
+check,check
+fold,fold
+check,bet 3
+fold,fold
+call,call
+check,check
+raise 2.5,check
+check,check
+call,raise 67
+fold,fold
+check,check
+call,call
+call,fold
+check,check
+call,fold
+raise 10,raise 10
+fold,fold
+raise 18,call
+check,bet 23
+check,bet 10
+call,call
+call,call
+check,check
+raise 81,fold
+raise 25,call
+call,fold
+call,call
+raise 25,fold
+check,check
+call,fold
+raise 38,call
+fold,fold
+raise 89,raise 82
+check,check
+fold,fold
+call,raise 93
+fold,fold
+check,check
+fold,call
+fold,check
+call,call
+raise 89,call
+call,call
+raise 39,raise 41
+raise 89,fold
+fold,fold
+check,check
+fold,fold
+check,check
+raise 4.0,raise 11.0
+raise 89,call
+call,call
+check,check
+raise 16,fold
+call,raise 88
+check,check
+check,check
+check,raise 70
+raise 48,call
+check,check
+check,bet 7
+check,check
+check,check
+raise 125,raise 86
+check,check
+call,fold
+raise 37,call
+check,check
+call,call
+call,call
+raise 2.5,raise 3.0
+fold,fold
+check,raise 64
+check,bet 11
+call,raise 33
+fold,fold
+check,check
+check,bet 29
+raise 22,call
+raise 88,raise 85
+call,call
+check,check
+check,bet 2
+check,check
+check,check
+call,fold
+fold,fold
+call,fold
+raise 32,call
+call,fold
+raise 13,raise 13
+raise 87,raise 80
+check,check
+fold,fold
+call,raise 41
+check,check
+call,call
+raise 11.0,raise 12.5
+fold,fold
+raise 10,call
+call,call
+raise 89,raise 92
+fold,fold
+call,call
+raise 89,raise 77
+call,raise 93
+fold,fold
+fold,fold
+fold,fold
+check,bet 17
+fold,fold
+call,call
+check,check
+check,check
+fold,fold
+check,bet 18
+raise 2.5,check
+check,check
+fold,fold
+call,call
+check,check
+raise 16,raise 16
+call,call
+call,call
+call,call
+check,check
+check,check
+check,bet 31
+fold,fold
+fold,call
+check,check
+fold,fold
+check,check
+fold,fold
+raise 89,raise 89
+fold,fold
+call,call
+check,check
+raise 90,call
+fold,fold
+call,call
+check,check
+check,check
+call,call
+raise 88,call
+fold,fold
+fold,fold
+check,check
+check,check
+check,check
+raise 2.5,check
+raise 81,fold
+call,call
+call,fold
+check,bet 25
+call,call
+raise 25,raise 25
+call,call
+call,fold
+fold,fold
+fold,fold
+call,call
+check,bet 11
+check,bet 5
+call,call
+call,call
+fold,fold
+fold,fold
+call,call
+raise 85,raise 58
+check,check
+call,call
+check,check
+check,bet 24
+raise 32,raise 32
+check,bet 17
+check,check
+call,call
+call,raise 41
+call,fold
+raise 89,call
+check,bet 13
+call,call
+raise 88,raise 86
+call,raise 13
+call,raise 92
+call,fold
+raise 88,raise 86
+fold,fold
+check,check
+fold,call
+fold,fold
+call,fold
+check,check
+raise 11.0,raise 14.0
+fold,fold
+check,check
+call,raise 83
+check,check
+fold,fold
+raise 2.5,check
+fold,fold
+call,raise 88
+fold,fold
+fold,fold
+call,raise 7
+call,fold
+check,check
+check,check
+check,bet 10
+call,call
+call,raise 31
+check,bet 5
+call,call
+call,call
+fold,fold
+call,fold
+check,raise 61
+check,raise 72
+check,check
+raise 81,fold
+check,check
+check,check
+raise 32,raise 35
+raise 88,fold
+call,fold
+check,check
+raise 2.5,check
+call,call
+check,check
+call,fold
+call,call
+check,bet 10
+call,call
+raise 81,raise 84
+check,check
+call,call
+raise 2.5,check
+fold,raise 93
+call,fold
+call,raise 89
+raise 88,raise 86
+check,check
+fold,fold
+check,check
+fold,fold
+raise 13,raise 13
+call,fold
+call,call
+check,check
+raise 14.0,fold
+call,call
+call,fold
+fold,fold
+call,call
+raise 25,raise 25
+call,call
+check,check
+call,raise 88
+fold,fold
+raise 25,raise 25
+fold,call
+call,call
+raise 88,raise 86
+check,check
+check,check
+check,check
+check,check
+fold,fold
+check,check
+raise 11,fold
+call,raise 41
+fold,fold
+call,fold
+check,check
+call,raise 89
+check,check
+fold,fold
+raise 37,raise 35
+fold,fold
+bet 23,bet 20
+check,check
+raise 38,call
+check,bet 23
+call,call
+call,call
+fold,fold
+check,check
+call,call
+check,raise 58
+call,raise 37
+check,bet 2
+check,check
+call,fold
+check,bet 13
+call,call
+call,fold
+check,bet 3
+call,call
+raise 38,raise 27
+call,call
+fold,fold
+fold,check
+fold,fold
+raise 89,fold
+raise 16,call
+call,call
+check,bet 32
+fold,fold
+check,check
+check,check
+check,check
+check,check
+raise 25,call
+raise 81,raise 46
+raise 81,fold
+call,raise 17
+call,call
+call,call
+check,check
+raise 54,fold
+call,fold
+raise 3.0,raise 2.5
+call,fold
+call,raise 81
+raise 88,raise 83
+call,call
+call,call
+check,bet 12
+check,check
+call,call
+fold,fold
+raise 2.5,check
+fold,raise 25
+check,check
+check,bet 28
+call,fold
+fold,fold
+call,fold
+raise 87,call
+raise 18,call
+check,bet 3
+fold,call
+raise 90,fold
+raise 10,call
+raise 84,fold
+raise 40,fold
+raise 90,fold
+fold,fold
+check,check
+raise 51,call
+check,check
+raise 25,raise 25
+raise 2.0,check
+call,call
+raise 38,fold
+call,call
+raise 32,call
+call,call
+check,check
+call,call
+check,check
+raise 32,call
+raise 89,raise 77
+raise 3.0,check
+bet 13,check
+raise 10,call
+raise 51,call
+call,raise 31
+raise 2.0,check
+fold,fold
+raise 19.0,raise 21.0
+check,bet 2
+raise 37,raise 35
+call,call
+check,bet 7
+check,raise 72
+fold,fold
+check,check
+check,bet 4
+raise 99,fold
+fold,fold
+call,fold
+raise 32,raise 32
+check,check
+check,check
+raise 38,fold
+raise 83,call
+raise 32,raise 32
+raise 51,call
+fold,call
+bet 4,bet 4
+check,check
+raise 3.0,check
+check,check
+raise 51,fold
+fold,call
+call,call
+raise 11,raise 11
+call,raise 88
+raise 88,fold
+raise 29,raise 27
+raise 89,call
+fold,call
+raise 38,fold
+call,fold
+raise 51,raise 84
+call,call
+check,check
+raise 74,fold
+check,bet 20
+fold,fold
+call,call
+raise 25,raise 25
+call,call
+check,check
+check,check
+check,check
+call,call
+call,call
+call,call
+check,check
+check,bet 29
+check,check
+call,call
+call,call
+check,check
+check,check
+raise 40,fold
+check,check
+check,check
+call,fold
+call,fold
+call,fold
+call,fold
+check,check
+check,check
+call,call
+raise 3.0,check
+call,fold
+call,fold
+check,check
+raise 89,fold
+fold,fold
+call,call
+call,call
+fold,fold
+check,check
+call,raise 86
+call,fold
+raise 10,call
+call,call
+call,fold
+check,bet 27
+check,check
+raise 10,fold
+call,fold
+raise 38,call
+call,call
+check,check
+raise 38,call
+check,check
+check,bet 19
+check,bet 34
+check,bet 30
+call,raise 36
+call,call
+call,call
+raise 32,fold
+check,check
+raise 32,call
+check,check
+raise 37,fold
+call,fold
+fold,fold
+check,bet 29
+call,raise 92
+fold,fold
+call,call
+raise 88,fold
+fold,fold
+check,bet 5
+fold,call
+check,check
+call,call
+check,bet 23
+fold,call
+fold,fold
+raise 89,call
+check,check
+check,check
+raise 25,raise 25
+check,bet 4
+check,check
+call,raise 81
+check,check
+check,check
+check,bet 10
+call,fold
+call,raise 73
+call,raise 94
+call,call
+call,call
+call,fold
+check,bet 3
+raise 38,call
+check,check
+call,fold
+check,check
+raise 28.0,raise 28.0
+check,check
+fold,fold
+raise 100,call
+check,check
+raise 20,fold
+check,bet 31
+fold,fold
+raise 38,raise 86
+raise 83,raise 85
+fold,fold
+raise 32,call
+check,check
+check,check
+check,check
+call,fold
+check,check
+call,call
+check,check
+check,check
+raise 14.0,raise 24.1
+check,bet 31
+fold,fold
+raise 88,fold
+raise 16,raise 16
+fold,call
+fold,fold
+fold,fold
+raise 90,raise 92
+fold,fold
+raise 89,raise 83
+call,call
+raise 81,raise 81
+call,call
+raise 13,call
+check,check
+raise 38,fold
+check,bet 29
+fold,call
+call,fold
+fold,fold
+check,bet 23
+check,check
+call,call
+fold,fold
+raise 26,raise 25
+check,check
+raise 88,raise 86
+check,bet 10
+check,check
+fold,fold
+call,call
+fold,fold
+check,bet 23
+fold,fold
+check,check
+check,bet 23
+check,bet 10
+check,check
+check,check
+raise 40,raise 41
+call,call
+call,raise 10
+call,call
+check,check
+call,call
+raise 29,call
+check,bet 3
+call,call
+check,check
+fold,fold
+raise 54,raise 48
+check,check
+call,fold
+raise 74,raise 83
+fold,fold
+check,check
+raise 25,raise 25
+check,bet 23
+check,check
+raise 17,call
+call,call
+raise 11.0,raise 11.0
+check,check
+check,bet 11
+call,call
+check,bet 17
+check,check
+raise 11,fold
+raise 88,raise 86
+check,check
+fold,call
+raise 38,call
+raise 90,raise 82
+fold,fold
+fold,fold
+raise 3.0,check
+fold,fold
+call,call
+raise 88,raise 77
+call,raise 48
+check,check
+check,check
+call,fold
+call,raise 83
+bet 5,bet 5
+raise 58,call
+raise 90,call
+call,call
+check,check
+fold,fold
+fold,fold
+check,bet 17
+check,bet 17
+call,raise 46
+fold,fold
+call,raise 74
+raise 81,call
+check,bet 3
+call,call
+check,check
+call,raise 85
+fold,call
+raise 8.0,call
+raise 14.0,raise 15.0
+check,check
+check,check
+fold,fold
+call,raise 23.0
+call,call
+call,call
+raise 88,fold
+check,bet 5
+fold,fold
+check,check
+check,bet 8
+check,bet 12
+raise 68,raise 54
+call,raise 86
+call,call
+fold,fold
+call,call
+raise 32,fold
+call,fold
+raise 25.0,raise 27.0
+call,call
+raise 38,call
+raise 2.5,check
+check,check
+call,raise 16
+check,check
+raise 2.5,check
+check,check
+raise 40,raise 40
+check,check
+check,check
+call,call
+fold,call
+check,check
+call,call
+raise 81,raise 83
+bet 32,check
+raise 90,raise 90
+call,fold
+check,check
+raise 29,call
+check,check
+call,call
+call,call
+fold,fold
+call,call
+fold,fold
+raise 89,raise 83
+raise 25,call
+call,raise 43
+call,call
+call,fold
+call,call
+check,check
+raise 37,call
+fold,fold
+check,check
+check,raise 58
+check,bet 23
+check,bet 17
+fold,fold
+fold,fold
+check,check
+raise 16,raise 16
+fold,fold
+call,call
+fold,fold
+call,call
+check,check
+fold,raise 14.0
+check,check
+check,bet 16
+fold,call
+call,raise 48
+check,check
+raise 28.0,raise 29.2
+call,fold
+check,bet 10
+raise 87,raise 80
+call,fold
+check,check
+fold,fold
+fold,fold
+call,raise 86
+call,call
+check,check
+raise 24,call
+check,check
+fold,fold
+check,bet 29
+check,check
+raise 2.5,check
+call,fold
+fold,fold
+call,raise 77
+raise 99,call
+check,bet 7
+check,check
+call,fold
+check,check
+call,fold
+check,bet 8
+call,call
+raise 11.0,raise 22.9
+call,raise 37
+check,check
+call,call
+call,call
+call,call
+check,check
+call,call
+check,check
+call,call
+check,bet 39
+fold,fold
+call,call
+check,check
+fold,call
+fold,call
+raise 84,raise 89
+check,check
+raise 18,call
+check,check
+raise 25.0,raise 23.0
+raise 84,call
+check,check
+raise 74,fold
+check,check
+check,check
+raise 24.0,fold
+fold,fold
+raise 12.0,raise 9.5
+check,check
+call,fold
+raise 89,raise 95
+fold,fold
+call,fold
+raise 51,raise 86
+call,raise 92
+call,call
+call,call
+call,fold
+check,check
+check,bet 20
+call,raise 77
+raise 2.5,check
+call,call
+check,check
+check,check
+raise 11,raise 13
+raise 88,raise 81
+check,bet 13
+call,call
+call,call
+check,check
+call,call
+check,check
+check,check
+call,call
+raise 32,fold
+raise 2.5,check
+call,fold
+call,call
+raise 89,raise 74
+call,call
+check,check
+check,bet 32
+call,call
+check,check
+call,call
+raise 34,fold
+check,check
+check,check
+call,call
+check,check
+check,check
+check,check
+raise 7.0,raise 7.5
+check,check
+check,check
+call,fold
+raise 3.0,check
+raise 89,raise 77
+check,check
+raise 3.0,raise 2.5
+call,call
+raise 22,call
+fold,fold
+check,check
+raise 32,call
+fold,fold
+call,fold
+call,call
+raise 88,raise 84
+check,bet 35
+call,call
+raise 51,fold
+check,check
+raise 38,call
+raise 81,raise 81
+call,call
+fold,fold
+call,raise 10
+check,check
+raise 16.0,raise 20.0
+raise 18,raise 17
+fold,call
+raise 37,raise 35
+check,check
+fold,fold
+call,call
+call,raise 90
+check,check
+raise 18,raise 18
+raise 25,raise 25
+raise 38,raise 38
+check,bet 29
+check,check
+raise 89,call
+raise 3.0,check
+call,call
+check,check
+call,fold
+call,call
+check,check
+check,check
+fold,fold
+raise 84,raise 85
+call,call
+check,check
+call,fold
+fold,fold
+fold,fold
+fold,fold
+fold,fold
+call,fold
+call,fold
+call,call
+raise 7.0,raise 12.0
+check,check
+call,call
+fold,fold
+check,check
+raise 29,raise 29
+call,fold
+check,bet 45
+call,call
+check,check
+raise 22,call
+call,fold
+check,check
+check,bet 3
+check,check
+raise 20,raise 23
+fold,raise 80
+call,call
+call,raise 81
+check,check
+check,check
+call,fold
+check,check
+check,check
+call,call
+check,raise 64
+call,raise 83
+check,check
+call,call
+call,fold
+fold,fold
+fold,fold
+check,check
+fold,fold
+raise 90,fold
+call,call
+check,check
+check,check
+check,bet 23
+raise 32,call
+raise 32,fold
+call,call
+raise 88,raise 85
+call,raise 84
+fold,call
+check,bet 20
+raise 18,call
+call,call
+raise 3.0,check
+fold,fold
+check,raise 70
+raise 2.5,raise 3.0
+check,check
+check,bet 3
+fold,call
+check,check
+check,check
+check,check
+call,call
+raise 2.0,raise 2.0
+raise 3.0,raise 3.0
+fold,check
+raise 10,raise 11
+call,call
+bet 10,bet 10
+call,call
+check,check
+call,fold
+check,bet 8
+check,check
+check,check
+fold,fold
+call,fold
+fold,call
+check,check
+call,call
+check,check
+call,raise 81
+raise 2.5,check
+check,check
+call,call
+call,raise 88
+raise 28,raise 32
+raise 16,call
+check,check
+raise 90,raise 92
+check,check
+check,check
+call,call
+fold,fold
+call,call
+raise 2.5,check
+call,fold
+raise 90,raise 84
+call,call
+check,check
+check,bet 25
+raise 32,fold
+call,call
+raise 88,raise 89
+check,check
+raise 18,raise 18
+raise 7,raise 7
+check,check
+raise 90,call
+call,raise 4
+raise 16,call
+fold,fold
+call,fold
+call,fold
+check,check
+raise 44,raise 44
+raise 18,call
+check,check
+check,check
+fold,fold
+call,call
+call,fold
+check,bet 17
+fold,fold
+raise 41,call
+raise 13,raise 13
+call,raise 8
+call,raise 30
+call,fold
+check,check
+call,call
+check,check
+fold,fold
+check,check
+fold,fold
+fold,fold
+call,call
+check,check
+raise 144,call
+raise 25,call
+raise 81,raise 46
+check,check
+check,bet 17
+check,check
+fold,call
+check,bet 28
+check,check
+raise 81,fold
+check,check
+call,call
+check,bet 24
+call,call
+check,check
+check,bet 23
+raise 90,raise 90
+check,bet 4
+check,check
+check,bet 17
+check,check
+raise 38,call
+check,bet 10
+check,check
+check,bet 1
+raise 10,raise 10
+call,call
+call,call
+raise 12.0,raise 11.0
+call,raise 17
+call,raise 80
+call,call
+raise 32,fold
+call,call
+check,check
+call,raise 22
+check,check
+raise 32,call
+fold,fold
+check,check
+raise 90,call
+fold,fold
+fold,fold
+call,fold
+call,call
+fold,fold
+raise 7,raise 7
+fold,raise 31
+check,bet 7
+raise 10.0,raise 10.0
+check,check
+raise 81,call
+check,check
+call,call
+check,check
+check,check
+raise 16,fold
+call,raise 87
+call,call
+raise 38,raise 37
+call,call
+fold,call
+raise 16,call
+raise 82,raise 74
+check,bet 4
+call,fold
+fold,fold
+raise 88,call
+raise 37,raise 38
+call,call
+check,check
+fold,fold
+fold,fold
+call,call
+raise 88,call
+fold,fold
+check,check
+check,bet 10
+call,raise 92
+raise 51,raise 89
+call,call
+fold,raise 37
+raise 3.0,check
+check,bet 29
+call,call
+call,raise 92
+raise 81,raise 81
+call,call
+call,call
+raise 13,call
+call,fold
+call,call
+check,raise 54
+raise 29,fold
+call,fold
+check,check
+call,call
+raise 11,call
+check,check
+call,call
+check,check
+call,call
+check,raise 61
+check,check
+check,check
+call,call
+raise 87,raise 91
+call,call
+call,fold
+raise 51,call
+raise 93,raise 91
+bet 7,check
+call,raise 27
+call,fold
+check,check
+check,raise 64
+raise 17,call
+bet 12,bet 12
+fold,fold
+call,fold
+check,raise 61
+fold,fold
+raise 58,call
+raise 11.0,raise 11.0
+check,check
+check,check
+bet 29,bet 29
+check,check
+check,raise 64
+raise 88,raise 75
+call,raise 38
+raise 81,raise 81
+check,bet 10
+fold,fold
+check,bet 28
+fold,call
+check,check
+raise 16,call
+call,call
+fold,fold
+call,call
+check,check
+call,raise 83
+call,fold
+check,bet 3
+raise 38,raise 38
+call,raise 31
+raise 11.0,raise 12.5
+fold,fold
+check,check
+fold,fold
+check,check
+check,check
+call,call
+call,raise 16
+call,fold
+raise 51,call
+check,raise 58
+check,check
+call,call
+check,check
+call,call
+call,fold
+call,call
+fold,fold
+raise 22,raise 25
+call,call
+check,check
+raise 90,fold
+check,bet 29
+check,check
+raise 84,raise 84
+check,check
+call,call
+check,check
+call,call
+call,fold
+fold,raise 58
+call,call
+fold,fold
+raise 38,call
+raise 90,call
+call,call
+call,call
+check,check
+check,check
+fold,fold
+check,check
+check,check
+check,check
+check,bet 39
+check,check
+raise 90,fold
+fold,fold
+raise 22,call
+bet 29,bet 29
+check,bet 3
+check,bet 8
+raise 32,call
+fold,call
+check,check
+raise 38,raise 31
+check,check
+check,check
+raise 32,call
+call,call
+call,raise 31
+raise 38,call
+call,fold
+fold,fold
+call,fold
+raise 88,raise 72
+call,fold
+fold,fold
+fold,call
+call,fold
+check,bet 10
+check,check
+call,fold
+raise 13,fold
+check,bet 17
+check,check
+call,raise 30
+raise 3.0,check
+call,fold
+check,check
+check,check
+raise 44,call
+call,call
+call,raise 74
+fold,fold
+raise 38,raise 38
+call,fold
+check,check
+call,raise 23
+check,bet 5
+call,fold
+check,bet 17
+fold,fold
+check,check
+fold,fold
+check,check
+check,bet 12
+raise 10,raise 10
+check,check
+raise 91,call
+call,call
+check,check
+check,check
+call,fold
+check,bet 18
+call,fold
+call,call
+raise 2.5,check
+raise 6.0,call
+check,bet 32
+call,call
+call,call
+call,raise 83
+check,bet 20
+fold,call
+fold,fold
+raise 44,raise 44
+raise 3.0,raise 2.5
+fold,fold
+raise 7,raise 7
+check,raise 64
+raise 32,fold
+call,call
+call,call
+call,fold
+raise 3.0,check
+check,check
+call,fold
+call,call
+check,check
+call,call
+call,raise 83
+check,check
+check,check
+fold,fold
+raise 2.5,check
+raise 27,call
+check,check
+raise 38,raise 38
+check,check
+fold,call
+check,check
+call,fold
+fold,fold
+call,call
+bet 23,bet 24
+fold,call
+call,call
+check,check
+fold,fold
+call,fold
+check,bet 29
+check,check
+check,check
+fold,fold
+raise 3.0,raise 2.5
+raise 89,call
+raise 187,call
+fold,fold
+raise 25,raise 25
+raise 16,raise 16
+call,call
+fold,fold
+call,call
+check,check
+check,check
+raise 10,call
+call,call
+check,check
+fold,call
+call,call
+raise 25,raise 25
+check,check
+check,check
+fold,call
+raise 16,raise 16
+raise 51,call
+check,check
+call,fold
+call,call
+check,bet 23
+fold,fold
+call,call
+call,call
+call,raise 16
+bet 29,bet 29
+call,call
+raise 90,raise 89
+call,raise 16
+call,call
+check,check
+check,check
+check,check
+call,call
+call,call
+fold,fold
+raise 88,raise 82
+fold,call
+fold,fold
+check,check
+check,raise 58
+check,check
+check,check
+call,call
+fold,raise 22
+check,check
+check,check
+check,check
+check,bet 23
+check,check
+check,raise 73
+raise 22,call
+check,bet 5
+check,check
+check,bet 2
+raise 81,call
+call,call
+check,check
+fold,raise 23.0
+check,check
+check,check
+fold,raise 41
+check,check
+check,check
+raise 88,fold
+fold,fold
+call,call
+raise 28.0,raise 28.0
+check,check
+raise 29,call
+fold,fold
+fold,fold
+raise 90,fold
+check,check
+call,fold
+raise 38,raise 38
+fold,call
+raise 16,call
+raise 2.5,check
+fold,fold
+fold,call
+raise 38,raise 35
+bet 17,check
+check,check
+call,call
+check,bet 8
+check,check
+fold,fold
+call,raise 57
+raise 90,fold
+call,raise 90
+check,check
+bet 18,bet 18
+call,call
+check,check
+fold,fold
+fold,fold
+raise 88,raise 70
+call,fold
+check,check
+check,check
+fold,raise 92
+raise 40,call
+check,bet 27
+fold,raise 88
+check,check
+call,fold
+check,bet 12
+check,check
+check,bet 34
+check,bet 39
+check,check
+check,check
+check,check
+call,call
+call,call
+raise 32,fold
+check,check
+raise 3.0,check
+fold,fold
+fold,fold
+check,check
+check,bet 22
+fold,call
+fold,fold
+call,raise 86
+check,check
+call,raise 31
+check,check
+check,bet 3
+check,bet 4
+call,raise 46
+check,bet 18
+bet 16,bet 12
+fold,fold
+raise 25,raise 25
+check,raise 75
+raise 2.0,raise 2.0
+call,call
+raise 80,call
+call,raise 58
+call,fold
+raise 89,raise 82
+call,call
+raise 88,raise 77
+call,call
+call,call
+raise 20,call
+check,check
+call,call
+raise 89,raise 94
+fold,fold
+check,check
+check,check
+check,check
+check,check
+check,check
+check,check
+check,check
+call,raise 93
+raise 20.0,call
+call,call
+call,call
+raise 89,fold
+call,fold
+fold,call
+call,fold
+raise 7,raise 7
+check,bet 29
+call,call
+check,check
+call,call
+raise 51,raise 86
+check,check
+raise 13.0,raise 13.0
+call,fold
+raise 26,call
+fold,fold
+fold,fold
+check,bet 12
+call,call
+raise 12.0,raise 9.5
+check,check
+call,call
+check,check
+check,check
+fold,fold
+check,check
+raise 90,raise 84
+call,fold
+fold,fold
+raise 13,raise 13
+call,fold
+raise 2.5,check
+fold,fold
+call,call
+call,fold
+call,call
+fold,fold
+check,check
+check,check
+check,check
+raise 89,raise 83
+call,call
+raise 4.0,raise 14.0
+check,check
+raise 13.0,raise 13.5
+check,bet 17
+raise 88,call
+call,call
+call,call
+check,check
+check,check
+raise 10,raise 10
+check,check
+check,check
+call,call
+check,bet 29
+check,bet 8
+fold,fold
+check,check
+check,check
+call,fold
+call,call
+call,raise 92
+check,check
+check,check
+call,call
+raise 3.0,check
+check,bet 5
+call,call
+raise 11,call
+fold,fold
+check,check
+call,call
+raise 32,call
+raise 89,call
+check,check
+check,check
+check,check
+call,call
+raise 32,call
+fold,fold
+raise 81,raise 89
+raise 81,call
+raise 7.0,raise 11.5
+check,bet 4
+fold,fold
+check,check
+fold,call
+raise 3.0,raise 2.5
+call,call
+fold,fold
+raise 31,fold
+call,raise 83
+call,call
+check,bet 8
+raise 20,fold
+check,check
+fold,fold
+bet 13,check
+fold,raise 88
+call,fold
+call,call
+check,check
+fold,fold
+call,call
+raise 88,raise 86
+check,bet 10
+raise 10,raise 11
+check,bet 29
+call,raise 27
+check,bet 12
+raise 81,call
+call,call
+raise 14.0,raise 15.0
+check,raise 58
+check,check
+fold,call
+raise 90,fold
+check,check
+fold,raise 37
+check,check
+raise 90,call
+check,check
+check,bet 24
+call,call
+raise 10,raise 11
+check,check
+check,bet 11
+fold,fold
+fold,fold
+call,call
+call,call
+fold,fold
+raise 2.5,check
+fold,fold
+fold,fold
+check,check
+raise 24.0,raise 25.0
+check,bet 13
+call,call
+check,check
+check,bet 10
+check,check
+check,check
+fold,fold
+raise 90,raise 90
+call,fold
+fold,call
+fold,fold
+raise 90,raise 83
+raise 16,raise 16
+check,bet 29
+fold,fold
+call,raise 77
+call,fold
+fold,fold
+raise 90,raise 93
+fold,fold
+check,check
+check,bet 23
+call,fold
+check,bet 10
+call,call
+call,call
+call,fold
+raise 29,raise 29
+call,fold
+check,check
+fold,fold
+check,bet 24
+check,check
+check,check
+fold,fold
+fold,fold
+call,call
+fold,fold
+call,fold
+check,check
+raise 37,call
+fold,fold
+fold,fold
+raise 87,raise 83
+check,check
+bet 23,check
+fold,fold
+raise 3.0,check
+raise 90,fold
+fold,fold
+call,call
+fold,fold
+fold,fold
+check,check
+raise 89,call
+check,check
+call,raise 93
+fold,fold
+call,call
+fold,call
+check,check
+raise 88,raise 88
+raise 38,call
+raise 82,raise 74
+call,fold
+raise 18,call
+check,check
+check,check
+check,bet 22
+call,call
+raise 81,call
+call,raise 83
+call,fold
+call,call
+check,check
+raise 10,call
+call,raise 41
+check,check
+call,raise 80
+fold,call
+call,call
+raise 16,raise 16
+check,bet 8
+raise 16,raise 16
+check,bet 12
+raise 100,call
+raise 74,raise 58
+call,call
+check,raise 61
+check,check
+check,check
+call,fold
+check,bet 13
+call,call
+check,bet 11
+check,check
+raise 89,raise 89
+check,check
+raise 38,call
+call,call
+call,call
+call,call
+check,check
+raise 28.0,call
+raise 22,call
+check,check
+check,check
+check,check
+call,call
+call,call
+call,fold
+raise 3.0,check
+raise 38,raise 27
+raise 25,call
+fold,fold
+call,call
+raise 16,raise 17
+check,check
+call,call
+fold,fold
+check,check
+check,check
+raise 39,fold
+call,raise 88
+check,check
+call,raise 83
+fold,fold
+fold,fold
+raise 3.0,check
+raise 7.0,fold
+call,call
+check,check
+check,check
+raise 10,call
+fold,call
+fold,fold
+call,raise 4
+raise 40,raise 41
+check,bet 13
+fold,fold
+call,call
+call,call
+call,call
+check,check
+fold,fold
+check,check
+raise 51,raise 46
+check,check
+fold,raise 46
+call,call
+raise 90,raise 92
+raise 25,raise 25
+check,check
+check,raise 73
+raise 99,call
+call,fold
+fold,call
+raise 40,fold
+call,call
+call,call
+check,check
+call,fold
+fold,fold
+fold,fold
+fold,fold
+check,bet 23
+check,check
+check,check
+check,check
+raise 34,call
+fold,fold
+check,check
+call,raise 90
+check,bet 29
+fold,call
+call,raise 41
+call,call
+fold,fold
+check,check
+call,fold
+call,fold
+call,call
+fold,fold
+raise 84,fold
+check,check
+call,call
+call,raise 86
+check,bet 23
+fold,fold
+check,check
+raise 89,raise 90
+call,fold
+call,fold
+raise 14,raise 16
+check,check
+fold,fold
+fold,call
+check,bet 22
+fold,fold
+call,fold
+call,raise 83
+raise 3.0,check
+check,check
+check,check
+call,call
+raise 88,raise 74
+raise 90,raise 90
+raise 84,fold
+check,check
+raise 84,raise 74
+call,call
+call,raise 93
+raise 88,fold
+fold,fold
+fold,fold
+fold,call
+call,call
+check,check
+call,fold
+call,call
+check,check
+fold,fold
+fold,raise 35.0
+raise 32,raise 32
+call,raise 13
+check,bet 3
+call,call
+check,check
+check,check
+raise 89,call
+raise 3.0,check
+call,raise 10
+call,call
+fold,fold
+check,check
+fold,fold
+fold,fold
+check,check
+raise 51,call
+raise 10,call
+call,raise 82
+raise 84,raise 84
+call,fold
+raise 40,fold
+call,call
+raise 18,call
+fold,fold
+check,check
+fold,fold
+raise 58,fold
+check,check
+call,fold
+check,check
+fold,fold
+call,call
+raise 81,raise 46
+check,bet 10
+fold,fold
+check,check
+check,bet 10
+raise 51,raise 48
+raise 10,call
+call,call
+check,check
+fold,raise 84
+check,check
+call,call
+check,check
+check,check
+fold,fold
+check,check
+fold,fold
+call,call
+fold,fold
+call,raise 35
+fold,fold
+fold,fold
+raise 99,call
+raise 32,raise 32
+raise 18,raise 19
+bet 13,bet 13
+fold,fold
+check,bet 1
+check,check
+call,call
+raise 81,call
+fold,fold
+call,fold
+fold,fold
+check,check
+fold,fold
+call,call
+fold,raise 73
+fold,fold
+raise 88,fold
+fold,fold
+call,raise 90
+check,check
+check,check
+check,check
+fold,fold
+fold,fold
+check,check
+fold,call
+call,call
+call,call
+call,call
+check,check
+bet 13,check
+check,raise 58
+raise 74,raise 70
+check,check
+call,call
+fold,call
+raise 37,call
+call,fold
+call,fold
+raise 32,raise 32
+call,raise 90
+check,check
+fold,fold
+fold,fold
+check,check
+raise 51,call
+fold,fold
+check,bet 17
+raise 2.0,check
+fold,fold
+check,check
+call,raise 92
+call,raise 35
+fold,fold
+fold,call
+call,call
+call,call
+raise 32,call
+call,fold
+call,raise 92
+raise 89,raise 82
+call,call
+call,raise 84
+check,check
+raise 7.0,raise 6.5
+fold,fold
+raise 90,raise 90
+fold,call
+call,call
+check,check
+call,fold
+check,bet 11
+call,call
+call,call
+call,fold
+call,fold
+check,check
+call,fold
+raise 13,raise 13
+call,call
+call,call
+call,raise 81
+call,call
+call,call
+raise 89,call
+check,bet 13
+check,check
+call,raise 81
+raise 3.0,check
+raise 81,call
+raise 74,raise 77
+fold,call
+call,raise 25
+fold,fold
+check,bet 23
+call,call
+call,fold
+raise 84,fold
+fold,fold
+check,bet 16
+raise 89,raise 89
+call,call
+raise 38,fold
+raise 38,raise 38
+fold,fold
+call,fold
+call,call
+call,raise 88
+check,bet 2
+check,check
+check,bet 8
+call,fold
+check,check
+raise 29,call
+raise 25,call
+call,raise 73
+fold,fold
+call,call
+call,call
+fold,fold
+check,check
+raise 90,raise 93
+check,bet 11
+raise 81,raise 79
+fold,call
+check,check
+raise 25,raise 25
+call,call
+call,call
+raise 89,raise 84
+check,bet 2
+call,raise 30
+raise 22,raise 22
+check,check
+check,check
+check,check
+bet 23,bet 23
+call,call
+fold,fold
+check,check
+raise 58,call
+raise 23.0,raise 19.0
+check,check
+raise 89,call
+call,fold
+raise 90,call
+call,call
+call,fold
+raise 88,fold
+check,check
+raise 90,call
+fold,fold
+check,bet 29
+raise 28.0,raise 28.0
+check,check
+raise 2.5,check
+call,call
+call,call
+call,call
+call,call
+check,check
+raise 48,call
+check,check
+call,raise 84
+check,check
+call,call
+check,check
+raise 51,call
+check,check
+raise 90,call
+fold,fold
+raise 89,fold
+call,call
+raise 38,raise 38
+raise 89,fold
+raise 16,call
+check,check
+fold,fold
+fold,fold
+raise 16,raise 16
+fold,fold
+fold,call
+check,check
+check,check
+call,call
+call,raise 80
+call,call
+check,check
+fold,fold
+call,call
+check,check
+check,check
+raise 38,raise 38
+call,call
+raise 88,fold
+raise 90,raise 90
+check,check
+call,fold
+raise 22,call
+raise 2.0,check
+call,call
+fold,fold
+raise 90,raise 78
+raise 18,call
+fold,fold
+check,check
+raise 10,raise 10
+raise 51,fold
+check,bet 20
+raise 88,raise 96
+check,check
+check,bet 25
+call,call
+fold,fold
+call,raise 89
+bet 11,bet 11
+raise 88,call
+check,check
+fold,fold
+fold,fold
+raise 32,call
+call,call
+call,fold
+check,check
+call,call
+call,call
+fold,fold
+raise 38,call
+call,fold
+raise 32,raise 32
+raise 90,raise 90
+check,check
+check,check
+raise 74,call
+check,check
+call,call
+fold,fold
+fold,raise 10.0
+call,raise 93
+check,check
+check,check
+check,check
+call,fold
+call,call
+check,check
+raise 81,raise 81
+call,raise 13
+call,call
+fold,fold
+call,call
+check,check
+call,raise 74
+check,bet 5
+check,check
+raise 25,call
+raise 25,call
+raise 84,fold
+raise 10,call
+raise 84,call
+fold,fold
+fold,fold
+raise 32,raise 35
+raise 32,call
+raise 90,call
+check,check
+raise 32,call
+call,call
+check,check
+check,bet 17
+check,check
+check,check
+check,check
+check,bet 17
+bet 10,check
+call,raise 83
+bet 13,check
+check,check
+raise 87,call
+check,check
+check,bet 17
+call,call
+check,check
+check,check
+check,bet 10
+check,check
+fold,fold
+check,check
+fold,call
+check,bet 22
+fold,fold
+raise 32,raise 32
+raise 38,raise 41
+fold,fold
+check,check
+check,check
+check,check
+fold,raise 74
+check,check
+check,bet 10
+check,check
+check,bet 24
+check,bet 23
+fold,fold
+check,bet 20
+call,call
+fold,fold
+check,bet 18
+check,bet 3
+check,check
+check,check
+check,check
+check,bet 29
+check,check
+raise 20,fold
+check,check
+raise 89,raise 72
+raise 32,fold
+call,call
+check,check
+raise 87,raise 80
+call,fold
+fold,fold
+call,call
+fold,fold
+raise 25,call
+check,check
+raise 32,call
+check,check
+fold,fold
+raise 10,call
+call,raise 84
+fold,fold
+raise 84,raise 85
+raise 90,call
+call,raise 86
+fold,fold
+call,call
+fold,call
+raise 51,call
+raise 16,fold
+call,fold
+fold,fold
+call,call
+check,check
+fold,fold
+fold,fold
+check,check
+call,fold
+raise 28.0,call
+raise 3.0,raise 2.0
+call,fold
+fold,fold
+check,check
+call,fold
+raise 32,fold
+fold,call
+check,bet 24
+call,call
+raise 38,call
+fold,call
+call,fold
+check,check
+check,check
+call,call
+check,bet 24
+check,check
+raise 85,call
+check,check
+call,call
+check,raise 58
+check,check
+check,check
+raise 32,call
+check,bet 17
+raise 81,fold
+call,call
+raise 90,raise 90
+call,call
+call,fold
+check,check
+check,bet 7
+fold,fold
+check,check
+check,raise 58
+check,check
+check,check
+raise 90,call
+raise 16,raise 16
+raise 16.0,fold
+check,check
+check,check
+fold,fold
+raise 14.0,raise 14.5
+raise 88,fold
+raise 84,fold
+call,call
+check,bet 28
+call,raise 87
+check,check
+check,check
+call,call
+raise 32,raise 32
+fold,call
+call,fold
+call,call
+fold,fold
+raise 123,call
+check,bet 17
+call,fold
+check,check
+call,call
+fold,fold
+check,check
+check,check
+fold,call
+check,check
+check,check
+check,check
+raise 81,call
+call,call
+call,call
+fold,fold
+check,check
+raise 28,raise 32
+call,call
+call,fold
+call,fold
+raise 29,raise 28
+fold,fold
+fold,fold
+bet 29,bet 29
+check,check
+check,check
+check,check
+fold,fold
+call,call
+call,call
+fold,fold
+raise 90,call
+check,check
+raise 2.5,check
+check,check
+check,check
+call,fold
+fold,check
+call,fold
+call,call
+check,bet 10
+check,check
+raise 16,fold
+check,check
+call,call
+call,call
+check,check
+raise 81,fold
+call,call
+raise 24,raise 25
+check,check
+raise 38,raise 43
+call,raise 88
+raise 16,fold
+call,call
+call,fold
+check,check
+fold,raise 92
+call,call
+raise 25,fold
+check,check
+raise 18,call
+check,check
+call,call
+call,raise 93
+fold,fold
+check,check
+raise 88,raise 86
+check,check
+check,check
+fold,fold
+fold,call
+fold,fold
+fold,call
+check,bet 10
+raise 38,raise 38
+check,check
+fold,raise 89
+raise 12.0,raise 12.0
+fold,fold
+check,bet 40
+fold,fold
+call,fold
+call,fold
+fold,fold
+call,call
+call,call
+check,check
+call,call
+call,call
+call,call
+raise 29,raise 27
+check,check
+fold,fold
+raise 32,fold
+call,call
+raise 16,call
+raise 32,call
+check,bet 17
+call,raise 17
+fold,fold
+check,check
+raise 14.0,raise 15.0
+fold,fold
+check,bet 29
+check,check
+fold,fold
+call,call
+raise 3.0,check
+check,check
+check,check
+fold,fold
+fold,call
+check,check
+check,check
+raise 10,raise 10
+call,fold
+call,call
+fold,fold
+call,call
+call,fold
+check,check
+check,bet 29
+check,check
+check,bet 28
+check,bet 29
+bet 17,check
+fold,fold
+check,check
+call,fold
+raise 90,fold
+fold,fold
+check,raise 58
+check,check
+fold,call
+call,fold
+check,check
+check,check
+call,fold
+check,bet 23
+fold,fold
+check,check
+raise 3.0,check
+call,call
+fold,fold
+call,call
+check,bet 8
+check,bet 39
+check,check
+call,call
+call,fold
+raise 2.0,raise 2.0
+check,check
+fold,fold
+raise 81,call
+call,raise 95
+raise 3.0,raise 3.0
+fold,fold
+call,call
+call,call
+fold,fold
+raise 3.0,check
+check,check
+call,call
+check,check
+check,check
+call,fold
+call,call
+check,bet 10
+fold,fold
+call,call
+check,check
+check,bet 10
+call,call
+call,call
+raise 10,call
+raise 51,raise 84
+raise 89,raise 77
+call,call
+call,fold
+call,call
+fold,fold
+call,fold
+check,check
+raise 88,raise 86
+raise 16.0,raise 13.1
+check,check
+fold,fold
+call,call
+call,call
+call,call
+call,call
+check,check
+call,call
+fold,fold
+check,check
+check,check
+raise 3.0,raise 3.0
+fold,fold
+fold,fold
+call,fold
+call,fold
+raise 25,call
+fold,raise 32
+check,check
+raise 14.0,raise 15.0
+check,check
+call,fold
+raise 88,fold
+raise 81,raise 44
+fold,fold
+fold,call
+call,fold
+raise 81,call
+fold,fold
+check,check
+raise 13.0,raise 13.5
+raise 32,raise 32
+fold,fold
+raise 2.0,check
+call,fold
+check,check
+check,bet 12
+raise 37,fold
+call,raise 89
+check,check
+bet 23,check
+check,check
+call,call
+raise 61,fold
+call,call
+fold,fold
+call,raise 41
+check,check
+call,call
+fold,fold
+call,call
+call,raise 89
+check,check
+check,check
+call,raise 86
+call,fold
+call,fold
+check,bet 3
+fold,fold
+call,call
+call,fold
+check,check
+check,check
+check,bet 3
+raise 24.0,raise 22.0
+fold,fold
+call,raise 92
+check,check
+fold,fold
+raise 16,call
+call,call
+raise 44,fold
+check,bet 29
+check,check
+raise 74,call
+check,check
+check,check
+check,check
+call,fold
+bet 8,check
+call,fold
+raise 74,raise 83
+call,fold
+check,check
+fold,fold
+call,raise 92
+check,check
+check,check
+check,check
+check,check
+check,bet 23
+raise 29,call
+raise 28,raise 27
+check,check
+fold,fold
+check,check
+call,call
+check,check
+call,call
+check,check
+call,call
+fold,fold
+check,check
+raise 40,fold
+check,bet 10
+call,raise 7
+check,check
+fold,fold
+raise 81,fold
+call,fold
+raise 16,fold
+raise 60,raise 58
+check,check
+check,check
+call,fold
+call,fold
+raise 2.5,raise 2.5
+call,call
+check,raise 70
+fold,fold
+raise 3.0,check
+call,fold
+call,fold
+raise 25,raise 25
+raise 2.5,check
+fold,fold
+raise 17,call
+check,check
+raise 58,call
+raise 38,call
+check,bet 17
+check,bet 5
+check,check
+raise 90,fold
+fold,fold
+call,call
+fold,fold
+call,call
+call,call
+call,call
+bet 13,bet 13
+fold,call
+fold,fold
+check,check
+check,bet 10
+raise 2.5,check
+fold,fold
+call,call
+raise 32,call
+raise 29,call
+call,call
+fold,call
+fold,call
+fold,fold
+check,bet 31
+call,call
+call,fold
+check,check
+check,check
+check,bet 13
+check,bet 3
+raise 2.0,raise 3.0
+check,check
+call,fold
+call,fold
+call,call
+call,call
+check,check
+fold,fold
+check,check
+raise 81,raise 92
+check,check
+check,check
+check,check
+call,call
+check,check
+call,call
+check,check
+fold,fold
+raise 31,raise 30
+fold,fold
+call,call
+raise 74,call
+call,fold
+check,bet 24
+check,check
+call,fold
+check,bet 10
+check,check
+check,check
+check,check
+raise 29,call
+call,raise 80
+fold,fold
+check,check
+check,bet 7
+fold,call
+check,bet 10
+call,call
+call,raise 93
+fold,fold
+check,check
+raise 89,raise 82
+fold,fold
+check,bet 5
+fold,fold
+fold,fold
+check,check
+call,fold
+call,raise 77
+raise 32,call
+call,call
+raise 32,fold
+call,call
+fold,fold
+call,call
+call,call
+call,raise 88
+check,bet 29
+raise 38,raise 38
+raise 90,fold
+fold,fold
+fold,fold
+call,call
+raise 13.0,raise 9.5
+call,raise 81
+call,fold
+fold,fold
+fold,fold
+call,fold
+fold,fold
+raise 14.0,raise 19.0
+fold,raise 83
+check,check
+check,check
+check,check
+call,call
+raise 8.0,call
+call,fold
+fold,fold
+call,raise 83
+check,bet 23
+check,bet 27
+fold,fold
+call,call
+fold,fold
+check,bet 4
+check,bet 4
+raise 25,call
+check,check
+raise 10,raise 11
+raise 29,raise 29
+check,bet 29
+check,bet 25
+call,raise 95
+call,call
+call,call
+check,check
+fold,fold
+check,check
+check,check
+fold,fold
+raise 90,raise 84
+call,call
+check,check
+check,check
+call,fold
+raise 20,raise 23
+call,fold
+raise 82,raise 74
+check,bet 18
+check,check
+call,fold
+check,check
+check,check
+check,check
+raise 81,fold
+fold,raise 25
+check,check
+call,fold
+call,raise 44
+call,call
+call,call
+call,call
+raise 10.0,call
+raise 80,call
+check,check
+check,check
+check,bet 22
+call,raise 88
+call,fold
+raise 83,call
+fold,fold
+check,check
+fold,call
+fold,fold
+check,check
+check,check
+check,bet 13
+fold,fold
+raise 38,call
+call,fold
+call,call
+fold,raise 88
+fold,raise 81
+check,check
+check,check
+call,raise 87
+check,bet 11
+call,fold
+call,fold
+check,check
+fold,raise 44
+call,call
+check,check
+call,fold
+check,bet 17
+raise 10,raise 10
+fold,call
+fold,fold
+check,check
+fold,fold
+call,fold
+fold,fold
+check,check
+raise 90,fold
+call,call
+raise 38,call
+call,fold
+raise 3.0,check
+call,call
+check,check
+check,bet 12
+call,call
+check,check
+fold,fold
+raise 84,call
+check,check
+raise 88,call
+call,call
+raise 2.5,check
+call,call
+check,bet 17
+raise 34,raise 33
+check,check
+call,raise 89
+call,call
+call,call
+raise 11.0,raise 14.0
+raise 24.0,raise 19.0
+fold,fold
+check,check
+check,check
+raise 11,fold
+raise 84,raise 85
+call,raise 26
+call,call
+check,check
+check,check
+check,check
+check,check
+call,fold
+check,bet 18
+check,check
+raise 3.0,check
+fold,fold
+call,call
+fold,check
+check,check
+call,fold
+raise 2.0,check
+raise 39,call
+call,call
+call,raise 88
+call,call
+check,check
+fold,fold
+call,raise 82
+check,bet 39
+check,bet 4
+raise 89,raise 84
+check,bet 13
+check,bet 29
+raise 58,raise 89
+check,bet 27
+call,call
+raise 88,raise 85
+call,call
+fold,raise 94
+call,raise 84
+fold,fold
+check,bet 24
+raise 123,call
+fold,fold
+call,raise 30
+call,call
+call,fold
+check,check
+fold,fold
+raise 3.0,check
+raise 22,call
+fold,fold
+fold,fold
+call,fold
+call,call
+fold,fold
+raise 88,call
+raise 32,call
+raise 90,raise 88
+fold,fold
+call,fold
+check,check
+call,call
+check,bet 23
+check,bet 31
+fold,fold
+raise 2.0,check
+check,check
+fold,fold
+call,call
+call,call
+check,check
+check,check
+call,call
+raise 89,call
+fold,fold
+fold,fold
+check,check
+check,check
+raise 2.5,check
+call,call
+fold,fold
+raise 30.0,raise 26.0
+check,bet 7
+call,fold
+raise 38,call
+check,check
+check,check
+fold,fold
+raise 88,raise 77
+fold,fold
+check,check
+check,bet 16
+call,raise 80
+check,check
+check,bet 23
+call,call
+raise 23.0,raise 20.0
+fold,fold
+call,call
+call,raise 57
+fold,fold
+raise 18,call
+call,raise 13
+call,fold
+check,raise 58
+check,check
+call,call
+check,check
+raise 2.0,check
+call,call
+check,check
+fold,check
+call,call
+call,call
+check,check
+call,fold
+call,fold
+call,call
+fold,fold
+check,bet 23
+check,check
+check,check
+raise 20,call
+check,bet 3
+raise 84,call
+call,call
+check,bet 17
+check,bet 40
+raise 10,raise 10
+check,check
+fold,fold
+fold,call
+check,check
+call,call
+check,check
+fold,fold
+raise 14,call
+call,call
+check,check
+check,bet 17
+check,check
+call,call
+call,fold
+call,call
+fold,fold
+raise 38,call
+fold,fold
+check,check
+raise 16,raise 16
+check,check
+call,fold
+call,call
+check,bet 39
+raise 29,fold
+check,check
+raise 3.0,raise 2.5
+check,check
+check,check
+check,bet 28
+raise 85,raise 83
+raise 32,raise 32
+raise 22,fold
+call,call
+call,call
+raise 28.0,raise 26.0
+raise 13,raise 13
+fold,fold
+check,check
+check,check
+check,check
+call,fold
+check,check
+fold,fold
+call,fold
+fold,call
+check,check
+raise 88,raise 84
+raise 7.0,raise 10.0
+call,call
+check,check
+check,check
+call,fold
+check,check
+call,call
+check,bet 29
+call,call
+raise 32,fold
+check,check
+call,raise 89
+fold,fold
+call,raise 82
+call,call
+check,check
+fold,fold
+check,check
+fold,fold
+fold,fold
+check,check
+fold,call
+call,raise 36
+call,call
+call,call
+call,fold
+raise 25,call
+check,check
+fold,fold
+fold,fold
+fold,fold
+fold,fold
+call,call
+fold,fold
+raise 26,call
+call,raise 37
+check,check
+fold,fold
+raise 88,raise 88
+call,fold
+raise 2.0,raise 3.0
+call,fold
+call,raise 17
+call,fold
+call,call
+check,bet 16
+raise 2.5,check
+raise 48,raise 48
+fold,raise 83
+raise 58,call
+fold,fold
+fold,fold
+call,call
+call,call
+fold,raise 93
+check,check
+call,call
+check,check
+check,check
+fold,fold
+fold,fold
+check,bet 18
+check,bet 4
+fold,fold
+call,call
+check,raise 48
+check,check
+check,check
+call,fold
+raise 38,call
+raise 28.0,raise 26.0
+fold,raise 86
+fold,fold
+raise 13.0,raise 14.0
+call,fold
+raise 3.0,raise 2.3
+check,bet 16
+check,check
+call,fold
+call,call
+fold,fold
+call,call
+check,check
+call,call
+check,check
+check,check
+call,fold
+raise 3.0,raise 3.0
+fold,fold
+raise 58,fold
+check,bet 28
+raise 32,fold
+call,call
+fold,fold
+raise 48,fold
+call,call
+call,call
+check,check
+check,check
+check,check
+check,check
+check,check
+call,call
+check,check
+fold,fold
+check,check
+check,check
+check,check
+call,fold
+fold,fold
+call,call
+fold,fold
+raise 58,raise 89
+check,raise 61
+fold,call
+fold,fold
+check,check
+call,call
+check,check
+raise 40,call
+call,raise 88
+check,check
+call,raise 91
+raise 16,call
+check,check
+call,call
+raise 2.5,check
+raise 80,raise 81
+call,fold
+raise 10,raise 10
+check,check
+check,check
+fold,fold
+raise 3.0,check
+call,call
+check,bet 8
+call,raise 92
+raise 25,call
+check,bet 17
+raise 37,fold
+raise 3.0,check
+call,call
+check,check
+check,bet 32
+call,call
+fold,call
+check,check
+check,bet 29
+raise 2.5,check
+fold,fold
+call,fold
+fold,fold
+check,check
+check,check
+call,call
+check,bet 20
+call,raise 22
+call,raise 88
+call,call
+fold,fold
+check,check
+call,call
+check,check
+raise 25,call
+raise 11.0,raise 12.5
+call,call
+call,raise 33
+check,check
+raise 18,raise 18
+check,check
+check,check
+call,raise 18
+check,check
+check,bet 29
+fold,fold
+check,bet 23
+raise 39,call
+raise 84,call
+call,call
+fold,raise 93
+call,call
+fold,fold
+check,check
+call,call
+check,bet 23
+call,raise 81
+check,bet 13
+raise 32,call
+fold,fold
+call,call
+fold,fold
+fold,fold
+raise 10,raise 10
+check,check
+check,check
+call,fold
+fold,fold
+check,bet 10
+raise 123,call
+fold,call
+fold,raise 57
+check,check
+call,raise 81
+fold,call
+fold,fold
+check,check
+check,bet 8
+fold,fold
+call,fold
+fold,fold
+fold,fold
+call,call
+check,check
+fold,fold
+check,check
+check,check
+check,check
+call,call
+fold,call
+call,fold
+fold,fold
+check,check
+raise 90,raise 92
+check,check
+call,call
+call,raise 92
+fold,fold
+check,bet 2
+check,check
+call,raise 92
+check,bet 17
+raise 18,raise 18
+raise 2.5,check
+call,call
+raise 16.0,raise 17.5
+fold,fold
+check,check
+call,fold
+raise 51,fold
+fold,fold
+raise 51,fold
+raise 85,fold
+check,check
+fold,fold
+check,check
+call,call
+raise 58,raise 89
+call,call
+raise 29,raise 27
+raise 32,raise 32
+raise 88,raise 91
+check,check
+raise 89,call
+call,call
+fold,call
+fold,fold
+call,call
+check,check
+check,check
+fold,fold
+call,call
+raise 10,raise 10
+fold,fold
+call,call
+fold,call
+check,check
+check,check
+call,fold
+fold,fold
+check,check
+raise 39,raise 48
+fold,fold
+fold,check
+raise 56,raise 48
+check,check
+check,check
+fold,fold
+fold,fold
+check,bet 2
+fold,fold
+call,call
+call,call
+check,check
+call,call
+call,call
+fold,fold
+raise 104,call
+fold,fold
+fold,fold
+fold,call
+check,check
+fold,call
+call,call
+call,raise 46
+call,fold
+check,check
+check,check
+raise 38,fold
+check,check
+raise 25,call
+call,call
+raise 90,fold
+raise 29,raise 27
+call,call
+check,check
+check,check
+raise 25,call
+fold,fold
+check,check
+check,check
+check,check
+raise 88,call
+call,call
+fold,raise 31
+raise 28,call
+check,check
+check,check
+raise 88,raise 70
+fold,fold
+check,check
+call,call
+raise 87,call
+call,fold
+fold,fold
+fold,fold
+check,check
+call,call
+check,bet 29
+call,call
+fold,fold
+fold,fold
+fold,fold
+raise 81,raise 84
+fold,fold
+raise 90,fold
+call,call
+raise 13,call
+check,check
+check,check
+fold,fold
+raise 90,fold
+raise 29,fold
+fold,fold
+fold,fold
+check,check
+raise 144,call
+bet 29,bet 29
+raise 32,call
+call,raise 89
+raise 51,raise 86
+check,bet 23
+fold,fold
+raise 11.0,raise 14.0
+check,check
+raise 40,call
+call,call
+check,check
+check,raise 74
+call,call
+check,check
+fold,fold
+call,call
+call,raise 88
+raise 87,fold
+raise 32,call
+call,fold
+call,fold
+raise 37,fold
+call,call
+fold,fold
+fold,fold
+check,raise 58
+call,call
+check,check
+check,check
+check,bet 2
+fold,fold
+check,check
+call,fold
+check,bet 15
+call,call
+raise 18.0,fold
+check,check
+check,check
+raise 88,fold
+check,check
+call,call
+check,bet 27
+raise 90,raise 92
+check,bet 13
+check,check
+check,bet 4
+call,call
+fold,fold
+call,call
+check,bet 17
+check,check
+call,call
+check,check
+call,raise 84
+call,call
+check,check
+call,fold
+check,bet 10
+call,call
+fold,fold
+fold,call
+call,call
+check,bet 32
+raise 3.0,raise 2.0
+raise 90,raise 85
+fold,call
+check,check
+call,raise 11
+fold,fold
+fold,fold
+call,call
+call,call
+check,check
+fold,fold
+call,call
+raise 88,raise 77
+check,check
+call,fold
+raise 16,raise 16
+call,call
+raise 32,raise 32
+raise 87,raise 81
+check,bet 10
+raise 38,fold
+fold,fold
+check,bet 5
+fold,fold
+check,check
+check,check
+fold,fold
+check,check
+check,check
+check,check
+call,call
+check,check
+check,check
+check,bet 29
+raise 88,fold
+bet 29,bet 29
+call,call
+call,call
+call,call
+call,raise 26
+call,raise 73
+call,fold
+check,bet 12
+check,bet 5
+fold,fold
+raise 16,raise 16
+fold,fold
+call,fold
+call,call
+raise 99,call
+check,check
+raise 10,call
+check,check
+check,bet 13
+call,call
+fold,fold
+fold,call
+fold,fold
+raise 28.0,raise 26.0
+fold,fold
+call,raise 11
+call,fold
+call,call
+fold,fold
+check,check
+raise 41,call
+raise 10,raise 10
+call,call
+call,fold
+check,check
+check,bet 34
+check,bet 34
+raise 84,fold
+check,check
+fold,fold
+fold,call
+check,bet 21
+call,call
+check,bet 8
+call,fold
+raise 31,raise 30
+check,check
+call,raise 58
+call,fold
+fold,fold
+fold,fold
+raise 60,raise 84
+fold,fold
+fold,fold
+raise 84,fold
+check,bet 3
+call,fold
+call,raise 96
+call,call
+call,raise 27
+fold,fold
+fold,raise 86
+call,call
+call,call
+call,call
+raise 87,raise 80
+check,check
+check,bet 24
+raise 10,call
+check,check
+check,bet 23
+raise 23,call
+call,fold
+check,check
+fold,fold
+call,call
+call,call
+check,check
+check,check
+call,call
+raise 89,raise 90
+fold,fold
+fold,fold
+raise 18,raise 18
+raise 2.0,check
+call,call
+check,bet 34
+call,raise 90
+raise 3.0,check
+fold,call
+raise 2.5,check
+check,check
+check,check
+fold,fold
+check,check
+raise 88,fold
+call,call
+raise 16,call
+raise 22,call
+fold,fold
+check,check
+call,raise 7
+call,fold
+call,call
+raise 37,call
+call,call
+raise 2.0,raise 3.0
+check,check
+call,call
+check,bet 18
+call,call
+fold,fold
+fold,fold
+check,bet 20
+check,bet 11
+call,raise 84
+call,fold
+check,check
+fold,fold
+fold,call
+call,call
+check,check
+raise 2.0,check
+check,check
+check,check
+fold,fold
+raise 40,raise 41
+call,raise 91
+call,call
+fold,fold
+fold,call
+fold,raise 83
+check,bet 17
+check,check
+call,call
+check,check
+raise 38,raise 35
+fold,fold
+check,check
+check,check
+fold,fold
+fold,fold
+fold,fold
+call,fold
+call,call
+check,check
+fold,call
+check,check
+fold,fold
+check,check
+fold,fold
+call,raise 81
+call,fold
+fold,fold
+check,check
+fold,fold
+raise 32,call
+call,raise 13
+call,fold
+check,check
+fold,fold
+fold,call
+raise 18,fold
+call,fold
+check,bet 25
+check,check
+call,fold
+check,check
+raise 32,call
+call,call
+check,check
+fold,fold
+raise 32,raise 32
+check,check
+fold,call
+fold,fold
+raise 3.0,check
+raise 14,fold
+raise 37,raise 38
+raise 29,call
+check,check
+raise 32,raise 32
+call,call
+call,fold
+fold,raise 95
+fold,fold
+call,call
+call,fold
+check,bet 4
+check,check
+call,call
+call,call
+check,check
+check,check
+raise 28.0,raise 29.2
+raise 20,fold
+raise 32,call
+call,call
+fold,fold
+call,fold
+check,check
+call,call
+raise 89,fold
+check,check
+call,raise 25
+call,fold
+check,bet 24
+fold,fold
+check,check
+call,fold
+fold,fold
+raise 22,raise 23
+fold,fold
+raise 24.0,raise 22.0
+check,check
+check,check
+call,call
+check,check
+call,fold
+check,check
+check,check
+raise 88,raise 93
+call,raise 80
+check,bet 24
+raise 28,raise 27
+call,fold
+check,check
+check,check
+call,call
+check,check
+call,call
+check,bet 17
+raise 32,raise 32
+fold,fold
+raise 28,raise 29
+fold,call
+raise 3.0,check
+check,check
+fold,fold
+fold,fold
+call,call
+call,fold
+fold,raise 92
+check,check
+fold,fold
+check,bet 12
+check,check
+fold,fold
+check,check
+fold,fold
+check,check
+call,raise 95
+call,raise 89
+check,check
+check,check
+fold,fold
+check,check
+call,call
+call,call
+raise 89,call
+raise 3.0,raise 2.5
+check,check
+call,fold
+check,check
+check,bet 18
+check,check
+raise 90,call
+raise 29,raise 28
+check,check
+fold,fold
+check,check
+check,check
+check,raise 61
+call,call
+fold,fold
+fold,fold
+call,call
+call,call
+fold,fold
+raise 87,fold
+fold,raise 84
+fold,fold
+raise 13,raise 13
+check,check
+check,check
+check,bet 13
+raise 84,call
+call,fold
+check,check
+fold,fold
+call,raise 88
+call,fold
+call,raise 35
+call,fold
+fold,fold
+fold,call
+check,check
+raise 74,raise 86
+check,check
+fold,fold
+fold,fold
+check,bet 39
+raise 16,call
+fold,fold
+check,bet 34
+check,check
+check,check
+check,check
+check,bet 16
+call,call
+fold,fold
+fold,fold
+fold,fold
+check,check
+call,call
+check,bet 4
+check,bet 4
+call,call
+check,check
+raise 13,call
+call,call
+fold,raise 88
+call,fold
+check,check
+fold,fold
+call,fold
+check,check
+check,check
+fold,fold
+call,call
+call,fold
+fold,fold
+check,check
+check,bet 27
+raise 81,call
+call,call
+raise 89,raise 82
+call,call
+call,fold
+check,bet 22
+raise 32,call
+check,check
+check,check
+fold,fold
+fold,fold
+call,call
+call,call
+call,call
+check,bet 16
+raise 40,raise 41
+check,check
+call,call
+check,check
+call,call
+fold,fold
+raise 24.0,raise 23.0
+fold,fold
+call,call
+call,fold
+fold,fold
+check,check
+check,check
+check,check
+check,check
+fold,fold
+fold,fold
+fold,fold
+check,bet 10
+fold,call
+raise 32,raise 32
+call,call
+check,check
+check,check
+check,bet 4
+raise 3.0,check
+call,call
+call,call
+raise 88,raise 89
+raise 3.0,raise 3.0
+call,call
+call,fold
+check,check
+fold,fold
+raise 40,fold
+fold,fold
+call,fold
+call,call
+check,check
+check,check
+check,check
+check,check
+raise 38,raise 38
+call,call
+raise 23.0,raise 19.0
+call,call
+call,call
+check,check
+check,check
+raise 29,fold
+raise 25,raise 25
+raise 16,raise 16
+fold,fold
+check,check
+check,check
+call,fold
+check,bet 24
+raise 89,call
+call,call
+check,bet 17
+raise 32,raise 32
+call,call
+call,call
+fold,fold
+call,call
+fold,fold
+check,check
+check,check
+call,call
+check,check
+raise 38,call
+raise 18.0,raise 19.0
+call,fold
+fold,fold
+check,check
+raise 12.0,raise 11.0
+call,fold
+fold,raise 94
+raise 58,call
+fold,fold
+raise 38,raise 38
+call,call
+raise 84,fold
+fold,fold
+check,check
+raise 89,fold
+raise 2.5,check
+check,check
+fold,fold
+check,check
+raise 87,fold
+call,fold
+raise 90,call
+call,fold
+raise 38,raise 38
+check,check
+call,call
+check,check
+call,call
+call,call
+fold,fold
+raise 39,fold
+raise 90,call
+call,call
+fold,fold
+check,check
+call,call
+fold,fold
+raise 17,call
+check,bet 27
+raise 22,raise 22
+raise 81,fold
+call,call
+check,bet 10
+raise 22,call
+check,check
+raise 32,call
+check,check
+check,bet 8
+fold,fold
+check,bet 4
+call,call
+fold,fold
+check,check
+raise 18,raise 18
+call,fold
+check,check
+check,check
+check,raise 73
+raise 32,call
+fold,fold
+call,fold
+raise 25,raise 25
+raise 32,call
+fold,fold
+fold,fold
+check,check
+raise 16,raise 16
+call,fold
+raise 10,raise 10
+raise 29,raise 27
+raise 39,raise 40
+call,fold
+check,check
+fold,call
+call,call
+fold,fold
+check,check
+raise 18.0,fold
+check,check
+check,check
+raise 84,raise 82
+check,bet 16
+check,bet 29
+raise 13.0,raise 13.0
+raise 25,fold
+check,check
+fold,fold
+check,bet 23
+call,raise 37
+raise 87,call
+raise 89,call
+check,bet 24
+check,bet 5
+raise 3.0,raise 3.0
+check,bet 13
+check,check
+check,bet 24
+check,check
+check,check
+raise 22,raise 22
+check,bet 19
+call,fold
+fold,fold
+check,bet 24
+call,call
+call,raise 38
+fold,call
+raise 20,call
+raise 90,fold
+check,check
+fold,fold
+check,check
+fold,fold
+check,check
+raise 32,call
+call,call
+call,call
+call,call
+raise 84,call
+call,raise 32
+check,check
+check,check
+raise 38,call
+check,check
+raise 90,call
+raise 81,raise 79
+call,call
+check,bet 3
+raise 3.0,check
+check,check
+call,call
+raise 3.0,check
+fold,call
+raise 25,raise 25
+call,fold
+call,fold
+check,check
+check,check
+call,fold
+raise 25,call
+check,check
+fold,fold
+call,call
+call,call
+check,check
+fold,fold
+check,check
+call,fold
+fold,call
+call,call
+fold,fold
+raise 88,call
+call,raise 89
+call,call
+check,check
+call,call
+call,fold
+raise 54,raise 93
+check,check
+check,check
+raise 25,raise 25
+call,fold
+call,fold
+raise 90,call
+call,call
+check,bet 13
+raise 20,raise 25
+check,bet 1
+fold,fold
+check,check
+raise 20,call
+check,check
+check,bet 23
+raise 28,raise 27
+call,fold
+check,bet 11
+fold,fold
+call,fold
+call,call
+check,check
+call,raise 81
+check,check
+call,call
+raise 11.0,raise 12.5
+call,call
+fold,fold
+check,check
+check,check
+raise 27,raise 92
+call,call
+call,fold
+check,check
+call,raise 38
+check,check
+raise 90,fold
+fold,fold
+call,call
+raise 84,raise 85
+check,bet 27
+fold,fold
+call,call
+call,call
+check,bet 18
+check,check
+fold,fold
+call,call
+raise 90,raise 92
+call,raise 51
+raise 88,raise 77
+check,check
+raise 26,call
+check,check
+check,check
+raise 123,call
+fold,fold
+call,call
+raise 22,fold
+call,call
+call,call
+raise 2.5,check
+raise 18,raise 19
+fold,fold
+call,call
+call,fold
+call,call
+fold,fold
+check,check
+call,fold
+call,call
+fold,call
+fold,fold
+fold,fold
+bet 23,check
+raise 22.0,raise 21.0
+raise 10,raise 11
+fold,raise 81
+call,raise 31
+call,call
+check,check
+call,call
+check,check
+raise 38,call
+fold,raise 92
+check,check
+check,check
+call,fold
+check,check
+call,raise 29
+fold,raise 20.0
+raise 90,call
+call,call
+raise 3.0,check
+raise 3.0,check
+check,check
+call,fold
+call,fold
+raise 90,raise 92
+fold,fold
+raise 29,call
+raise 32,fold
+call,fold
+check,check
+raise 38,call
+fold,fold
+check,check
+check,check
+fold,fold
+raise 7.0,raise 11.0
+check,check
+check,check
+call,call
+raise 88,raise 89
+check,check
+call,fold
+check,check
+raise 90,call
+call,call
+fold,fold
+check,bet 18
+raise 38,raise 38
+call,fold
+check,check
+fold,call
+call,raise 21.0
+raise 2.5,check
+call,fold
+fold,call
+raise 85,raise 80
+call,call
+check,check
+call,call
+check,bet 29
+call,raise 80
+check,check
+call,fold
+raise 90,raise 73
+raise 81,call
+check,check
+check,check
+call,raise 93
+check,bet 34
+call,call
+check,check
+call,fold
+bet 13,bet 13
+raise 22,fold
+fold,fold
+fold,fold
+raise 81,call
+raise 18,raise 18
+call,fold
+bet 11,check
+raise 51,fold
+raise 16,fold
+raise 2.0,raise 2.0
+check,check
+raise 32,call
+check,check
+call,fold
+check,check
+check,check
+raise 2.5,check
+check,check
+call,fold
+check,check
+fold,fold
+raise 3.0,check
+check,check
+call,call
+call,fold
+call,fold
+call,call
+raise 88,call
+raise 37,call
+call,raise 16
+call,call
+check,check
+check,check
+raise 88,raise 89
+raise 51,call
+fold,fold
+call,raise 7
+check,check
+call,call
+call,call
+call,fold
+raise 29,call
+check,bet 13
+fold,fold
+fold,fold
+check,check
+call,raise 38
+check,check
+raise 3.0,raise 2.0
+raise 85,raise 88
+raise 29,fold
+check,check
+check,check
+check,check
+fold,fold
+check,check
+raise 40,raise 41
+check,check
+call,raise 89
+check,bet 13
+check,check
+check,check
+call,call
+fold,fold
+fold,fold
+call,call
+check,check
+fold,call
+check,check
+fold,fold
+check,check
+fold,fold
+fold,fold
+check,check
+fold,call
+call,call
+fold,fold
+check,bet 4
+check,bet 22
+call,call
+call,call
+call,call
+call,call
+call,raise 89
+raise 31.0,call
+fold,fold
+fold,check
+check,check
+call,raise 63
+call,raise 81
+call,fold
+raise 32,call
+raise 2.5,check
+call,call
+check,check
+call,fold
+check,check
+call,call
+check,check
+call,call
+fold,fold
+fold,check
+raise 88,fold
+call,raise 44
+call,call
+raise 25,fold
+fold,fold
+raise 2.5,check
+check,check
+call,call
+check,check
+raise 31,raise 29
+fold,call
+call,fold
+fold,fold
+fold,fold
+raise 187,call
+call,call
+check,check
+call,call
+raise 8.0,call
+check,check
+fold,fold
+call,call
+call,call
+check,check
+raise 37,call
+fold,fold
+raise 38,call
+raise 88,raise 86
+raise 25,fold
+fold,fold
+raise 81,call
+check,bet 3
+fold,fold
+call,fold
+check,check
+call,raise 25
+raise 84,call
+check,check
+raise 25,raise 22
+raise 22,fold
+raise 16.0,raise 18.0
+check,check
+raise 89,call
+fold,fold
+raise 16,call
+call,fold
+check,bet 17
+raise 88,raise 86
+raise 14.0,raise 15.0
+check,bet 39
+fold,fold
+raise 38,raise 38
+check,raise 64
+check,check
+call,fold
+fold,fold
+raise 18,call
+raise 88,raise 86
+call,call
+raise 91,call
+call,fold
+check,bet 24
+raise 88,raise 86
+call,call
+fold,fold
+check,bet 17
+call,call
+fold,check
+check,bet 13
+raise 26,call
+call,call
+fold,fold
+call,fold
+call,call
+check,bet 4
+check,check
+call,fold
+call,call
+call,call
+call,fold
+raise 25,call
+check,check
+raise 58,raise 62
+raise 18,call
+check,bet 8
+check,check
+call,fold
+raise 88,raise 83
+check,check
+check,bet 13
+check,check
+check,check
+call,fold
+raise 3.0,check
+call,raise 88
+check,check
+check,check
+call,fold
+raise 88,raise 88
+raise 38,call
+call,call
+call,fold
+call,call
+fold,fold
+check,check
+raise 38,fold
+fold,fold
+check,check
+check,check
+call,fold
+check,bet 22
+check,check
+call,call
+fold,fold
+call,fold
+check,check
+fold,fold
+check,check
+fold,fold
+call,fold
+call,call
+fold,call
+raise 25,call
+raise 84,raise 85
+call,call
+raise 58,call
+raise 90,raise 73
+check,check
+raise 2.0,raise 2.0
+call,call
+call,call
+check,check
+check,bet 23
+fold,fold
+check,check
+check,bet 13
+check,check
+check,bet 23
+raise 31,raise 30
+raise 2.5,check
+raise 90,raise 86
+fold,call
+raise 25,call
+check,bet 23
+fold,fold
+raise 88,call
+call,call
+fold,fold
+raise 88,call
+fold,call
+call,raise 84
+raise 89,raise 90
+call,call
+raise 0.0 chips,fold
+fold,fold
+check,check
+call,call
+raise 58,call
+fold,fold
+call,raise 22
+check,bet 3
+check,bet 7
+call,fold
+check,check
+call,call
+fold,fold
+fold,call
+check,check
+check,bet 23
+call,raise 95
+raise 2.0,check
+call,fold
+check,check
+check,check
+check,check
+fold,fold
+check,bet 22
+call,raise 90
+fold,fold
+raise 2.5,check
+fold,fold
+check,check
+fold,raise 88
+check,check
+fold,fold
+check,bet 29
+check,check
+call,fold
+check,bet 13
+fold,fold
+check,bet 29
+call,raise 81
+call,call
+call,call
+check,check
+check,check
+call,call
+fold,fold
+raise 3.0,check
+fold,fold
+call,call
+call,call
+call,call
+raise 74,fold
+check,check
+check,check
+call,call
+check,bet 17
+fold,fold
+call,raise 38
+raise 58,check
+fold,fold
+raise 40,call
+check,check
+raise 32,fold
+raise 2.5,check
+call,call
+raise 10,call
+check,check
+call,call
+fold,fold
+check,check
+call,fold
+call,raise 13
+call,fold
+fold,call
+call,call
+call,call
+fold,fold
+call,call
+check,check
+raise 13,call
+call,raise 95
+check,check
+call,raise 16
+fold,fold
+raise 58,fold
+check,check
+fold,fold
+call,call
+fold,fold
+check,check
+raise 41,call
+raise 32,call
+raise 187,call
+fold,fold
+check,check
+fold,fold
+bet 29,bet 29
+raise 10.0,raise 10.0
+raise 20,call
+check,check
+raise 3.0,raise 3.0
+call,call
+check,check
+raise 25,call
+fold,fold
+check,check
+call,fold
+fold,fold
+call,fold
+fold,fold
+fold,fold
+call,call
+call,call
+call,call
+raise 10,raise 10
+fold,fold
+raise 90,raise 90
+fold,raise 46
+raise 25,raise 25
+call,call
+raise 51,call
+call,call
+check,check
+fold,fold
+call,call
+raise 88,fold
+check,check
+fold,fold
+raise 38,raise 38
+check,check
+check,check
+raise 89,fold
+raise 89,fold
+fold,fold
+call,fold
+fold,fold
+fold,fold
+check,check
+check,check
+raise 22,raise 22
+check,bet 7
+check,check
+raise 10,raise 10
+raise 81,call
+check,check
+fold,fold
+check,check
+check,check
+call,raise 46
+check,check
+fold,fold
+fold,call
+check,check
+call,raise 92
+fold,fold
+raise 88,call
+fold,call
+fold,fold
+call,fold
+check,check
+raise 32,call
+call,call
+raise 38,raise 27
+check,check
+check,bet 23
+check,bet 4
+check,check
+raise 14.0,raise 14.5
+call,raise 88
+raise 32,fold
+call,call
+raise 32,call
+call,call
+call,fold
+raise 22,call
+check,bet 4
+check,bet 5
+check,check
+check,check
+check,bet 10
+fold,fold
+fold,raise 92
+fold,fold
+fold,fold
+check,check
+raise 25,call
+raise 81,raise 84
+fold,fold
+call,call
+fold,call
+fold,fold
+raise 90,raise 92
+raise 29,call
+call,fold
+fold,fold
+call,call
+call,call
+call,call
+raise 25.0,raise 23.0
+check,check
+fold,fold
+fold,call
+call,call
+check,check
+call,call
+call,call
+check,check
+raise 2.5,check
+check,check
+check,raise 74
+check,raise 58
+raise 32,call
+check,check
+raise 2.0,check
+check,check
+raise 3.0,check
+fold,call
+check,check
+raise 74,fold
+check,check
+raise 13,raise 13
+check,bet 23
+raise 8.0,raise 13.0
+check,bet 23
+check,check
+check,check
+check,bet 10
+raise 25,fold
+call,raise 86
+fold,check
+raise 3.0,check
+call,call
+fold,fold
+raise 2.5,check
+call,raise 81
+raise 88,raise 72
+check,check
+check,check
+fold,fold
+fold,call
+check,check
+check,bet 28
+check,check
+check,check
+call,call
+call,fold
+raise 40,call
+check,bet 24
+fold,fold
+call,call
+check,check
+raise 91,raise 89
+check,raise 74
+raise 38,fold
+raise 29,call
+call,fold
+call,call
+call,call
+check,check
+raise 90,call
+check,bet 10
+fold,fold
+raise 37,fold
+raise 41,raise 47
+check,check
+call,call
+call,raise 22
+raise 32,call
+raise 38,raise 38
+check,check
+check,bet 4
+fold,fold
+call,call
+check,check
+check,check
+fold,fold
+raise 84,raise 85
+check,check
+fold,fold
+raise 18,raise 18
+check,check
+check,bet 4
+check,check
+raise 82,call
+check,check
+fold,fold
+check,bet 12
+call,call
+call,call
+fold,fold
+fold,call
+raise 10,raise 11
+check,check
+raise 81,raise 81
+check,raise 64
+check,check
+raise 2.0,raise 2.5
+fold,fold
+fold,call
+raise 89,raise 79
+fold,fold
+check,bet 29
+fold,call
+raise 3.0,raise 2.0
+call,call
+check,check
+check,bet 18
+check,check
+check,check
+call,raise 16
+check,check
+call,fold
+fold,fold
+call,raise 32
+fold,call
+raise 90,raise 77
+bet 13,check
+check,check
+raise 22,call
+fold,fold
+fold,fold
+call,call
+raise 88,fold
+fold,call
+check,bet 7
+raise 93,fold
+raise 12.0,raise 9.5
+call,call
+fold,fold
+call,fold
+call,raise 93
+fold,fold
+fold,fold
+check,check
+fold,fold
+call,call
+check,bet 29
+check,check
+call,call
+fold,fold
+call,fold
+fold,fold
+check,check
+check,bet 20
+check,check
