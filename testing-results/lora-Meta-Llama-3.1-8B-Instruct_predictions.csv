@@ -4,7 +4,7 @@ fold,fold
 call,fold
 check,check
 check,check
-fold,call
+check,call
 check,check
 call,call
 check,check
@@ -52,30 +52,30 @@ call,raise 13.0
 fold,raise 21.0
 check,check
 check,check
-fold,call
-fold,fold
+call,call
+call,fold
 call,fold
 call,raise 17.5
 call,call
 fold,fold
 check,check
 check,check
-fold,call
+call,call
 fold,raise 28.0
 call,raise 14.0
 fold,raise 26.0
-fold,fold
+call,fold
 fold,raise 27.0
 fold,raise 21.0
-fold,fold
+call,fold
 call,call
 fold,raise 20.0
 check,check
 call,call
-fold,call
+call,call
 raise 2.5,raise 3.0
 call,fold
-fold,fold
+call,fold
 raise 2.5,raise 2.3
 fold,fold
 raise 2.5,raise 2.3
@@ -86,7 +86,7 @@ fold,raise 21.0
 check,check
 check,call
 fold,fold
-fold,call
+call,call
 call,fold
 check,raise 3.0
 fold,fold
@@ -106,13 +106,13 @@ check,check
 call,call
 call,call
 fold,raise 19.0
-raise 12.5,raise 14.0
+raise 12,raise 14.0
 check,check
 fold,fold
 fold,fold
 fold,fold
 call,fold
-fold,fold
+call,fold
 call,call
 check,check
 check,check
@@ -135,7 +135,7 @@ call,call
 fold,fold
 check,check
 call,fold
-fold,raise 11.5
+call,raise 11.5
 call,fold
 check,check
 fold,call
@@ -144,7 +144,7 @@ check,check
 check,check
 raise 34.0,raise 24.1
 check,check
-raise 12.5,raise 11.0
+raise 8.0,raise 11.0
 call,call
 call,raise 15.0
 fold,fold
@@ -152,22 +152,22 @@ call,fold
 fold,fold
 check,check
 call,call
-raise 2.5,raise 2.0
+raise 2,raise 2.0
 check,check
-fold,fold
-fold,fold
+raise 64.0,fold
+call,fold
 call,fold
 raise 2.5,raise 2.3
 raise 2.5,raise 2.5
 check,check
-fold,fold
-fold,fold
+check,fold
+call,fold
 call,call
 raise 2.5,raise 3.0
 fold,call
 check,check
 fold,fold
-call,call
+fold,call
 call,fold
 call,fold
 call,call
@@ -212,7 +212,7 @@ call,raise 6.5
 check,check
 raise 2.5,raise 3.0
 fold,fold
-fold,call
+call,call
 fold,fold
 call,call
 call,fold
@@ -233,7 +233,7 @@ fold,fold
 fold,fold
 call,fold
 call,raise 9.5
-fold,call
+call,call
 fold,raise 22.0
 check,check
 call,call
@@ -292,18 +292,18 @@ check,check
 raise 2.5,raise 3.0
 fold,fold
 call,call
-fold,fold
+call,fold
 fold,fold
 call,call
 check,call
-fold,fold
+call,fold
 check,check
 check,check
 fold,fold
 raise 2.5,raise 2.3
 fold,call
 check,check
-fold,call
+call,call
 call,raise 9.5
 call,call
 check,check
@@ -338,7 +338,7 @@ fold,fold
 call,fold
 call,fold
 fold,fold
-fold,raise 7.5
+call,raise 7.5
 call,raise 15.0
 fold,call
 call,fold
@@ -346,9 +346,9 @@ call,call
 call,raise 14.5
 call,call
 call,call
-fold,call
 call,call
-fold,call
+call,call
+call,call
 fold,fold
 fold,fold
 check,check
@@ -372,9 +372,9 @@ call,call
 check,check
 check,check
 call,call
+check,fold
 fold,fold
-fold,fold
-fold,fold
+call,fold
 fold,fold
 check,check
 check,check
@@ -397,7 +397,7 @@ check,check
 check,check
 fold,fold
 fold,fold
-fold,raise 15.0
+call,raise 15.0
 check,raise 3.0
 fold,fold
 fold,raise 20.0
@@ -409,7 +409,7 @@ check,check
 call,call
 call,call
 call,call
-raise 3,raise 2.5
+raise 2.5,raise 2.5
 fold,raise 15.0
 raise 2.5,raise 2.3
 call,raise 12.5
@@ -432,13 +432,13 @@ call,call
 call,call
 call,fold
 call,call
-fold,call
+call,call
 call,call
 call,raise 18.0
 raise 2.5,raise 2.5
 call,call
 check,raise 5.0
-fold,raise 28.0
+call,raise 28.0
 call,fold
 call,raise 11.0
 fold,fold
@@ -476,8 +476,8 @@ fold,fold
 check,check
 raise 2.5,raise 2.5
 check,check
-fold,raise 17.5
-fold,call
+call,raise 17.5
+call,call
 fold,fold
 check,check
 fold,fold
@@ -492,7 +492,7 @@ check,check
 fold,call
 call,fold
 check,check
-fold,call
+call,call
 call,raise 14.0
 call,call
 call,call
@@ -519,7 +519,7 @@ call,call
 call,call
 raise 2.5,raise 2.0
 fold,call
-fold,raise 12.0
+call,raise 12.0
 fold,call
 check,check
 check,check
@@ -535,14 +535,14 @@ fold,fold
 call,raise 15.0
 fold,raise 27.0
 call,call
-raise 12.5,raise 13.0
-fold,fold
+raise 10.0,raise 13.0
+call,fold
 call,raise 13.5
 check,check
 call,call
 fold,fold
 call,call
-fold,call
+call,call
 check,check
 fold,fold
 check,check
@@ -573,7 +573,7 @@ call,call
 call,raise 14.0
 fold,call
 fold,fold
-raise 2.5,raise 2.5
+raise 2,raise 2.5
 fold,raise 25.0
 fold,call
 call,call
@@ -581,7 +581,7 @@ check,check
 check,check
 fold,call
 fold,fold
-call,raise 18.0
+fold,raise 18.0
 check,check
 raise 10.0,fold
 fold,call
@@ -623,7 +623,7 @@ raise 64.0,fold
 call,fold
 call,fold
 fold,raise 14.0
-fold,raise 7.5
+call,raise 7.5
 check,check
 call,fold
 call,call
@@ -632,25 +632,25 @@ check,check
 call,fold
 call,call
 call,call
-raise 12.5,raise 14.0
+raise 12,raise 14.0
 call,call
 fold,raise 29.2
 call,call
 check,check
 fold,fold
-fold,call
+call,call
 check,check
 fold,raise 21.0
 check,check
 call,fold
 check,check
 call,call
-fold,raise 27.0
+call,raise 27.0
 call,call
 fold,fold
 check,check
 check,check
-fold,fold
+call,fold
 fold,call
 check,check
 fold,call
@@ -672,11 +672,11 @@ call,fold
 raise 2.5,raise 3.0
 call,raise 11.0
 fold,fold
-fold,fold
+call,fold
 fold,fold
 call,raise 12.5
 call,raise 6.5
-fold,call
+call,call
 call,call
 call,call
 call,call
@@ -699,7 +699,7 @@ call,raise 18.0
 check,check
 check,check
 check,check
-raise 6,raise 6.5
+raise 5.0,raise 6.5
 fold,call
 call,call
 check,check
@@ -709,7 +709,7 @@ raise 2.5,raise 2.5
 call,call
 check,check
 raise 2.5,raise 3.0
-fold,call
+call,call
 call,fold
 check,check
 call,fold
@@ -725,7 +725,7 @@ fold,raise 23.0
 fold,fold
 call,call
 fold,raise 19.0
-fold,call
+call,call
 call,call
 check,check
 check,check
@@ -749,7 +749,7 @@ fold,fold
 check,check
 call,fold
 call,fold
-fold,fold
+call,fold
 check,check
 raise 2.5,raise 2.5
 call,call
@@ -762,10 +762,10 @@ fold,raise 26.0
 fold,fold
 call,call
 fold,raise 19.0
-fold,fold
+call,fold
 fold,fold
 check,check
-raise 12,raise 14.0
+raise 12.5,raise 14.0
 call,fold
 fold,call
 call,raise 14.0
@@ -777,14 +777,14 @@ raise 2.5,raise 2.0
 fold,call
 fold,call
 call,call
-raise 13.0,fold
+raise 12.5,fold
 check,check
-raise 3,raise 2.5
+raise 2.5,raise 2.5
 check,raise 5.0
 call,call
 check,check
-raise 12.5,raise 15.0
-fold,call
+raise 12,raise 15.0
+call,call
 call,call
 call,call
 check,check
@@ -805,17 +805,17 @@ call,fold
 raise 2.5,raise 3.0
 call,raise 11.0
 call,call
-fold,raise 14.0
+call,raise 14.0
 fold,fold
 call,raise 9.5
 fold,fold
 check,check
-fold,call
+call,call
 call,raise 14.0
 fold,fold
 check,check
 fold,raise 19.0
-fold,raise 16.0
+call,raise 16.0
 call,call
 fold,fold
 fold,raise 22.0
@@ -828,7 +828,7 @@ call,call
 call,call
 call,raise 9.5
 fold,call
-fold,raise 15.0
+call,raise 15.0
 fold,raise 20.0
 fold,raise 18.0
 fold,fold
@@ -854,11 +854,11 @@ check,check
 call,call
 call,fold
 raise 2.5,raise 3.0
-check,raise 5.0
+raise 3.0,raise 5.0
 call,call
 check,check
 check,check
-fold,call
+call,call
 call,raise 14.0
 call,call
 call,call
@@ -866,7 +866,7 @@ call,raise 14.5
 fold,fold
 fold,raise 20.0
 call,raise 14.5
-fold,call
+call,call
 call,fold
 call,raise 13.5
 check,check
@@ -874,7 +874,7 @@ fold,fold
 call,raise 6.5
 check,check
 fold,fold
-fold,raise 11.5
+call,raise 11.5
 check,check
 call,call
 call,call
@@ -884,14 +884,14 @@ call,fold
 check,check
 fold,fold
 call,call
-fold,call
+call,call
 call,call
 fold,fold
 check,check
 raise 2.5,raise 2.3
 fold,fold
 call,call
-fold,fold
+raise 44.0,fold
 raise 2.5,raise 3.0
 call,fold
 raise 2.5,raise 2.3
@@ -910,7 +910,7 @@ raise 2.5,raise 3.0
 call,fold
 fold,fold
 call,fold
-raise 5,raise 11.0
+raise 5.0,raise 11.0
 fold,fold
 check,check
 fold,fold
@@ -939,22 +939,22 @@ check,check
 call,raise 11.0
 call,call
 fold,fold
-fold,raise 11.0
+call,raise 11.0
 check,check
 call,call
 check,check
-call,call
+fold,call
 fold,fold
 call,call
 raise 2.5,raise 3.0
-raise 7.0,raise 11.5
+raise 10,raise 11.5
 fold,call
 fold,fold
 check,check
 call,raise 15.0
 check,check
 raise 2.5,raise 3.0
-raise 12.5,raise 14.0
+raise 12,raise 14.0
 check,check
 fold,fold
 call,fold
@@ -978,17 +978,17 @@ fold,call
 check,check
 call,raise 14.0
 fold,raise 20.0
-fold,fold
+call,fold
 fold,call
 call,raise 12.0
-fold,raise 15.0
+call,raise 15.0
 check,check
 fold,fold
 call,fold
 fold,fold
 check,check
 call,call
-fold,fold
+call,fold
 call,raise 14.0
 fold,call
 call,call
