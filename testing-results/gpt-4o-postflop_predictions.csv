@@ -1,0 +1,5001 @@
+Prediction,Ground Truth
+Bet 8 chips.,check
+Check.,check
+Check.,check
+Bet.,bet 10
+Check.,check
+Raise.,raise 11
+Fold.,call
+Check.,check
+Call.,call
+Call.,raise 92
+Fold.,call
+Check.,check
+Check.,check
+Check.,check
+Check.,check
+Fold.,fold
+Call.,call
+Call.,call
+Check.,bet 12
+Fold.,raise 81
+Check.,raise 64
+Check.,check
+All-in.,raise 85
+Fold.,call
+Fold.,fold
+Call.,call
+Bet.,check
+Bet 3.0 chips.,bet 3
+Check.,check
+Fold.,fold
+Fold.,call
+Fold.,call
+Raise.,raise 16
+Check.,raise 73
+Call.,raise 88
+Call.,call
+Call.,call
+Fold.,fold
+Call.,call
+Check.,check
+Fold.,call
+Raise.,fold
+Fold.,fold
+Call.,raise 29
+Check.,bet 7
+Check.,check
+Check.,bet 34
+Fold.,fold
+Raise.,raise 25
+Check.,check
+Check.,check
+Check.,check
+Call.,raise 70
+Fold.,fold
+Fold.,call
+Fold.,fold
+Bet 15 chips.,bet 18
+Check.,bet 3
+Fold.,fold
+Fold.,fold
+Raise.,call
+Call.,call
+Call.,raise 88
+Fold,fold
+Fold.,fold
+Fold.,fold
+Fold.,fold
+Fold.,fold
+Call.,raise 88
+Call.,call
+Fold.,fold
+Call.,call
+All-in.,raise 86
+Call.,fold
+Call.,call
+All-in.,call
+Fold.,fold
+Call.,call
+Check.,bet 31
+Call.,fold
+Call.,raise 16
+Call.,call
+Fold.,call
+Check.,bet 13
+Fold.,fold
+Fold.,fold
+Check.,check
+Check.,bet 10
+All-in.,fold
+Check.,check
+Call.,call
+Bet 12 chips.,check
+Bet 10 chips.,check
+Check.,bet 10
+Call.,call
+Call.,raise 25
+All-in.,raise 88
+Fold.,call
+Check.,check
+Check.,bet 17
+Fold.,fold
+Fold.,fold
+Fold,fold
+Raise.,raise 13
+Raise.,call
+Check.,check
+Fold.,fold
+Fold.,fold
+Call.,call
+Call.,call
+Check.,bet 18
+Fold.,fold
+Bet 10 chips.,bet 12
+Call.,call
+Fold,fold
+Bet.,bet 10
+Bet 25 chips.,bet 29
+Call.,call
+Raise.,raise 57
+Check.,bet 35
+Check.,bet 29
+Fold.,fold
+Bet 9.5 chips.,bet 8
+Fold.,raise 27
+Fold.,fold
+Bet 3.5 chips.,check
+Fold.,call
+Check.,check
+Check.,bet 29
+Call.,call
+Call.,call
+Call.,call
+Fold.,call
+Bet 4.0 chips.,bet 5
+Check.,check
+Fold.,call
+Check.,bet 29
+Fold.,fold
+Fold,fold
+Fold.,fold
+Check.,bet 3
+Fold.,fold
+Call.,fold
+Check.,raise 58
+Call.,call
+Call.,raise 48
+Fold.,fold
+Call.,raise 16
+Bet.,bet 12
+Check.,bet 13
+Check.,check
+Fold.,fold
+Fold,fold
+Fold.,fold
+Call.,call
+Bet 10 chips.,check
+Fold.,fold
+Call.,call
+Fold,call
+Bet.,check
+Call.,fold
+Fold.,call
+Fold.,fold
+Bet 3.5 chips.,bet 4
+Fold.,raise 84
+Call.,call
+Check.,check
+Check.,check
+Fold.,fold
+Check.,check
+All-in.,raise 83
+Raise.,raise 11
+Fold.,fold
+Check.,check
+Fold.,call
+Check.,check
+Fold.,fold
+Fold.,fold
+Check.,bet 11
+Fold.,fold
+Fold.,fold
+Check.,bet 29
+Check.,check
+Call.,call
+Check.,check
+Bet 10.0 chips.,check
+Check.,check
+Bet.,bet 4
+Fold.,fold
+Fold.,raise 58
+Check.,check
+Check.,check
+Fold.,fold
+Call.,call
+Fold.,fold
+Fold.,fold
+Check.,check
+Check.,check
+Call.,call
+Fold.,fold
+Check.,check
+Check.,raise 61
+All-in.,bet 23
+Fold.,fold
+Check.,check
+Fold.,raise 88
+Fold.,call
+Call.,raise 41
+Fold.,fold
+Call.,call
+Fold.,fold
+Raise.,raise 22
+Fold.,fold
+Go all-in.,call
+Call.,call
+Fold.,call
+Check.,bet 4
+Check.,check
+Call.,call
+Call.,call
+Raise.,raise 16
+Bet.,bet 4
+Fold.,fold
+Check.,check
+Bet 2.5 chips.,check
+Call.,raise 16
+Fold.,fold
+Fold.,fold
+Check.,raise 58
+Check.,check
+Raise.,call
+Fold.,fold
+Check.,check
+Call.,call
+All-in.,raise 83
+Check.,check
+Fold.,fold
+Fold.,fold
+Call.,raise 92
+Check.,check
+Call.,call
+Call.,call
+Fold.,fold
+Call.,raise 57
+Fold.,fold
+Fold.,fold
+Call.,call
+Raise.,raise 83
+Check.,check
+Call.,call
+Fold.,call
+Check.,check
+Call.,call
+Fold.,call
+Check.,check
+Call.,fold
+Raise.,raise 79
+Check.,check
+Check.,check
+Check.,check
+Check.,bet 3
+Fold.,raise 51
+Call.,call
+Raise.,raise 7
+Fold.,fold
+Check.,check
+Bet 10 chips.,bet 12
+Call.,call
+Call.,call
+Call.,raise 70
+Fold.,call
+Fold.,fold
+Check.,check
+Raise.,call
+Raise.,raise 89
+Check.,check
+Bet.,bet 10
+Fold.,fold
+Call.,call
+Bet.,check
+Go all-in.,call
+Check.,bet 17
+Re-raise (also known as a 3-bet).,raise 14
+Check.,check
+Fold.,fold
+Check.,bet 29
+Check.,check
+All-in.,call
+Call.,call
+Fold.,fold
+Check.,bet 39
+Check.,bet 23
+Fold.,fold
+Fold.,fold
+Fold,fold
+Fold.,fold
+Call.,call
+Bet 9 chips.,check
+Fold.,call
+Call.,raise 80
+Go all-in.,call
+Check.,check
+Call.,call
+Raise.,call
+Call.,call
+Fold.,raise 80
+Call.,call
+Fold.,fold
+All-in.,call
+Call.,raise 78
+Check.,check
+Fold.,call
+Fold.,fold
+Check.,check
+Check.,check
+Call.,raise 93
+Check.,check
+Raise.,raise 35
+Bet 20 chips.,check
+Re-raise (all-in).,raise 57
+Check.,bet 25
+Raise.,call
+Fold.,fold
+Call.,call
+Fold.,call
+Check.,bet 11
+Call.,call
+Check.,bet 24
+Fold.,raise 92
+Raise.,call
+Call.,raise 84
+Fold.,call
+Call.,call
+Call.,raise 13
+All-in.,call
+Call.,call
+Check.,check
+Call.,call
+Check.,check
+Fold.,fold
+Fold,fold
+Call.,call
+Fold.,fold
+Check.,bet 29
+Raise.,raise 10
+Check.,bet 13
+Check.,check
+Bet 20 chips.,bet 25
+Check.,check
+Fold.,fold
+Call.,raise 26
+Fold.,raise 37
+Raise.,raise 10
+Bet.,bet 15
+Re-raise (also known as a 3-bet).,raise 43
+Raise.,raise 90
+Check.,check
+Fold.,fold
+Check.,check
+Fold.,raise 16
+Call.,call
+Bet 30 chips.,check
+Fold.,call
+Bet.,bet 5
+Check.,check
+Call.,raise 90
+All-in.,check
+Fold.,fold
+Check.,check
+Fold.,fold
+Fold.,call
+Check.,bet 23
+Fold.,raise 73
+All-in.,raise 88
+Call.,call
+Fold.,call
+Fold.,fold
+Fold.,call
+Fold.,fold
+Check.,check
+All-in.,raise 85
+All-in.,raise 46
+Call.,call
+Call.,call
+Fold.,fold
+Fold,fold
+Check.,bet 29
+Call.,call
+Check.,bet 2
+Fold.,fold
+Check.,check
+Check.,check
+Check.,bet 1
+Call.,call
+Call.,raise 80
+Fold.,call
+All-in.,call
+Check.,check
+Bet 12 chips.,bet 13
+Fold.,fold
+Check.,check
+Call.,raise 92
+Fold.,fold
+Fold.,call
+Check.,bet 13
+Fold.,fold
+Check.,check
+Call.,raise 38
+Fold.,call
+Check.,check
+Call.,raise 92
+Raise.,call
+Fold.,fold
+Fold.,fold
+Fold.,call
+Fold.,fold
+Check.,check
+Call.,call
+Fold,fold
+Call.,raise 41
+Call.,fold
+Fold.,fold
+Fold.,call
+Fold.,fold
+Bet 12 chips.,check
+Call.,raise 90
+Fold.,call
+Check.,check
+Raise.,call
+Check.,check
+Fold.,raise 90
+Call.,call
+Fold.,fold
+Raise.,call
+Fold.,fold
+Fold.,fold
+Fold.,fold
+Fold.,call
+Fold.,call
+Check.,bet 17
+Fold.,fold
+Check.,check
+Check.,check
+Fold.,fold
+Fold.,fold
+Bet.,check
+Fold.,fold
+Check.,check
+Fold,fold
+Call.,call
+Call.,raise 92
+Fold.,fold
+Fold.,fold
+Call.,call
+Fold.,fold
+Check.,check
+Fold.,fold
+Call.,call
+Raise.,raise 10
+Check.,check
+Call.,raise 74
+Fold.,fold
+Call.,raise 31
+Call.,raise 38
+Check.,check
+Check.,check
+Fold.,fold
+Call.,call
+Check.,bet 29
+Fold.,fold
+Fold.,fold
+Call.,call
+Check.,bet 11
+Fold.,fold
+Call.,call
+Call.,raise 23
+Fold,fold
+Fold.,fold
+Fold.,fold
+Fold.,fold
+Fold.,fold
+Check.,check
+Raise.,call
+Fold.,fold
+Check.,check
+Check.,check
+Bet.,bet 4
+Call.,call
+Fold.,fold
+Check.,bet 10
+All-in.,raise 85
+Check.,check
+Call.,call
+Check.,check
+Fold.,fold
+Fold.,call
+Bet 3 chips.,check
+Raise.,call
+Raise.,raise 16
+Check.,check
+Check.,check
+Check.,bet 8
+Call.,call
+Raise.,call
+Call.,raise 80
+All-in.,fold
+Check.,check
+Fold.,call
+Check.,check
+Check.,check
+Check.,check
+Call.,raise 73
+Check.,check
+Check.,check
+Call.,call
+Check.,check
+Call.,call
+Fold.,fold
+Fold.,fold
+Bet 25 chips.,bet 29
+Fold.,fold
+Check.,bet 17
+Call.,call
+Fold,fold
+Check.,check
+Fold.,call
+Fold.,fold
+Raise.,call
+Fold.,raise 92
+Raise.,call
+Bet 12 chips.,bet 13
+Check.,check
+Check.,check
+Call.,call
+Fold.,fold
+Raise.,raise 11
+Fold.,raise 18
+Fold.,fold
+Check.,check
+Raise.,call
+Check.,check
+Fold.,fold
+Check.,check
+Call.,fold
+Raise.,raise 18
+Bet.,bet 10
+Fold.,call
+Bet 10 chips.,bet 11
+Check.,check
+Raise.,call
+Fold.,call
+Check.,check
+Call.,raise 74
+Bet 15 chips.,bet 17
+Fold.,fold
+Check.,check
+Call.,call
+Check.,check
+Bet.,bet 24
+Check.,check
+Check.,check
+All-in.,raise 88
+Call.,call
+Check.,bet 29
+Call.,call
+Fold.,fold
+Call.,call
+Fold.,fold
+Fold.,fold
+Fold.,raise 77
+Call.,call
+Call.,call
+Call.,raise 27
+Check.,check
+Check.,bet 18
+All-in.,raise 81
+Fold,fold
+Call.,raise 80
+Fold.,call
+Call.,raise 85
+Fold.,call
+Call.,raise 22
+Call.,call
+All-in.,raise 92
+Call.,call
+Check.,check
+Call.,raise 10
+Check.,raise 61
+All-in.,bet 23
+Fold.,call
+Call.,call
+Call.,fold
+Fold.,fold
+Check.,check
+Fold.,fold
+Raise.,call
+Check.,bet 23
+Call.,call
+Bet 10 chips.,check
+Fold.,fold
+Call.,fold
+Bet 20 chips.,bet 24
+Call.,raise 11
+Bet.,check
+Fold.,call
+Fold.,raise 27
+Check.,raise 64
+Check.,check
+Call.,call
+Raise.,raise 13
+Check.,check
+Fold.,call
+Check.,check
+Fold.,fold
+All-in.,call
+Call.,call
+Call.,raise 36
+Raise.,raise 46
+Fold.,fold
+Call.,fold
+Fold.,fold
+Check.,bet 20
+Call.,call
+Raise.,call
+Call.,call
+Call.,fold
+Check.,check
+Check.,bet 20
+Check.,check
+Check.,check
+Check.,check
+Bet 3 chips.,check
+Fold.,raise 82
+Raise.,call
+Fold.,call
+Check.,check
+Bet 15 chips.,check
+Bet 20 chips.,bet 19
+Fold.,fold
+Check.,check
+Call.,raise 17
+Call.,raise 73
+Check.,check
+Fold.,fold
+Bet.,check
+Fold.,raise 33
+Fold.,fold
+Raise.,call
+Fold.,call
+Call.,call
+Call.,call
+Fold.,fold
+Check.,check
+Raise.,call
+Fold,call
+Check.,bet 12
+Fold.,raise 84
+Fold.,fold
+Raise.,call
+Check.,bet 29
+Check.,raise 65
+Fold.,fold
+Check.,bet 23
+Check.,check
+Check.,check
+Check.,check
+Bet 9 chips.,check
+Check.,check
+Bet 12 chips.,bet 22
+Check.,check
+Check.,bet 4
+Check.,raise 58
+Bet.,raise 74
+Fold.,fold
+Check.,check
+Bet 3.5 chips.,bet 4
+Check.,check
+Fold.,fold
+Fold.,call
+Call.,fold
+Check.,check
+Fold.,fold
+Fold.,fold
+Fold.,call
+Fold.,call
+Call.,call
+Fold.,call
+Call.,raise 77
+All-in.,call
+Call.,raise 8
+Bet 12 chips.,check
+Fold.,call
+Call.,call
+Fold.,fold
+Call.,raise 83
+Check.,check
+Check.,check
+Check.,bet 10
+Call.,raise 37
+Check.,check
+Fold.,fold
+Bet.,bet 13
+Call.,call
+Fold,fold
+Call.,raise 58
+Fold.,fold
+Fold.,fold
+Check.,check
+Call.,call
+Call.,raise 81
+Call.,call
+All-in.,raise 88
+Bet 2.5 chips.,check
+Check.,check
+Fold.,fold
+Fold.,fold
+Bet.,check
+Fold.,fold
+All-in.,call
+Fold.,fold
+Call.,call
+Call.,raise 25
+Check.,check
+Raise.,raise 40
+Call.,raise 30
+Check.,check
+Check.,bet 18
+Call.,raise 89
+Fold.,fold
+Raise.,raise 25
+Check.,check
+Fold.,fold
+Fold.,fold
+Fold.,fold
+Fold.,fold
+Bet 18 chips.,bet 31
+Call.,call
+Check.,raise 58
+Check.,check
+Fold.,call
+Check.,raise 58
+Check.,check
+Check.,check
+Fold.,fold
+Check.,check
+Fold.,fold
+Check.,check
+Fold.,fold
+Check.,check
+All-in.,fold
+Call.,call
+Fold.,fold
+All-in.,raise 83
+Call.,raise 13
+Check.,check
+Fold.,fold
+Call.,call
+Raise.,call
+Check.,check
+Bet 3 chips.,check
+Fold.,fold
+Fold.,fold
+Check.,check
+Check.,check
+Call.,raise 94
+Bet 20 chips.,bet 27
+Check.,check
+Fold.,raise 51
+Call.,raise 18
+Check.,check
+Bet 8.0 chips.,bet 3
+Fold.,call
+Fold.,fold
+Fold.,fold
+Fold.,fold
+All-in.,bet 20
+Raise.,call
+Bet 12 chips.,bet 22
+Call.,raise 84
+Call.,raise 88
+Fold.,fold
+Check.,check
+Bet 20 chips.,bet 23
+Raise.,call
+Call.,raise 38
+Call.,call
+Bet.,check
+Call.,call
+Fold.,fold
+Bet.,bet 8
+Check.,check
+All-in.,raise 72
+Call.,call
+Call.,call
+Call.,call
+Fold.,fold
+Raise.,call
+Bet 6 chips.,check
+Check.,check
+Call.,call
+Raise.,call
+Call.,raise 92
+Check.,check
+Fold.,fold
+Fold.,fold
+Check.,check
+Call.,raise 92
+Fold.,fold
+Raise.,raise 22
+Call.,call
+Raise.,raise 10
+Fold.,fold
+Fold.,fold
+Bet.,bet 11
+Check.,bet 2
+Check.,check
+Bet.,check
+Call.,raise 74
+Call.,call
+Call.,call
+Check.,check
+Call.,call
+Raise.,raise 11
+Go all-in.,raise 89
+Call.,call
+Check.,check
+Check.,check
+Check.,check
+Raise.,raise 10
+Fold.,fold
+Call.,call
+Fold.,fold
+Check.,check
+Check.,check
+Raise.,raise 22
+Check.,check
+Check.,check
+Call.,call
+Fold.,fold
+Fold.,call
+Raise.,call
+Fold,call
+Check.,check
+Check.,check
+Check.,check
+Check.,check
+Call.,call
+Check.,check
+Fold.,fold
+Fold.,fold
+Call.,call
+Call.,call
+Call.,raise 22
+Bet.,bet 13
+Bet 7 chips.,check
+Fold.,raise 92
+Fold.,fold
+Fold.,fold
+All-in.,call
+Check.,check
+Check.,check
+Fold,fold
+Bet 3.0 chips.,check
+Check.,bet 3
+Fold.,raise 38
+Fold.,raise 74
+Check.,check
+Fold,fold
+Fold.,call
+Call.,raise 93
+Fold.,call
+Check.,check
+Check.,check
+Check.,check
+Go all-in.,call
+Fold.,raise 82
+Bet 12 chips.,check
+Check.,check
+Check.,check
+Call.,call
+Fold.,call
+Call.,call
+Raise.,raise 17
+Fold.,fold
+Call.,raise 41
+Fold.,fold
+Check.,check
+Raise.,call
+Call.,call
+Call.,call
+Call.,raise 84
+Check.,check
+Call.,call
+Check.,bet 40
+Fold.,fold
+Call.,fold
+Check.,bet 4
+Fold.,fold
+Fold.,fold
+Call.,raise 84
+Fold.,call
+Bet.,check
+Raise.,raise 7
+Fold.,fold
+Call.,call
+Call.,call
+Fold.,fold
+Fold.,fold
+Fold.,fold
+Fold.,call
+Fold.,fold
+Check.,check
+Bet.,bet 24
+Fold.,fold
+Call.,call
+Raise.,call
+All-in.,raise 58
+Call.,fold
+Call.,raise 92
+Fold.,fold
+Bet 18 chips.,check
+Call.,call
+Fold.,fold
+Fold.,fold
+Check.,check
+Check.,check
+Fold.,call
+Bet.,bet 17
+Check.,check
+Check.,check
+Call.,fold
+Call.,call
+Raise.,call
+Fold.,call
+Check.,check
+Call.,fold
+Call.,call
+Go all-in.,raise 91
+Call.,call
+Check.,bet 13
+Fold.,fold
+Call.,call
+Fold.,raise 83
+Check.,check
+Check.,bet 18
+Fold.,fold
+Check.,check
+Call.,call
+Call.,call
+Call.,raise 7
+Bet 6 chips.,check
+Fold.,call
+Check.,check
+Call.,call
+Call.,raise 94
+Fold.,call
+All-in.,call
+Raise.,raise 38
+All-in.,call
+Fold.,fold
+Fold.,fold
+Raise.,call
+Check.,check
+Call.,call
+Call.,fold
+Bet 20 chips.,bet 27
+Check.,check
+Fold.,fold
+Call.,call
+Call.,call
+Call.,raise 19
+Bet.,bet 12
+Fold,fold
+Fold.,fold
+Fold.,call
+Call.,call
+Call.,call
+Fold.,fold
+Check.,bet 16
+Call.,call
+Fold.,call
+Check.,check
+Check.,check
+Fold.,fold
+Call.,call
+Call.,fold
+All-in.,raise 86
+Call.,raise 38
+Check.,raise 54
+Fold.,fold
+Bet 20 chips.,check
+Check.,check
+Check.,check
+Check.,check
+Check.,bet 29
+Call.,fold
+Call.,call
+Call.,call
+Call.,call
+Check.,check
+Call.,raise 11
+Bet 3.5 chips.,check
+Raise.,call
+Fold.,raise 86
+Call.,call
+Fold.,raise 90
+Call.,call
+Call.,call
+Fold.,raise 90
+Fold.,fold
+All-in.,raise 67
+Raise.,raise 16
+Fold.,fold
+Raise.,call
+Fold.,fold
+Check.,check
+Bet.,check
+Fold.,fold
+Check.,check
+Check.,check
+Check.,check
+Call.,call
+Check.,check
+Fold.,fold
+Check.,check
+Check.,bet 17
+Check.,bet 17
+Fold.,fold
+Call.,raise 90
+Bet.,check
+Fold.,fold
+Fold.,fold
+Check.,check
+Bet.,check
+Raise.,call
+Call.,call
+Call.,call
+Call.,raise 48
+Check.,check
+Fold.,raise 93
+Fold.,call
+Check.,bet 24
+Fold.,fold
+Fold.,fold
+All-in.,bet 24
+Check.,check
+Fold.,fold
+Call.,call
+Check.,check
+Bet 20 chips.,bet 20
+Bet 20 chips.,check
+Check.,check
+Call.,call
+Fold.,fold
+Call.,raise 22
+Check.,check
+Call.,raise 88
+Call.,call
+Fold.,call
+Check.,check
+Fold.,fold
+Check.,check
+Check.,check
+Check.,check
+Fold.,call
+Bet 15 chips.,check
+Call.,call
+Fold.,call
+Fold.,fold
+Bet 12 chips.,bet 24
+Fold.,fold
+Fold.,fold
+Fold,fold
+Fold.,fold
+Fold.,fold
+Fold.,raise 86
+Check.,check
+Fold.,fold
+Check.,check
+Check.,check
+Check.,check
+Fold.,fold
+Fold.,call
+Fold.,call
+Check.,check
+Raise.,raise 41
+Check.,bet 13
+Call.,fold
+Fold.,fold
+Check.,check
+Bet 18 chips.,check
+Fold.,call
+All-in.,bet 29
+Call.,call
+Call.,call
+Fold.,call
+Bet.,check
+Check.,check
+Call.,fold
+Call.,raise 88
+Call.,raise 84
+Fold.,fold
+Call.,raise 81
+Fold.,fold
+Call.,call
+Fold.,raise 77
+Check.,check
+Fold.,call
+Bet.,check
+Check.,check
+Check.,bet 10
+Fold.,call
+Fold,fold
+Fold.,fold
+Call.,call
+Fold.,fold
+Check.,check
+Raise.,call
+Check.,bet 11
+Check.,check
+Call.,call
+Check.,check
+Fold.,fold
+Raise.,call
+Bet.,bet 40
+Fold.,call
+Call.,call
+Call.,fold
+Check.,check
+Check.,check
+Call.,call
+Call.,call
+Fold.,fold
+Bet 2.5 chips.,bet 3
+Check.,check
+Check.,bet 23
+Check.,check
+Fold.,fold
+Check.,bet 39
+Fold.,fold
+Check.,check
+Bet 20 chips.,bet 25
+Raise.,raise 58
+All-in.,bet 39
+Fold.,call
+Call.,fold
+Fold.,fold
+All-in.,check
+All-in.,call
+Fold.,call
+Call.,call
+Check.,check
+Check.,check
+Raise.,call
+Fold.,call
+Call.,call
+Fold.,fold
+Fold.,fold
+All-in.,call
+Check.,check
+Raise.,call
+Bet 3.5 chips.,check
+Call.,fold
+Fold.,fold
+All-in.,raise 64
+Fold.,call
+Call.,raise 80
+Fold.,call
+Check.,check
+All-in.,raise 83
+Call.,call
+Bet 3.5 chips.,check
+Check.,check
+Bet.,check
+Check.,check
+Check.,check
+Bet 20 chips.,check
+Fold.,fold
+Call.,call
+Fold.,call
+Check.,raise 70
+Fold.,fold
+Call.,raise 33
+Call.,call
+Fold.,fold
+Fold.,fold
+All-in.,raise 89
+Call.,raise 93
+Check.,check
+Check.,check
+Call.,call
+Fold.,fold
+Fold,fold
+Call.,raise 80
+Fold.,fold
+Fold.,fold
+Fold.,fold
+Call.,call
+Fold.,fold
+Fold.,fold
+Check.,check
+Check.,check
+Fold.,fold
+Check.,bet 12
+Fold.,fold
+Fold.,fold
+Fold.,fold
+Raise.,raise 28
+Check.,check
+Check.,check
+Fold,fold
+Fold.,fold
+Check.,check
+Bet 20 chips.,bet 23
+Bet 34 chips (all-in).,bet 27
+Fold.,fold
+Go all-in.,call
+Fold,raise 77
+Check.,check
+Check.,check
+Fold.,raise 88
+Fold.,call
+Call.,raise 32
+Call.,call
+Fold.,fold
+Fold.,fold
+Check.,check
+Check.,check
+Call.,call
+Check.,check
+Raise.,raise 25
+Fold.,fold
+Bet 6 chips.,check
+Fold.,raise 81
+Call.,fold
+Check.,check
+Check.,check
+Call.,call
+Fold.,fold
+Check.,check
+Fold.,fold
+Fold.,fold
+Re-raise.,call
+Raise.,raise 10
+Raise.,raise 11
+Fold.,fold
+All-in.,bet 34
+Call.,raise 11
+Call.,call
+Call.,call
+Fold.,call
+Call.,raise 82
+Fold.,fold
+Check.,check
+Fold,raise 90
+Call.,call
+Fold.,fold
+All-in.,check
+Bet 10 chips.,check
+Call.,call
+Call.,call
+Check.,check
+Fold.,fold
+Raise.,call
+Call.,call
+Fold.,fold
+Raise.,call
+Call.,raise 41
+Fold.,fold
+Fold.,fold
+Check.,check
+Fold.,fold
+Fold.,fold
+Raise.,call
+Check.,check
+Check.,raise 70
+Bet 6 chips.,check
+Call.,raise 32
+Fold.,fold
+Bet 3 chips.,check
+Bet.,check
+Bet 18 chips.,check
+Call.,raise 82
+Fold.,fold
+Call.,raise 32
+Call.,call
+Call.,raise 18
+Fold.,fold
+Check.,bet 29
+Fold.,call
+Fold.,fold
+Check.,check
+Raise all-in.,raise 78
+Fold.,fold
+Check.,bet 29
+Fold.,fold
+Fold.,fold
+Fold.,call
+Fold.,call
+Check.,check
+Call.,call
+Call.,call
+Fold.,call
+Call.,call
+Call.,call
+Fold,fold
+Call.,call
+Call.,call
+Call.,call
+Check.,check
+Call.,call
+Call.,call
+Check.,check
+Fold.,call
+Fold.,fold
+Bet 2.0 chips.,bet 1
+Check.,check
+Fold.,fold
+Check.,check
+All-in.,check
+Call.,fold
+Fold.,fold
+Call.,raise 29
+Fold.,fold
+Call.,call
+All-in.,raise 87
+Bet 12 chips.,check
+Fold.,call
+Check.,check
+Check.,bet 7
+Call.,raise 92
+Fold.,call
+Fold.,call
+Fold.,fold
+Call.,call
+Call.,call
+Raise.,call
+Check.,check
+All-in.,raise 88
+Call.,raise 79
+Fold.,fold
+Check.,check
+Call.,call
+Fold.,raise 30
+Call.,raise 91
+All-in.,raise 94
+Check.,check
+Call.,fold
+Bet 9.0 chips.,check
+Bet 9 chips.,bet 10
+Go all-in.,raise 87
+Fold.,fold
+Check.,check
+All-in.,call
+Bet 10 chips.,bet 12
+Fold.,fold
+Check.,check
+Check.,check
+Check.,check
+Call.,call
+Check.,check
+Call.,call
+All-in.,raise 83
+Check.,check
+Bet 20 chips.,bet 28
+Fold.,fold
+Fold.,call
+Check.,check
+Bet.,bet 11
+Check.,check
+Fold.,fold
+All-in.,raise 88
+Call.,fold
+Raise.,call
+Check.,check
+Fold.,fold
+Go all-in.,call
+Fold,fold
+Fold.,fold
+All-in.,call
+Check.,check
+Check.,check
+Bet 20 chips.,check
+Call.,call
+Fold.,fold
+Call.,call
+Fold.,fold
+Fold.,call
+Bet 3.5 chips.,bet 4
+Call.,raise 57
+Fold.,fold
+Fold.,call
+Bet 20 chips.,check
+Call.,raise 92
+Call.,call
+Fold.,raise 88
+Call.,call
+Check.,check
+Call.,raise 95
+Call.,call
+Call.,call
+Raise.,raise 32
+Call.,fold
+Fold.,call
+Call.,call
+Fold.,fold
+Fold.,fold
+Bet 3.5 chips.,check
+Bet 9.0 chips.,bet 8
+Fold.,fold
+Check.,bet 1
+Fold.,fold
+Check.,bet 19
+Fold.,fold
+Call.,call
+Call.,call
+Fold.,fold
+Bet 3.5 chips.,bet 2
+Raise.,raise 35
+Fold.,fold
+Fold.,raise 88
+Bet 25 chips.,bet 29
+Check.,check
+Fold.,fold
+Fold.,fold
+Check.,check
+Check.,check
+Bet.,check
+All-in.,call
+Fold.,fold
+Check.,check
+Check.,bet 13
+Fold.,fold
+Fold.,fold
+Call.,call
+Call.,call
+Call.,call
+Call.,call
+Fold.,fold
+Call.,raise 83
+Fold,fold
+Bet 9 chips.,bet 16
+Check.,bet 39
+Fold.,call
+Call.,raise 30
+Bet 25 chips.,bet 51
+Call.,call
+Call.,fold
+Fold.,fold
+Check.,check
+Check.,check
+Fold.,fold
+Call.,raise 90
+Fold.,raise 93
+Bet.,check
+Call.,raise 16
+Bet 12 chips.,check
+Bet 3.5 chips.,bet 4
+Call.,call
+Fold.,fold
+Fold.,fold
+Fold.,fold
+Raise.,raise 84
+Call.,raise 57
+Fold.,call
+Fold.,call
+Raise.,call
+Fold.,fold
+Fold.,fold
+Bet.,bet 12
+Call.,call
+Check.,check
+Call.,call
+Check.,check
+Check.,check
+All-in.,check
+Fold.,call
+Call.,call
+Raise.,call
+Check.,check
+Raise.,raise 25
+All-in.,call
+All-in.,call
+Call.,call
+Check.,check
+Call.,call
+Bet.,check
+Check.,bet 4
+All-in.,call
+Check.,check
+Fold.,call
+Check.,check
+Call.,call
+Fold.,fold
+Fold.,fold
+Check.,check
+Check.,check
+Call.,raise 79
+Call.,raise 81
+Fold.,fold
+Check.,check
+Call.,call
+Fold.,fold
+Check.,check
+Check.,check
+Fold.,fold
+Bet 20 chips.,check
+Fold.,call
+Bet.,bet 8
+Raise.,raise 22
+Fold.,call
+Call.,fold
+Bet 3.5 chips.,bet 2
+Fold.,fold
+Call.,raise 80
+Check.,bet 5
+Check.,check
+Fold.,raise 82
+Fold.,raise 32
+Call.,call
+Raise.,raise 13
+Check.,check
+Fold.,fold
+Fold.,fold
+Check.,check
+Check.,check
+Fold.,call
+Bet 3.5 chips.,check
+Call.,raise 33
+Check.,check
+Call.,call
+Call.,raise 77
+Check.,check
+Check.,check
+Check.,bet 20
+All-in.,fold
+Call.,raise 10
+Fold.,fold
+Call.,raise 86
+Check.,check
+Check.,check
+Bet 3.5 chips.,check
+Check.,check
+Fold.,fold
+Bet.,bet 10
+Fold.,fold
+Call.,call
+Call.,call
+Call.,call
+Fold.,call
+Fold.,fold
+Fold.,fold
+Check.,check
+All-in.,raise 90
+Check.,bet 40
+All-in.,raise 81
+All-in.,raise 77
+Call.,fold
+Call.,fold
+Bet 3.5 chips.,check
+Fold.,fold
+Fold.,fold
+Fold.,call
+Check.,check
+All-in.,fold
+Bet 3.5 chips.,check
+Call.,call
+Fold.,raise 37
+Fold.,call
+All-in.,check
+Call.,call
+Fold.,raise 77
+Check.,check
+Fold.,call
+Call.,raise 74
+Check.,check
+Check.,check
+Raise.,call
+Call.,call
+Call.,call
+Check.,bet 18
+Call.,call
+Fold.,fold
+Fold.,fold
+Call.,raise 77
+Fold.,fold
+Check.,check
+Call.,call
+Call.,call
+Check.,check
+Call.,fold
+Check.,check
+Fold.,fold
+Check.,check
+Call.,call
+Fold.,fold
+Bet 12 chips.,check
+Call.,call
+Raise.,raise 13
+Fold.,fold
+Call.,call
+Fold.,fold
+Fold.,fold
+Call.,call
+Fold.,fold
+Check.,check
+Fold.,fold
+Call.,raise 92
+Call.,call
+Call.,call
+Call.,call
+Fold.,call
+Raise.,raise 49
+Fold.,fold
+Check.,check
+Check.,check
+Check.,check
+Raise.,call
+Fold.,fold
+Bet 7 chips.,check
+Fold.,raise 28
+Check.,check
+Call.,call
+Fold.,raise 90
+Fold.,fold
+Check.,bet 23
+Fold.,fold
+Raise.,call
+Check.,check
+Bet 20 chips.,bet 28
+Fold.,call
+Fold.,fold
+Call.,call
+Fold.,fold
+Raise.,call
+Bet.,check
+Fold.,fold
+Check.,check
+Call.,raise 33
+Fold.,fold
+Call.,call
+Fold.,fold
+Fold.,fold
+Fold.,fold
+Call.,raise 89
+Call.,call
+Raise all-in.,call
+Fold.,raise 77
+Check.,check
+Raise.,call
+Fold.,call
+Call.,raise 77
+Check.,bet 29
+Bet 9 chips.,check
+Call.,call
+Fold.,raise 14
+Call.,call
+Fold.,fold
+Check.,check
+Fold,fold
+Fold.,fold
+Fold.,fold
+Fold.,raise 90
+Call.,call
+Fold.,fold
+Check.,check
+Fold.,fold
+Check.,check
+Check.,check
+Fold.,fold
+Check.,check
+Fold.,raise 93
+Check.,check
+Fold.,call
+Check.,check
+Call.,call
+Check.,bet 7
+Call.,call
+Check.,check
+Fold.,call
+Call.,call
+Fold.,fold
+Fold.,fold
+Check.,check
+All-in.,raise 89
+Call.,raise 74
+Fold.,call
+Fold,call
+Fold.,fold
+Check.,check
+Call.,call
+Call.,raise 83
+Call.,call
+Fold.,raise 93
+Fold.,fold
+Check.,bet 20
+Fold.,raise 83
+Call.,raise 92
+Raise.,call
+Bet 15 chips.,bet 22
+Fold.,fold
+Check.,bet 27
+Check.,check
+Fold.,fold
+Fold.,call
+Check.,check
+Raise.,call
+Fold.,fold
+Check.,raise 74
+Fold.,fold
+Call.,call
+Bet 33 chips.,check
+Fold.,fold
+Check.,bet 29
+Raise.,fold
+Fold.,fold
+Raise.,call
+Check.,bet 31
+All-in.,raise 86
+Call.,call
+Fold.,fold
+Check.,check
+Fold.,fold
+Fold.,fold
+Call.,call
+Call.,raise 27
+Fold.,call
+Fold.,fold
+Fold.,fold
+Call.,call
+Fold.,fold
+Bet 20 chips.,check
+Fold.,fold
+Check.,check
+Check.,check
+Call.,raise 89
+All-in.,call
+Call.,call
+Bet 7 chips.,bet 8
+Fold.,fold
+Bet.,bet 17
+Call.,raise 18
+Fold.,fold
+Call.,raise 80
+Check.,check
+Check.,check
+Bet.,bet 5
+Check.,check
+All-in.,call
+Call.,call
+Call.,call
+Fold.,call
+Fold.,call
+Fold.,fold
+Call.,call
+Check.,check
+Check.,check
+All-in.,raise 84
+Check.,check
+Call.,raise 85
+Fold.,call
+Bet 20 chips.,bet 23
+Call.,raise 41
+All-in.,raise 84
+Check.,check
+Fold.,fold
+Check.,check
+Call.,call
+All-in.,check
+Fold.,call
+Fold,fold
+Bet 3.0 chips.,check
+Check.,bet 7
+Check.,check
+Check.,check
+Call.,call
+Check.,check
+Fold.,fold
+Check.,check
+Fold.,fold
+Bet.,bet 18
+Check.,check
+Fold.,fold
+Check.,check
+Check.,check
+Call.,raise 81
+Call.,fold
+Raise.,call
+Check.,check
+Fold.,fold
+Call.,raise 16
+All-in.,call
+Bet.,check
+All-in.,check
+Bet 6 chips.,bet 7
+Fold.,fold
+Fold.,fold
+Fold.,fold
+Fold.,fold
+Fold.,raise 80
+Call.,raise 93
+Fold.,fold
+Bet 3.5 chips.,check
+Check.,bet 12
+Call.,fold
+Fold.,fold
+Check.,check
+Bet 12 chips.,check
+Fold.,fold
+Call.,call
+Fold.,call
+Call.,fold
+Fold.,fold
+Check.,bet 2
+Bet.,bet 4
+Fold.,fold
+Fold.,call
+Bet.,bet 8
+Bet 6 chips.,check
+Call.,fold
+Fold.,fold
+Call.,fold
+Bet 25 chips.,bet 31
+Fold.,fold
+Raise.,call
+Check.,check
+Call.,call
+Call.,fold
+Fold.,fold
+Call.,call
+Call.,call
+Check.,check
+Raise.,call
+Call.,call
+Check.,check
+Check.,check
+Check.,check
+Fold.,fold
+Check.,check
+Raise.,raise 84
+Fold.,fold
+Call.,call
+Call.,call
+Fold.,call
+Fold.,fold
+Check.,bet 8
+Check.,bet 29
+Check.,check
+Fold.,fold
+Call.,call
+Fold.,raise 27
+Bet 25 chips.,check
+Fold.,fold
+Fold.,call
+Check.,check
+Fold.,raise 33
+Bet 7 chips.,bet 15
+Fold.,raise 90
+Call.,call
+Fold.,fold
+Check.,check
+Bet 20 chips.,check
+Fold.,fold
+Fold.,fold
+Call.,raise 77
+Call.,call
+Check.,bet 17
+All-in.,raise 72
+Check.,raise 54
+Call.,call
+Fold.,raise 89
+Call.,call
+Fold.,fold
+Call.,call
+Check.,check
+Fold.,fold
+Check.,bet 22
+Call.,call
+Raise.,raise 38
+Call.,call
+Fold,fold
+Call.,call
+Fold.,raise 77
+Check.,bet 29
+Check.,check
+Fold.,fold
+Check.,bet 17
+Check.,bet 16
+Fold.,fold
+Fold.,fold
+Check.,check
+Call.,call
+Check.,bet 23
+Bet 20 chips.,bet 28
+Call.,call
+Check.,check
+Check.,bet 5
+Fold.,fold
+Fold.,fold
+Fold.,fold
+Check.,check
+Fold.,fold
+Fold.,fold
+Fold.,raise 48
+Call.,raise 16
+Fold.,call
+Check.,check
+Raise.,call
+Check.,bet 13
+Call.,raise 27
+Bet 4.0 chips.,check
+Check.,check
+Call.,call
+Fold.,call
+Raise.,raise 10
+Call.,raise 65
+Bet 12 chips.,check
+Fold.,fold
+Fold.,fold
+Fold.,fold
+Check.,check
+Check.,check
+All-in.,raise 93
+Check.,check
+Check.,check
+Fold.,fold
+Check.,raise 64
+Fold.,raise 79
+Raise.,raise 25
+Fold.,call
+Bet 3.0 chips.,check
+Fold.,fold
+Fold.,fold
+Check.,check
+Call.,fold
+Fold.,fold
+Call.,call
+Check.,check
+Fold.,call
+Check.,check
+Fold.,fold
+Call.,call
+Bet 3.5 chips.,check
+Re-raise (all-in).,raise 43
+Check.,bet 23
+Raise.,raise 16
+Check.,raise 64
+Check.,check
+Check.,check
+Bet 4.0 chips.,bet 5
+Fold.,call
+Fold.,fold
+Call.,call
+Call.,call
+Fold.,fold
+Check.,check
+Check.,check
+Call.,fold
+Raise.,call
+Call.,raise 70
+Call.,raise 25
+Bet 15 chips.,bet 17
+Check.,check
+Call.,call
+Check.,check
+Fold.,call
+Bet 2.0 chips.,bet 3
+Check.,check
+Fold.,fold
+Call.,call
+Fold.,call
+Check.,check
+Call.,raise 82
+Call.,fold
+Check.,bet 23
+Check.,check
+Check.,check
+Call.,call
+Raise.,raise 58
+Fold.,fold
+Fold,fold
+Raise.,raise 7
+Check.,check
+Check.,check
+Check.,check
+Check.,raise 61
+Call.,raise 89
+Check.,check
+All-in.,call
+Check.,bet 23
+Check.,check
+Call.,call
+Call.,call
+Check.,check
+Raise.,call
+Call.,call
+Raise.,raise 32
+Call.,call
+Raise.,call
+All-in.,bet 29
+Check.,bet 28
+Fold.,raise 31
+Check.,check
+Check.,check
+Call.,call
+Raise.,raise 10
+Fold.,fold
+Check.,check
+Fold.,call
+Call.,fold
+Fold.,call
+Call.,call
+Check.,check
+Check.,check
+Fold.,fold
+Bet.,check
+Fold.,fold
+Call.,call
+Fold.,fold
+Call.,call
+All-in.,raise 82
+Bet 20 chips.,check
+Call.,call
+Call.,raise 47
+Check.,check
+Bet 12 chips.,bet 12
+Call.,raise 74
+Call.,call
+Call.,call
+Bet 10 chips.,check
+Fold.,call
+Check.,check
+Bet 5 chips.,check
+Fold.,fold
+Check.,check
+Check.,check
+Bet 15 chips.,check
+Fold.,call
+Call.,raise 95
+Call.,raise 90
+Call.,fold
+All-in.,raise 58
+Call.,raise 16
+Check.,check
+Check.,check
+Call.,call
+Check.,check
+Check.,check
+Call.,call
+Check.,check
+Check.,check
+Fold.,call
+Fold.,fold
+Call.,raise 41
+Check.,check
+Check.,bet 13
+Check.,check
+Call.,call
+Check.,check
+Call.,call
+Call.,raise 88
+Fold.,raise 86
+Fold.,call
+Check.,check
+Bet 20 chips.,bet 17
+Call.,call
+Call.,fold
+Call.,call
+Call.,raise 32
+Call.,call
+Check.,check
+Fold.,fold
+Fold.,call
+Bet 20 chips.,raise 73
+Check.,check
+Call.,call
+Check.,check
+Check.,check
+Call.,call
+Fold.,fold
+Check.,check
+Check.,check
+Check.,check
+Fold.,call
+Call.,call
+Bet 2.0 chips.,bet 3
+Bet.,bet 11
+Fold.,raise 13
+Check.,bet 17
+Check.,bet 11
+Call.,raise 94
+Fold.,call
+Fold.,call
+Call.,call
+Raise.,fold
+Call.,call
+Check.,check
+Check.,check
+Check.,check
+Call.,raise 41
+Check.,bet 5
+Bet 12.0 chips.,check
+Call.,call
+Raise.,call
+Fold.,fold
+Call.,call
+Call.,fold
+Check.,check
+Call.,call
+Call.,raise 26
+Call.,raise 80
+Check.,check
+Fold.,fold
+Check.,check
+Fold.,fold
+Fold.,fold
+Fold.,fold
+Call.,fold
+Fold.,raise 32
+Check.,check
+Call.,call
+Fold.,fold
+Bet 6 chips.,check
+Check.,check
+Bet 4.0 chips.,check
+Fold.,fold
+Check.,check
+Check.,check
+Bet 10 chips.,bet 12
+Fold.,fold
+Bet 20 chips.,check
+Check.,bet 29
+Call.,call
+Raise.,call
+Call.,raise 74
+All-in.,raise 90
+Call.,call
+Fold.,fold
+Fold.,fold
+Fold.,raise 88
+Bet 4.0 chips.,check
+Fold.,fold
+Bet 10 chips.,check
+Fold.,fold
+Check.,check
+Fold.,fold
+Call.,raise 38
+Call.,call
+Fold.,fold
+Raise.,call
+Fold.,fold
+Call.,call
+Check.,check
+Call.,call
+Bet.,check
+Check.,check
+Check.,check
+Bet 4.0 chips.,check
+Bet.,bet 13
+Check.,check
+Bet 15 chips.,check
+All-in.,call
+Check.,check
+Fold.,call
+Fold.,raise 41
+Call.,call
+Raise.,call
+Fold.,call
+Check.,check
+Fold.,call
+Fold.,call
+Check.,check
+All-in.,bet 29
+Call.,raise 86
+Fold.,fold
+Fold.,fold
+Fold,fold
+Call.,call
+Fold.,fold
+Raise.,call
+Call.,fold
+Fold.,fold
+Fold.,fold
+Fold.,fold
+Bet.,check
+Raise.,call
+Raise.,call
+Check.,check
+Check.,check
+Bet 6 chips.,check
+Call.,fold
+Fold.,fold
+Check.,check
+Fold.,fold
+Check.,check
+Fold.,call
+Fold.,fold
+Bet.,check
+Fold.,fold
+Check.,check
+Fold.,fold
+Fold.,fold
+Check.,check
+Fold.,fold
+Check.,check
+Fold.,fold
+Fold.,fold
+Raise.,raise 46
+Call.,call
+Bet.,check
+Raise.,raise 32
+Fold.,fold
+Call.,call
+Fold.,fold
+Check.,check
+Raise.,raise 31
+Call.,fold
+Check.,bet 23
+Call.,call
+Call.,fold
+All-in.,call
+Check.,check
+Check.,check
+Bet 6 chips.,check
+Fold.,fold
+Check.,raise 58
+Check.,check
+Check.,check
+Raise.,raise 11
+Call.,raise 13
+Fold.,fold
+Call.,raise 87
+Fold.,fold
+Call.,call
+Fold.,fold
+Check.,check
+Raise.,raise 25
+Check.,check
+Call.,fold
+Call.,raise 16
+Fold.,fold
+Fold.,fold
+Check.,check
+All-in.,raise 74
+Fold.,fold
+Call.,fold
+Call.,raise 28
+Check.,check
+Bet 9 chips.,check
+Check.,bet 13
+Raise.,raise 32
+Call.,call
+Fold,fold
+Fold.,call
+Bet 12.0 chips.,bet 13
+Call.,call
+Check.,check
+Bet 9 chips.,check
+Fold.,fold
+Check.,check
+Bet 7.0 chips.,check
+Call.,call
+Call.,call
+Check.,check
+Fold.,call
+Raise.,call
+Fold.,fold
+Fold.,fold
+Bet.,bet 17
+Check.,check
+Check.,check
+Fold.,call
+Fold.,fold
+Bet 2.5 chips.,bet 3
+Check.,check
+Check.,check
+Fold.,fold
+Check.,check
+Check.,check
+Call.,call
+Check.,bet 29
+Call.,call
+Check.,bet 24
+Raise.,call
+Check.,check
+Check.,check
+Bet 12 chips.,bet 13
+Raise.,raise 37
+Fold.,raise 90
+Fold,fold
+Fold.,fold
+Fold.,call
+Call.,call
+Call.,raise 18
+Raise.,raise 83
+All-in.,raise 58
+Fold.,call
+Raise.,call
+Fold.,fold
+Check.,check
+Raise.,fold
+Check.,bet 23
+Fold.,fold
+Check.,check
+Fold,fold
+Fold.,call
+Fold.,fold
+Bet 10 chips.,check
+Call.,call
+Fold.,fold
+Call.,raise 48
+Fold.,fold
+Fold.,fold
+Check.,bet 13
+All-in.,check
+Check.,bet 17
+Fold.,fold
+Raise.,raise 31
+Call.,call
+Call.,call
+Call.,call
+Check.,check
+Call.,raise 38
+Raise.,raise 27
+Fold.,fold
+All-in.,fold
+Fold.,call
+Raise.,call
+Raise.,call
+Check.,check
+Check.,bet 24
+Bet 20 chips.,check
+Check.,check
+Bet.,bet 10
+Check.,check
+Fold.,fold
+Call.,call
+Check.,check
+Call.,fold
+Check.,check
+Check.,check
+Raise.,raise 86
+Check.,check
+Check.,bet 29
+Call.,call
+Bet.,check
+Fold.,fold
+Call.,call
+Check.,check
+Bet.,bet 13
+Check.,check
+Check.,check
+Bet.,bet 23
+Bet 3 chips.,check
+Check.,check
+Check.,check
+Fold.,fold
+Fold.,call
+Fold,fold
+All-in.,call
+Check.,bet 12
+Bet 9 chips.,check
+Fold,fold
+Fold.,fold
+Call.,fold
+Check.,check
+Call.,call
+Call.,fold
+Call.,raise 38
+Check.,check
+Call.,raise 91
+Check.,bet 23
+Bet.,check
+Raise.,call
+Check.,check
+All-in.,bet 34
+Call.,call
+Check.,check
+Raise.,raise 31
+Raise.,raise 81
+Call.,call
+Bet 20 chips.,bet 22
+Raise.,raise 32
+Call.,raise 83
+Fold.,fold
+Fold.,fold
+Bet 8 chips.,check
+Check.,check
+Call.,raise 41
+Call.,fold
+Check.,check
+Call.,call
+Fold.,fold
+Bet.,bet 17
+Call.,call
+Check.,check
+Fold.,fold
+Call.,raise 13
+Raise.,fold
+Fold.,raise 83
+Call.,call
+Bet 15 chips.,check
+Call.,call
+Check.,check
+Call.,call
+Fold.,fold
+Fold.,fold
+Fold.,fold
+Raise.,call
+Fold.,fold
+Check.,check
+Call.,call
+Bet 4 chips.,check
+Raise.,raise 83
+Check.,check
+Fold.,call
+Check.,bet 20
+Bet.,bet 17
+All-in.,check
+Fold.,fold
+Fold.,call
+Check.,check
+Call.,raise 87
+Bet 6 chips.,check
+Call.,call
+Raise.,call
+Call.,fold
+Bet 15 chips.,bet 17
+Raise.,raise 29
+Bet.,check
+Fold.,fold
+Fold.,raise 83
+Call.,call
+Fold.,raise 45
+Fold.,fold
+Raise.,call
+Bet 9.0 chips.,check
+Call.,call
+Check.,bet 13
+Fold.,fold
+Call.,call
+Call.,call
+Fold.,call
+Call.,fold
+Fold.,call
+Fold.,call
+Bet 14 chips.,bet 16
+Check.,check
+Fold.,fold
+Check.,check
+Fold.,raise 83
+Fold.,fold
+Check.,bet 17
+Call.,call
+Fold.,fold
+Fold.,fold
+Fold.,fold
+Fold.,fold
+Check.,check
+Check.,check
+Fold.,fold
+Call.,call
+Check.,check
+Fold.,fold
+Check.,check
+Check.,check
+Check.,check
+Call.,call
+Check.,check
+Check.,check
+Fold,fold
+Check.,check
+All-in.,raise 73
+Fold.,fold
+Fold.,fold
+Check.,check
+Fold.,fold
+Bet 20 chips.,check
+Call.,call
+Call.,fold
+Check.,check
+Fold.,fold
+Fold,raise 89
+Call.,raise 25
+Bet 3.5 chips.,bet 2
+Check.,check
+Check.,check
+Fold.,fold
+Check.,bet 12
+Check.,check
+Check.,check
+Bet 30 chips.,raise 70
+Fold.,raise 38
+All-in.,check
+Raise.,raise 32
+Bet 3.5 chips.,bet 2
+Bet.,bet 12
+Call.,fold
+Fold.,call
+Fold,call
+Check.,bet 12
+Check.,bet 18
+Call.,call
+All-in.,call
+Call.,call
+Call.,call
+Call.,raise 27
+Raise.,raise 16
+Bet 30 chips.,raise 75
+Fold.,call
+Check.,check
+All-in.,raise 86
+Fold.,fold
+Call.,fold
+Call.,call
+Fold.,fold
+Check.,bet 27
+Check.,check
+Check.,raise 61
+Fold.,fold
+Check.,raise 58
+Bet.,check
+Re-raise (all-in).,call
+Fold.,raise 89
+Call.,call
+Fold.,raise 83
+Bet 2.0 chips.,bet 3
+Fold.,fold
+Fold.,fold
+Bet 16 chips.,check
+Check.,check
+Bet.,bet 4
+Fold.,fold
+Call.,raise 84
+Fold,call
+Bet.,check
+Check.,check
+Call.,raise 57
+Bet 20 chips.,bet 23
+Check.,check
+Call.,call
+Call.,raise 81
+Check.,bet 11
+Call.,call
+Fold,fold
+Check.,check
+Fold.,fold
+Call.,call
+Bet.,check
+Check.,check
+Fold.,call
+Check.,check
+Check.,check
+Call.,raise 43
+Check.,check
+Fold.,call
+Bet.,check
+Fold.,fold
+Fold.,fold
+Check.,check
+Check.,check
+Check.,bet 13
+Raise.,call
+Fold.,fold
+Bet 2.0 chips.,check
+Check.,check
+Call.,call
+Check.,check
+All-in.,call
+Fold.,call
+Call.,call
+Check.,bet 29
+Call.,call
+Fold.,fold
+Fold.,fold
+Call.,call
+Bet 10 chips.,check
+Fold.,raise 81
+Call.,fold
+Check.,check
+Call.,call
+Fold.,fold
+Fold.,fold
+Fold.,call
+Call.,call
+Bet 10 chips.,check
+Fold.,fold
+Call.,raise 32
+Fold.,fold
+Fold.,fold
+Check.,check
+Check.,check
+Check.,check
+Check.,check
+Check.,bet 29
+Fold.,raise 93
+Bet 3.0 chips.,bet 2
+Call.,call
+Raise.,raise 81
+Call.,fold
+Call.,raise 81
+Call.,fold
+Call.,call
+Check.,bet 11
+Check.,check
+Fold.,call
+Call.,raise 10
+Call.,raise 38
+Check.,bet 10
+Fold.,fold
+Fold.,fold
+Call.,fold
+Bet 20 chips.,check
+Check.,bet 24
+Fold.,call
+All-in.,bet 34
+Bet.,bet 12
+Check.,check
+Check.,check
+Raise.,raise 19
+Fold.,call
+Call.,call
+Call.,call
+Call.,call
+Check.,check
+Bet 22 chips.,bet 29
+Check.,check
+Fold.,fold
+Call.,call
+Fold.,fold
+Fold,fold
+Fold.,call
+Call.,call
+Call.,call
+Check.,bet 29
+Fold.,raise 46
+Fold,raise 84
+Fold.,fold
+Call.,call
+Call.,raise 10
+Check.,check
+Fold.,fold
+Fold.,fold
+Fold.,fold
+Bet 6 chips.,check
+Check.,check
+Fold.,fold
+Fold,fold
+Call.,raise 35
+Bet.,bet 13
+Check.,bet 24
+Fold.,fold
+Call.,call
+Fold.,fold
+Fold,fold
+Raise.,call
+Raise.,raise 18
+Raise.,call
+Fold.,fold
+Bet.,bet 13
+Bet 3 chips.,bet 4
+Bet 15 chips.,check
+Raise.,raise 40
+Raise.,raise 25
+Check.,check
+Check.,bet 10
+Bet 10 chips.,check
+Fold.,fold
+Raise.,call
+Check.,check
+Fold.,fold
+Raise.,call
+Call.,fold
+Fold.,fold
+Fold.,fold
+Call.,raise 29
+Fold.,fold
+Fold.,fold
+Call.,call
+Fold.,call
+Check.,check
+Call.,raise 86
+Fold.,fold
+Check.,bet 16
+Call.,fold
+Check.,check
+Fold.,raise 41
+Fold,fold
+Check.,check
+Bet 6 chips.,check
+Call.,call
+Call.,call
+All-in.,call
+Check.,check
+Raise.,raise 32
+Raise.,call
+All-in.,check
+Fold,fold
+Fold.,call
+Raise.,call
+Call.,call
+Check.,bet 29
+Check.,check
+Fold.,fold
+All-in.,raise 82
+Bet.,check
+All-in.,call
+Call.,raise 16
+Call.,call
+Fold.,fold
+Check.,bet 23
+Call.,call
+Raise.,call
+Check.,check
+Call.,raise 84
+Bet 2.5 chips.,bet 3
+Fold.,fold
+Raise.,call
+Check.,check
+Bet 20 chips.,check
+Call.,call
+Check.,check
+All-in.,raise 86
+Fold.,fold
+Call.,raise 92
+Call.,raise 18
+Check.,check
+Fold.,call
+Call.,raise 85
+Call.,fold
+Bet 15 chips.,check
+Raise.,raise 31
+Check.,check
+Check.,bet 17
+Fold,fold
+Check.,check
+Bet.,bet 10
+Fold.,call
+Fold.,fold
+Fold.,raise 83
+Fold.,fold
+Check.,bet 4
+Fold.,fold
+Call.,call
+Check.,check
+Fold.,fold
+Call.,call
+Bet 3.0 chips.,check
+Fold.,call
+Call.,call
+All-in.,raise 36
+Call.,call
+Fold.,fold
+Check.,bet 29
+Check.,check
+Call.,call
+Call.,raise 18
+Check.,check
+Check.,check
+Fold.,fold
+Fold,call
+Call.,call
+Call.,fold
+Bet 12 chips.,bet 13
+Check.,bet 23
+Fold.,call
+Call.,raise 84
+Fold.,fold
+Bet 28 chips.,check
+Bet 20 chips.,bet 28
+Check.,check
+Fold.,fold
+Fold.,call
+Check.,check
+Check.,check
+Bet 20 chips.,bet 23
+Call.,call
+Check.,check
+Raise.,call
+Fold.,call
+Fold.,fold
+Fold.,fold
+Call.,call
+Call.,call
+Fold.,fold
+Bet.,bet 10
+Fold.,fold
+Check.,bet 10
+Call.,call
+Check.,check
+Check.,check
+Call.,call
+Call.,call
+Go all-in.,raise 90
+Fold.,fold
+Check.,check
+Call.,call
+Raise.,call
+Check.,check
+Check.,check
+Call.,call
+Check.,bet 10
+Call.,call
+Fold.,fold
+Call.,call
+Call.,call
+Check.,check
+Check.,raise 70
+Check.,bet 29
+Check.,check
+Check.,bet 15
+Call.,call
+Fold.,fold
+Fold.,fold
+Fold.,call
+Call.,call
+Fold.,call
+Check.,check
+Call.,raise 89
+Fold.,raise 83
+Check.,bet 17
+Call.,call
+Fold.,fold
+Check.,check
+Bet.,check
+Bet.,bet 11
+Fold.,fold
+Fold.,fold
+All-in.,raise 92
+Fold.,fold
+Call.,call
+Check.,check
+Check.,bet 8
+Call.,call
+Check.,check
+Fold.,fold
+Check.,check
+Fold.,call
+Fold.,call
+Check.,bet 10
+Check.,check
+Check.,check
+Call.,raise 41
+Call.,fold
+Fold.,fold
+Call.,fold
+Call.,call
+Call.,fold
+Check.,check
+Fold.,fold
+Fold.,fold
+Check.,check
+Check.,check
+Check.,check
+Call.,call
+Call.,raise 65
+Fold.,call
+Check.,check
+All-in.,bet 29
+Fold,call
+Check.,bet 29
+Fold.,fold
+Bet 20 chips.,bet 23
+Call.,raise 89
+Fold.,fold
+Call.,raise 92
+All-in.,raise 95
+Call.,fold
+Fold.,call
+Fold.,call
+Call.,call
+Call.,fold
+Call.,call
+Fold.,fold
+Call.,call
+Call.,call
+Check.,check
+Fold.,call
+Check.,bet 12
+Check.,check
+Check.,check
+Check.,bet 28
+All-in.,raise 93
+Fold.,fold
+Fold.,fold
+Fold.,fold
+Fold.,fold
+Call.,fold
+Fold.,fold
+Fold.,fold
+Check.,check
+Bet 3.0 chips.,check
+Check.,check
+Bet 3.5 chips.,check
+Fold.,call
+Fold.,raise 85
+Check.,check
+Fold.,fold
+Fold.,fold
+Fold.,fold
+Fold.,fold
+Fold.,fold
+Fold.,fold
+Bet.,check
+Fold,fold
+Check.,check
+Fold.,fold
+Check.,check
+Fold.,fold
+Check.,bet 29
+Check.,check
+Fold.,call
+Check.,check
+Call.,call
+Fold.,fold
+Check.,check
+Raise.,raise 10
+Call.,call
+Fold.,call
+Check.,check
+Check.,check
+Fold.,fold
+Call.,call
+Fold.,fold
+Fold.,fold
+Check.,raise 61
+Bet.,bet 17
+Check.,bet 7
+All-in.,check
+Check.,raise 64
+Fold.,fold
+Raise.,call
+Fold.,fold
+Fold.,fold
+Check.,check
+Check.,raise 74
+Call.,call
+Check.,check
+Call.,call
+Fold,fold
+Raise.,raise 44
+Raise.,call
+Fold.,fold
+Fold.,fold
+Check.,check
+Call.,call
+Fold.,fold
+Fold.,fold
+Bet 18 chips.,check
+Bet 20 chips.,check
+Call.,raise 86
+Call.,fold
+Fold.,call
+Check.,check
+Check.,check
+All-in.,call
+Bet 9 chips.,check
+Raise.,raise 16
+Fold.,fold
+Call.,call
+Call.,raise 74
+Raise.,raise 35
+Call.,raise 93
+Check.,check
+Call.,raise 81
+Call.,fold
+Call.,raise 16
+Fold.,fold
+Raise.,raise 10
+Fold.,call
+Call.,fold
+Fold.,fold
+Check.,check
+Raise.,raise 10
+Fold.,fold
+Raise.,raise 27
+Raise.,raise 38
+Fold.,fold
+Call.,fold
+Go all-in.,raise 86
+Raise.,raise 11
+Bet 20 chips.,check
+Fold.,fold
+Check.,bet 17
+Check.,check
+Check.,check
+Check.,check
+Fold.,call
+Call.,fold
+Call.,raise 81
+Raise.,call
+Check.,check
+Bet 25 chips.,check
+Fold.,fold
+Check.,bet 13
+Fold.,call
+Check.,check
+Fold.,fold
+Fold.,raise 86
+Call.,call
+Fold,call
+Fold.,fold
+Call.,raise 10
+Fold.,fold
+Call.,call
+Fold.,fold
+Check.,check
+Fold.,fold
+Check.,bet 11
+Check.,check
+Fold.,raise 77
+Check.,bet 29
+Call.,call
+All-in.,raise 86
+Fold.,fold
+Call.,call
+Fold.,call
+Fold.,fold
+Re-raise (all-in).,raise 19
+Call.,call
+Call.,raise 32
+Call.,call
+Fold.,fold
+Fold.,raise 89
+Bet 20 chips.,check
+Check.,check
+Raise.,raise 43
+Check.,check
+All-in.,call
+Fold.,fold
+Check.,bet 23
+Call.,fold
+Bet 2.5 chips.,bet 3
+Check.,check
+Call.,fold
+Check.,check
+Raise.,raise 10
+Check.,check
+Call.,call
+Check.,bet 20
+All-in.,raise 76
+Call.,call
+Check.,check
+Check.,check
+Check.,check
+Fold.,fold
+Check.,check
+Fold.,fold
+Bet 20 chips.,check
+Check.,check
+Fold.,call
+Call.,raise 86
+Fold.,fold
+Check.,bet 29
+Bet 20 chips.,check
+Call.,fold
+Bet 5 chips.,check
+Fold.,fold
+Fold.,call
+Fold.,fold
+Raise.,call
+Fold.,call
+Fold.,call
+Call.,call
+All-in.,raise 85
+Call.,call
+Check.,check
+Fold.,raise 85
+Call.,raise 16
+Call.,call
+Check.,bet 11
+Fold.,raise 77
+Fold.,fold
+All-in.,raise 85
+Check.,check
+Fold.,call
+Check.,check
+Check.,bet 17
+Fold.,fold
+Call.,raise 58
+Fold.,call
+Fold.,fold
+Raise.,raise 32
+Call.,raise 11
+Check.,check
+Check.,check
+Raise.,call
+Raise.,raise 13
+Check.,check
+All-in.,raise 89
+Check.,bet 25
+Fold.,fold
+Call.,call
+Fold,fold
+Fold.,fold
+Call.,call
+Raise.,raise 86
+Check.,check
+Check.,check
+Check.,check
+Check.,check
+Fold.,fold
+Fold.,fold
+Check.,check
+All-in.,call
+Check.,check
+Check.,check
+Check.,check
+Fold.,call
+Fold.,fold
+Call.,call
+Bet 20 chips.,bet 23
+Call.,call
+Fold.,fold
+Raise.,call
+Fold.,call
+Call.,raise 79
+Check.,check
+Call.,fold
+Check.,check
+Fold.,fold
+Fold.,call
+Check.,check
+Call.,call
+Check.,bet 24
+Call.,call
+Check.,bet 5
+Check.,bet 7
+Bet 18 chips.,check
+Fold.,call
+Call.,raise 16
+All-in.,raise 81
+Fold.,fold
+Check.,check
+Fold.,call
+Check.,check
+Check.,check
+Bet.,check
+Fold.,raise 89
+Raise.,raise 17
+Fold.,fold
+Fold.,call
+Fold.,fold
+Check.,bet 24
+Fold.,fold
+Fold.,call
+Call.,call
+Fold.,fold
+Check.,check
+Check.,raise 58
+Call.,call
+Go all-in.,raise 92
+Fold.,fold
+Fold.,fold
+Call.,raise 92
+Bet 20 chips.,check
+Call.,call
+Bet 8 chips.,bet 10
+Bet.,check
+Fold.,fold
+Bet 22 chips.,check
+Fold.,fold
+Fold.,fold
+Fold.,raise 82
+Call.,call
+Check.,bet 24
+Check.,check
+Call.,call
+Fold.,fold
+Check.,check
+Fold.,fold
+Fold.,fold
+Raise.,call
+Check.,check
+Raise.,raise 32
+Check.,check
+Call.,call
+Check.,check
+Fold.,fold
+Fold.,call
+Check.,check
+Go all-in.,fold
+Bet.,bet 10
+Fold.,call
+Call.,call
+Call.,call
+Call.,raise 85
+Bet 8 chips.,check
+Bet 3.0 chips.,bet 3
+Check.,check
+Raise.,raise 80
+Check.,check
+Check.,check
+Fold.,fold
+All-in.,raise 83
+Call.,call
+Fold.,fold
+Call.,call
+Fold.,fold
+Check.,check
+Raise.,raise 10
+Call.,call
+Fold.,fold
+Fold.,fold
+Check.,bet 29
+Bet.,check
+Call.,call
+Check.,check
+Check.,check
+Fold.,fold
+Bet 10 chips.,check
+Call.,call
+Fold.,fold
+Fold.,call
+Check.,check
+Fold.,call
+Check.,check
+Fold,fold
+Bet 12 chips.,check
+Fold.,raise 86
+Fold.,fold
+Call.,call
+Fold.,fold
+Fold,fold
+Check.,check
+Bet 3.5 chips.,bet 2
+Raise.,call
+Check.,check
+Call.,call
+Check.,check
+Fold.,fold
+Call.,call
+Check.,check
+Check.,bet 3
+Fold.,fold
+Check.,check
+Fold.,call
+Raise.,raise 10
+Check.,check
+Fold.,fold
+Check.,check
+Check.,check
+Check.,bet 17
+Fold.,fold
+Check.,bet 8
+Call.,fold
+Check.,check
+Call.,fold
+Fold,fold
+Call.,raise 92
+Fold.,fold
+All-in.,call
+Call.,raise 25
+Check.,bet 16
+Fold.,call
+Call.,raise 22
+Fold.,fold
+Call.,raise 85
+Call.,call
+Check.,raise 61
+Check.,check
+Fold.,fold
+Call.,raise 93
+Bet 12 chips.,check
+Raise.,call
+Call.,call
+Call.,raise 89
+Fold.,fold
+Raise.,raise 7
+Call.,call
+Check.,check
+Check.,check
+Check.,check
+Check.,check
+Check.,check
+Call.,call
+Check.,check
+Check.,check
+Raise.,call
+Fold.,fold
+Call.,call
+Check.,bet 18
+Fold.,fold
+Check.,raise 74
+Fold.,fold
+Fold.,fold
+Check.,check
+Fold.,fold
+Call.,call
+All-in.,raise 74
+Check.,check
+Raise.,call
+Fold.,fold
+Check.,bet 10
+Fold.,call
+Fold.,fold
+Call.,call
+Check.,bet 3
+All-in.,raise 77
+Call.,raise 84
+Check.,check
+Fold.,fold
+Call.,raise 57
+Fold.,call
+Check.,check
+Check.,check
+Check.,check
+All-in.,call
+Call.,call
+Check.,check
+Call.,call
+Call.,call
+Bet 12 chips.,check
+Call.,raise 86
+Fold.,call
+Fold.,call
+Fold.,raise 88
+Raise.,call
+Check.,check
+Fold.,fold
+Fold.,fold
+Check.,check
+Check.,check
+Call.,call
+Fold.,fold
+Call.,call
+Raise.,fold
+Call.,call
+Call.,call
+Bet 4.0 chips.,bet 5
+Fold.,call
+Fold.,fold
+Bet 10 chips.,check
+Call.,call
+Check.,check
+Fold.,fold
+Check.,check
+Check.,check
+Check.,bet 11
+Fold.,fold
+Fold.,fold
+Fold.,fold
+Fold.,fold
+Call.,fold
+Raise.,call
+Fold.,call
+Call.,call
+Raise.,call
+Fold.,fold
+Check.,check
+Call.,call
+Check.,check
+Fold.,call
+Check.,check
+Fold.,fold
+Fold.,fold
+Check.,check
+Call.,call
+Call.,call
+Fold.,call
+Call.,call
+Fold.,fold
+Bet.,bet 10
+Call.,call
+Call.,call
+Call.,fold
+Call.,fold
+Fold.,call
+Call.,fold
+Fold.,raise 55
+Bet 10 chips.,check
+Fold.,call
+Check.,check
+Call.,call
+Call.,call
+Fold.,fold
+Call.,call
+Bet 6 chips.,check
+Fold.,raise 89
+Check.,check
+Check.,bet 23
+Bet 20 chips.,check
+Check.,bet 27
+Fold,fold
+Check.,check
+Fold.,fold
+Check.,check
+All-in.,bet 40
+Fold.,fold
+Bet.,check
+Check.,check
+Check.,check
+Check.,bet 16
+Fold.,fold
+Call.,call
+Fold.,fold
+Check.,check
+Bet 12.0 chips.,bet 12
+Fold.,call
+Raise.,call
+Check.,check
+Bet.,check
+Bet 3 chips.,bet 4
+Fold.,fold
+Fold.,fold
+Call.,raise 48
+Fold.,fold
+Raise.,raise 32
+Check.,check
+Bet 16 chips.,bet 20
+Raise.,call
+Call.,raise 88
+Fold.,raise 41
+Raise.,raise 32
+Fold.,fold
+Check.,check
+Fold.,fold
+Fold.,fold
+Fold.,fold
+Check.,check
+Raise.,raise 10
+Fold.,call
+Check.,check
+Call.,raise 81
+Call.,raise 41
+Fold.,fold
+Fold.,raise 80
+Check.,bet 29
+Fold.,fold
+Check.,bet 24
+Check.,check
+Bet.,bet 8
+Fold.,fold
+Check.,check
+Fold,fold
+Call.,call
+Call.,call
+Fold.,fold
+Call.,call
+Fold.,call
+Call.,fold
+Call.,raise 88
+Fold.,fold
+Call.,call
+Check.,raise 64
+Check.,check
+Fold.,fold
+Check.,check
+Check.,check
+Fold.,fold
+Check.,bet 29
+Call.,call
+Go all-in.,raise 92
+Call.,call
+Call.,call
+Fold.,fold
+Check.,check
+Fold.,fold
+Check.,raise 64
+Check.,check
+Fold.,call
+Raise.,call
+Check.,check
+Check.,check
+Raise.,call
+Check.,raise 61
+Check.,check
+Call.,call
+Call.,call
+Check.,check
+Check.,raise 54
+Check.,check
+Fold.,raise 92
+All-in.,raise 77
+Check.,check
+Call.,call
+Check.,check
+Check.,check
+Check.,check
+Fold.,fold
+Fold.,call
+Check.,bet 23
+Call.,call
+Fold.,call
+Call.,call
+Fold.,fold
+Check.,check
+Bet 12 chips.,check
+Fold.,call
+Check.,check
+Fold.,fold
+Fold.,raise 93
+Check.,check
+Check.,check
+Fold.,fold
+Check.,check
+Fold.,fold
+Call.,raise 83
+All-in.,raise 92
+Call.,raise 81
+Call.,raise 89
+Fold.,call
+Check.,raise 62
+Call.,call
+Check.,check
+Call.,call
+Check.,bet 23
+Check.,check
+Fold.,fold
+Check.,check
+Call.,raise 32
+Raise.,raise 4
+Fold.,raise 82
+Check.,check
+Call.,call
+Fold.,raise 25
+Check.,check
+Fold.,fold
+Call.,call
+Fold.,raise 83
+Fold.,call
+Call.,raise 36
+Check.,check
+Check.,check
+Bet 2.5 chips.,check
+Call.,fold
+Fold,fold
+Check.,check
+Call.,call
+Fold.,call
+Check.,check
+Fold.,fold
+Call.,call
+Check.,check
+Check.,check
+Call.,call
+Fold.,fold
+Call.,raise 92
+Bet.,bet 13
+Fold.,call
+Call.,call
+Bet 25 chips.,bet 29
+Call.,raise 84
+Fold.,call
+Check.,check
+Bet 7 chips.,check
+All-in.,raise 88
+Check.,check
+Raise.,raise 10
+Check.,bet 23
+Fold.,raise 16
+Raise.,raise 46
+Check.,check
+Check.,check
+Raise.,raise 84
+Check.,check
+Check.,check
+Fold.,fold
+Call.,call
+Check.,check
+Bet 27 chips.,raise 74
+Check.,check
+Check.,check
+Bet 3.5 chips.,bet 4
+Call.,raise 82
+Fold.,fold
+Fold.,call
+Bet 9 chips.,bet 10
+Call.,raise 96
+Bet.,check
+Call.,raise 46
+Check.,check
+Raise.,raise 16
+Call.,fold
+Fold.,fold
+Check.,check
+Check.,check
+Check.,check
+Check.,check
+Bet 10 chips.,check
+Check.,check
+Call.,call
+Check.,check
+Check.,check
+Bet 12 chips.,check
+Call.,raise 92
+Check.,check
+Check.,bet 24
+Call.,call
+Call.,raise 41
+Raise.,call
+Fold.,call
+Check.,check
+Check.,check
+Check.,check
+Fold.,call
+Bet.,bet 8
+Check.,bet 4
+Call.,call
+Fold.,fold
+Call.,call
+Check.,check
+Raise.,call
+Check.,check
+Fold.,call
+Fold.,call
+Check.,bet 11
+Fold,fold
+Fold.,call
+Raise.,call
+Check.,check
+Call.,call
+Call.,call
+Fold.,fold
+Fold.,call
+Call.,call
+Bet 10 chips.,bet 18
+All-in.,fold
+Fold,fold
+Call.,raise 19
+Fold,fold
+Fold.,call
+Check.,bet 10
+Fold.,fold
+Call.,raise 74
+Check.,raise 58
+Check.,bet 39
+Call.,raise 26
+Fold.,fold
+Bet.,bet 8
+Fold.,call
+Check.,check
+Check.,check
+Check.,check
+Call.,fold
+Check.,bet 13
+Fold.,fold
+Check.,check
+Check.,check
+Fold.,fold
+Check.,check
+Check.,check
+Fold.,fold
+Fold,fold
+Fold.,fold
+Fold.,fold
+Check.,check
+Check.,check
+Fold.,call
+Fold,fold
+Fold.,raise 31
+All-in.,raise 88
+Bet 12.0 chips.,bet 13
+Call.,call
+Bet.,bet 10
+Call.,call
+Check.,bet 29
+All-in.,raise 93
+Fold,fold
+Bet 10 chips.,bet 22
+Fold.,fold
+Raise.,call
+Check.,bet 10
+Check.,check
+Bet 20 chips.,check
+All-in.,bet 17
+Fold.,call
+Fold,fold
+Call.,call
+Call.,fold
+Fold.,call
+Call.,call
+Fold.,call
+Fold.,fold
+All-in.,bet 34
+Call.,fold
+Fold.,raise 86
+Bet 4.0 chips.,check
+Fold.,call
+Call.,fold
+Check.,check
+Check.,check
+Check.,check
+Raise.,call
+Fold.,fold
+Fold.,fold
+Check.,raise 70
+Fold.,fold
+Bet 7 chips.,check
+Check.,check
+Call.,call
+Fold.,fold
+Raise.,raise 7
+Check.,check
+Check.,check
+Call.,call
+Fold.,call
+Fold.,fold
+Call.,call
+Check.,check
+Fold.,fold
+Call.,call
+Check.,check
+Check.,check
+Call.,raise 83
+All-in.,call
+Bet 16 chips.,bet 20
+Check.,check
+Bet 3 chips.,check
+Check.,check
+Fold,raise 41
+Check.,check
+Check.,check
+Call.,call
+Fold.,raise 72
+Check.,check
+Check.,check
+Fold.,raise 86
+Call.,raise 36
+Check.,check
+Call.,call
+Check.,check
+Fold.,fold
+Check.,check
+Bet 3 chips.,bet 4
+Check.,check
+Call.,raise 84
+Fold.,call
+Fold.,raise 25
+Fold.,fold
+Fold.,fold
+Check.,check
+Call.,fold
+Bet 10 chips.,check
+Bet.,bet 3
+Call.,raise 86
+Call.,call
+Call.,call
+Fold.,call
+Call.,call
+Raise.,call
+Check.,check
+Fold.,fold
+Fold.,fold
+Check.,bet 7
+Check.,check
+Call.,raise 41
+Call.,call
+Call.,fold
+Fold.,fold
+Raise.,raise 11
+Check.,bet 13
+Fold.,fold
+Fold.,fold
+Bet.,check
+Fold.,call
+Fold.,call
+Call.,call
+Raise.,raise 36
+Bet.,bet 2
+Fold.,fold
+Check.,bet 18
+Check.,check
+Fold.,raise 88
+Fold.,fold
+Call.,call
+Call.,call
+Fold.,fold
+Fold,fold
+Fold.,call
+Call.,call
+Check.,check
+Check.,bet 18
+Fold.,call
+Fold.,call
+Fold.,call
+Fold.,fold
+Fold.,fold
+Fold.,raise 63
+Check.,check
+Bet.,check
+Fold.,fold
+Fold.,fold
+Call.,call
+Fold.,fold
+Call.,fold
+Call.,raise 35
+Call.,call
+Check.,check
+Fold.,call
+Raise.,raise 25
+Check.,check
+Fold.,call
+Call.,fold
+All-in.,raise 90
+Fold.,fold
+Fold.,fold
+Fold.,fold
+Call.,call
+Raise.,raise 22
+Check.,check
+Bet 6 chips.,check
+Call.,raise 86
+Raise.,call
+Bet 3.5 chips.,bet 4
+Fold.,fold
+Fold.,fold
+Fold.,fold
+Call.,raise 85
+Call.,call
+Call.,call
+Check.,check
+All-in.,raise 81
+Check.,check
+Check.,check
+Fold.,fold
+Bet 2.0 chips.,bet 3
+Call.,raise 38
+Fold.,raise 84
+Bet 12 chips.,check
+Check.,check
+Fold.,fold
+Fold.,fold
+Check.,check
+Bet 37 chips.,raise 64
+Bet 12 chips.,bet 24
+Call.,call
+Fold.,raise 90
+Call.,call
+Fold.,fold
+Fold.,fold
+Fold.,call
+Fold.,fold
+Fold.,call
+Fold.,raise 86
+Call.,call
+Check.,check
+Fold,fold
+Call.,call
+Fold.,fold
+Call.,raise 81
+Fold.,fold
+Bet 25 chips.,check
+Fold.,fold
+Call.,call
+Fold.,fold
+Call.,call
+Check.,bet 39
+Call.,raise 25
+Fold.,fold
+Check.,check
+Call.,raise 46
+Fold.,fold
+Fold.,fold
+Check.,check
+Fold.,fold
+Fold.,fold
+All-in.,raise 74
+Bet.,check
+Check.,check
+Bet 6 chips.,check
+Call.,raise 88
+Fold.,fold
+Call.,call
+Fold.,fold
+Raise.,raise 37
+Fold.,fold
+Bet.,check
+Fold.,fold
+Call.,call
+Fold.,fold
+Call.,call
+Call.,fold
+Check.,bet 26
+Check.,check
+Fold.,fold
+Check.,bet 16
+Call.,call
+Fold.,fold
+Fold.,raise 80
+Check.,check
+Fold.,fold
+Check.,check
+All-in.,raise 82
+Fold.,call
+Call.,call
+Bet 2.0 chips.,check
+Check.,check
+Check.,check
+Fold.,fold
+Fold.,fold
+Check.,check
+Call.,raise 90
+Fold.,fold
+Fold.,fold
+Check.,check
+Call.,call
+Raise.,raise 16
+Call.,call
+Bet 5 chips.,check
+Raise.,raise 10
+Call.,call
+Call.,raise 81
+Check.,check
+Fold.,call
+Raise.,call
+Call.,raise 85
+All-in.,raise 95
+Check.,check
+Call.,call
+Call.,call
+Call.,raise 33
+Raise.,call
+Fold.,raise 93
+Check.,check
+Fold,fold
+Check.,check
+Call.,raise 13
+All-in.,raise 84
+Check.,check
+Fold.,fold
+Bet 10 chips.,bet 11
+Fold.,call
+Call.,call
+Call.,fold
+Call.,call
+All-in.,call
+Fold.,fold
+Check.,check
+Fold.,fold
+Fold.,raise 86
+Fold.,fold
+Call.,raise 4
+Fold.,call
+Go all-in.,call
+Call.,call
+Fold.,fold
+Call.,raise 43
+Fold.,call
+Fold.,fold
+Call.,call
+Fold.,fold
+Fold.,fold
+Fold.,fold
+Call.,call
+Fold.,call
+Fold.,call
+Fold.,fold
+Fold.,fold
+Call.,raise 93
+Bet 4 chips.,bet 5
+Fold.,call
+Call.,call
+Check.,check
+Call.,raise 22
+Call.,call
+Fold.,raise 77
+Fold.,call
+Check.,check
+Bet 20 chips.,check
+Check.,check
+Bet 12 chips.,bet 13
+Fold,call
+Call.,raise 80
+Call.,call
+Check.,check
+Bet.,check
+Call.,call
+Call.,raise 13
+Call.,raise 38
+Fold.,fold
+Check.,bet 22
+Call.,call
+Fold.,fold
+Fold.,fold
+Call.,fold
+Check.,check
+Call.,call
+Check.,check
+Check.,raise 61
+Raise.,raise 13
+Check.,check
+Call.,call
+Check.,check
+All-in.,call
+Call.,raise 30
+Raise.,call
+Call.,raise 48
+Check.,raise 61
+Call.,call
+Raise.,raise 10
+Fold,fold
+Fold.,fold
+Call.,call
+Raise.,call
+Check.,bet 29
+All-in.,fold
+Fold.,fold
+Fold.,fold
+Check.,check
+Raise.,call
+Raise.,raise 10
+Fold.,raise 81
+Check.,bet 18
+Check.,bet 30
+Raise.,call
+Fold.,fold
+Check.,check
+Check.,check
+Fold.,fold
+Call.,raise 10
+Fold.,raise 90
+Check.,check
+Fold.,fold
+Fold.,call
+Fold.,call
+Call.,call
+Fold.,fold
+Fold.,fold
+Call.,fold
+Call.,call
+Raise.,call
+Call.,raise 84
+Call.,call
+Fold,fold
+Fold.,fold
+Call.,raise 38
+Call.,call
+Fold.,fold
+Raise all-in.,raise 78
+Bet 3 chips.,check
+Call.,call
+Call.,call
+Check.,check
+Fold.,raise 77
+Check.,check
+Check.,check
+Fold.,fold
+Call.,call
+Check.,check
+Fold.,fold
+Check.,check
+Fold.,call
+Check.,check
+Raise.,raise 27
+Check.,bet 17
+Call.,call
+Fold.,fold
+Call.,raise 72
+Bet.,check
+Fold.,fold
+Call.,call
+Go all-in.,raise 90
+Call.,call
+Check.,check
+Check.,check
+Check.,check
+Check.,check
+Check.,check
+Bet 18 chips.,check
+Check.,check
+Call.,call
+Fold.,fold
+Fold.,fold
+Fold.,call
+Check.,check
+Call.,raise 25
+Check.,bet 7
+Fold.,fold
+Fold.,fold
+Fold.,fold
+Call.,call
+Call.,call
+Check.,bet 4
+Fold.,fold
+Fold.,call
+Fold.,fold
+Call.,call
+Fold.,call
+Call.,fold
+Raise.,raise 27
+All-in.,raise 83
+Fold.,fold
+Check.,check
+Call.,call
+Fold.,fold
+Bet 20 chips.,check
+Raise.,call
+All-in.,raise 90
+Call.,call
+Call.,raise 35
+All-in.,check
+Fold.,fold
+Call.,call
+Check.,check
+Bet 20 chips.,check
+Call.,call
+All-in.,call
+Call.,call
+Fold.,fold
+Check.,raise 61
+Fold.,fold
+All-in.,raise 82
+Fold.,fold
+Fold.,fold
+Fold.,fold
+Call.,call
+Fold.,call
+Bet.,bet 10
+Raise.,raise 86
+Call.,raise 92
+Bet 6 chips.,check
+Check.,check
+Fold.,raise 18
+Check.,check
+Bet 15 chips.,check
+Call.,raise 77
+Call.,call
+Call.,call
+Call.,call
+Call.,fold
+Check.,check
+Fold.,fold
+Fold.,fold
+Fold.,fold
+Fold.,fold
+Call.,call
+Fold.,fold
+Check.,check
+Fold.,call
+Fold.,call
+Check.,check
+Raise.,raise 13
+Call.,call
+Call.,raise 18
+Call.,call
+Fold.,call
+Fold.,fold
+Check.,check
+Fold.,call
+Call.,call
+Check.,check
+Fold.,fold
+Bet 6 chips.,bet 7
+Call.,call
+Fold.,call
+Call.,raise 13
+Check.,check
+Call.,call
+Check.,check
+Fold.,raise 82
+Fold.,call
+Fold.,fold
+Call.,raise 22
+Bet 15 chips.,check
+Call.,call
+Fold.,raise 88
+Call.,call
+Fold.,fold
+Raise.,call
+Call.,call
+Fold.,call
+Raise.,raise 37
+Raise.,raise 82
+Check.,check
+Check.,check
+Fold.,fold
+Fold.,fold
+Check.,check
+Fold.,fold
+Fold.,fold
+Fold.,fold
+Fold.,fold
+Bet 15 chips.,bet 16
+Check.,check
+Check.,check
+Check.,check
+Check.,check
+Fold.,fold
+Fold.,fold
+Call.,call
+Call.,raise 77
+Check.,check
+Call.,call
+Call.,call
+Fold,fold
+Fold.,raise 7
+Check.,check
+Fold.,call
+Call.,call
+Call.,call
+Check.,check
+Check.,check
+Call.,call
+Call.,fold
+Bet 10 chips.,bet 24
+Call.,call
+Check.,check
+Fold.,fold
+Fold.,fold
+Raise.,raise 35
+All-in.,call
+Check.,bet 13
+Call.,call
+Check.,bet 4
+Call.,raise 70
+Fold.,fold
+Bet 10 chips.,bet 3
+Call.,call
+Bet.,bet 11
+Bet 9 chips.,check
+Call.,call
+Check.,check
+Call.,call
+Fold.,fold
+Check.,check
+All-in.,bet 29
+Fold.,fold
+Fold.,call
+Call.,raise 81
+Fold.,call
+Fold.,fold
+Fold.,fold
+Fold.,fold
+Call.,call
+Bet.,bet 7
+Fold.,raise 83
+Check.,check
+Call.,raise 89
+Check.,check
+Call.,raise 26
+Call.,raise 13
+Call.,raise 91
+Call.,call
+Fold.,fold
+Raise.,call
+All-in.,check
+Call.,call
+Call.,fold
+Fold.,call
+Call.,call
+Fold.,fold
+Bet.,check
+Call.,raise 22
+Check.,raise 70
+Check.,check
+Call.,call
+Check.,check
+Fold.,fold
+All-in.,raise 75
+Fold.,fold
+Check.,check
+Bet.,bet 29
+Call.,raise 38
+Fold.,fold
+Call.,call
+Fold.,raise 84
+Fold.,call
+Fold.,fold
+Fold.,fold
+Check.,bet 17
+Call.,call
+Check.,check
+Bet 4.0 chips.,bet 5
+Fold.,fold
+Bet 12 chips.,check
+Fold,call
+Call.,call
+Check.,check
+Check.,check
+Fold.,fold
+Fold.,fold
+Call.,fold
+All-in.,raise 74
+Call.,fold
+Fold.,fold
+Call.,call
+Check.,check
+Call.,call
+Check.,bet 29
+Check.,bet 29
+Fold.,fold
+Call.,fold
+Check.,check
+Fold.,fold
+Fold.,fold
+Fold.,fold
+Bet.,bet 10
+Bet 3.5 chips.,check
+Fold.,fold
+Check.,check
+Check.,bet 3
+Check.,check
+Bet 4.0 chips.,check
+Fold.,fold
+Check.,check
+Fold.,fold
+Check.,check
+Fold.,fold
+Fold.,raise 90
+Fold.,call
+Check.,check
+Call.,raise 48
+Fold.,call
+Fold.,fold
+Check.,check
+Fold.,fold
+Call.,raise 25
+Call.,call
+Bet 4.0 chips.,check
+Call.,call
+Bet.,bet 5
+Check.,check
+Check.,bet 18
+Check.,check
+Check.,check
+Check.,check
+Check.,check
+Raise.,raise 25
+Call.,call
+Fold.,fold
+Check.,check
+Fold.,fold
+Check.,check
+Call.,call
+Check.,bet 25
+Fold.,call
+Check.,check
+Check.,check
+Check.,check
+Check.,raise 64
+Check.,check
+Call.,call
+Check.,check
+Raise.,raise 87
+All-in.,raise 95
+Call.,call
+Check.,check
+Fold.,fold
+Call.,call
+Call.,call
+Bet.,check
+Call.,call
+Check.,check
+Check.,check
+Check.,check
+Call.,call
+All-in.,raise 83
+Call.,call
+Fold.,fold
+Call.,call
+Call.,call
+Check.,check
+Check.,check
+Bet 3.5 chips.,check
+Check.,raise 72
+Check.,check
+Fold.,fold
+Call.,call
+Bet 3.5 chips.,check
+Fold.,raise 82
+Fold.,fold
+Call.,call
+Check.,bet 13
+Fold.,fold
+Bet 3.0 chips.,check
+Bet 3.5 chips.,bet 4
+Fold.,fold
+Call.,call
+Raise.,call
+Check.,bet 39
+Call.,call
+Fold.,fold
+Fold.,fold
+Check.,raise 54
+Check.,bet 1
+Fold.,call
+Check.,check
+Check.,bet 13
+All-in.,call
+Fold.,fold
+All-in.,raise 77
+Check.,check
+Check.,bet 11
+Call.,call
+Call.,raise 84
+Fold.,raise 83
+All-in.,call
+Fold.,call
+Fold.,call
+Fold.,fold
+Check.,check
+Check.,check
+Bet 20 chips.,check
+Fold.,fold
+Fold.,fold
+Call.,raise 18
+Call.,call
+Check.,check
+All-in.,check
+Check.,raise 70
+Bet 10 chips.,check
+Call.,fold
+Check.,check
+Check.,check
+Call.,call
+Bet 15.0 chips.,check
+Bet.,bet 13
+Check.,check
+All-in.,raise 77
+Bet 3.0 chips.,check
+Raise.,raise 84
+Check.,check
+Bet.,check
+Fold.,fold
+Raise.,raise 77
+Fold.,fold
+Fold.,fold
+Check.,check
+Bet 14 chips.,check
+Call.,call
+Fold.,fold
+Check.,bet 7
+Fold.,call
+Check.,check
+Bet.,bet 12
+Check.,bet 16
+Check.,bet 18
+All-in.,bet 39
+Fold.,fold
+Check.,raise 74
+Fold.,fold
+Fold.,fold
+Call.,call
+Fold.,fold
+Check.,check
+Check.,check
+Check.,check
+All-in.,raise 61
+Check.,check
+Call.,call
+Fold.,fold
+Fold.,fold
+Check.,check
+Check.,check
+Fold.,fold
+Fold.,raise 83
+Call.,call
+Bet 3.0 chips.,bet 2
+Check.,bet 13
+Fold.,raise 77
+Fold.,fold
+Bet 15 chips.,check
+Fold.,call
+Fold.,fold
+Check.,check
+Fold.,fold
+Raise.,raise 90
+Call.,call
+Check.,check
+Check.,check
+Call.,call
+Bet.,bet 29
+Check.,bet 29
+Check.,check
+Check.,check
+Fold.,raise 54
+Check.,bet 18
+Fold.,fold
+Fold.,fold
+Fold.,fold
+Fold.,fold
+Check.,bet 8
+Raise.,call
+Call.,raise 85
+Call.,raise 10
+Fold.,fold
+Check.,check
+All-in.,raise 90
+Bet 12 chips.,check
+Check.,check
+All-in.,fold
+Bet.,bet 10
+Fold.,fold
+Check.,check
+Check.,check
+Check.,bet 2
+Fold.,raise 86
+Bet 7 chips.,check
+Raise.,call
+Fold.,fold
+Check.,check
+Fold.,fold
+Fold.,fold
+Fold.,fold
+Call.,raise 89
+Call.,call
+Fold.,fold
+Fold.,call
+Check.,check
+Call.,call
+All-in.,raise 88
+Fold.,fold
+Fold.,fold
+Check.,check
+Fold.,call
+Fold.,fold
+Fold.,call
+Call.,call
+Call.,raise 23
+Bet 20 chips.,bet 21
+Fold.,fold
+Call.,fold
+Check.,bet 8
+Check.,check
+Fold.,fold
+All-in.,fold
+Call.,call
+Check.,check
+Fold.,fold
+Fold.,call
+Fold.,fold
+Raise.,raise 35
+Fold.,fold
+Fold,fold
+Bet.,bet 20
+Check.,check
+Bet.,check
+Fold.,fold
+Bet 3.5 chips.,check
+Fold.,fold
+Fold.,raise 90
+Call.,call
+Call.,call
+Fold.,fold
+Fold.,fold
+Bet 20 chips.,check
+Call.,call
+Call.,raise 32
+Check.,bet 34
+Fold.,call
+Check.,bet 32
+Call.,raise 30
+Bet 9 chips.,check
+Fold.,fold
+Call.,call
+Fold.,fold
+Bet 3.5 chips.,check
+Fold.,fold
+Call.,call
+Fold.,call
+Raise.,raise 13
+Fold.,call
+Bet 7 chips.,check
+Fold.,fold
+Call.,raise 38
+Check.,check
+Check.,bet 11
+Check.,check
+Fold.,call
+Check.,check
+Call.,raise 77
+Fold.,raise 89
+All-in.,raise 95
+Call.,call
+Fold.,fold
+Check.,check
+Fold,call
+Check.,check
+Call.,raise 92
+Call.,raise 96
+Check.,check
+Call.,call
+Check.,check
+Check.,check
+Call.,call
+Fold.,fold
+Check.,check
+Call.,call
+Bet 7.0 chips.,check
+Call.,raise 88
+Bet.,check
+Check.,check
+Call.,call
+Call.,raise 89
+Raise.,call
+All-in.,bet 29
+Check.,check
+Raise.,call
+Fold.,fold
+Fold.,fold
+Fold,call
+Check.,check
+Raise.,raise 25
+All-in.,call
+Fold.,call
+Fold.,fold
+Call.,call
+Bet 3.5 chips.,check
+Call.,call
+Check.,check
+Check.,check
+Fold.,fold
+Check.,check
+Fold.,fold
+Check.,check
+Fold,fold
+Bet 12 chips.,check
+Bet 3.5 chips.,check
+Fold.,fold
+Call.,call
+Bet 20 chips.,bet 23
+Fold.,fold
+Call.,call
+Fold.,fold
+Check.,check
+Raise.,call
+Call.,call
+Check.,check
+Call.,call
+Fold.,call
+Call.,fold
+Fold.,fold
+Call.,raise 25
+Call.,call
+Fold.,fold
+Raise.,fold
+Check.,check
+Call.,call
+Fold.,fold
+Call.,raise 16
+Check.,raise 64
+Fold.,fold
+Call.,call
+Fold.,fold
+Check.,bet 23
+Fold.,fold
+Call.,call
+Check.,check
+Call.,fold
+Fold,fold
+Call.,call
+Fold.,call
+Check.,check
+Call.,call
+Check.,check
+Call.,raise 75
+All-in.,raise 88
+Call.,raise 22
+Bet 10 chips.,bet 12
+Check.,check
+Call.,raise 88
+Call.,call
+Call.,fold
+Call.,call
+Call.,call
+Fold.,fold
+Bet 20 chips.,check
+Check.,bet 18
+Fold.,fold
+Call.,call
+Fold.,fold
+Fold.,fold
+Fold.,call
+Fold.,raise 11
+Fold.,call
+Bet 20 chips.,check
+Fold.,fold
+Check.,check
+Fold.,fold
+Call.,fold
+Fold.,call
+Call.,raise 38
+Call.,raise 10
+Check.,check
+Call.,fold
+Check.,bet 23
+Fold.,call
+All-in.,fold
+Call.,raise 90
+Fold.,fold
+Fold.,fold
+Call.,call
+Check.,check
+Check.,check
+Fold.,fold
+Check.,check
+Raise.,call
+Call.,call
+Call.,call
+Check.,check
+Check.,check
+Check.,bet 4
+Check.,check
+Fold.,fold
+Fold.,fold
+Check.,bet 2
+Call.,fold
+Fold.,fold
+Fold.,call
+Call.,call
+Fold.,fold
+Bet 20 chips.,check
+Check.,bet 25
+Check.,check
+Fold.,fold
+Fold.,fold
+Fold.,fold
+Fold.,raise 83
+Fold.,call
+Check.,check
+Fold.,fold
+Call.,raise 72
+Bet 12 chips.,bet 24
+Bet.,check
+Bet 7 chips.,bet 8
+Fold,fold
+Fold.,fold
+Check.,bet 10
+Check.,check
+Call.,raise 74
+Call.,call
+Fold.,raise 41
+Check.,check
+Call.,raise 29
+Check.,check
+Fold.,call
+Fold.,fold
+Fold.,fold
+Fold.,fold
+Fold.,fold
+Check.,check
+Fold.,raise 44
+Check.,check
+Check.,check
+Fold.,fold
+Check.,check
+Fold.,fold
+Fold.,fold
+Bet 20 chips.,check
+Check.,check
+Call.,call
+Check.,check
+Call.,call
+All-in.,call
+Call.,call
+Bet 20 chips.,check
+Bet 12 chips.,check
+Fold.,call
+Fold.,fold
+Raise.,raise 13
+Fold.,fold
+Check.,check
+Check.,check
+Fold.,call
+Call.,call
+Bet 20 chips.,check
+Call.,call
+Fold.,call
+Call.,call
+Fold.,fold
+Fold.,call
+Call.,raise 92
+Call.,call
+Check.,bet 8
+Bet.,check
+Check.,check
+Call.,call
+Call.,call
+Bet 15 chips.,check
+Raise.,raise 38
+Call.,call
+Fold.,fold
+Check.,check
+Check.,check
+Fold.,call
+Raise.,raise 31
+Fold.,fold
+Fold.,raise 80
+Check.,check
+Bet.,bet 4
+Raise.,raise 80
+Call.,raise 86
+Fold.,fold
+Check.,check
+Check.,bet 40
+Check.,check
+Call.,call
+Fold.,fold
+Fold.,fold
+Call.,call
+Bet 4.0 chips.,check
+Call.,call
+Check.,bet 23
+Fold.,fold
+Check.,check
+Fold.,fold
+All-in.,raise 84
+Check.,check
+Fold.,fold
+Check.,check
+Fold.,fold
+Bet 3.0 chips.,bet 3
+Check.,check
+Bet 9 chips.,check
+Call.,fold
+Raise.,call
+Check.,check
+All-in.,raise 83
+Check.,check
+Fold.,fold
+Fold.,fold
+Fold.,call
+Fold.,fold
+Fold.,fold
+Call.,call
+Call.,raise 16
+Call.,call
+Fold.,call
+All-in.,call
+Check.,check
+Call.,call
+Check.,bet 5
+Check.,check
+Call.,raise 80
+Check.,check
+All-in.,check
+Check.,check
+Check.,check
+Bet 6 chips.,check
+Fold.,fold
+Raise.,raise 35
+Check.,check
+Call.,fold
+All-in.,raise 89
+Fold.,fold
+Fold.,raise 30
+Check.,check
+Fold.,fold
+Raise.,call
+Fold.,call
+Call.,call
+Check.,check
+Fold.,fold
+Raise.,raise 29
+Fold.,fold
+Check.,check
+Check.,check
+Call.,call
+Call.,call
+Fold.,fold
+Check.,bet 16
+Call.,call
+Call.,call
+Fold.,fold
+Re-raise (all-in).,raise 57
+Check.,check
+Check.,check
+Call.,raise 91
+Call.,call
+Fold.,call
+Call.,call
+Fold.,call
+Check.,check
+Fold.,fold
+Check.,check
+Raise.,call
+Fold.,fold
+Raise.,call
+Call.,call
+Fold.,call
+Check.,bet 27
+Call.,raise 89
+Check.,check
+Check.,check
+Call.,call
+Fold.,fold
+Check.,check
+Fold.,fold
+Fold.,fold
+Call.,call
+Fold.,fold
+Check.,bet 17
+Raise.,call
+Call.,raise 83
+Bet.,bet 12
+Fold.,fold
+Bet 3 chips.,check
+Call.,raise 70
+Fold.,fold
+Raise.,call
+Check.,check
+Check.,check
+Fold.,fold
+Check.,check
+Check.,check
+Check.,check
+Call.,call
+Check.,check
+Fold.,fold
+Bet.,bet 5
+Check.,raise 64
+Check.,bet 10
+Raise.,call
+Fold.,fold
+Check.,bet 7
+Check.,bet 3
+Fold.,fold
+Check.,check
+Fold.,fold
+Call.,fold
+Check.,check
+Check.,bet 4
+Fold.,fold
+Call.,raise 48
+Call.,fold
+Fold.,raise 77
+Call.,call
+Raise.,raise 23
+Fold.,fold
+Bet 15 chips.,check
+Check.,bet 7
+Fold.,call
+Fold.,fold
+Fold.,fold
+Check.,check
+Call.,raise 92
+Check.,check
+Fold.,fold
+Check.,bet 3
+Fold.,fold
+Call.,call
+All-in.,check
+Check.,bet 3
+Call.,call
+Call.,call
+Check.,check
+Fold.,fold
+All-in.,call
+Check.,check
+Check.,bet 4
+Bet 7 chips.,bet 11
+Call.,call
+Bet 2.0 chips.,bet 3
+Check.,check
+Bet 15 chips.,check
+Check.,check
+Call.,raise 93
+Fold.,fold
+Raise.,raise 10
+Fold.,fold
+Fold.,raise 27
+Call.,raise 86
+Call.,raise 95
+Call.,raise 16
+Check.,check
+Fold.,fold
+Fold.,fold
+Raise.,call
+Check.,bet 24
+Call.,raise 44
+Fold.,call
+Call.,call
+Check.,check
+Check.,check
+Fold.,fold
+Bet 20 chips.,check
+Check.,check
+Call.,call
+Fold.,fold
+Raise.,call
+Call.,call
+Check.,check
+Fold.,fold
+Fold.,fold
+Fold.,raise 22
+Raise.,raise 16
+Call.,call
+Fold.,fold
+Call.,call
+Fold.,raise 25
+Call.,call
+Fold.,fold
+Call.,call
+Call.,call
+Bet 4.0 chips.,check
+Call.,raise 72
+Fold.,fold
+Fold.,raise 38
+Raise.,call
+Fold.,fold
+Call.,call
+Check.,check
+Fold.,fold
+Call.,fold
+Fold.,raise 25
+Fold.,fold
+Call.,fold
+Bet 8.0 chips.,bet 8
+Fold.,fold

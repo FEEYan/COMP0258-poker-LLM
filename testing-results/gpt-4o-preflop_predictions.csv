@@ -1,0 +1,1001 @@
+Prediction,Ground Truth
+Call.,fold
+Fold.,fold
+Fold.,fold
+Check.,check
+Check.,check
+All-in.,call
+Check.,check
+Call.,call
+Check.,check
+Fold.,fold
+All in.,fold
+Fold.,fold
+Raise,raise 2.5
+Check.,check
+All in.,fold
+Check.,check
+Raise.,raise 32.0
+Raise.,raise 2.5
+Check.,check
+Check.,check
+Fold.,fold
+Check.,check
+Call.,raise 11.0
+Fold.,fold
+Call.,fold
+Call (All-in).,call
+Fold.,call
+Call.,raise 10.0
+Raise,raise 2.3
+Raise.,raise 10.0
+Call.,call
+Call.,raise 11.0
+Check.,check
+Check.,check
+Check.,check
+Raise.,raise 19.0
+Call.,raise 3.0
+Check.,check
+Fold.,fold
+Fold.,fold
+Call.,raise 28.0
+Fold.,call
+Fold.,fold
+Raise.,fold
+Fold.,fold
+Fold.,raise 2.3
+Raise.,raise 10.0
+Call.,call
+Fold.,call
+Call.,raise 13.0
+Re-raise (4-bet).,raise 21.0
+Check.,check
+Check.,check
+Fold.,call
+Fold.,fold
+Fold.,fold
+Re-raise (3-bet).,raise 17.5
+Call.,call
+Fold.,fold
+Check.,check
+Check.,check
+Call.,call
+Call.,raise 28.0
+Fold.,raise 14.0
+Call.,raise 26.0
+Fold.,fold
+Call.,raise 27.0
+Re-raise (3-bet).,raise 21.0
+Fold.,fold
+Call.,call
+Fold.,raise 20.0
+Check.,check
+Call.,call
+Call.,call
+Call.,raise 3.0
+Fold.,fold
+Fold,fold
+Raise.,raise 2.3
+Fold.,fold
+Raise.,raise 2.3
+All in.,call
+Fold.,raise 23.0
+Fold.,raise 13.0
+Fold.,raise 21.0
+Check.,check
+Go all-in.,call
+Fold.,fold
+Call.,call
+Call.,fold
+Check.,raise 3.0
+Fold.,fold
+Fold.,raise 22.9
+Call.,raise 12.0
+Call.,fold
+Call.,fold
+Raise.,raise 2.5
+Check.,check
+Check.,check
+Fold.,fold
+All-in.,call
+Raise.,raise 14.0
+Check.,check
+Call.,raise 13.5
+Check.,check
+Call.,call
+Call.,call
+Fold.,raise 19.0
+Raise.,raise 14.0
+Raise.,check
+Fold.,fold
+Fold.,fold
+Fold.,fold
+Fold.,fold
+Fold.,fold
+Call.,call
+Check.,check
+Check.,check
+Call.,call
+Call.,call
+All-in.,fold
+Call.,call
+Call.,raise 11.0
+Check.,check
+Fold.,fold
+Fold.,fold
+All in.,call
+All in.,call
+Fold.,raise 13.1
+Check.,check
+Check.,check
+Check.,check
+Check.,check
+Call.,call
+Call.,fold
+Check.,check
+Call.,fold
+Fold.,raise 11.5
+Call.,fold
+Check.,check
+Call.,call
+Fold.,fold
+Check.,check
+Check.,check
+Raise.,raise 24.1
+Check.,check
+Raise.,raise 11.0
+Call.,call
+Raise.,raise 15.0
+Fold.,fold
+Fold.,fold
+Fold.,fold
+Check.,check
+Call.,call
+Raise,raise 2.0
+Check.,check
+Fold.,fold
+Fold.,fold
+Call.,fold
+Fold.,raise 2.3
+Raise.,raise 2.5
+Check.,check
+Fold.,fold
+Fold.,fold
+Fold.,call
+Raise.,raise 3.0
+Call.,call
+Check.,check
+Fold.,fold
+All in.,call
+Fold.,fold
+Call.,fold
+Fold.,call
+Check.,check
+Fold.,fold
+Check.,check
+Call.,fold
+Fold.,fold
+Call.,call
+Fold.,raise 31.0
+Call.,fold
+Fold,call
+Check.,check
+Check.,check
+Raise.,raise 12.3
+Fold.,raise 6.5
+Check.,check
+Check.,check
+Fold.,fold
+Fold.,fold
+Call.,call
+Call.,call
+Fold.,fold
+Fold.,fold
+Call.,raise 13.1
+Check.,check
+Raise to 3 chips.,raise 2.0
+Check.,check
+Fold.,fold
+Fold.,fold
+Call (All-in).,fold
+Fold.,fold
+Check.,check
+Fold.,fold
+Fold.,fold
+All in.,call
+Check.,check
+Check.,check
+All-in.,call
+Fold.,fold
+Call.,raise 6.5
+Check.,check
+Call.,raise 3.0
+Fold.,fold
+Call.,call
+Fold.,fold
+Call.,call
+Call.,fold
+Check.,check
+Call.,raise 7.5
+Raise.,raise 11.0
+Check.,check
+Call.,fold
+Call.,call
+Call.,call
+All in.,call
+Call.,fold
+Check.,check
+Call.,call
+Call.,fold
+Call.,fold
+Fold,fold
+Fold.,fold
+Call.,fold
+Call.,raise 9.5
+Fold.,call
+Re-raise (4-bet).,raise 22.0
+Check.,check
+Call.,call
+Check.,check
+Call.,call
+Call.,call
+Call.,call
+Fold.,fold
+Raise.,check
+Check.,check
+Fold.,fold
+Call.,call
+All-in.,raise 22.0
+Call.,raise 15.0
+Call.,call
+Check.,check
+Fold.,fold
+Re-raise (3-bet).,raise 21.0
+Check.,check
+All-in.,fold
+Fold.,fold
+Check.,check
+Call.,raise 3.0
+Call.,raise 23.0
+Raise.,raise 2.0
+Check.,check
+Fold.,fold
+Check.,check
+Raise.,raise 2.5
+Call.,call
+3-bet to 6.5 chips.,raise 10.0
+Fold.,fold
+Fold.,raise 2.0
+Check.,check
+Check.,check
+Raise to 3 chips.,raise 2.0
+Call.,call
+Check.,raise 3.0
+Call.,raise 14.0
+Check.,check
+Check.,check
+Fold.,fold
+All in.,call
+Call.,raise 3.0
+Check.,check
+Raise to 3 chips.,raise 2.0
+Fold.,fold
+Call.,call
+Fold.,fold
+Fold.,call
+Fold.,fold
+Call.,call
+Call.,raise 12.5
+Call.,raise 27.0
+Check.,check
+Fold.,raise 3.0
+Fold.,fold
+Fold.,call
+Fold.,fold
+Fold.,fold
+Call.,call
+Go all-in.,call
+Fold.,fold
+Check.,check
+Check.,check
+Fold.,fold
+Raise.,raise 2.3
+Fold.,call
+Raise.,check
+Fold.,call
+Call.,raise 9.5
+Call.,call
+Check.,check
+Check.,check
+Call.,raise 11.0
+Call.,call
+Check.,check
+Call.,raise 13.0
+Check.,check
+All-in.,raise 34.4
+Fold.,fold
+Check.,check
+Fold.,fold
+Check.,check
+Check.,check
+Call.,raise 13.0
+Fold.,fold
+Call.,raise 11.5
+Check.,check
+Fold.,fold
+Check.,check
+Fold.,raise 2.5
+Fold.,call
+Fold.,fold
+Check.,check
+Check.,check
+Check.,check
+Fold.,call
+Fold.,fold
+Check.,check
+Fold.,fold
+Fold.,fold
+All in.,fold
+Fold.,fold
+Call.,raise 7.5
+Call.,raise 15.0
+Call.,call
+Call.,fold
+All-in.,call
+Call.,raise 14.5
+Call.,call
+Call.,call
+Fold.,call
+Call.,call
+All in.,call
+Fold.,fold
+Fold.,fold
+Check.,check
+Check.,check
+Check.,check
+Check.,check
+Call.,call
+Call.,raise 9.5
+Raise.,raise 14.0
+Fold.,fold
+Check.,check
+Call.,call
+Fold.,fold
+Check.,check
+Call.,raise 7.5
+Fold.,fold
+Fold.,call
+Fold,fold
+Call.,call
+Call.,call
+Check.,check
+Check.,check
+Call.,call
+Fold.,fold
+Fold.,fold
+All-in.,fold
+Fold.,fold
+Check.,check
+Check.,check
+Go all-in.,raise 26.0
+Raise.,check
+Check.,check
+Fold.,raise 20.0
+Call.,raise 3.0
+Check.,check
+Check.,check
+Raise,raise 3.0
+Fold.,raise 14.0
+Call.,call
+Fold.,fold
+Fold.,call
+Check.,check
+Check.,check
+All-in.,raise 35.0
+Check.,check
+Check.,check
+Call.,fold
+Fold.,fold
+Raise.,raise 15.0
+Check.,raise 3.0
+Fold.,fold
+Fold.,raise 20.0
+Raise.,raise 14.0
+Check.,check
+Call.,call
+Check.,check
+Check.,check
+Call.,call
+Call.,call
+Call.,call
+Raise.,raise 2.5
+Call.,raise 15.0
+Raise to 3 chips.,raise 2.3
+Raise.,raise 12.5
+Check.,raise 5.0
+Raise to 3 chips.,raise 2.0
+Check.,check
+Call.,fold
+Check.,check
+Call.,call
+Raise,raise 2.0
+Call.,raise 12.5
+Check.,check
+Check.,check
+Check.,check
+All in.,call
+Call.,raise 11.0
+Call.,call
+Check.,check
+Fold.,call
+Call.,call
+Fold.,fold
+Call.,call
+Fold.,call
+Call.,call
+Re-raise (3-bet).,raise 18.0
+Raise.,raise 2.5
+Call.,call
+Raise,raise 5.0
+All-in.,raise 28.0
+Fold.,fold
+Raise.,raise 11.0
+Fold,fold
+Call.,fold
+Raise.,raise 10.0
+Call.,call
+Call.,fold
+Fold.,call
+Raise.,raise 13.0
+Re-raise (4-bet).,raise 19.0
+Call.,call
+Check.,check
+Check.,check
+Call.,call
+Check.,check
+Call.,call
+All in.,call
+Check.,check
+Check.,check
+Check.,check
+Call.,call
+Call.,raise 23.0
+Raise.,raise 3.0
+Raise,raise 3.0
+Check.,check
+Call.,call
+Call.,call
+Call.,call
+Check.,check
+Fold.,call
+Call.,call
+Fold.,raise 19.0
+Call.,call
+Fold.,fold
+Check.,check
+Raise.,raise 2.5
+Check.,check
+Call.,raise 17.5
+Call.,call
+Fold.,fold
+Check.,check
+Fold.,fold
+Check.,check
+Check.,check
+Call.,call
+Check.,check
+Fold.,fold
+Call.,fold
+Raise.,raise 2.0
+Check.,check
+Fold.,call
+Fold.,fold
+Check.,check
+Call.,call
+Call.,raise 14.0
+Call.,call
+Call.,call
+Fold.,fold
+Check.,check
+Call.,fold
+Fold.,call
+Fold.,fold
+Call.,call
+Check.,check
+Fold.,fold
+Check.,check
+Check.,check
+Call.,call
+Check.,check
+Call.,fold
+Check.,check
+Raise.,raise 2.3
+Check.,check
+Check.,check
+Call.,call
+Call.,fold
+Call.,call
+Call.,call
+Raise,raise 2.0
+Fold.,call
+Call.,raise 12.0
+Fold.,call
+Check.,check
+Check.,check
+Call.,raise 3.0
+Call.,raise 11.0
+Call.,fold
+Fold.,fold
+Call.,call
+All in.,call
+Check.,check
+Fold.,call
+Fold.,fold
+Raise.,raise 15.0
+Fold.,raise 27.0
+Call.,call
+Raise.,raise 13.0
+Fold.,fold
+Call.,raise 13.5
+Check.,check
+Call.,call
+Fold.,fold
+Call.,call
+Fold.,call
+Check.,check
+Fold.,fold
+Check.,check
+Fold.,fold
+Check.,check
+Fold.,call
+Fold.,fold
+Check.,check
+Fold.,fold
+Fold.,raise 23.0
+Check.,check
+Call.,call
+Call.,call
+Check.,check
+Re-raise (4-bet).,raise 25.0
+Fold.,raise 3.0
+All-in.,call
+Call the all-in.,call
+Call.,call
+Fold.,fold
+Fold.,fold
+Check.,check
+Fold.,raise 2.0
+Fold.,call
+All in.,call
+Fold.,fold
+All in.,call
+Raise.,raise 14.0
+Fold.,call
+Fold.,fold
+Fold.,raise 2.5
+Fold.,raise 25.0
+Fold.,call
+Call.,call
+Check.,check
+Check.,check
+Fold.,call
+Fold,fold
+Fold.,raise 18.0
+Check.,check
+Fold.,fold
+Fold.,call
+Check.,check
+Call.,call
+Check.,check
+Call.,fold
+Call.,raise 10.0
+Call.,fold
+Check.,check
+Check.,check
+Call.,call
+Fold.,raise 20.0
+All in.,call
+Call.,call
+Fold.,fold
+Fold.,fold
+Fold.,fold
+Raise.,check
+Fold.,fold
+Check.,check
+Call.,fold
+Call.,raise 10.0
+Call.,raise 14.0
+Call.,call
+Check.,check
+Raise to 3 chips.,raise 2.0
+Fold.,fold
+Check.,check
+Check.,check
+Check.,check
+Raise.,raise 2.3
+Call.,fold
+Call.,call
+Check.,check
+Raise.,check
+Check.,check
+Fold.,fold
+Fold.,fold
+Fold.,fold
+Call.,raise 14.0
+Call.,raise 7.5
+Check.,check
+Fold.,fold
+Call.,call
+Fold.,fold
+Check.,check
+Fold.,fold
+All in.,call
+All in.,call
+Raise.,raise 14.0
+Call.,call
+Fold.,raise 29.2
+Call.,call
+Check.,check
+Fold.,fold
+Call.,call
+Check.,check
+Call.,raise 21.0
+Check.,check
+Call.,fold
+Check.,check
+Call.,call
+Call.,raise 27.0
+Call.,call
+Fold.,fold
+Check.,check
+Check.,check
+Fold.,fold
+Fold.,call
+Check.,check
+Fold.,call
+Fold.,fold
+Check.,check
+Call.,call
+Call.,call
+Raise.,raise 2.3
+Call.,call
+Call.,call
+Raise.,raise 11.0
+Call.,raise 9.5
+Check.,check
+Call.,raise 11.0
+Check.,check
+Fold.,raise 3.0
+Call.,call
+Fold.,fold
+Fold.,raise 3.0
+Call.,raise 11.0
+Fold.,fold
+Fold.,fold
+Fold.,fold
+Call.,raise 12.5
+Call.,raise 6.5
+Call.,call
+Call.,call
+Call.,call
+Fold.,call
+Fold.,raise 24.3
+Fold.,raise 23.0
+Fold.,fold
+Call.,raise 12.0
+Check.,check
+Check.,check
+Fold.,fold
+Fold.,raise 29.6
+Raise.,raise 13.0
+Fold.,fold
+Call.,raise 12.5
+Call.,call
+Call.,call
+Raise.,raise 2.5
+Check.,check
+Call.,raise 18.0
+Check.,check
+Check.,check
+Check.,check
+Raise.,raise 6.5
+Call.,call
+Call.,call
+Check.,check
+Call.,call
+Fold.,fold
+Raise.,raise 2.5
+Call.,call
+Check.,check
+Call.,raise 3.0
+Fold.,call
+Fold.,fold
+Check.,check
+Fold.,fold
+Call.,raise 21.0
+Check.,check
+Fold.,fold
+Call.,call
+Call.,call
+Call.,raise 11.0
+Call.,call
+Check.,check
+Call.,raise 23.0
+Fold.,fold
+Fold.,call
+Re-raise.,raise 19.0
+Call.,call
+Call.,call
+Check.,check
+Check.,check
+Call.,raise 6.5
+Call.,call
+All in.,call
+Fold.,raise 19.0
+Call.,call
+Fold.,fold
+Check.,check
+Fold.,raise 18.0
+Call.,call
+Call.,call
+Fold.,raise 10.0
+All in.,call
+Fold.,raise 21.0
+Call.,raise 35.0
+All in.,call
+Fold.,fold
+Fold.,fold
+Check.,check
+Fold.,fold
+Fold.,fold
+Fold.,fold
+Check.,check
+Raise.,raise 2.5
+All in.,call
+Fold.,fold
+Call.,raise 10.0
+All in.,call
+Check.,check
+Call.,raise 3.0
+All-in.,raise 26.0
+Fold.,fold
+All in.,call
+Call.,raise 19.0
+Fold.,fold
+Fold.,fold
+Check.,check
+Raise,raise 14.0
+Fold.,fold
+Fold.,call
+Raise.,raise 14.0
+Call.,call
+Fold,fold
+Call.,raise 11.0
+Call.,call
+Fold.,raise 2.0
+Fold.,call
+Call.,call
+Call.,call
+Fold.,fold
+Check.,check
+Raise,raise 2.5
+Check.,raise 5.0
+Call.,call
+Check.,check
+Raise.,raise 15.0
+Call.,call
+Fold.,call
+Fold.,call
+Check.,check
+Check.,check
+Fold.,fold
+Raise.,raise 2.5
+Fold.,raise 26.0
+Check.,check
+Fold.,raise 21.0
+Fold.,fold
+Check.,check
+Check.,check
+Fold.,call
+Check.,check
+All in.,call
+Call.,call
+Fold.,fold
+Call.,raise 3.0
+Call.,raise 11.0
+Call.,call
+Call.,raise 14.0
+Fold.,fold
+Raise.,raise 9.5
+Fold.,fold
+Check.,check
+Call.,call
+Call.,raise 14.0
+Fold.,fold
+Check.,check
+Call.,raise 19.0
+Call.,raise 16.0
+Call.,call
+Fold.,fold
+Call.,raise 22.0
+Call.,call
+Check.,check
+Call.,call
+Check.,check
+Call.,raise 12.5
+Call (all-in).,call
+Call.,call
+Raise.,raise 9.5
+Fold.,call
+Raise.,raise 15.0
+Fold.,raise 20.0
+Re-raise (3-bet).,raise 18.0
+Fold.,fold
+Check.,check
+Check.,check
+Call.,call
+Fold.,fold
+Check.,check
+Fold.,fold
+Check.,check
+Raise.,check
+Check.,check
+Check.,check
+Call.,call
+Check.,check
+Fold.,fold
+Call.,call
+Call.,raise 11.0
+Check.,check
+Check.,check
+Fold.,fold
+Check.,check
+Call.,call
+Fold.,fold
+Fold.,raise 3.0
+Raise.,raise 5.0
+Call.,call
+Check.,check
+Check.,check
+Fold.,call
+Call.,raise 14.0
+Call.,call
+Fold.,call
+Raise.,raise 14.5
+Fold.,fold
+Re-raise (3-bet).,raise 20.0
+Call.,raise 14.5
+Fold.,call
+Fold.,fold
+Call.,raise 13.5
+Check.,check
+Fold.,fold
+Raise.,raise 6.5
+Check.,check
+Fold.,fold
+Call.,raise 11.5
+Check.,check
+Fold.,call
+Call.,call
+Raise to 3 chips.,raise 2.0
+Call.,call
+Fold.,fold
+Check.,check
+Fold.,fold
+Call.,call
+Call.,call
+Call.,call
+Fold.,fold
+Check.,check
+Raise,raise 2.3
+Fold.,fold
+Call.,call
+Fold.,fold
+Raise,raise 3.0
+Fold.,fold
+Raise to 3 chips.,raise 2.3
+Fold.,call
+Check.,check
+Call.,raise 3.0
+Call.,raise 11.5
+Call.,fold
+Check.,check
+Fold.,fold
+Call.,call
+Fold,fold
+Fold.,fold
+Call.,raise 9.5
+Call.,raise 3.0
+Fold.,fold
+Fold.,fold
+Fold.,fold
+Raise.,raise 11.0
+Fold.,fold
+Check.,check
+Fold.,fold
+Check.,check
+Call.,call
+All in.,call
+Raise.,check
+Raise.,raise 2.0
+Check.,check
+Fold.,fold
+Fold.,call
+Raise.,raise 3.0
+Check.,check
+Call.,call
+Call.,fold
+Raise.,raise 2.5
+Fold.,fold
+Call.,call
+All-in.,raise 29.2
+Fold.,raise 3.0
+Call.,raise 15.0
+Check.,check
+Check.,check
+Fold.,fold
+Check.,check
+Raise.,raise 11.0
+Call.,call
+Fold.,fold
+Fold.,raise 11.0
+Check.,check
+Call.,call
+Check.,check
+Call.,call
+Fold.,fold
+Call.,call
+Fold.,raise 3.0
+Re-raise (3-bet).,raise 11.5
+Fold.,call
+Fold.,fold
+Check.,check
+Raise.,raise 15.0
+Check.,check
+Raise.,raise 3.0
+Raise.,raise 14.0
+Check.,check
+Fold.,fold
+Fold.,fold
+Fold.,fold
+Call.,raise 12.0
+Fold.,fold
+Fold.,fold
+Check.,check
+Check.,check
+Call.,call
+Fold,fold
+Check.,check
+Call.,fold
+Check.,check
+Fold.,fold
+Check.,check
+All in.,call
+All in.,call
+Check.,check
+Fold.,call
+Check.,check
+Call.,raise 14.0
+Fold.,raise 20.0
+Fold.,fold
+Call.,call
+Raise.,raise 12.0
+Raise.,raise 15.0
+Check.,check
+All-in.,fold
+Fold.,fold
+Fold.,fold
+Check.,check
+All in.,call
+Fold.,fold
+Call.,raise 14.0
+Call (All-in).,call
+Call.,call
+Call.,call
+Raise.,raise 5.0
+Fold.,fold
+Check.,check
+Check.,check
+Fold.,fold
+Call.,raise 14.0
