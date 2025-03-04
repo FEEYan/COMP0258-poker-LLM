@@ -1,8 +1,8 @@
 Pred_Action,True_Action,Pred_Amount,True_Amount
-bet 8,check,0.0,0.0
-bet 10,check,0.0,0.0
+bet,check,8.0,0.0
+bet,check,10.0,0.0
 call,check,0.0,0.0
-call,bet 10,0.0,0.0
+call,bet,0.0,10.0
 call,check,0.0,0.0
 call,raise,0.0,11.0
 call,call,0.0,0.0
@@ -17,16 +17,16 @@ call,check,0.0,0.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
 call,call,0.0,0.0
-call,bet 12,0.0,0.0
+call,bet,0.0,12.0
 call,raise,0.0,81.0
 call,raise,0.0,64.0
 call,check,0.0,0.0
 call,raise,0.0,85.0
-bet 100,call,0.0,0.0
+bet,call,100.0,0.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
 call,check,0.0,0.0
-bet 25,bet 3,0.0,0.0
+bet,bet,25.0,3.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
@@ -43,11 +43,11 @@ call,call,0.0,0.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
 call,raise,0.0,29.0
-call,bet 7,0.0,0.0
+call,bet,0.0,7.0
 call,check,0.0,0.0
-call,bet 34,0.0,0.0
+call,bet,0.0,34.0
 call,fold,0.0,0.0
-bet 15,raise,0.0,25.0
+bet,raise,15.0,25.0
 call,check,0.0,0.0
 call,check,0.0,0.0
 call,check,0.0,0.0
@@ -55,8 +55,8 @@ call,raise,0.0,70.0
 raise,fold,50.0,0.0
 call,call,0.0,0.0
 fold,fold,0.0,0.0
-call,bet 18,0.0,0.0
-call,bet 3,0.0,0.0
+call,bet,0.0,18.0
+call,bet,0.0,3.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
@@ -77,28 +77,28 @@ call,call,0.0,0.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
-bet 20,bet 31,0.0,0.0
+bet,bet,20.0,31.0
 call,fold,0.0,0.0
 call,raise,0.0,16.0
 call,call,0.0,0.0
 raise,call,300.0,0.0
-call,bet 13,0.0,0.0
+call,bet,0.0,13.0
 raise,fold,64.0,0.0
 raise,fold,60.0,0.0
 call,check,0.0,0.0
-call,bet 10,0.0,0.0
+call,bet,0.0,10.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
 raise,call,50.0,0.0
-bet 4,check,0.0,0.0
+bet,check,4.0,0.0
 call,check,0.0,0.0
-bet 5,bet 10,0.0,0.0
-bet 10,call,0.0,0.0
+bet,bet,5.0,10.0
+bet,call,10.0,0.0
 call,raise,0.0,25.0
 call,raise,0.0,88.0
 call,call,0.0,0.0
 call,check,0.0,0.0
-call,bet 17,0.0,0.0
+call,bet,0.0,17.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
@@ -109,37 +109,37 @@ call,fold,0.0,0.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
 call,call,0.0,0.0
-call,bet 18,0.0,0.0
+call,bet,0.0,18.0
 call,fold,0.0,0.0
-bet 10,bet 12,0.0,0.0
+bet,bet,10.0,12.0
 raise,call,29.0,0.0
 call,fold,0.0,0.0
-bet 6,bet 10,0.0,0.0
-raise,bet 29,32.0,0.0
+bet,bet,6.0,10.0
+raise,bet,32.0,29.0
 call,call,0.0,0.0
 call,raise,0.0,57.0
-call,bet 35,0.0,0.0
-call,bet 29,0.0,0.0
+call,bet,0.0,35.0
+call,bet,0.0,29.0
 call,fold,0.0,0.0
-bet 75,bet 8,0.0,0.0
+bet,bet,75.0,8.0
 call,raise,0.0,27.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
 call,call,0.0,0.0
 call,check,0.0,0.0
-call,bet 29,0.0,0.0
+call,bet,0.0,29.0
 call,call,0.0,0.0
 call,call,0.0,0.0
 call,call,0.0,0.0
 raise,call,120.0,0.0
-bet 45,bet 5,0.0,0.0
+bet,bet,45.0,5.0
 call,check,0.0,0.0
 call,call,0.0,0.0
-call,bet 29,0.0,0.0
+call,bet,0.0,29.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
-call,bet 3,0.0,0.0
+call,bet,0.0,3.0
 call,fold,0.0,0.0
 raise,fold,144.0,0.0
 call,raise,0.0,58.0
@@ -147,8 +147,8 @@ call,call,0.0,0.0
 raise,raise,30.0,48.0
 call,fold,0.0,0.0
 call,raise,0.0,16.0
-call,bet 12,0.0,0.0
-call,bet 13,0.0,0.0
+call,bet,0.0,12.0
+call,bet,0.0,13.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
 raise,fold,200.0,0.0
@@ -162,14 +162,14 @@ call,check,0.0,0.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
-call,bet 4,0.0,0.0
+call,bet,0.0,4.0
 call,raise,0.0,84.0
 call,call,0.0,0.0
 call,check,0.0,0.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
-bet 37,raise,0.0,83.0
+bet,raise,37.0,83.0
 call,raise,0.0,11.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
@@ -177,16 +177,16 @@ call,call,0.0,0.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
-call,bet 11,0.0,0.0
+call,bet,0.0,11.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
-call,bet 29,0.0,0.0
+call,bet,0.0,29.0
 call,check,0.0,0.0
 call,call,0.0,0.0
-bet 4,check,0.0,0.0
+bet,check,4.0,0.0
 call,check,0.0,0.0
 call,check,0.0,0.0
-call,bet 4,0.0,0.0
+call,bet,0.0,4.0
 call,fold,0.0,0.0
 call,raise,0.0,58.0
 call,check,0.0,0.0
@@ -201,7 +201,7 @@ call,call,0.0,0.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
 call,raise,0.0,61.0
-call,bet 23,0.0,0.0
+call,bet,0.0,23.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
 call,raise,0.0,88.0
@@ -210,17 +210,17 @@ call,raise,0.0,41.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
 raise,fold,200.0,0.0
-bet 10,raise,0.0,22.0
+bet,raise,10.0,22.0
 call,fold,0.0,0.0
 raise,call,40.0,0.0
 call,call,0.0,0.0
 call,call,0.0,0.0
-call,bet 4,0.0,0.0
+call,bet,0.0,4.0
 call,check,0.0,0.0
 call,call,0.0,0.0
-bet 60,call,0.0,0.0
+bet,call,60.0,0.0
 call,raise,0.0,16.0
-call,bet 4,0.0,0.0
+call,bet,0.0,4.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
 raise,check,40.0,0.0
@@ -238,7 +238,7 @@ call,check,0.0,0.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
 raise,raise,40.0,92.0
-bet 8,check,0.0,0.0
+bet,check,8.0,0.0
 call,call,0.0,0.0
 raise,call,120.0,0.0
 call,fold,0.0,0.0
@@ -246,26 +246,26 @@ raise,raise,40.0,57.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
-bet 30,raise,0.0,83.0
+bet,raise,30.0,83.0
 call,check,0.0,0.0
 call,call,0.0,0.0
 call,call,0.0,0.0
 call,check,0.0,0.0
 call,call,0.0,0.0
 call,call,0.0,0.0
-bet 6,check,0.0,0.0
+bet,check,6.0,0.0
 raise,fold,75.0,0.0
 call,raise,0.0,79.0
 call,check,0.0,0.0
 call,check,0.0,0.0
 call,check,0.0,0.0
-call,bet 3,0.0,0.0
+call,bet,0.0,3.0
 call,raise,0.0,51.0
 call,call,0.0,0.0
 call,raise,0.0,7.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
-bet 10,bet 12,0.0,0.0
+bet,bet,10.0,12.0
 call,call,0.0,0.0
 call,call,0.0,0.0
 call,raise,0.0,70.0
@@ -275,34 +275,34 @@ call,check,0.0,0.0
 call,call,0.0,0.0
 call,raise,0.0,89.0
 call,check,0.0,0.0
-call,bet 10,0.0,0.0
+call,bet,0.0,10.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
 call,check,0.0,0.0
 call,call,0.0,0.0
-bet 16,bet 17,0.0,0.0
+bet,bet,16.0,17.0
 call,raise,0.0,14.0
-bet 20,check,0.0,0.0
+bet,check,20.0,0.0
 call,fold,0.0,0.0
-call,bet 29,0.0,0.0
+call,bet,0.0,29.0
 call,check,0.0,0.0
 call,call,0.0,0.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
-call,bet 39,0.0,0.0
-call,bet 23,0.0,0.0
+call,bet,0.0,39.0
+call,bet,0.0,23.0
 fold,fold,0.0,0.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
-bet 6,check,0.0,0.0
+bet,check,6.0,0.0
 call,call,0.0,0.0
 call,raise,0.0,80.0
 call,call,0.0,0.0
 call,check,0.0,0.0
 call,call,0.0,0.0
-bet 15,call,0.0,0.0
+bet,call,15.0,0.0
 call,call,0.0,0.0
 call,raise,0.0,80.0
 call,call,0.0,0.0
@@ -312,21 +312,21 @@ call,raise,0.0,78.0
 call,check,0.0,0.0
 call,call,0.0,0.0
 raise,fold,120.0,0.0
-bet 4,check,0.0,0.0
+bet,check,4.0,0.0
 call,check,0.0,0.0
 call,raise,0.0,93.0
 call,check,0.0,0.0
 call,raise,0.0,35.0
-bet 8,check,0.0,0.0
+bet,check,8.0,0.0
 raise,raise,40.0,57.0
-call,bet 25,0.0,0.0
+call,bet,0.0,25.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
 call,call,0.0,0.0
-call,bet 11,0.0,0.0
+call,bet,0.0,11.0
 call,call,0.0,0.0
-call,bet 24,0.0,0.0
+call,bet,0.0,24.0
 call,raise,0.0,92.0
 call,call,0.0,0.0
 call,raise,0.0,84.0
@@ -342,17 +342,17 @@ call,fold,0.0,0.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
-call,bet 29,0.0,0.0
+call,bet,0.0,29.0
 call,raise,0.0,10.0
-call,bet 13,0.0,0.0
+call,bet,0.0,13.0
 call,check,0.0,0.0
-call,bet 25,0.0,0.0
+call,bet,0.0,25.0
 call,check,0.0,0.0
 raise,fold,40.0,0.0
 call,raise,0.0,26.0
-bet 10,raise,0.0,37.0
+bet,raise,10.0,37.0
 call,raise,0.0,10.0
-call,bet 15,0.0,0.0
+call,bet,0.0,15.0
 call,raise,0.0,43.0
 call,raise,0.0,90.0
 call,check,0.0,0.0
@@ -362,15 +362,15 @@ call,raise,0.0,16.0
 call,call,0.0,0.0
 call,check,0.0,0.0
 call,call,0.0,0.0
-call,bet 5,0.0,0.0
+call,bet,0.0,5.0
 call,check,0.0,0.0
 call,raise,0.0,90.0
-bet 20,check,0.0,0.0
+bet,check,20.0,0.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
-call,bet 23,0.0,0.0
+call,bet,0.0,23.0
 call,raise,0.0,73.0
 call,raise,0.0,88.0
 raise,call,300.0,0.0
@@ -385,30 +385,30 @@ call,call,0.0,0.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
-call,bet 29,0.0,0.0
+call,bet,0.0,29.0
 call,call,0.0,0.0
-call,bet 2,0.0,0.0
+call,bet,0.0,2.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
 call,check,0.0,0.0
-call,bet 1,0.0,0.0
+call,bet,0.0,1.0
 raise,call,64.0,0.0
 call,raise,0.0,80.0
 call,call,0.0,0.0
 call,call,0.0,0.0
 call,check,0.0,0.0
-call,bet 13,0.0,0.0
+call,bet,0.0,13.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
 call,raise,0.0,92.0
 call,fold,0.0,0.0
 raise,call,10.0,0.0
-call,bet 13,0.0,0.0
+call,bet,0.0,13.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
 call,raise,0.0,38.0
 call,call,0.0,0.0
-bet 6,check,0.0,0.0
+bet,check,6.0,0.0
 call,raise,0.0,92.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
@@ -438,7 +438,7 @@ call,fold,0.0,0.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
 call,call,0.0,0.0
-call,bet 17,0.0,0.0
+call,bet,0.0,17.0
 raise,fold,40.0,0.0
 call,check,0.0,0.0
 call,check,0.0,0.0
@@ -446,7 +446,7 @@ raise,fold,25.0,0.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
-bet 10,check,0.0,0.0
+bet,check,10.0,0.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
 call,raise,0.0,92.0
@@ -467,11 +467,11 @@ call,check,0.0,0.0
 call,check,0.0,0.0
 raise,fold,81.0,0.0
 call,call,0.0,0.0
-call,bet 29,0.0,0.0
+call,bet,0.0,29.0
 raise,fold,35.0,0.0
 raise,fold,55.0,0.0
 call,call,0.0,0.0
-call,bet 11,0.0,0.0
+call,bet,0.0,11.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
 call,raise,0.0,23.0
@@ -480,17 +480,17 @@ call,fold,0.0,0.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
 raise,fold,20.0,0.0
-bet 6,check,0.0,0.0
+bet,check,6.0,0.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
 call,check,0.0,0.0
-call,bet 4,0.0,0.0
+call,bet,0.0,4.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
-call,bet 10,0.0,0.0
+call,bet,0.0,10.0
 call,raise,0.0,85.0
-bet 8,check,0.0,0.0
+bet,check,8.0,0.0
 raise,call,200.0,0.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
@@ -498,9 +498,9 @@ call,call,0.0,0.0
 call,check,0.0,0.0
 call,call,0.0,0.0
 call,raise,0.0,16.0
-bet 4,check,0.0,0.0
+bet,check,4.0,0.0
 call,check,0.0,0.0
-call,bet 8,0.0,0.0
+call,bet,0.0,8.0
 call,call,0.0,0.0
 call,call,0.0,0.0
 call,raise,0.0,80.0
@@ -511,16 +511,16 @@ call,check,0.0,0.0
 call,check,0.0,0.0
 call,check,0.0,0.0
 call,raise,0.0,73.0
-bet 10,check,0.0,0.0
+bet,check,10.0,0.0
 call,check,0.0,0.0
 call,call,0.0,0.0
 call,check,0.0,0.0
 call,call,0.0,0.0
 raise,fold,100.0,0.0
 call,fold,0.0,0.0
-raise,bet 29,32.0,0.0
+raise,bet,32.0,29.0
 call,fold,0.0,0.0
-call,bet 17,0.0,0.0
+call,bet,0.0,17.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
@@ -529,8 +529,8 @@ call,fold,0.0,0.0
 call,call,0.0,0.0
 raise,raise,64.0,92.0
 call,call,0.0,0.0
-call,bet 13,0.0,0.0
-bet 40,check,0.0,0.0
+call,bet,0.0,13.0
+bet,check,40.0,0.0
 call,check,0.0,0.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
@@ -541,28 +541,28 @@ call,check,0.0,0.0
 call,call,0.0,0.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
-bet 4,check,0.0,0.0
+bet,check,4.0,0.0
 raise,fold,40.0,0.0
 call,raise,0.0,18.0
-call,bet 10,0.0,0.0
-bet 100,call,0.0,0.0
-bet 10,bet 11,0.0,0.0
+call,bet,0.0,10.0
+bet,call,100.0,0.0
+bet,bet,10.0,11.0
 call,check,0.0,0.0
 call,call,0.0,0.0
 call,call,0.0,0.0
 call,check,0.0,0.0
 call,raise,0.0,74.0
-bet 16,bet 17,0.0,0.0
+bet,bet,16.0,17.0
 raise,fold,120.0,0.0
-bet 10,check,0.0,0.0
+bet,check,10.0,0.0
 call,call,0.0,0.0
 call,check,0.0,0.0
-call,bet 24,0.0,0.0
+call,bet,0.0,24.0
 call,check,0.0,0.0
 call,check,0.0,0.0
-bet 60,raise,0.0,88.0
+bet,raise,60.0,88.0
 call,call,0.0,0.0
-call,bet 29,0.0,0.0
+call,bet,0.0,29.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
@@ -573,7 +573,7 @@ call,call,0.0,0.0
 call,call,0.0,0.0
 call,raise,0.0,27.0
 call,check,0.0,0.0
-call,bet 18,0.0,0.0
+call,bet,0.0,18.0
 call,raise,0.0,81.0
 call,fold,0.0,0.0
 call,raise,0.0,80.0
@@ -587,26 +587,26 @@ call,call,0.0,0.0
 call,check,0.0,0.0
 call,raise,0.0,10.0
 call,raise,0.0,61.0
-call,bet 23,0.0,0.0
+call,bet,0.0,23.0
 call,call,0.0,0.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
-bet 2,check,0.0,0.0
+bet,check,2.0,0.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
-bet 8,bet 23,0.0,0.0
+bet,bet,8.0,23.0
 call,call,0.0,0.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
-call,bet 24,0.0,0.0
+call,bet,0.0,24.0
 call,raise,0.0,11.0
 call,check,0.0,0.0
 raise,call,60.0,0.0
 call,raise,0.0,27.0
 call,raise,0.0,64.0
-bet 10,check,0.0,0.0
+bet,check,10.0,0.0
 call,call,0.0,0.0
 call,raise,0.0,13.0
 call,check,0.0,0.0
@@ -620,13 +620,13 @@ call,raise,0.0,46.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
-call,bet 20,0.0,0.0
+call,bet,0.0,20.0
 call,call,0.0,0.0
 call,call,0.0,0.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
-bet 6,check,0.0,0.0
-bet 5,bet 20,0.0,0.0
+bet,check,6.0,0.0
+bet,bet,5.0,20.0
 call,check,0.0,0.0
 call,check,0.0,0.0
 call,check,0.0,0.0
@@ -636,52 +636,52 @@ call,call,0.0,0.0
 call,call,0.0,0.0
 call,check,0.0,0.0
 raise,check,18.0,0.0
-bet 15,bet 19,0.0,0.0
+bet,bet,15.0,19.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
 call,raise,0.0,17.0
 call,raise,0.0,73.0
-bet 10,check,0.0,0.0
+bet,check,10.0,0.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
 call,raise,0.0,33.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
-bet 100,call,0.0,0.0
+bet,call,100.0,0.0
 call,call,0.0,0.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
 call,call,0.0,0.0
 call,call,0.0,0.0
-bet 4,bet 12,0.0,0.0
+bet,bet,4.0,12.0
 call,raise,0.0,84.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
-call,bet 29,0.0,0.0
+call,bet,0.0,29.0
 call,raise,0.0,65.0
 call,fold,0.0,0.0
-call,bet 23,0.0,0.0
+call,bet,0.0,23.0
 call,check,0.0,0.0
 call,check,0.0,0.0
 call,check,0.0,0.0
-bet 6,check,0.0,0.0
+bet,check,6.0,0.0
 call,check,0.0,0.0
-bet 4,bet 22,0.0,0.0
+bet,bet,4.0,22.0
 call,check,0.0,0.0
-call,bet 4,0.0,0.0
+call,bet,0.0,4.0
 call,raise,0.0,58.0
 call,raise,0.0,74.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
-raise,bet 4,5.0,0.0
+raise,bet,5.0,4.0
 call,check,0.0,0.0
 raise,fold,100.0,0.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
 raise,fold,200.0,0.0
-bet 40,fold,0.0,0.0
+bet,fold,40.0,0.0
 call,call,0.0,0.0
 call,call,0.0,0.0
 call,call,0.0,0.0
@@ -696,11 +696,11 @@ raise,fold,300.0,0.0
 call,raise,0.0,83.0
 call,check,0.0,0.0
 call,check,0.0,0.0
-call,bet 10,0.0,0.0
+call,bet,0.0,10.0
 call,raise,0.0,37.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
-call,bet 13,0.0,0.0
+call,bet,0.0,13.0
 call,call,0.0,0.0
 raise,fold,40.0,0.0
 call,raise,0.0,58.0
@@ -724,8 +724,8 @@ call,raise,0.0,25.0
 call,check,0.0,0.0
 call,raise,0.0,40.0
 call,raise,0.0,30.0
-bet 8,check,0.0,0.0
-raise,bet 18,18.0,0.0
+bet,check,8.0,0.0
+raise,bet,18.0,18.0
 raise,raise,60.0,89.0
 call,fold,0.0,0.0
 call,raise,0.0,25.0
@@ -734,7 +734,7 @@ call,fold,0.0,0.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
-bet 10,bet 31,0.0,0.0
+bet,bet,10.0,31.0
 raise,call,40.0,0.0
 call,raise,0.0,58.0
 call,check,0.0,0.0
@@ -757,38 +757,38 @@ call,check,0.0,0.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
 call,call,0.0,0.0
-bet 8,check,0.0,0.0
+bet,check,8.0,0.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
-bet 15,check,0.0,0.0
+bet,check,15.0,0.0
 call,check,0.0,0.0
 raise,raise,30.0,94.0
-call,bet 27,0.0,0.0
+call,bet,0.0,27.0
 call,check,0.0,0.0
 call,raise,0.0,51.0
 call,raise,0.0,18.0
 call,check,0.0,0.0
-call,bet 3,0.0,0.0
+call,bet,0.0,3.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
-call,bet 20,0.0,0.0
-bet 20,call,0.0,0.0
-call,bet 22,0.0,0.0
+call,bet,0.0,20.0
+bet,call,20.0,0.0
+call,bet,0.0,22.0
 call,raise,0.0,84.0
 call,raise,0.0,88.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
-call,bet 23,0.0,0.0
+call,bet,0.0,23.0
 call,call,0.0,0.0
 call,raise,0.0,38.0
 raise,call,120.0,0.0
 call,check,0.0,0.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
-call,bet 8,0.0,0.0
+call,bet,0.0,8.0
 call,check,0.0,0.0
 call,raise,0.0,72.0
 call,call,0.0,0.0
@@ -812,8 +812,8 @@ call,call,0.0,0.0
 call,raise,0.0,10.0
 raise,fold,32.0,0.0
 call,fold,0.0,0.0
-call,bet 11,0.0,0.0
-call,bet 2,0.0,0.0
+call,bet,0.0,11.0
+call,bet,0.0,2.0
 call,check,0.0,0.0
 call,check,0.0,0.0
 call,raise,0.0,74.0
@@ -824,9 +824,9 @@ raise,call,50.0,0.0
 call,raise,0.0,11.0
 raise,raise,128.0,89.0
 call,call,0.0,0.0
-bet 15,check,0.0,0.0
-bet 4,check,0.0,0.0
-bet 8,check,0.0,0.0
+bet,check,15.0,0.0
+bet,check,4.0,0.0
+bet,check,8.0,0.0
 call,raise,0.0,10.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
@@ -834,8 +834,8 @@ call,fold,0.0,0.0
 call,check,0.0,0.0
 call,check,0.0,0.0
 call,raise,0.0,22.0
-bet 10,check,0.0,0.0
-bet 4,check,0.0,0.0
+bet,check,10.0,0.0
+bet,check,4.0,0.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
@@ -844,7 +844,7 @@ call,call,0.0,0.0
 call,check,0.0,0.0
 call,check,0.0,0.0
 call,check,0.0,0.0
-bet 4,check,0.0,0.0
+bet,check,4.0,0.0
 raise,call,60.0,0.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
@@ -852,50 +852,50 @@ call,fold,0.0,0.0
 call,call,0.0,0.0
 call,call,0.0,0.0
 call,raise,0.0,22.0
-call,bet 13,0.0,0.0
-bet 40,check,0.0,0.0
+call,bet,0.0,13.0
+bet,check,40.0,0.0
 call,raise,0.0,92.0
-bet 50,fold,0.0,0.0
+bet,fold,50.0,0.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
 call,check,0.0,0.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
-call,bet 3,0.0,0.0
-bet 20,raise,0.0,38.0
+call,bet,0.0,3.0
+bet,raise,20.0,38.0
 call,raise,0.0,74.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
 call,raise,0.0,93.0
 raise,call,150.0,0.0
-bet 25,check,0.0,0.0
+bet,check,25.0,0.0
 call,check,0.0,0.0
 call,check,0.0,0.0
 call,call,0.0,0.0
 call,raise,0.0,82.0
-bet 4,check,0.0,0.0
+bet,check,4.0,0.0
 call,check,0.0,0.0
 call,check,0.0,0.0
 call,call,0.0,0.0
 call,call,0.0,0.0
-bet 10,call,0.0,0.0
+bet,call,10.0,0.0
 call,raise,0.0,17.0
 raise,fold,60.0,0.0
 raise,raise,32.0,41.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
-bet 10,call,0.0,0.0
+bet,call,10.0,0.0
 call,call,0.0,0.0
 call,call,0.0,0.0
 call,raise,0.0,84.0
 call,check,0.0,0.0
 call,call,0.0,0.0
-call,bet 40,0.0,0.0
+call,bet,0.0,40.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
-call,bet 4,0.0,0.0
+call,bet,0.0,4.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
 call,raise,0.0,84.0
@@ -911,24 +911,24 @@ raise,fold,55.0,0.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
-call,bet 24,0.0,0.0
+call,bet,0.0,24.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
-bet 20,call,0.0,0.0
+bet,call,20.0,0.0
 call,raise,0.0,58.0
 call,fold,0.0,0.0
 raise,raise,50.0,92.0
 call,fold,0.0,0.0
-bet 10,check,0.0,0.0
+bet,check,10.0,0.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
 call,check,0.0,0.0
 call,call,0.0,0.0
-bet 16,bet 17,0.0,0.0
+bet,bet,16.0,17.0
 call,check,0.0,0.0
-bet 6,check,0.0,0.0
+bet,check,6.0,0.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
 call,call,0.0,0.0
@@ -938,12 +938,12 @@ call,fold,0.0,0.0
 call,call,0.0,0.0
 call,raise,0.0,91.0
 call,call,0.0,0.0
-call,bet 13,0.0,0.0
+call,bet,0.0,13.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
 call,raise,0.0,83.0
 call,check,0.0,0.0
-raise,bet 18,18.0,0.0
+raise,bet,18.0,18.0
 raise,fold,43.0,0.0
 call,check,0.0,0.0
 call,call,0.0,0.0
@@ -961,25 +961,25 @@ call,call,0.0,0.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
-bet 10,check,0.0,0.0
+bet,check,10.0,0.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
-call,bet 27,0.0,0.0
+call,bet,0.0,27.0
 call,check,0.0,0.0
 raise,fold,60.0,0.0
 call,call,0.0,0.0
 call,call,0.0,0.0
 call,raise,0.0,19.0
-call,bet 12,0.0,0.0
+call,bet,0.0,12.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
 call,call,0.0,0.0
 raise,call,40.0,0.0
 call,fold,0.0,0.0
-call,bet 16,0.0,0.0
+call,bet,0.0,16.0
 call,call,0.0,0.0
-bet 56,call,0.0,0.0
+bet,call,56.0,0.0
 call,check,0.0,0.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
@@ -990,17 +990,17 @@ call,raise,0.0,38.0
 call,raise,0.0,54.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
-bet 10,check,0.0,0.0
-bet 40,check,0.0,0.0
+bet,check,10.0,0.0
+bet,check,40.0,0.0
 call,check,0.0,0.0
-call,bet 29,0.0,0.0
+call,bet,0.0,29.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
 call,call,0.0,0.0
 raise,call,200.0,0.0
 call,check,0.0,0.0
 call,raise,0.0,11.0
-bet 15,check,0.0,0.0
+bet,check,15.0,0.0
 call,call,0.0,0.0
 call,raise,0.0,86.0
 call,call,0.0,0.0
@@ -1010,7 +1010,7 @@ call,call,0.0,0.0
 call,raise,0.0,90.0
 raise,fold,60.0,0.0
 call,raise,0.0,67.0
-bet 10,raise,0.0,16.0
+bet,raise,10.0,16.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
@@ -1021,18 +1021,18 @@ call,check,0.0,0.0
 call,check,0.0,0.0
 call,check,0.0,0.0
 call,call,0.0,0.0
-bet 10,check,0.0,0.0
+bet,check,10.0,0.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
-call,bet 17,0.0,0.0
-call,bet 17,0.0,0.0
+call,bet,0.0,17.0
+call,bet,0.0,17.0
 call,fold,0.0,0.0
 call,raise,0.0,90.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
-bet 20,check,0.0,0.0
-bet 4,check,0.0,0.0
+bet,check,20.0,0.0
+bet,check,4.0,0.0
 call,call,0.0,0.0
 call,call,0.0,0.0
 call,call,0.0,0.0
@@ -1040,15 +1040,15 @@ call,raise,0.0,48.0
 call,check,0.0,0.0
 call,raise,0.0,93.0
 call,call,0.0,0.0
-call,bet 24,0.0,0.0
+call,bet,0.0,24.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
-call,bet 24,0.0,0.0
+call,bet,0.0,24.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
 call,check,0.0,0.0
-call,bet 20,0.0,0.0
+call,bet,0.0,20.0
 call,check,0.0,0.0
 call,check,0.0,0.0
 call,call,0.0,0.0
@@ -1060,15 +1060,15 @@ call,call,0.0,0.0
 call,call,0.0,0.0
 call,check,0.0,0.0
 raise,fold,120.0,0.0
-bet 40,check,0.0,0.0
+bet,check,40.0,0.0
 call,check,0.0,0.0
-bet 10,check,0.0,0.0
+bet,check,10.0,0.0
 call,call,0.0,0.0
 call,check,0.0,0.0
 raise,call,20.0,0.0
 raise,call,50.0,0.0
 call,fold,0.0,0.0
-call,bet 24,0.0,0.0
+call,bet,0.0,24.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
@@ -1083,15 +1083,15 @@ call,check,0.0,0.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
 call,call,0.0,0.0
-bet 40,check,0.0,0.0
+bet,check,40.0,0.0
 call,raise,0.0,41.0
-call,bet 13,0.0,0.0
+call,bet,0.0,13.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
-bet 20,check,0.0,0.0
-bet 10,check,0.0,0.0
+bet,check,20.0,0.0
+bet,check,10.0,0.0
 call,call,0.0,0.0
-call,bet 29,0.0,0.0
+call,bet,0.0,29.0
 call,call,0.0,0.0
 call,call,0.0,0.0
 call,call,0.0,0.0
@@ -1108,8 +1108,8 @@ call,raise,0.0,77.0
 call,check,0.0,0.0
 call,call,0.0,0.0
 call,check,0.0,0.0
-bet 5,check,0.0,0.0
-call,bet 10,0.0,0.0
+bet,check,5.0,0.0
+call,bet,0.0,10.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
@@ -1117,32 +1117,32 @@ call,call,0.0,0.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
 call,call,0.0,0.0
-call,bet 11,0.0,0.0
+call,bet,0.0,11.0
 call,check,0.0,0.0
 call,call,0.0,0.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
-call,bet 40,0.0,0.0
+call,bet,0.0,40.0
 call,call,0.0,0.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
-bet 4,check,0.0,0.0
+bet,check,4.0,0.0
 call,call,0.0,0.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
-call,bet 3,0.0,0.0
+call,bet,0.0,3.0
 call,check,0.0,0.0
-call,bet 23,0.0,0.0
+call,bet,0.0,23.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
-call,bet 39,0.0,0.0
+call,bet,0.0,39.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
-call,bet 25,0.0,0.0
+call,bet,0.0,25.0
 call,raise,0.0,58.0
-call,bet 39,0.0,0.0
+call,bet,0.0,39.0
 raise,call,200.0,0.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
@@ -1157,7 +1157,7 @@ call,call,0.0,0.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
-bet 83,call,0.0,0.0
+bet,call,83.0,0.0
 call,check,0.0,0.0
 call,call,0.0,0.0
 call,check,0.0,0.0
@@ -1174,7 +1174,7 @@ call,check,0.0,0.0
 call,check,0.0,0.0
 call,check,0.0,0.0
 call,check,0.0,0.0
-bet 15,check,0.0,0.0
+bet,check,15.0,0.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
@@ -1182,12 +1182,12 @@ call,call,0.0,0.0
 call,raise,0.0,70.0
 call,fold,0.0,0.0
 call,raise,0.0,33.0
-bet 60,call,0.0,0.0
+bet,call,60.0,0.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
 call,raise,0.0,89.0
 call,raise,0.0,93.0
-bet 20,check,0.0,0.0
+bet,check,20.0,0.0
 call,check,0.0,0.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
@@ -1202,7 +1202,7 @@ call,fold,0.0,0.0
 call,check,0.0,0.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
-call,bet 12,0.0,0.0
+call,bet,0.0,12.0
 call,fold,0.0,0.0
 fold,fold,0.0,0.0
 call,fold,0.0,0.0
@@ -1212,15 +1212,15 @@ call,check,0.0,0.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
-call,bet 23,0.0,0.0
-bet 20,bet 27,0.0,0.0
-bet 39,fold,0.0,0.0
+call,bet,0.0,23.0
+bet,bet,20.0,27.0
+bet,fold,39.0,0.0
 raise,call,200.0,0.0
 call,raise,0.0,77.0
 call,check,0.0,0.0
 call,check,0.0,0.0
 call,raise,0.0,88.0
-bet 30,call,0.0,0.0
+bet,call,30.0,0.0
 call,raise,0.0,32.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
@@ -1233,7 +1233,7 @@ call,raise,0.0,25.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
 call,raise,0.0,81.0
-bet 40,fold,0.0,0.0
+bet,fold,40.0,0.0
 call,check,0.0,0.0
 call,check,0.0,0.0
 call,call,0.0,0.0
@@ -1245,7 +1245,7 @@ call,call,0.0,0.0
 call,raise,0.0,10.0
 call,raise,0.0,11.0
 call,fold,0.0,0.0
-call,bet 34,0.0,0.0
+call,bet,0.0,34.0
 call,raise,0.0,11.0
 call,call,0.0,0.0
 call,call,0.0,0.0
@@ -1273,27 +1273,27 @@ call,check,0.0,0.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
-bet 15,check,0.0,0.0
+bet,check,15.0,0.0
 call,raise,0.0,70.0
-bet 4,check,0.0,0.0
+bet,check,4.0,0.0
 call,raise,0.0,32.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
-bet 20,check,0.0,0.0
-bet 10,check,0.0,0.0
+bet,check,20.0,0.0
+bet,check,10.0,0.0
 call,raise,0.0,82.0
 raise,fold,20.0,0.0
 call,raise,0.0,32.0
 call,call,0.0,0.0
 call,raise,0.0,18.0
 call,fold,0.0,0.0
-call,bet 29,0.0,0.0
+call,bet,0.0,29.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
-bet 10,check,0.0,0.0
+bet,check,10.0,0.0
 call,raise,0.0,78.0
 call,fold,0.0,0.0
-call,bet 29,0.0,0.0
+call,bet,0.0,29.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
@@ -1314,8 +1314,8 @@ call,call,0.0,0.0
 call,check,0.0,0.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
-bet 15,bet 1,0.0,0.0
-bet 4,check,0.0,0.0
+bet,bet,15.0,1.0
+bet,check,4.0,0.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
 call,check,0.0,0.0
@@ -1328,15 +1328,15 @@ raise,raise,60.0,87.0
 call,check,0.0,0.0
 call,call,0.0,0.0
 call,check,0.0,0.0
-call,bet 7,0.0,0.0
+call,bet,0.0,7.0
 call,raise,0.0,92.0
 call,call,0.0,0.0
 raise,call,144.0,0.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
 call,call,0.0,0.0
-bet 20,call,0.0,0.0
-bet 10,check,0.0,0.0
+bet,call,20.0,0.0
+bet,check,10.0,0.0
 call,raise,0.0,88.0
 call,raise,0.0,79.0
 raise,fold,200.0,0.0
@@ -1348,12 +1348,12 @@ call,raise,0.0,94.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
-call,bet 10,0.0,0.0
+call,bet,0.0,10.0
 call,raise,0.0,87.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
 call,call,0.0,0.0
-bet 10,bet 12,0.0,0.0
+bet,bet,10.0,12.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
 call,check,0.0,0.0
@@ -1362,12 +1362,12 @@ call,call,0.0,0.0
 call,check,0.0,0.0
 raise,call,40.0,0.0
 call,raise,0.0,83.0
-bet 20,check,0.0,0.0
-bet 8,bet 28,0.0,0.0
+bet,check,20.0,0.0
+bet,bet,8.0,28.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
 call,check,0.0,0.0
-call,bet 11,0.0,0.0
+call,bet,0.0,11.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
 raise,raise,120.0,88.0
@@ -1380,14 +1380,14 @@ call,fold,0.0,0.0
 raise,fold,15.0,0.0
 call,call,0.0,0.0
 call,check,0.0,0.0
-bet 20,check,0.0,0.0
+bet,check,20.0,0.0
 raise,check,32.0,0.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
 raise,fold,150.0,0.0
 call,call,0.0,0.0
-call,bet 4,0.0,0.0
+call,bet,0.0,4.0
 call,raise,0.0,57.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
@@ -1407,20 +1407,20 @@ call,call,0.0,0.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
 raise,check,5.0,0.0
-call,bet 8,0.0,0.0
+call,bet,0.0,8.0
 call,fold,0.0,0.0
-call,bet 1,0.0,0.0
+call,bet,0.0,1.0
 call,fold,0.0,0.0
-bet 15,bet 19,0.0,0.0
+bet,bet,15.0,19.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
-bet 20,bet 2,0.0,0.0
+bet,bet,20.0,2.0
 call,raise,0.0,35.0
 call,fold,0.0,0.0
 call,raise,0.0,88.0
-bet 20,bet 29,0.0,0.0
+bet,bet,20.0,29.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
@@ -1430,7 +1430,7 @@ call,check,0.0,0.0
 raise,call,40.0,0.0
 raise,fold,120.0,0.0
 call,check,0.0,0.0
-bet 6,bet 13,0.0,0.0
+bet,bet,6.0,13.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
@@ -1440,23 +1440,23 @@ call,call,0.0,0.0
 call,fold,0.0,0.0
 call,raise,0.0,83.0
 call,fold,0.0,0.0
-bet 8,bet 16,0.0,0.0
-call,bet 39,0.0,0.0
+bet,bet,8.0,16.0
+call,bet,0.0,39.0
 call,call,0.0,0.0
 call,raise,0.0,30.0
-raise,bet 51,32.0,0.0
+raise,bet,32.0,51.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
-bet 10,check,0.0,0.0
+bet,check,10.0,0.0
 call,fold,0.0,0.0
 call,raise,0.0,90.0
 call,raise,0.0,93.0
 call,check,0.0,0.0
 call,raise,0.0,16.0
-bet 4,check,0.0,0.0
-call,bet 4,0.0,0.0
+bet,check,4.0,0.0
+call,bet,0.0,4.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
@@ -1468,29 +1468,29 @@ call,call,0.0,0.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
-bet 10,bet 12,0.0,0.0
+bet,bet,10.0,12.0
 call,call,0.0,0.0
 call,check,0.0,0.0
 call,call,0.0,0.0
-bet 16,check,0.0,0.0
-bet 6,check,0.0,0.0
+bet,check,16.0,0.0
+bet,check,6.0,0.0
 call,check,0.0,0.0
 call,call,0.0,0.0
 call,call,0.0,0.0
 call,call,0.0,0.0
 call,check,0.0,0.0
 call,raise,0.0,25.0
-bet 40,call,0.0,0.0
+bet,call,40.0,0.0
 call,call,0.0,0.0
 call,call,0.0,0.0
-bet 6,check,0.0,0.0
+bet,check,6.0,0.0
 call,call,0.0,0.0
 call,check,0.0,0.0
-call,bet 4,0.0,0.0
+call,bet,0.0,4.0
 call,call,0.0,0.0
-bet 10,check,0.0,0.0
+bet,check,10.0,0.0
 raise,call,20.0,0.0
-bet 3,check,0.0,0.0
+bet,check,3.0,0.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
@@ -1498,8 +1498,8 @@ call,check,0.0,0.0
 call,check,0.0,0.0
 call,raise,0.0,79.0
 call,raise,0.0,81.0
-bet 15,fold,0.0,0.0
-bet 25,check,0.0,0.0
+bet,fold,15.0,0.0
+bet,check,25.0,0.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
@@ -1507,14 +1507,14 @@ call,check,0.0,0.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
 raise,call,144.0,0.0
-call,bet 8,0.0,0.0
+call,bet,0.0,8.0
 call,raise,0.0,22.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
-call,bet 2,0.0,0.0
+call,bet,0.0,2.0
 call,fold,0.0,0.0
 call,raise,0.0,80.0
-call,bet 5,0.0,0.0
+call,bet,0.0,5.0
 call,check,0.0,0.0
 call,raise,0.0,82.0
 call,raise,0.0,32.0
@@ -1532,8 +1532,8 @@ call,check,0.0,0.0
 raise,call,200.0,0.0
 call,raise,0.0,77.0
 call,check,0.0,0.0
-bet 10,check,0.0,0.0
-call,bet 20,0.0,0.0
+bet,check,10.0,0.0
+call,bet,0.0,20.0
 call,fold,0.0,0.0
 call,raise,0.0,10.0
 call,fold,0.0,0.0
@@ -1543,7 +1543,7 @@ call,check,0.0,0.0
 raise,check,5.0,0.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
-call,bet 10,0.0,0.0
+call,bet,0.0,10.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
 call,call,0.0,0.0
@@ -1553,7 +1553,7 @@ call,fold,0.0,0.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
 raise,raise,128.0,90.0
-call,bet 40,0.0,0.0
+call,bet,0.0,40.0
 raise,raise,64.0,81.0
 call,raise,0.0,77.0
 raise,fold,50.0,0.0
@@ -1564,7 +1564,7 @@ call,fold,0.0,0.0
 call,call,0.0,0.0
 call,check,0.0,0.0
 raise,fold,128.0,0.0
-bet 15,check,0.0,0.0
+bet,check,15.0,0.0
 call,call,0.0,0.0
 call,raise,0.0,37.0
 call,call,0.0,0.0
@@ -1574,12 +1574,12 @@ call,raise,0.0,77.0
 call,check,0.0,0.0
 raise,call,200.0,0.0
 call,raise,0.0,74.0
-bet 10,check,0.0,0.0
+bet,check,10.0,0.0
 raise,check,20.0,0.0
 call,call,0.0,0.0
-bet 40,call,0.0,0.0
+bet,call,40.0,0.0
 call,call,0.0,0.0
-call,bet 18,0.0,0.0
+call,bet,0.0,18.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
@@ -1587,15 +1587,15 @@ call,raise,0.0,77.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
 call,call,0.0,0.0
-bet 20,call,0.0,0.0
+bet,call,20.0,0.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
-bet 15,check,0.0,0.0
+bet,check,15.0,0.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
-bet 4,check,0.0,0.0
+bet,check,4.0,0.0
 call,call,0.0,0.0
 call,raise,0.0,13.0
 call,fold,0.0,0.0
@@ -1613,22 +1613,22 @@ call,call,0.0,0.0
 raise,call,120.0,0.0
 call,raise,0.0,49.0
 call,fold,0.0,0.0
-bet 4,check,0.0,0.0
+bet,check,4.0,0.0
 call,check,0.0,0.0
 call,check,0.0,0.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
-bet 40,check,0.0,0.0
+bet,check,40.0,0.0
 call,raise,0.0,28.0
 call,check,0.0,0.0
 call,call,0.0,0.0
 call,raise,0.0,90.0
 call,fold,0.0,0.0
-call,bet 23,0.0,0.0
+call,bet,0.0,23.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
 call,check,0.0,0.0
-bet 8,bet 28,0.0,0.0
+bet,bet,8.0,28.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
@@ -1651,8 +1651,8 @@ call,check,0.0,0.0
 call,call,0.0,0.0
 call,call,0.0,0.0
 call,raise,0.0,77.0
-call,bet 29,0.0,0.0
-bet 6,check,0.0,0.0
+call,bet,0.0,29.0
+bet,check,6.0,0.0
 raise,call,58.0,0.0
 call,raise,0.0,14.0
 call,call,0.0,0.0
@@ -1675,10 +1675,10 @@ call,check,0.0,0.0
 call,call,0.0,0.0
 call,check,0.0,0.0
 call,call,0.0,0.0
-call,bet 7,0.0,0.0
+call,bet,0.0,7.0
 call,call,0.0,0.0
 call,check,0.0,0.0
-bet 20,call,0.0,0.0
+bet,call,20.0,0.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
@@ -1694,29 +1694,29 @@ call,raise,0.0,83.0
 call,call,0.0,0.0
 call,raise,0.0,93.0
 call,fold,0.0,0.0
-bet 4,bet 20,0.0,0.0
+bet,bet,4.0,20.0
 call,raise,0.0,83.0
 raise,raise,120.0,92.0
 call,call,0.0,0.0
-call,bet 22,0.0,0.0
+call,bet,0.0,22.0
 call,fold,0.0,0.0
-call,bet 27,0.0,0.0
+call,bet,0.0,27.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
 call,check,0.0,0.0
-bet 10,call,0.0,0.0
+bet,call,10.0,0.0
 call,fold,0.0,0.0
 call,raise,0.0,74.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
 call,check,0.0,0.0
 raise,fold,50.0,0.0
-call,bet 29,0.0,0.0
+call,bet,0.0,29.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
-call,bet 31,0.0,0.0
+call,bet,0.0,31.0
 call,raise,0.0,86.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
@@ -1732,20 +1732,20 @@ call,call,0.0,0.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
-bet 25,check,0.0,0.0
+bet,check,25.0,0.0
 call,check,0.0,0.0
 call,raise,0.0,89.0
 raise,call,120.0,0.0
 call,call,0.0,0.0
-bet 40,bet 8,0.0,0.0
+bet,bet,40.0,8.0
 call,fold,0.0,0.0
-call,bet 17,0.0,0.0
+call,bet,0.0,17.0
 call,raise,0.0,18.0
 raise,fold,64.0,0.0
 call,raise,0.0,80.0
 call,check,0.0,0.0
 call,check,0.0,0.0
-call,bet 5,0.0,0.0
+call,bet,0.0,5.0
 call,check,0.0,0.0
 raise,call,40.0,0.0
 raise,call,20.0,0.0
@@ -1760,10 +1760,10 @@ call,raise,0.0,84.0
 call,check,0.0,0.0
 raise,raise,120.0,85.0
 call,call,0.0,0.0
-call,bet 23,0.0,0.0
+call,bet,0.0,23.0
 call,raise,0.0,41.0
 call,raise,0.0,84.0
-bet 10,check,0.0,0.0
+bet,check,10.0,0.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
 call,call,0.0,0.0
@@ -1771,7 +1771,7 @@ call,check,0.0,0.0
 call,call,0.0,0.0
 raise,fold,60.0,0.0
 call,check,0.0,0.0
-call,bet 7,0.0,0.0
+call,bet,0.0,7.0
 call,check,0.0,0.0
 call,check,0.0,0.0
 call,call,0.0,0.0
@@ -1779,21 +1779,21 @@ call,check,0.0,0.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
-call,bet 18,0.0,0.0
+call,bet,0.0,18.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
-bet 20,check,0.0,0.0
+bet,check,20.0,0.0
 call,check,0.0,0.0
-bet 120,raise,0.0,81.0
+bet,raise,120.0,81.0
 call,fold,0.0,0.0
-bet 10,call,0.0,0.0
+bet,call,10.0,0.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
 call,raise,0.0,16.0
 raise,call,144.0,0.0
-bet 16,check,0.0,0.0
+bet,check,16.0,0.0
 call,check,0.0,0.0
-call,bet 7,0.0,0.0
+call,bet,0.0,7.0
 raise,fold,20.0,0.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
@@ -1802,29 +1802,29 @@ call,raise,0.0,80.0
 call,raise,0.0,93.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
-call,bet 12,0.0,0.0
+call,bet,0.0,12.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
-bet 40,check,0.0,0.0
+bet,check,40.0,0.0
 call,check,0.0,0.0
 raise,fold,200.0,0.0
 call,call,0.0,0.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
-call,bet 2,0.0,0.0
-call,bet 4,0.0,0.0
+call,bet,0.0,2.0
+call,bet,0.0,4.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
-bet 40,bet 8,0.0,0.0
+bet,bet,40.0,8.0
 call,check,0.0,0.0
 raise,fold,120.0,0.0
 call,fold,0.0,0.0
 raise,fold,128.0,0.0
-bet 25,bet 31,0.0,0.0
+bet,bet,25.0,31.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
-bet 4,check,0.0,0.0
+bet,check,4.0,0.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
@@ -1842,20 +1842,20 @@ call,raise,0.0,84.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
 call,call,0.0,0.0
-bet 15,call,0.0,0.0
+bet,call,15.0,0.0
 raise,fold,200.0,0.0
-bet 4,bet 8,0.0,0.0
-call,bet 29,0.0,0.0
+bet,bet,4.0,8.0
+call,bet,0.0,29.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
 call,raise,0.0,27.0
-bet 10,check,0.0,0.0
+bet,check,10.0,0.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
-bet 8,check,0.0,0.0
+bet,check,8.0,0.0
 call,raise,0.0,33.0
-call,bet 15,0.0,0.0
+call,bet,0.0,15.0
 call,raise,0.0,90.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
@@ -1865,7 +1865,7 @@ call,fold,0.0,0.0
 call,fold,0.0,0.0
 call,raise,0.0,77.0
 call,call,0.0,0.0
-call,bet 17,0.0,0.0
+call,bet,0.0,17.0
 call,raise,0.0,72.0
 call,raise,0.0,54.0
 call,call,0.0,0.0
@@ -1875,27 +1875,27 @@ raise,fold,150.0,0.0
 call,call,0.0,0.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
-bet 4,bet 22,0.0,0.0
+bet,bet,4.0,22.0
 raise,call,144.0,0.0
 call,raise,0.0,38.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
 call,raise,0.0,77.0
-call,bet 29,0.0,0.0
+call,bet,0.0,29.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
-call,bet 17,0.0,0.0
-call,bet 16,0.0,0.0
+call,bet,0.0,17.0
+call,bet,0.0,16.0
 raise,fold,200.0,0.0
 raise,fold,40.0,0.0
 call,check,0.0,0.0
 call,call,0.0,0.0
-call,bet 23,0.0,0.0
-bet 8,bet 28,0.0,0.0
+call,bet,0.0,23.0
+bet,bet,8.0,28.0
 call,call,0.0,0.0
 call,check,0.0,0.0
-call,bet 5,0.0,0.0
+call,bet,0.0,5.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
 fold,fold,0.0,0.0
@@ -1907,7 +1907,7 @@ call,raise,0.0,16.0
 call,call,0.0,0.0
 call,check,0.0,0.0
 call,call,0.0,0.0
-call,bet 13,0.0,0.0
+call,bet,0.0,13.0
 call,raise,0.0,27.0
 call,check,0.0,0.0
 call,check,0.0,0.0
@@ -1943,12 +1943,12 @@ call,fold,0.0,0.0
 call,call,0.0,0.0
 call,check,0.0,0.0
 raise,raise,30.0,43.0
-call,bet 23,0.0,0.0
+call,bet,0.0,23.0
 call,raise,0.0,16.0
 call,raise,0.0,64.0
 call,check,0.0,0.0
 call,check,0.0,0.0
-call,bet 5,0.0,0.0
+call,bet,0.0,5.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
@@ -1957,15 +1957,15 @@ call,fold,0.0,0.0
 call,check,0.0,0.0
 call,check,0.0,0.0
 raise,fold,25.0,0.0
-bet 4,call,0.0,0.0
+bet,call,4.0,0.0
 call,raise,0.0,70.0
 call,raise,0.0,25.0
-bet 16,bet 17,0.0,0.0
+bet,bet,16.0,17.0
 call,check,0.0,0.0
 call,call,0.0,0.0
 call,check,0.0,0.0
 raise,call,64.0,0.0
-call,bet 3,0.0,0.0
+call,bet,0.0,3.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
@@ -1973,7 +1973,7 @@ call,call,0.0,0.0
 call,check,0.0,0.0
 call,raise,0.0,82.0
 call,fold,0.0,0.0
-call,bet 23,0.0,0.0
+call,bet,0.0,23.0
 call,check,0.0,0.0
 call,check,0.0,0.0
 call,call,0.0,0.0
@@ -1987,9 +1987,9 @@ call,check,0.0,0.0
 call,raise,0.0,61.0
 raise,raise,60.0,89.0
 call,check,0.0,0.0
-bet 83,call,0.0,0.0
-call,bet 23,0.0,0.0
-bet 20,check,0.0,0.0
+bet,call,83.0,0.0
+call,bet,0.0,23.0
+bet,check,20.0,0.0
 call,call,0.0,0.0
 raise,call,50.0,0.0
 call,check,0.0,0.0
@@ -1998,8 +1998,8 @@ call,call,0.0,0.0
 call,raise,0.0,32.0
 call,call,0.0,0.0
 call,call,0.0,0.0
-call,bet 29,0.0,0.0
-call,bet 28,0.0,0.0
+call,bet,0.0,29.0
+call,bet,0.0,28.0
 call,raise,0.0,31.0
 call,check,0.0,0.0
 call,check,0.0,0.0
@@ -2024,7 +2024,7 @@ call,check,0.0,0.0
 raise,call,40.0,0.0
 call,raise,0.0,47.0
 call,check,0.0,0.0
-call,bet 12,0.0,0.0
+call,bet,0.0,12.0
 call,raise,0.0,74.0
 call,call,0.0,0.0
 call,call,0.0,0.0
@@ -2045,17 +2045,17 @@ call,raise,0.0,16.0
 call,check,0.0,0.0
 call,check,0.0,0.0
 call,call,0.0,0.0
-bet 40,check,0.0,0.0
+bet,check,40.0,0.0
 call,check,0.0,0.0
 raise,call,40.0,0.0
 call,check,0.0,0.0
 call,check,0.0,0.0
-bb bet 120,call,0.0,0.0
+bet,call,120.0,0.0
 call,fold,0.0,0.0
 raise,raise,32.0,41.0
 call,check,0.0,0.0
-call,bet 13,0.0,0.0
-bet 25,check,0.0,0.0
+call,bet,0.0,13.0
+bet,check,25.0,0.0
 call,call,0.0,0.0
 call,check,0.0,0.0
 call,call,0.0,0.0
@@ -2063,7 +2063,7 @@ call,raise,0.0,88.0
 call,raise,0.0,86.0
 raise,call,120.0,0.0
 call,check,0.0,0.0
-bet 16,bet 17,0.0,0.0
+bet,bet,16.0,17.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
@@ -2080,17 +2080,17 @@ call,check,0.0,0.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
-bet 4,check,0.0,0.0
+bet,check,4.0,0.0
 call,check,0.0,0.0
 call,call,0.0,0.0
 call,call,0.0,0.0
-call,bet 3,0.0,0.0
-call,bet 11,0.0,0.0
+call,bet,0.0,3.0
+call,bet,0.0,11.0
 call,raise,0.0,13.0
-call,bet 17,0.0,0.0
-call,bet 11,0.0,0.0
+call,bet,0.0,17.0
+call,bet,0.0,11.0
 call,raise,0.0,94.0
-bet 60,call,0.0,0.0
+bet,call,60.0,0.0
 call,call,0.0,0.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
@@ -2099,7 +2099,7 @@ call,check,0.0,0.0
 call,check,0.0,0.0
 call,check,0.0,0.0
 call,raise,0.0,41.0
-call,bet 5,0.0,0.0
+call,bet,0.0,5.0
 call,check,0.0,0.0
 raise,call,20.0,0.0
 call,call,0.0,0.0
@@ -2123,14 +2123,14 @@ call,call,0.0,0.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
 call,check,0.0,0.0
-bet 45,check,0.0,0.0
+bet,check,45.0,0.0
 call,fold,0.0,0.0
-bet 4,check,0.0,0.0
+bet,check,4.0,0.0
 call,check,0.0,0.0
-call,bet 12,0.0,0.0
+call,bet,0.0,12.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
-call,bet 29,0.0,0.0
+call,bet,0.0,29.0
 call,call,0.0,0.0
 call,call,0.0,0.0
 call,raise,0.0,74.0
@@ -2139,9 +2139,9 @@ call,call,0.0,0.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
 call,raise,0.0,88.0
-bet 20,check,0.0,0.0
+bet,check,20.0,0.0
 call,fold,0.0,0.0
-bet 10,check,0.0,0.0
+bet,check,10.0,0.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
@@ -2156,14 +2156,14 @@ call,call,0.0,0.0
 call,check,0.0,0.0
 call,check,0.0,0.0
 call,check,0.0,0.0
-bet 45,check,0.0,0.0
-call,bet 13,0.0,0.0
+bet,check,45.0,0.0
+call,bet,0.0,13.0
 call,check,0.0,0.0
 call,check,0.0,0.0
 call,call,0.0,0.0
 call,check,0.0,0.0
 call,call,0.0,0.0
-bet 10,raise,0.0,41.0
+bet,raise,10.0,41.0
 call,call,0.0,0.0
 call,call,0.0,0.0
 call,call,0.0,0.0
@@ -2171,8 +2171,8 @@ call,check,0.0,0.0
 call,call,0.0,0.0
 raise,call,120.0,0.0
 call,check,0.0,0.0
-call,bet 29,0.0,0.0
-bet 50,raise,0.0,86.0
+call,bet,0.0,29.0
+bet,raise,50.0,86.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
@@ -2196,7 +2196,7 @@ call,fold,0.0,0.0
 call,check,0.0,0.0
 call,call,0.0,0.0
 raise,fold,120.0,0.0
-bet 8,check,0.0,0.0
+bet,check,8.0,0.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
 raise,fold,15.0,0.0
@@ -2207,8 +2207,8 @@ call,check,0.0,0.0
 raise,fold,40.0,0.0
 call,fold,0.0,0.0
 call,raise,0.0,46.0
-bet 10,call,0.0,0.0
-bet 40,check,0.0,0.0
+bet,call,10.0,0.0
+bet,check,40.0,0.0
 call,raise,0.0,32.0
 raise,fold,60.0,0.0
 call,call,0.0,0.0
@@ -2216,13 +2216,13 @@ call,fold,0.0,0.0
 call,check,0.0,0.0
 call,raise,0.0,31.0
 call,fold,0.0,0.0
-call,bet 23,0.0,0.0
+call,bet,0.0,23.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
 call,check,0.0,0.0
-bet 8,check,0.0,0.0
-bet 45,check,0.0,0.0
+bet,check,8.0,0.0
+bet,check,45.0,0.0
 call,fold,0.0,0.0
 call,raise,0.0,58.0
 call,check,0.0,0.0
@@ -2234,11 +2234,11 @@ call,raise,0.0,87.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
-bet 10,check,0.0,0.0
+bet,check,10.0,0.0
 call,raise,0.0,25.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
-bet 10,raise,0.0,16.0
+bet,raise,10.0,16.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
@@ -2248,44 +2248,44 @@ call,fold,0.0,0.0
 call,raise,0.0,28.0
 call,check,0.0,0.0
 call,check,0.0,0.0
-call,bet 13,0.0,0.0
+call,bet,0.0,13.0
 call,raise,0.0,32.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
-call,bet 13,0.0,0.0
+call,bet,0.0,13.0
 call,call,0.0,0.0
 call,check,0.0,0.0
-bet 8,check,0.0,0.0
+bet,check,8.0,0.0
 call,fold,0.0,0.0
-bet 8,check,0.0,0.0
-bet 40,check,0.0,0.0
+bet,check,8.0,0.0
+bet,check,40.0,0.0
 call,call,0.0,0.0
 call,call,0.0,0.0
 call,check,0.0,0.0
 call,call,0.0,0.0
-call,call,0.0,0.0
-call,fold,0.0,0.0
-call,fold,0.0,0.0
-call,bet 17,0.0,0.0
-call,check,0.0,0.0
-call,check,0.0,0.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
-bet 15,bet 3,0.0,0.0
+call,fold,0.0,0.0
+call,bet,0.0,17.0
+call,check,0.0,0.0
+call,check,0.0,0.0
+call,call,0.0,0.0
+call,fold,0.0,0.0
+bet,bet,15.0,3.0
 call,check,0.0,0.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
-bet 4,check,0.0,0.0
+bet,check,4.0,0.0
 call,call,0.0,0.0
-call,bet 29,0.0,0.0
+call,bet,0.0,29.0
 call,call,0.0,0.0
-call,bet 24,0.0,0.0
+call,bet,0.0,24.0
 call,call,0.0,0.0
 call,check,0.0,0.0
 call,check,0.0,0.0
-bet 8,bet 13,0.0,0.0
+bet,bet,8.0,13.0
 call,raise,0.0,37.0
 call,raise,0.0,90.0
 call,fold,0.0,0.0
@@ -2300,21 +2300,21 @@ call,call,0.0,0.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
-call,bet 23,0.0,0.0
+call,bet,0.0,23.0
 call,fold,0.0,0.0
-bet 15,check,0.0,0.0
+bet,check,15.0,0.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
-bet 10,check,0.0,0.0
+bet,check,10.0,0.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
 call,raise,0.0,48.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
-call,bet 13,0.0,0.0
+call,bet,0.0,13.0
 call,check,0.0,0.0
-call,bet 17,0.0,0.0
+call,bet,0.0,17.0
 call,fold,0.0,0.0
 call,raise,0.0,31.0
 call,call,0.0,0.0
@@ -2322,44 +2322,44 @@ call,call,0.0,0.0
 call,call,0.0,0.0
 call,check,0.0,0.0
 call,raise,0.0,38.0
-bet 15,raise,0.0,27.0
+bet,raise,15.0,27.0
 call,fold,0.0,0.0
 raise,fold,128.0,0.0
 call,call,0.0,0.0
 call,call,0.0,0.0
 call,call,0.0,0.0
 call,check,0.0,0.0
-call,bet 24,0.0,0.0
+call,bet,0.0,24.0
 call,check,0.0,0.0
 call,check,0.0,0.0
-call,bet 10,0.0,0.0
-call,check,0.0,0.0
-call,fold,0.0,0.0
-call,call,0.0,0.0
-call,check,0.0,0.0
-call,fold,0.0,0.0
-call,check,0.0,0.0
-call,check,0.0,0.0
-bet 17,raise,0.0,86.0
-bet 10,check,0.0,0.0
-call,bet 29,0.0,0.0
-call,call,0.0,0.0
+call,bet,0.0,10.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
-bet 4,check,0.0,0.0
-call,bet 13,0.0,0.0
+call,check,0.0,0.0
+call,fold,0.0,0.0
 call,check,0.0,0.0
 call,check,0.0,0.0
-call,bet 23,0.0,0.0
-bet 25,check,0.0,0.0
+bet,raise,17.0,86.0
+bet,check,10.0,0.0
+call,bet,0.0,29.0
+call,call,0.0,0.0
+call,check,0.0,0.0
+call,fold,0.0,0.0
+call,call,0.0,0.0
+bet,check,4.0,0.0
+call,bet,0.0,13.0
+call,check,0.0,0.0
+call,check,0.0,0.0
+call,bet,0.0,23.0
+bet,check,25.0,0.0
 call,check,0.0,0.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
 raise,call,60.0,0.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
-call,bet 12,0.0,0.0
+call,bet,0.0,12.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
@@ -2370,17 +2370,17 @@ call,fold,0.0,0.0
 call,raise,0.0,38.0
 call,check,0.0,0.0
 call,raise,0.0,91.0
-call,bet 23,0.0,0.0
+call,bet,0.0,23.0
 call,check,0.0,0.0
 call,call,0.0,0.0
 call,check,0.0,0.0
-call,bet 34,0.0,0.0
+call,bet,0.0,34.0
 call,call,0.0,0.0
 call,check,0.0,0.0
 call,raise,0.0,31.0
 call,raise,0.0,81.0
 call,call,0.0,0.0
-call,bet 22,0.0,0.0
+call,bet,0.0,22.0
 call,raise,0.0,32.0
 call,raise,0.0,83.0
 call,fold,0.0,0.0
@@ -2392,17 +2392,17 @@ raise,fold,40.0,0.0
 call,check,0.0,0.0
 call,call,0.0,0.0
 raise,fold,29.0,0.0
-call,bet 17,0.0,0.0
+call,bet,0.0,17.0
 call,call,0.0,0.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
 call,raise,0.0,13.0
 call,fold,0.0,0.0
 call,raise,0.0,83.0
-bet 100,call,0.0,0.0
-bet 16,check,0.0,0.0
+bet,call,100.0,0.0
+bet,check,16.0,0.0
 raise,call,40.0,0.0
-bet 25,check,0.0,0.0
+bet,check,25.0,0.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
@@ -2411,33 +2411,33 @@ call,call,0.0,0.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
 call,call,0.0,0.0
-bet 15,check,0.0,0.0
+bet,check,15.0,0.0
 call,raise,0.0,83.0
 call,check,0.0,0.0
 call,call,0.0,0.0
-bet 75,bet 20,0.0,0.0
-call,bet 17,0.0,0.0
-bet 20,check,0.0,0.0
+bet,bet,75.0,20.0
+call,bet,0.0,17.0
+bet,check,20.0,0.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
 call,check,0.0,0.0
 call,raise,0.0,87.0
-bet 4,check,0.0,0.0
+bet,check,4.0,0.0
 call,call,0.0,0.0
 call,call,0.0,0.0
 raise,fold,40.0,0.0
-call,bet 17,0.0,0.0
+call,bet,0.0,17.0
 call,raise,0.0,29.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
 call,raise,0.0,83.0
 call,call,0.0,0.0
 call,raise,0.0,45.0
-bet 15,fold,0.0,0.0
+bet,fold,15.0,0.0
 call,call,0.0,0.0
 call,check,0.0,0.0
 raise,call,20.0,0.0
-call,bet 13,0.0,0.0
+call,bet,0.0,13.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
 call,call,0.0,0.0
@@ -2445,20 +2445,20 @@ raise,call,30.0,0.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
 call,call,0.0,0.0
-call,bet 16,0.0,0.0
+call,bet,0.0,16.0
 call,check,0.0,0.0
 raise,fold,40.0,0.0
 call,check,0.0,0.0
 call,raise,0.0,83.0
 call,fold,0.0,0.0
-call,bet 17,0.0,0.0
+call,bet,0.0,17.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
-bet 10,check,0.0,0.0
+bet,check,10.0,0.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
 call,check,0.0,0.0
@@ -2483,24 +2483,24 @@ call,check,0.0,0.0
 call,fold,0.0,0.0
 call,raise,0.0,89.0
 call,raise,0.0,25.0
-bet 23,bet 2,0.0,0.0
+bet,bet,23.0,2.0
 call,check,0.0,0.0
-bet 6,check,0.0,0.0
+bet,check,6.0,0.0
 call,fold,0.0,0.0
-call,bet 12,0.0,0.0
+call,bet,0.0,12.0
 call,check,0.0,0.0
 call,check,0.0,0.0
 call,raise,0.0,70.0
 call,raise,0.0,38.0
 call,check,0.0,0.0
 call,raise,0.0,32.0
-call,bet 2,0.0,0.0
-call,bet 12,0.0,0.0
+call,bet,0.0,2.0
+call,bet,0.0,12.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
 call,call,0.0,0.0
-call,bet 12,0.0,0.0
-call,bet 18,0.0,0.0
+call,bet,0.0,12.0
+call,bet,0.0,18.0
 call,call,0.0,0.0
 raise,call,50.0,0.0
 call,call,0.0,0.0
@@ -2515,7 +2515,7 @@ call,fold,0.0,0.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
-call,bet 27,0.0,0.0
+call,bet,0.0,27.0
 call,check,0.0,0.0
 call,raise,0.0,61.0
 call,fold,0.0,0.0
@@ -2525,29 +2525,29 @@ call,call,0.0,0.0
 call,raise,0.0,89.0
 call,call,0.0,0.0
 call,raise,0.0,83.0
-call,bet 3,0.0,0.0
+call,bet,0.0,3.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
-bet 16,check,0.0,0.0
+bet,check,16.0,0.0
 call,check,0.0,0.0
-call,bet 4,0.0,0.0
+call,bet,0.0,4.0
 call,fold,0.0,0.0
 call,raise,0.0,84.0
 call,call,0.0,0.0
 call,check,0.0,0.0
 call,check,0.0,0.0
 raise,raise,40.0,57.0
-call,bet 23,0.0,0.0
+call,bet,0.0,23.0
 call,check,0.0,0.0
 raise,call,20.0,0.0
 call,raise,0.0,81.0
-call,bet 11,0.0,0.0
+call,bet,0.0,11.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
-bet 6,check,0.0,0.0
+bet,check,6.0,0.0
 call,check,0.0,0.0
 call,call,0.0,0.0
 call,check,0.0,0.0
@@ -2560,31 +2560,31 @@ call,fold,0.0,0.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
 call,check,0.0,0.0
-call,bet 13,0.0,0.0
+call,bet,0.0,13.0
 call,call,0.0,0.0
 raise,fold,50.0,0.0
 call,check,0.0,0.0
-bet 10,check,0.0,0.0
+bet,check,10.0,0.0
 call,call,0.0,0.0
 call,check,0.0,0.0
 call,call,0.0,0.0
 call,call,0.0,0.0
 raise,call,55.0,0.0
-call,bet 29,0.0,0.0
+call,bet,0.0,29.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
-bet 65,check,0.0,0.0
+bet,check,65.0,0.0
 call,raise,0.0,81.0
 call,fold,0.0,0.0
-bet 10,check,0.0,0.0
+bet,check,10.0,0.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
 call,call,0.0,0.0
-bet 10,check,0.0,0.0
+bet,check,10.0,0.0
 call,fold,0.0,0.0
 call,raise,0.0,32.0
 call,fold,0.0,0.0
@@ -2593,38 +2593,38 @@ call,check,0.0,0.0
 call,check,0.0,0.0
 call,check,0.0,0.0
 call,check,0.0,0.0
-call,bet 29,0.0,0.0
+call,bet,0.0,29.0
 raise,raise,32.0,93.0
-bet 45,bet 2,0.0,0.0
+bet,bet,45.0,2.0
 call,call,0.0,0.0
 call,raise,0.0,81.0
-bet 30,fold,0.0,0.0
+bet,fold,30.0,0.0
 call,raise,0.0,81.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
-call,bet 11,0.0,0.0
+call,bet,0.0,11.0
 call,check,0.0,0.0
 call,call,0.0,0.0
 call,raise,0.0,10.0
 call,raise,0.0,38.0
-call,bet 10,0.0,0.0
+call,bet,0.0,10.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
 raise,fold,150.0,0.0
 call,check,0.0,0.0
-call,bet 24,0.0,0.0
+call,bet,0.0,24.0
 call,call,0.0,0.0
-call,bet 34,0.0,0.0
-call,bet 12,0.0,0.0
+call,bet,0.0,34.0
+call,bet,0.0,12.0
 call,check,0.0,0.0
-bet 20,check,0.0,0.0
+bet,check,20.0,0.0
 call,raise,0.0,19.0
 call,call,0.0,0.0
 call,call,0.0,0.0
 call,call,0.0,0.0
 call,call,0.0,0.0
-bet 10,check,0.0,0.0
-call,bet 29,0.0,0.0
+bet,check,10.0,0.0
+call,bet,0.0,29.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
 raise,call,40.0,0.0
@@ -2633,40 +2633,40 @@ call,fold,0.0,0.0
 call,call,0.0,0.0
 call,call,0.0,0.0
 call,call,0.0,0.0
-call,bet 29,0.0,0.0
+call,bet,0.0,29.0
 call,raise,0.0,46.0
 call,raise,0.0,84.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
 call,raise,0.0,10.0
-bet 6,check,0.0,0.0
+bet,check,6.0,0.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
-bet 4,check,0.0,0.0
-bet 10,check,0.0,0.0
+bet,check,4.0,0.0
+bet,check,10.0,0.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
 call,raise,0.0,35.0
-call,bet 13,0.0,0.0
-call,bet 24,0.0,0.0
+call,bet,0.0,13.0
+call,bet,0.0,24.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
-bet 10,call,0.0,0.0
+bet,call,10.0,0.0
 call,raise,0.0,18.0
 raise,call,32.0,0.0
 call,fold,0.0,0.0
-call,bet 13,0.0,0.0
-call,bet 4,0.0,0.0
+call,bet,0.0,13.0
+call,bet,0.0,4.0
 call,check,0.0,0.0
 call,raise,0.0,40.0
 call,raise,0.0,25.0
 call,check,0.0,0.0
-call,bet 10,0.0,0.0
+call,bet,0.0,10.0
 call,check,0.0,0.0
-bet 10,fold,0.0,0.0
+bet,fold,10.0,0.0
 call,call,0.0,0.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
@@ -2679,16 +2679,16 @@ call,fold,0.0,0.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
 call,call,0.0,0.0
-bet 20,check,0.0,0.0
+bet,check,20.0,0.0
 call,raise,0.0,86.0
 call,fold,0.0,0.0
-call,bet 16,0.0,0.0
+call,bet,0.0,16.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
 call,raise,0.0,41.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
-bet 25,check,0.0,0.0
+bet,check,25.0,0.0
 call,call,0.0,0.0
 call,call,0.0,0.0
 call,call,0.0,0.0
@@ -2700,7 +2700,7 @@ call,fold,0.0,0.0
 raise,call,64.0,0.0
 call,call,0.0,0.0
 call,call,0.0,0.0
-call,bet 29,0.0,0.0
+call,bet,0.0,29.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
 call,raise,0.0,82.0
@@ -2709,18 +2709,18 @@ raise,call,120.0,0.0
 call,raise,0.0,16.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
-call,bet 23,0.0,0.0
+call,bet,0.0,23.0
 call,call,0.0,0.0
 call,call,0.0,0.0
 call,check,0.0,0.0
 call,raise,0.0,84.0
-call,bet 3,0.0,0.0
+call,bet,0.0,3.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
 call,check,0.0,0.0
 call,check,0.0,0.0
 call,call,0.0,0.0
-bet 4,check,0.0,0.0
+bet,check,4.0,0.0
 call,raise,0.0,86.0
 call,fold,0.0,0.0
 raise,raise,64.0,92.0
@@ -2731,16 +2731,16 @@ call,raise,0.0,85.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
 call,raise,0.0,31.0
-bet 8,check,0.0,0.0
-call,bet 17,0.0,0.0
+bet,check,8.0,0.0
+call,bet,0.0,17.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
-call,bet 10,0.0,0.0
+call,bet,0.0,10.0
 raise,call,60.0,0.0
 call,fold,0.0,0.0
 call,raise,0.0,83.0
 call,fold,0.0,0.0
-call,bet 4,0.0,0.0
+call,bet,0.0,4.0
 call,fold,0.0,0.0
 raise,call,55.0,0.0
 call,check,0.0,0.0
@@ -2752,7 +2752,7 @@ call,call,0.0,0.0
 call,raise,0.0,36.0
 raise,call,20.0,0.0
 raise,fold,55.0,0.0
-call,bet 29,0.0,0.0
+call,bet,0.0,29.0
 call,check,0.0,0.0
 call,call,0.0,0.0
 call,raise,0.0,18.0
@@ -2762,19 +2762,19 @@ call,fold,0.0,0.0
 call,call,0.0,0.0
 call,call,0.0,0.0
 raise,fold,60.0,0.0
-bet 6,bet 13,0.0,0.0
-call,bet 23,0.0,0.0
+bet,bet,6.0,13.0
+call,bet,0.0,23.0
 call,call,0.0,0.0
 call,raise,0.0,84.0
 call,fold,0.0,0.0
-bet 20,check,0.0,0.0
-bet 8,bet 28,0.0,0.0
+bet,check,20.0,0.0
+bet,bet,8.0,28.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
 call,check,0.0,0.0
 call,check,0.0,0.0
-call,bet 23,0.0,0.0
+call,bet,0.0,23.0
 call,call,0.0,0.0
 call,check,0.0,0.0
 call,call,0.0,0.0
@@ -2784,9 +2784,9 @@ call,fold,0.0,0.0
 call,call,0.0,0.0
 call,call,0.0,0.0
 raise,fold,50.0,0.0
-call,bet 10,0.0,0.0
+call,bet,0.0,10.0
 call,fold,0.0,0.0
-call,bet 10,0.0,0.0
+call,bet,0.0,10.0
 call,call,0.0,0.0
 call,check,0.0,0.0
 call,check,0.0,0.0
@@ -2797,48 +2797,48 @@ raise,fold,120.0,0.0
 call,check,0.0,0.0
 call,call,0.0,0.0
 call,call,0.0,0.0
-bet 4,check,0.0,0.0
+bet,check,4.0,0.0
 call,check,0.0,0.0
 call,call,0.0,0.0
-call,bet 10,0.0,0.0
+call,bet,0.0,10.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
-bet 39,call,0.0,0.0
+bet,call,39.0,0.0
 call,call,0.0,0.0
-bet 4,check,0.0,0.0
+bet,check,4.0,0.0
 call,raise,0.0,70.0
-call,bet 29,0.0,0.0
+call,bet,0.0,29.0
 call,check,0.0,0.0
-call,bet 15,0.0,0.0
+call,bet,0.0,15.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
 call,call,0.0,0.0
-bet 30,call,0.0,0.0
+bet,call,30.0,0.0
 call,check,0.0,0.0
 call,raise,0.0,89.0
 call,raise,0.0,83.0
-call,bet 17,0.0,0.0
+call,bet,0.0,17.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
 call,check,0.0,0.0
-call,bet 11,0.0,0.0
+call,bet,0.0,11.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
 raise,raise,120.0,92.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
 call,check,0.0,0.0
-call,bet 8,0.0,0.0
+call,bet,0.0,8.0
 call,call,0.0,0.0
 call,check,0.0,0.0
 raise,fold,60.0,0.0
 call,check,0.0,0.0
 call,call,0.0,0.0
 raise,call,150.0,0.0
-call,bet 10,0.0,0.0
+call,bet,0.0,10.0
 call,check,0.0,0.0
 call,check,0.0,0.0
 call,raise,0.0,41.0
@@ -2850,18 +2850,18 @@ call,fold,0.0,0.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
-bet 15,check,0.0,0.0
+bet,check,15.0,0.0
 call,check,0.0,0.0
 call,check,0.0,0.0
 call,call,0.0,0.0
 call,raise,0.0,65.0
 call,call,0.0,0.0
 call,check,0.0,0.0
-call,bet 29,0.0,0.0
+call,bet,0.0,29.0
 call,call,0.0,0.0
-call,bet 29,0.0,0.0
+call,bet,0.0,29.0
 raise,fold,41.0,0.0
-call,bet 23,0.0,0.0
+call,bet,0.0,23.0
 raise,raise,60.0,89.0
 call,fold,0.0,0.0
 call,raise,0.0,92.0
@@ -2869,18 +2869,18 @@ call,raise,0.0,95.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
 call,call,0.0,0.0
-bet 10,call,0.0,0.0
+bet,call,10.0,0.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
 call,call,0.0,0.0
-bet 4,check,0.0,0.0
+bet,check,4.0,0.0
 raise,call,50.0,0.0
-call,bet 12,0.0,0.0
+call,bet,0.0,12.0
 call,check,0.0,0.0
 call,check,0.0,0.0
-call,bet 28,0.0,0.0
+call,bet,0.0,28.0
 call,raise,0.0,93.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
@@ -2890,12 +2890,12 @@ call,fold,0.0,0.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
-bet 20,check,0.0,0.0
+bet,check,20.0,0.0
 call,check,0.0,0.0
-bet 23,check,0.0,0.0
+bet,check,23.0,0.0
 call,call,0.0,0.0
 call,raise,0.0,85.0
-bet 10,check,0.0,0.0
+bet,check,10.0,0.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
@@ -2906,11 +2906,11 @@ call,check,0.0,0.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
 fold,fold,0.0,0.0
-bet 10,check,0.0,0.0
+bet,check,10.0,0.0
 call,fold,0.0,0.0
-call,bet 29,0.0,0.0
+call,bet,0.0,29.0
 call,check,0.0,0.0
-bet 15,call,0.0,0.0
+bet,call,15.0,0.0
 call,check,0.0,0.0
 raise,call,20.0,0.0
 fold,fold,0.0,0.0
@@ -2925,8 +2925,8 @@ call,call,0.0,0.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
 call,raise,0.0,61.0
-bet 16,bet 17,0.0,0.0
-call,bet 7,0.0,0.0
+bet,bet,16.0,17.0
+call,bet,0.0,7.0
 call,check,0.0,0.0
 call,raise,0.0,64.0
 call,fold,0.0,0.0
@@ -2948,7 +2948,7 @@ call,call,0.0,0.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
-bet 20,check,0.0,0.0
+bet,check,20.0,0.0
 call,raise,0.0,86.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
@@ -2956,7 +2956,7 @@ call,check,0.0,0.0
 call,check,0.0,0.0
 call,call,0.0,0.0
 raise,check,10.0,0.0
-bet 10,raise,0.0,16.0
+bet,raise,10.0,16.0
 fold,fold,0.0,0.0
 call,call,0.0,0.0
 call,raise,0.0,74.0
@@ -2982,7 +2982,7 @@ call,raise,0.0,86.0
 call,raise,0.0,11.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
-call,bet 17,0.0,0.0
+call,bet,0.0,17.0
 raise,check,20.0,0.0
 call,check,0.0,0.0
 call,check,0.0,0.0
@@ -2993,7 +2993,7 @@ call,call,0.0,0.0
 call,check,0.0,0.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
-call,bet 13,0.0,0.0
+call,bet,0.0,13.0
 call,call,0.0,0.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
@@ -3007,10 +3007,10 @@ call,call,0.0,0.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
-call,bet 11,0.0,0.0
+call,bet,0.0,11.0
 call,check,0.0,0.0
 call,raise,0.0,77.0
-call,bet 29,0.0,0.0
+call,bet,0.0,29.0
 call,call,0.0,0.0
 call,raise,0.0,86.0
 call,fold,0.0,0.0
@@ -3023,43 +3023,43 @@ call,raise,0.0,32.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
 raise,raise,60.0,89.0
-bet 75,check,0.0,0.0
+bet,check,75.0,0.0
 call,check,0.0,0.0
 call,raise,0.0,43.0
 call,check,0.0,0.0
-bet 20,call,0.0,0.0
+bet,call,20.0,0.0
 raise,fold,40.0,0.0
-call,bet 23,0.0,0.0
+call,bet,0.0,23.0
 call,fold,0.0,0.0
-call,bet 3,0.0,0.0
+call,bet,0.0,3.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
 call,raise,0.0,10.0
 call,check,0.0,0.0
 call,call,0.0,0.0
-bet 4,bet 20,0.0,0.0
+bet,bet,4.0,20.0
 call,raise,0.0,76.0
 call,call,0.0,0.0
 call,check,0.0,0.0
 call,check,0.0,0.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
-bet 15,check,0.0,0.0
+bet,check,15.0,0.0
 raise,fold,300.0,0.0
-bet 8,check,0.0,0.0
+bet,check,8.0,0.0
 call,check,0.0,0.0
 call,call,0.0,0.0
 call,raise,0.0,86.0
 call,fold,0.0,0.0
-call,bet 29,0.0,0.0
+call,bet,0.0,29.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
-bet 20,call,0.0,0.0
+bet,call,20.0,0.0
 call,call,0.0,0.0
 call,call,0.0,0.0
 call,call,0.0,0.0
@@ -3069,14 +3069,14 @@ call,check,0.0,0.0
 call,raise,0.0,85.0
 call,raise,0.0,16.0
 call,call,0.0,0.0
-call,bet 11,0.0,0.0
+call,bet,0.0,11.0
 call,raise,0.0,77.0
 call,fold,0.0,0.0
 call,raise,0.0,85.0
 call,check,0.0,0.0
 call,call,0.0,0.0
 call,check,0.0,0.0
-call,bet 17,0.0,0.0
+call,bet,0.0,17.0
 call,fold,0.0,0.0
 call,raise,0.0,58.0
 call,call,0.0,0.0
@@ -3089,16 +3089,16 @@ call,call,0.0,0.0
 call,raise,0.0,13.0
 call,check,0.0,0.0
 call,raise,0.0,89.0
-call,bet 25,0.0,0.0
+call,bet,0.0,25.0
 raise,fold,200.0,0.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
 call,raise,0.0,86.0
-bet 20,check,0.0,0.0
+bet,check,20.0,0.0
 call,check,0.0,0.0
-bet 20,check,0.0,0.0
+bet,check,20.0,0.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
@@ -3106,11 +3106,11 @@ call,check,0.0,0.0
 call,call,0.0,0.0
 call,check,0.0,0.0
 call,check,0.0,0.0
-bet 10,check,0.0,0.0
+bet,check,10.0,0.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
-call,bet 23,0.0,0.0
+call,bet,0.0,23.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
@@ -3123,11 +3123,11 @@ call,fold,0.0,0.0
 call,call,0.0,0.0
 call,check,0.0,0.0
 call,call,0.0,0.0
-bet 20,bet 24,0.0,0.0
+bet,bet,20.0,24.0
 call,call,0.0,0.0
-call,bet 5,0.0,0.0
-call,bet 7,0.0,0.0
-bet 10,check,0.0,0.0
+call,bet,0.0,5.0
+call,bet,0.0,7.0
+bet,check,10.0,0.0
 call,call,0.0,0.0
 call,raise,0.0,16.0
 call,raise,0.0,81.0
@@ -3142,7 +3142,7 @@ call,raise,0.0,17.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
-call,bet 24,0.0,0.0
+call,bet,0.0,24.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
 call,call,0.0,0.0
@@ -3156,7 +3156,7 @@ call,fold,0.0,0.0
 call,raise,0.0,92.0
 call,check,0.0,0.0
 call,call,0.0,0.0
-bet 4,bet 10,0.0,0.0
+bet,bet,4.0,10.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
@@ -3164,7 +3164,7 @@ call,fold,0.0,0.0
 call,fold,0.0,0.0
 call,raise,0.0,82.0
 call,call,0.0,0.0
-call,bet 24,0.0,0.0
+call,bet,0.0,24.0
 call,check,0.0,0.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
@@ -3181,13 +3181,13 @@ call,fold,0.0,0.0
 call,call,0.0,0.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
-call,bet 10,0.0,0.0
+call,bet,0.0,10.0
 call,call,0.0,0.0
 call,call,0.0,0.0
 raise,call,20.0,0.0
 call,raise,0.0,85.0
-bet 6,check,0.0,0.0
-call,bet 3,0.0,0.0
+bet,check,6.0,0.0
+call,bet,0.0,3.0
 call,check,0.0,0.0
 call,raise,0.0,80.0
 call,check,0.0,0.0
@@ -3198,12 +3198,12 @@ call,call,0.0,0.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
-bet 16,check,0.0,0.0
+bet,check,16.0,0.0
 call,raise,0.0,10.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
-call,bet 29,0.0,0.0
+call,bet,0.0,29.0
 call,check,0.0,0.0
 call,call,0.0,0.0
 call,check,0.0,0.0
@@ -3215,16 +3215,16 @@ call,fold,0.0,0.0
 call,call,0.0,0.0
 call,check,0.0,0.0
 call,call,0.0,0.0
-bet 10,check,0.0,0.0
+bet,check,10.0,0.0
 call,fold,0.0,0.0
-bet 10,check,0.0,0.0
+bet,check,10.0,0.0
 call,raise,0.0,86.0
 raise,fold,120.0,0.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
-call,bet 2,0.0,0.0
+call,bet,0.0,2.0
 call,call,0.0,0.0
 call,check,0.0,0.0
 call,call,0.0,0.0
@@ -3232,7 +3232,7 @@ call,check,0.0,0.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
 call,check,0.0,0.0
-call,bet 3,0.0,0.0
+call,bet,0.0,3.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
 call,call,0.0,0.0
@@ -3241,9 +3241,9 @@ call,check,0.0,0.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
 call,check,0.0,0.0
-bet 8,bet 17,0.0,0.0
+bet,bet,8.0,17.0
 call,fold,0.0,0.0
-call,bet 8,0.0,0.0
+call,bet,0.0,8.0
 raise,fold,120.0,0.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
@@ -3252,14 +3252,14 @@ raise,raise,50.0,92.0
 raise,fold,55.0,0.0
 call,call,0.0,0.0
 call,raise,0.0,25.0
-call,bet 16,0.0,0.0
+call,bet,0.0,16.0
 call,call,0.0,0.0
 call,raise,0.0,22.0
 call,fold,0.0,0.0
 call,raise,0.0,85.0
 call,call,0.0,0.0
 call,raise,0.0,61.0
-bet 8,check,0.0,0.0
+bet,check,8.0,0.0
 call,fold,0.0,0.0
 raise,raise,60.0,93.0
 call,check,0.0,0.0
@@ -3270,8 +3270,8 @@ call,fold,0.0,0.0
 call,raise,0.0,7.0
 call,call,0.0,0.0
 call,check,0.0,0.0
-bet 10,check,0.0,0.0
-bet 10,check,0.0,0.0
+bet,check,10.0,0.0
+bet,check,10.0,0.0
 call,check,0.0,0.0
 call,check,0.0,0.0
 call,call,0.0,0.0
@@ -3280,7 +3280,7 @@ call,check,0.0,0.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
-call,bet 18,0.0,0.0
+call,bet,0.0,18.0
 call,fold,0.0,0.0
 call,raise,0.0,74.0
 call,fold,0.0,0.0
@@ -3292,11 +3292,11 @@ call,raise,0.0,74.0
 call,check,0.0,0.0
 call,call,0.0,0.0
 raise,fold,150.0,0.0
-call,bet 10,0.0,0.0
+call,bet,0.0,10.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
-call,bet 3,0.0,0.0
+call,bet,0.0,3.0
 call,raise,0.0,77.0
 call,raise,0.0,84.0
 call,check,0.0,0.0
@@ -3311,7 +3311,7 @@ call,call,0.0,0.0
 raise,check,32.0,0.0
 call,call,0.0,0.0
 call,call,0.0,0.0
-bet 45,check,0.0,0.0
+bet,check,45.0,0.0
 call,raise,0.0,86.0
 call,call,0.0,0.0
 call,call,0.0,0.0
@@ -3328,16 +3328,16 @@ call,call,0.0,0.0
 call,fold,0.0,0.0
 raise,call,40.0,0.0
 call,call,0.0,0.0
-bet 25,bet 5,0.0,0.0
+bet,bet,25.0,5.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
 call,call,0.0,0.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
-bet 10,check,0.0,0.0
+bet,check,10.0,0.0
 call,check,0.0,0.0
-call,bet 11,0.0,0.0
+call,bet,0.0,11.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
@@ -3352,7 +3352,7 @@ call,check,0.0,0.0
 call,call,0.0,0.0
 call,check,0.0,0.0
 call,call,0.0,0.0
-bet 3,check,0.0,0.0
+bet,check,3.0,0.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
@@ -3361,7 +3361,7 @@ call,call,0.0,0.0
 call,call,0.0,0.0
 raise,call,40.0,0.0
 call,fold,0.0,0.0
-call,bet 10,0.0,0.0
+call,bet,0.0,10.0
 call,call,0.0,0.0
 call,call,0.0,0.0
 raise,fold,40.0,0.0
@@ -3379,36 +3379,36 @@ call,call,0.0,0.0
 call,check,0.0,0.0
 raise,raise,60.0,89.0
 call,check,0.0,0.0
-call,bet 23,0.0,0.0
+call,bet,0.0,23.0
 call,check,0.0,0.0
-bet 20,bet 27,0.0,0.0
+bet,bet,20.0,27.0
 call,fold,0.0,0.0
-bet 45,check,0.0,0.0
+bet,check,45.0,0.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
-call,bet 40,0.0,0.0
+call,bet,0.0,40.0
 raise,fold,120.0,0.0
 call,check,0.0,0.0
-bet 20,check,0.0,0.0
+bet,check,20.0,0.0
 call,check,0.0,0.0
-raise,bet 16,16.0,0.0
+raise,bet,16.0,16.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
-bet 16,check,0.0,0.0
-call,bet 12,0.0,0.0
+bet,check,16.0,0.0
+call,bet,0.0,12.0
 call,call,0.0,0.0
 call,call,0.0,0.0
-bet 16,check,0.0,0.0
+bet,check,16.0,0.0
 call,check,0.0,0.0
-call,bet 4,0.0,0.0
+call,bet,0.0,4.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
 call,raise,0.0,48.0
 call,fold,0.0,0.0
-bet 20,raise,0.0,32.0
+bet,raise,20.0,32.0
 call,check,0.0,0.0
-bet 16,bet 20,0.0,0.0
+bet,bet,16.0,20.0
 call,call,0.0,0.0
 call,raise,0.0,88.0
 call,raise,0.0,41.0
@@ -3426,11 +3426,11 @@ call,raise,0.0,81.0
 raise,raise,20.0,41.0
 call,fold,0.0,0.0
 call,raise,0.0,80.0
-call,bet 29,0.0,0.0
+call,bet,0.0,29.0
 call,fold,0.0,0.0
-call,bet 24,0.0,0.0
+call,bet,0.0,24.0
 call,check,0.0,0.0
-call,bet 8,0.0,0.0
+call,bet,0.0,8.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
@@ -3445,22 +3445,22 @@ raise,fold,40.0,0.0
 call,call,0.0,0.0
 call,raise,0.0,64.0
 call,check,0.0,0.0
-bet 20,fold,0.0,0.0
-bet 10,check,0.0,0.0
+bet,fold,20.0,0.0
+bet,check,10.0,0.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
-call,bet 29,0.0,0.0
+call,bet,0.0,29.0
 call,call,0.0,0.0
 call,raise,0.0,92.0
 call,call,0.0,0.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
-bet 7,check,0.0,0.0
+bet,check,7.0,0.0
 raise,fold,120.0,0.0
 call,raise,0.0,64.0
 call,check,0.0,0.0
 raise,call,120.0,0.0
-bet 32,call,0.0,0.0
+bet,call,32.0,0.0
 call,check,0.0,0.0
 call,check,0.0,0.0
 call,call,0.0,0.0
@@ -3468,25 +3468,25 @@ call,raise,0.0,61.0
 call,check,0.0,0.0
 call,call,0.0,0.0
 call,call,0.0,0.0
-bet 10,check,0.0,0.0
+bet,check,10.0,0.0
 call,raise,0.0,54.0
 call,check,0.0,0.0
 raise,raise,40.0,92.0
 call,raise,0.0,77.0
 call,check,0.0,0.0
-bet 10,call,0.0,0.0
+bet,call,10.0,0.0
 call,check,0.0,0.0
 call,check,0.0,0.0
-bet 4,check,0.0,0.0
+bet,check,4.0,0.0
 raise,fold,150.0,0.0
 raise,call,40.0,0.0
-call,bet 23,0.0,0.0
+call,bet,0.0,23.0
 call,call,0.0,0.0
-bet 60,call,0.0,0.0
+bet,call,60.0,0.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
-bet 4,check,0.0,0.0
+bet,check,4.0,0.0
 raise,call,50.0,0.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
@@ -3505,7 +3505,7 @@ call,raise,0.0,62.0
 call,call,0.0,0.0
 call,check,0.0,0.0
 call,call,0.0,0.0
-call,bet 23,0.0,0.0
+call,bet,0.0,23.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
@@ -3529,7 +3529,7 @@ call,fold,0.0,0.0
 call,check,0.0,0.0
 call,call,0.0,0.0
 call,call,0.0,0.0
-bet 15,check,0.0,0.0
+bet,check,15.0,0.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
 call,check,0.0,0.0
@@ -3537,20 +3537,20 @@ call,check,0.0,0.0
 call,call,0.0,0.0
 raise,fold,300.0,0.0
 raise,raise,60.0,92.0
-call,bet 13,0.0,0.0
+call,bet,0.0,13.0
 call,call,0.0,0.0
 call,call,0.0,0.0
-call,bet 29,0.0,0.0
+call,bet,0.0,29.0
 call,raise,0.0,84.0
 call,call,0.0,0.0
 call,check,0.0,0.0
-bet 4,check,0.0,0.0
+bet,check,4.0,0.0
 call,raise,0.0,88.0
 call,check,0.0,0.0
 call,raise,0.0,10.0
-call,bet 23,0.0,0.0
+call,bet,0.0,23.0
 call,raise,0.0,16.0
-bet 8,raise,0.0,46.0
+bet,raise,8.0,46.0
 call,check,0.0,0.0
 call,check,0.0,0.0
 call,raise,0.0,84.0
@@ -3562,16 +3562,16 @@ call,check,0.0,0.0
 call,raise,0.0,74.0
 call,check,0.0,0.0
 call,check,0.0,0.0
-call,bet 4,0.0,0.0
+call,bet,0.0,4.0
 call,raise,0.0,82.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
-call,bet 10,0.0,0.0
+call,bet,0.0,10.0
 raise,raise,55.0,96.0
 call,check,0.0,0.0
 call,raise,0.0,46.0
 call,check,0.0,0.0
-bet 10,raise,0.0,16.0
+bet,raise,10.0,16.0
 raise,fold,20.0,0.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
@@ -3583,10 +3583,10 @@ call,check,0.0,0.0
 call,call,0.0,0.0
 raise,check,18.0,0.0
 call,check,0.0,0.0
-bet 4,check,0.0,0.0
+bet,check,4.0,0.0
 call,raise,0.0,92.0
 call,check,0.0,0.0
-bet 20,bet 24,0.0,0.0
+bet,bet,20.0,24.0
 call,call,0.0,0.0
 call,raise,0.0,41.0
 call,call,0.0,0.0
@@ -3595,8 +3595,8 @@ call,check,0.0,0.0
 raise,check,32.0,0.0
 call,check,0.0,0.0
 call,call,0.0,0.0
-call,bet 8,0.0,0.0
-call,bet 4,0.0,0.0
+call,bet,0.0,8.0
+call,bet,0.0,4.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
@@ -3605,38 +3605,38 @@ call,call,0.0,0.0
 call,check,0.0,0.0
 raise,call,40.0,0.0
 call,call,0.0,0.0
-call,bet 11,0.0,0.0
+call,bet,0.0,11.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
 call,call,0.0,0.0
-bet 4,check,0.0,0.0
+bet,check,4.0,0.0
 raise,call,50.0,0.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
 raise,call,60.0,0.0
 call,call,0.0,0.0
-call,bet 18,0.0,0.0
+call,bet,0.0,18.0
 raise,fold,120.0,0.0
 call,fold,0.0,0.0
 call,raise,0.0,19.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
-call,bet 10,0.0,0.0
+call,bet,0.0,10.0
 call,fold,0.0,0.0
 call,raise,0.0,74.0
 call,raise,0.0,58.0
-call,bet 39,0.0,0.0
+call,bet,0.0,39.0
 call,raise,0.0,26.0
 call,fold,0.0,0.0
-call,bet 8,0.0,0.0
+call,bet,0.0,8.0
 call,call,0.0,0.0
 call,check,0.0,0.0
 call,check,0.0,0.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
-call,bet 13,0.0,0.0
+call,bet,0.0,13.0
 call,fold,0.0,0.0
-bet 4,check,0.0,0.0
+bet,check,4.0,0.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
@@ -3651,20 +3651,20 @@ call,call,0.0,0.0
 call,fold,0.0,0.0
 call,raise,0.0,31.0
 call,raise,0.0,88.0
-call,bet 13,0.0,0.0
+call,bet,0.0,13.0
 call,call,0.0,0.0
-call,bet 10,0.0,0.0
+call,bet,0.0,10.0
 call,call,0.0,0.0
-call,bet 29,0.0,0.0
+call,bet,0.0,29.0
 raise,raise,60.0,93.0
 raise,fold,32.0,0.0
-bet 4,bet 22,0.0,0.0
+bet,bet,4.0,22.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
-call,bet 10,0.0,0.0
+call,bet,0.0,10.0
 call,check,0.0,0.0
 call,check,0.0,0.0
-call,bet 17,0.0,0.0
+call,bet,0.0,17.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
@@ -3673,7 +3673,7 @@ call,call,0.0,0.0
 call,call,0.0,0.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
-call,bet 34,0.0,0.0
+call,bet,0.0,34.0
 call,fold,0.0,0.0
 call,raise,0.0,86.0
 call,check,0.0,0.0
@@ -3705,12 +3705,12 @@ call,check,0.0,0.0
 raise,check,10.0,0.0
 call,raise,0.0,83.0
 call,call,0.0,0.0
-bet 16,bet 20,0.0,0.0
+bet,bet,16.0,20.0
 call,check,0.0,0.0
-bet 4,check,0.0,0.0
+bet,check,4.0,0.0
 call,check,0.0,0.0
 call,raise,0.0,41.0
-bet 10,check,0.0,0.0
+bet,check,10.0,0.0
 call,check,0.0,0.0
 raise,call,200.0,0.0
 call,raise,0.0,72.0
@@ -3723,7 +3723,7 @@ raise,call,60.0,0.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
-call,bet 4,0.0,0.0
+call,bet,0.0,4.0
 call,check,0.0,0.0
 call,raise,0.0,84.0
 call,call,0.0,0.0
@@ -3732,8 +3732,8 @@ call,fold,0.0,0.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
-bet 40,check,0.0,0.0
-call,bet 3,0.0,0.0
+bet,check,40.0,0.0
+call,bet,0.0,3.0
 call,raise,0.0,86.0
 call,call,0.0,0.0
 call,call,0.0,0.0
@@ -3743,14 +3743,14 @@ call,call,0.0,0.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
-call,bet 7,0.0,0.0
+call,bet,0.0,7.0
 call,check,0.0,0.0
 call,raise,0.0,41.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
 call,raise,0.0,11.0
-call,bet 13,0.0,0.0
+call,bet,0.0,13.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
@@ -3758,9 +3758,9 @@ raise,call,300.0,0.0
 call,call,0.0,0.0
 call,call,0.0,0.0
 call,raise,0.0,36.0
-bet 15,bet 2,0.0,0.0
+bet,bet,15.0,2.0
 call,fold,0.0,0.0
-call,bet 18,0.0,0.0
+call,bet,0.0,18.0
 call,check,0.0,0.0
 raise,raise,120.0,88.0
 call,fold,0.0,0.0
@@ -3771,7 +3771,7 @@ call,fold,0.0,0.0
 call,call,0.0,0.0
 call,call,0.0,0.0
 raise,check,32.0,0.0
-raise,bet 18,18.0,0.0
+raise,bet,18.0,18.0
 call,call,0.0,0.0
 call,call,0.0,0.0
 call,call,0.0,0.0
@@ -3779,7 +3779,7 @@ call,fold,0.0,0.0
 call,fold,0.0,0.0
 call,raise,0.0,63.0
 call,check,0.0,0.0
-bet 10,check,0.0,0.0
+bet,check,10.0,0.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
@@ -3803,7 +3803,7 @@ call,check,0.0,0.0
 call,check,0.0,0.0
 call,raise,0.0,86.0
 call,call,0.0,0.0
-call,bet 4,0.0,0.0
+call,bet,0.0,4.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
 raise,fold,80.0,0.0
@@ -3815,16 +3815,16 @@ call,raise,0.0,81.0
 call,check,0.0,0.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
-call,bet 3,0.0,0.0
+call,bet,0.0,3.0
 call,raise,0.0,38.0
 call,raise,0.0,84.0
-bet 4,check,0.0,0.0
+bet,check,4.0,0.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
-bet 40,check,0.0,0.0
+bet,check,40.0,0.0
 call,raise,0.0,64.0
-bet 4,bet 24,0.0,0.0
+bet,bet,4.0,24.0
 call,call,0.0,0.0
 call,raise,0.0,90.0
 call,call,0.0,0.0
@@ -3835,7 +3835,7 @@ call,fold,0.0,0.0
 call,call,0.0,0.0
 call,raise,0.0,86.0
 call,call,0.0,0.0
-bet 8,check,0.0,0.0
+bet,check,8.0,0.0
 raise,fold,64.0,0.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
@@ -3846,11 +3846,11 @@ raise,fold,40.0,0.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
-call,bet 39,0.0,0.0
+call,bet,0.0,39.0
 call,raise,0.0,25.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
-bet 8,raise,0.0,46.0
+bet,raise,8.0,46.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
@@ -3859,34 +3859,34 @@ call,fold,0.0,0.0
 call,raise,0.0,74.0
 call,check,0.0,0.0
 call,check,0.0,0.0
-bet 4,check,0.0,0.0
+bet,check,4.0,0.0
 call,raise,0.0,88.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
-bet 30,raise,0.0,37.0
+bet,raise,30.0,37.0
 call,fold,0.0,0.0
-bet 10,check,0.0,0.0
+bet,check,10.0,0.0
 raise,fold,220.0,0.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
-call,bet 26,0.0,0.0
+call,bet,0.0,26.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
-call,bet 16,0.0,0.0
+call,bet,0.0,16.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
 call,raise,0.0,80.0
 call,check,0.0,0.0
-bet 10,fold,0.0,0.0
+bet,fold,10.0,0.0
 call,check,0.0,0.0
 call,raise,0.0,82.0
 call,call,0.0,0.0
 call,call,0.0,0.0
 call,check,0.0,0.0
-bet 20,check,0.0,0.0
+bet,check,20.0,0.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
@@ -3918,9 +3918,9 @@ call,fold,0.0,0.0
 call,check,0.0,0.0
 call,raise,0.0,13.0
 call,raise,0.0,84.0
-bet 15,check,0.0,0.0
+bet,check,15.0,0.0
 call,fold,0.0,0.0
-bet 10,bet 11,0.0,0.0
+bet,bet,10.0,11.0
 call,call,0.0,0.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
@@ -3933,11 +3933,11 @@ call,raise,0.0,86.0
 call,fold,0.0,0.0
 call,raise,0.0,4.0
 call,call,0.0,0.0
-bet 40,call,0.0,0.0
+bet,call,40.0,0.0
 raise,call,64.0,0.0
 call,fold,0.0,0.0
 call,raise,0.0,43.0
-bet 100,call,0.0,0.0
+bet,call,100.0,0.0
 raise,fold,40.0,0.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
@@ -3949,7 +3949,7 @@ call,call,0.0,0.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
 call,raise,0.0,93.0
-bet 15,bet 5,0.0,0.0
+bet,bet,15.0,5.0
 raise,call,50.0,0.0
 call,call,0.0,0.0
 call,check,0.0,0.0
@@ -3957,10 +3957,10 @@ call,raise,0.0,22.0
 call,call,0.0,0.0
 call,raise,0.0,77.0
 call,call,0.0,0.0
-bet 25,check,0.0,0.0
+bet,check,25.0,0.0
 call,check,0.0,0.0
 call,check,0.0,0.0
-call,bet 13,0.0,0.0
+call,bet,0.0,13.0
 call,call,0.0,0.0
 call,raise,0.0,80.0
 call,call,0.0,0.0
@@ -3970,7 +3970,7 @@ call,call,0.0,0.0
 call,raise,0.0,13.0
 call,raise,0.0,38.0
 call,fold,0.0,0.0
-call,bet 22,0.0,0.0
+call,bet,0.0,22.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
@@ -3994,19 +3994,19 @@ call,fold,0.0,0.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
 call,call,0.0,0.0
-call,bet 29,0.0,0.0
+call,bet,0.0,29.0
 call,fold,0.0,0.0
 raise,fold,40.0,0.0
 call,fold,0.0,0.0
-bet 10,check,0.0,0.0
+bet,check,10.0,0.0
 call,call,0.0,0.0
 call,raise,0.0,10.0
 call,raise,0.0,81.0
-call,bet 18,0.0,0.0
-call,bet 30,0.0,0.0
+call,bet,0.0,18.0
+call,bet,0.0,30.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
-bet 10,check,0.0,0.0
+bet,check,10.0,0.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
 call,raise,0.0,10.0
@@ -4029,7 +4029,7 @@ call,raise,0.0,38.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
 call,raise,0.0,78.0
-bet 15,check,0.0,0.0
+bet,check,15.0,0.0
 call,call,0.0,0.0
 call,call,0.0,0.0
 call,check,0.0,0.0
@@ -4042,9 +4042,9 @@ call,check,0.0,0.0
 call,fold,0.0,0.0
 raise,check,10.0,0.0
 raise,call,200.0,0.0
-bet 4,check,0.0,0.0
+bet,check,4.0,0.0
 call,raise,0.0,27.0
-call,bet 17,0.0,0.0
+call,bet,0.0,17.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
 call,raise,0.0,72.0
@@ -4059,20 +4059,20 @@ call,check,0.0,0.0
 call,check,0.0,0.0
 call,check,0.0,0.0
 call,check,0.0,0.0
-bet 15,check,0.0,0.0
+bet,check,15.0,0.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
 call,check,0.0,0.0
 raise,raise,15.0,25.0
-call,bet 7,0.0,0.0
+call,bet,0.0,7.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
 call,call,0.0,0.0
-call,bet 4,0.0,0.0
+call,bet,0.0,4.0
 raise,fold,40.0,0.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
@@ -4082,10 +4082,10 @@ call,fold,0.0,0.0
 call,raise,0.0,27.0
 raise,raise,88.0,83.0
 raise,fold,60.0,0.0
-bet 4,check,0.0,0.0
+bet,check,4.0,0.0
 fold,call,0.0,0.0
 raise,fold,60.0,0.0
-bet 15,check,0.0,0.0
+bet,check,15.0,0.0
 call,call,0.0,0.0
 call,raise,0.0,90.0
 call,call,0.0,0.0
@@ -4106,15 +4106,15 @@ call,fold,0.0,0.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
-bet 15,call,0.0,0.0
-call,bet 10,0.0,0.0
-bet 31,raise,0.0,86.0
+bet,call,15.0,0.0
+call,bet,0.0,10.0
+bet,raise,31.0,86.0
 raise,raise,40.0,92.0
-bet 4,check,0.0,0.0
+bet,check,4.0,0.0
 call,check,0.0,0.0
 call,raise,0.0,18.0
 call,check,0.0,0.0
-bet 6,check,0.0,0.0
+bet,check,6.0,0.0
 call,raise,0.0,77.0
 call,call,0.0,0.0
 call,call,0.0,0.0
@@ -4132,7 +4132,7 @@ call,call,0.0,0.0
 call,call,0.0,0.0
 call,check,0.0,0.0
 call,raise,0.0,13.0
-bet 10,call,0.0,0.0
+bet,call,10.0,0.0
 call,raise,0.0,18.0
 raise,call,64.0,0.0
 call,call,0.0,0.0
@@ -4142,7 +4142,7 @@ call,call,0.0,0.0
 call,call,0.0,0.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
-call,bet 7,0.0,0.0
+call,bet,0.0,7.0
 raise,call,120.0,0.0
 call,call,0.0,0.0
 call,raise,0.0,13.0
@@ -4153,9 +4153,9 @@ call,raise,0.0,82.0
 call,call,0.0,0.0
 raise,fold,30.0,0.0
 call,raise,0.0,22.0
-bet 16,check,0.0,0.0
+bet,check,16.0,0.0
 call,call,0.0,0.0
-bet 60,raise,0.0,88.0
+bet,raise,60.0,88.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
@@ -4172,10 +4172,10 @@ call,fold,0.0,0.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
-call,bet 16,0.0,0.0
+call,bet,0.0,16.0
 call,check,0.0,0.0
 call,check,0.0,0.0
-bet 16,check,0.0,0.0
+bet,check,16.0,0.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
@@ -4186,7 +4186,7 @@ call,call,0.0,0.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
 call,raise,0.0,7.0
-bet 20,check,0.0,0.0
+bet,check,20.0,0.0
 raise,call,120.0,0.0
 call,call,0.0,0.0
 call,call,0.0,0.0
@@ -4194,28 +4194,28 @@ call,check,0.0,0.0
 call,check,0.0,0.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
-bet 6,bet 24,0.0,0.0
+bet,bet,6.0,24.0
 call,call,0.0,0.0
 call,check,0.0,0.0
 raise,fold,40.0,0.0
-bet 30,fold,0.0,0.0
+bet,fold,30.0,0.0
 call,raise,0.0,35.0
 raise,call,80.0,0.0
-call,bet 13,0.0,0.0
+call,bet,0.0,13.0
 call,call,0.0,0.0
-call,bet 4,0.0,0.0
+call,bet,0.0,4.0
 call,raise,0.0,70.0
 call,fold,0.0,0.0
-call,bet 3,0.0,0.0
+call,bet,0.0,3.0
 call,call,0.0,0.0
-call,bet 11,0.0,0.0
+call,bet,0.0,11.0
 call,check,0.0,0.0
 call,call,0.0,0.0
-bet 10,check,0.0,0.0
+bet,check,10.0,0.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
-bet 16,check,0.0,0.0
-call,bet 29,0.0,0.0
+bet,check,16.0,0.0
+call,bet,0.0,29.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
 call,raise,0.0,81.0
@@ -4224,12 +4224,12 @@ raise,fold,50.0,0.0
 call,fold,0.0,0.0
 raise,fold,140.0,0.0
 call,call,0.0,0.0
-call,bet 7,0.0,0.0
+call,bet,0.0,7.0
 call,raise,0.0,83.0
 call,check,0.0,0.0
 call,raise,0.0,89.0
 call,check,0.0,0.0
-bet 5,raise,0.0,26.0
+bet,raise,5.0,26.0
 call,raise,0.0,13.0
 call,raise,0.0,91.0
 call,call,0.0,0.0
@@ -4251,7 +4251,7 @@ call,fold,0.0,0.0
 call,raise,0.0,75.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
-call,bet 29,0.0,0.0
+call,bet,0.0,29.0
 call,raise,0.0,38.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
@@ -4259,12 +4259,12 @@ call,raise,0.0,84.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
-call,bet 17,0.0,0.0
+call,bet,0.0,17.0
 call,call,0.0,0.0
 call,check,0.0,0.0
-call,bet 5,0.0,0.0
+call,bet,0.0,5.0
 call,fold,0.0,0.0
-bet 8,check,0.0,0.0
+bet,check,8.0,0.0
 call,call,0.0,0.0
 call,call,0.0,0.0
 call,check,0.0,0.0
@@ -4278,19 +4278,19 @@ call,fold,0.0,0.0
 call,call,0.0,0.0
 call,check,0.0,0.0
 call,call,0.0,0.0
-call,bet 29,0.0,0.0
-call,bet 29,0.0,0.0
+call,bet,0.0,29.0
+call,bet,0.0,29.0
 call,fold,0.0,0.0
-bet 20,fold,0.0,0.0
-bet 4,check,0.0,0.0
+bet,fold,20.0,0.0
+bet,check,4.0,0.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
-bet 40,fold,0.0,0.0
-call,bet 10,0.0,0.0
-bet 23,check,0.0,0.0
+bet,fold,40.0,0.0
+call,bet,0.0,10.0
+bet,check,23.0,0.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
-call,bet 3,0.0,0.0
+call,bet,0.0,3.0
 call,check,0.0,0.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
@@ -4310,9 +4310,9 @@ call,raise,0.0,25.0
 call,call,0.0,0.0
 call,check,0.0,0.0
 call,call,0.0,0.0
-call,bet 5,0.0,0.0
+call,bet,0.0,5.0
 call,check,0.0,0.0
-call,bet 18,0.0,0.0
+call,bet,0.0,18.0
 call,check,0.0,0.0
 call,check,0.0,0.0
 call,check,0.0,0.0
@@ -4324,7 +4324,7 @@ call,check,0.0,0.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
 call,call,0.0,0.0
-call,bet 25,0.0,0.0
+call,bet,0.0,25.0
 call,call,0.0,0.0
 call,check,0.0,0.0
 call,check,0.0,0.0
@@ -4355,34 +4355,34 @@ call,check,0.0,0.0
 call,check,0.0,0.0
 call,check,0.0,0.0
 call,raise,0.0,72.0
-bet 16,check,0.0,0.0
+bet,check,16.0,0.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
 call,check,0.0,0.0
 call,raise,0.0,82.0
 raise,fold,40.0,0.0
 raise,call,60.0,0.0
-call,bet 13,0.0,0.0
+call,bet,0.0,13.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
-call,bet 4,0.0,0.0
+call,bet,0.0,4.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
 call,call,0.0,0.0
-call,bet 39,0.0,0.0
-bet 10,call,0.0,0.0
+call,bet,0.0,39.0
+bet,call,10.0,0.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
 call,raise,0.0,54.0
-call,bet 1,0.0,0.0
+call,bet,0.0,1.0
 call,call,0.0,0.0
 call,check,0.0,0.0
-bet 6,bet 13,0.0,0.0
+bet,bet,6.0,13.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
 call,raise,0.0,77.0
-bet 4,check,0.0,0.0
-call,bet 11,0.0,0.0
+bet,check,4.0,0.0
+call,bet,0.0,11.0
 call,call,0.0,0.0
 call,raise,0.0,84.0
 call,raise,0.0,83.0
@@ -4400,34 +4400,34 @@ call,call,0.0,0.0
 call,check,0.0,0.0
 call,check,0.0,0.0
 call,raise,0.0,70.0
-bet 10,check,0.0,0.0
+bet,check,10.0,0.0
 call,fold,0.0,0.0
-bet 6,check,0.0,0.0
+bet,check,6.0,0.0
 call,check,0.0,0.0
 call,call,0.0,0.0
-bet 40,check,0.0,0.0
-call,bet 13,0.0,0.0
+bet,check,40.0,0.0
+call,bet,0.0,13.0
 call,check,0.0,0.0
 call,raise,0.0,77.0
-bet 20,check,0.0,0.0
+bet,check,20.0,0.0
 call,raise,0.0,84.0
 call,check,0.0,0.0
-bet 10,check,0.0,0.0
+bet,check,10.0,0.0
 call,fold,0.0,0.0
 call,raise,0.0,77.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
-bet 8,check,0.0,0.0
+bet,check,8.0,0.0
 raise,call,64.0,0.0
 call,fold,0.0,0.0
-call,bet 7,0.0,0.0
+call,bet,0.0,7.0
 call,call,0.0,0.0
 call,check,0.0,0.0
-bet 10,bet 12,0.0,0.0
-call,bet 16,0.0,0.0
-call,bet 18,0.0,0.0
-call,bet 39,0.0,0.0
+bet,bet,10.0,12.0
+call,bet,0.0,16.0
+call,bet,0.0,18.0
+call,bet,0.0,39.0
 call,fold,0.0,0.0
 call,raise,0.0,74.0
 call,fold,0.0,0.0
@@ -4440,38 +4440,38 @@ call,check,0.0,0.0
 call,raise,0.0,61.0
 call,check,0.0,0.0
 call,call,0.0,0.0
-bet 56,fold,0.0,0.0
+bet,fold,56.0,0.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
 call,raise,0.0,83.0
 call,call,0.0,0.0
-call,bet 2,0.0,0.0
-call,bet 13,0.0,0.0
+call,bet,0.0,2.0
+call,bet,0.0,13.0
 call,raise,0.0,77.0
 call,fold,0.0,0.0
 raise,check,18.0,0.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
-bet 4,check,0.0,0.0
+bet,check,4.0,0.0
 call,fold,0.0,0.0
 call,raise,0.0,90.0
 call,call,0.0,0.0
 call,check,0.0,0.0
 call,check,0.0,0.0
 call,call,0.0,0.0
-call,bet 29,0.0,0.0
-call,bet 29,0.0,0.0
+call,bet,0.0,29.0
+call,bet,0.0,29.0
 call,check,0.0,0.0
-bet 4,check,0.0,0.0
+bet,check,4.0,0.0
 call,raise,0.0,54.0
-call,bet 18,0.0,0.0
+call,bet,0.0,18.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
 raise,fold,40.0,0.0
 call,fold,0.0,0.0
-call,bet 8,0.0,0.0
+call,bet,0.0,8.0
 call,call,0.0,0.0
 call,raise,0.0,85.0
 call,raise,0.0,10.0
@@ -4481,13 +4481,13 @@ raise,raise,88.0,90.0
 call,check,0.0,0.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
-call,bet 10,0.0,0.0
+call,bet,0.0,10.0
 call,fold,0.0,0.0
-bet 40,check,0.0,0.0
+bet,check,40.0,0.0
 call,check,0.0,0.0
-call,bet 2,0.0,0.0
+call,bet,0.0,2.0
 call,raise,0.0,86.0
-bet 4,check,0.0,0.0
+bet,check,4.0,0.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
@@ -4508,13 +4508,13 @@ call,call,0.0,0.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
 call,call,0.0,0.0
-bet 16,raise,0.0,23.0
-bet 10,bet 21,0.0,0.0
+bet,raise,16.0,23.0
+bet,bet,10.0,21.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
-call,bet 8,0.0,0.0
+call,bet,0.0,8.0
 call,check,0.0,0.0
-bet 120,fold,0.0,0.0
+bet,fold,120.0,0.0
 raise,fold,120.0,0.0
 call,call,0.0,0.0
 call,check,0.0,0.0
@@ -4522,10 +4522,10 @@ raise,fold,25.0,0.0
 raise,call,200.0,0.0
 call,fold,0.0,0.0
 call,raise,0.0,35.0
-bet 20,fold,0.0,0.0
+bet,fold,20.0,0.0
 call,fold,0.0,0.0
-bet 10,bet 20,0.0,0.0
-bet 6,check,0.0,0.0
+bet,bet,10.0,20.0
+bet,check,6.0,0.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
@@ -4538,25 +4538,25 @@ call,fold,0.0,0.0
 call,check,0.0,0.0
 call,call,0.0,0.0
 call,raise,0.0,32.0
-call,bet 34,0.0,0.0
+call,bet,0.0,34.0
 call,call,0.0,0.0
-call,bet 32,0.0,0.0
+call,bet,0.0,32.0
 call,raise,0.0,30.0
-bet 8,check,0.0,0.0
+bet,check,8.0,0.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
-bet 25,check,0.0,0.0
+bet,check,25.0,0.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
 call,call,0.0,0.0
-bet 6,raise,0.0,13.0
+bet,raise,6.0,13.0
 call,call,0.0,0.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
 call,raise,0.0,38.0
-bet 40,check,0.0,0.0
-call,bet 11,0.0,0.0
+bet,check,40.0,0.0
+call,bet,0.0,11.0
 call,check,0.0,0.0
 call,call,0.0,0.0
 call,check,0.0,0.0
@@ -4585,7 +4585,7 @@ call,check,0.0,0.0
 call,call,0.0,0.0
 call,raise,0.0,89.0
 call,call,0.0,0.0
-call,bet 29,0.0,0.0
+call,bet,0.0,29.0
 call,check,0.0,0.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
@@ -4610,7 +4610,7 @@ call,check,0.0,0.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
-call,bet 23,0.0,0.0
+call,bet,0.0,23.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
@@ -4623,7 +4623,7 @@ call,call,0.0,0.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
 call,raise,0.0,25.0
-bet 10,call,0.0,0.0
+bet,call,10.0,0.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
@@ -4634,10 +4634,10 @@ call,raise,0.0,64.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
-call,bet 23,0.0,0.0
+call,bet,0.0,23.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
-bet 20,check,0.0,0.0
+bet,check,20.0,0.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
@@ -4648,7 +4648,7 @@ call,check,0.0,0.0
 call,raise,0.0,75.0
 call,raise,0.0,88.0
 call,raise,0.0,22.0
-call,bet 12,0.0,0.0
+call,bet,0.0,12.0
 call,check,0.0,0.0
 call,raise,0.0,88.0
 raise,call,60.0,0.0
@@ -4657,7 +4657,7 @@ raise,call,200.0,0.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
-call,bet 18,0.0,0.0
+call,bet,0.0,18.0
 call,fold,0.0,0.0
 raise,call,40.0,0.0
 call,fold,0.0,0.0
@@ -4673,9 +4673,9 @@ call,fold,0.0,0.0
 call,call,0.0,0.0
 call,raise,0.0,38.0
 call,raise,0.0,10.0
-bet 10,check,0.0,0.0
+bet,check,10.0,0.0
 call,fold,0.0,0.0
-call,bet 23,0.0,0.0
+call,bet,0.0,23.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
 call,raise,0.0,90.0
@@ -4691,18 +4691,18 @@ call,call,0.0,0.0
 call,call,0.0,0.0
 call,check,0.0,0.0
 call,check,0.0,0.0
-call,bet 4,0.0,0.0
+call,bet,0.0,4.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
 raise,fold,40.0,0.0
-call,bet 2,0.0,0.0
+call,bet,0.0,2.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
-bet 20,call,0.0,0.0
+bet,call,20.0,0.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
-call,bet 25,0.0,0.0
+call,bet,0.0,25.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
@@ -4712,15 +4712,15 @@ call,call,0.0,0.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
 call,raise,0.0,72.0
-bet 6,bet 24,0.0,0.0
+bet,bet,6.0,24.0
 call,check,0.0,0.0
-call,bet 8,0.0,0.0
+call,bet,0.0,8.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
-call,bet 10,0.0,0.0
+call,bet,0.0,10.0
 call,check,0.0,0.0
 call,raise,0.0,74.0
-bet 10,call,0.0,0.0
+bet,call,10.0,0.0
 call,raise,0.0,41.0
 call,check,0.0,0.0
 raise,raise,25.0,29.0
@@ -4738,7 +4738,7 @@ call,fold,0.0,0.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
-bet 10,check,0.0,0.0
+bet,check,10.0,0.0
 call,check,0.0,0.0
 call,call,0.0,0.0
 call,check,0.0,0.0
@@ -4751,7 +4751,7 @@ call,call,0.0,0.0
 call,fold,0.0,0.0
 call,raise,0.0,13.0
 call,fold,0.0,0.0
-bet 10,check,0.0,0.0
+bet,check,10.0,0.0
 call,check,0.0,0.0
 call,call,0.0,0.0
 call,call,0.0,0.0
@@ -4763,7 +4763,7 @@ call,fold,0.0,0.0
 raise,call,50.0,0.0
 call,raise,0.0,92.0
 call,call,0.0,0.0
-call,bet 8,0.0,0.0
+call,bet,0.0,8.0
 call,check,0.0,0.0
 call,check,0.0,0.0
 call,call,0.0,0.0
@@ -4779,36 +4779,36 @@ call,raise,0.0,31.0
 call,fold,0.0,0.0
 call,raise,0.0,80.0
 call,check,0.0,0.0
-call,bet 4,0.0,0.0
+call,bet,0.0,4.0
 call,raise,0.0,80.0
 call,raise,0.0,86.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
-call,bet 40,0.0,0.0
+call,bet,0.0,40.0
 call,check,0.0,0.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
 raise,fold,120.0,0.0
 call,call,0.0,0.0
-bet 20,check,0.0,0.0
+bet,check,20.0,0.0
 call,call,0.0,0.0
-call,bet 23,0.0,0.0
+call,bet,0.0,23.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
-bet 39,raise,0.0,84.0
+bet,raise,39.0,84.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
-call,bet 3,0.0,0.0
-bet 20,check,0.0,0.0
+call,bet,0.0,3.0
+bet,check,20.0,0.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
 call,check,0.0,0.0
 call,raise,0.0,83.0
-bet 8,check,0.0,0.0
+bet,check,8.0,0.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
@@ -4821,14 +4821,14 @@ call,call,0.0,0.0
 call,call,0.0,0.0
 call,check,0.0,0.0
 call,call,0.0,0.0
-call,bet 5,0.0,0.0
+call,bet,0.0,5.0
 call,check,0.0,0.0
 call,raise,0.0,80.0
-bet 4,check,0.0,0.0
+bet,check,4.0,0.0
 call,check,0.0,0.0
 call,check,0.0,0.0
 call,check,0.0,0.0
-bet 4,check,0.0,0.0
+bet,check,4.0,0.0
 call,fold,0.0,0.0
 call,raise,0.0,35.0
 call,check,0.0,0.0
@@ -4850,13 +4850,13 @@ call,check,0.0,0.0
 call,call,0.0,0.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
-bet 6,bet 16,0.0,0.0
+bet,bet,6.0,16.0
 call,call,0.0,0.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
 call,raise,0.0,57.0
 call,check,0.0,0.0
-bet 15,check,0.0,0.0
+bet,check,15.0,0.0
 raise,raise,30.0,91.0
 call,call,0.0,0.0
 call,call,0.0,0.0
@@ -4870,7 +4870,7 @@ call,fold,0.0,0.0
 call,call,0.0,0.0
 call,call,0.0,0.0
 call,call,0.0,0.0
-call,bet 27,0.0,0.0
+call,bet,0.0,27.0
 call,raise,0.0,89.0
 call,check,0.0,0.0
 call,check,0.0,0.0
@@ -4881,17 +4881,17 @@ call,fold,0.0,0.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
-call,bet 17,0.0,0.0
-bet 30,call,0.0,0.0
+call,bet,0.0,17.0
+bet,call,30.0,0.0
 raise,raise,88.0,83.0
-call,bet 12,0.0,0.0
+call,bet,0.0,12.0
 call,fold,0.0,0.0
-bet 25,check,0.0,0.0
+bet,check,25.0,0.0
 call,raise,0.0,70.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
-bet 40,check,0.0,0.0
-bet 6,check,0.0,0.0
+bet,check,40.0,0.0
+bet,check,6.0,0.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
 call,check,0.0,0.0
@@ -4899,19 +4899,19 @@ call,check,0.0,0.0
 call,call,0.0,0.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
-call,bet 5,0.0,0.0
+call,bet,0.0,5.0
 call,raise,0.0,64.0
-call,bet 10,0.0,0.0
+call,bet,0.0,10.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
-call,bet 7,0.0,0.0
-call,bet 3,0.0,0.0
+call,bet,0.0,7.0
+call,bet,0.0,3.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
-call,bet 4,0.0,0.0
+call,bet,0.0,4.0
 call,fold,0.0,0.0
 raise,raise,20.0,48.0
 call,fold,0.0,0.0
@@ -4919,8 +4919,8 @@ call,raise,0.0,77.0
 call,call,0.0,0.0
 call,raise,0.0,23.0
 call,fold,0.0,0.0
-bet 5,check,0.0,0.0
-call,bet 7,0.0,0.0
+bet,check,5.0,0.0
+call,bet,0.0,7.0
 raise,call,120.0,0.0
 call,fold,0.0,0.0
 raise,fold,50.0,0.0
@@ -4928,22 +4928,22 @@ call,check,0.0,0.0
 call,raise,0.0,92.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
-call,bet 3,0.0,0.0
+call,bet,0.0,3.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
 call,check,0.0,0.0
-call,bet 3,0.0,0.0
+call,bet,0.0,3.0
 call,call,0.0,0.0
 call,call,0.0,0.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
-bet 4,check,0.0,0.0
-call,bet 4,0.0,0.0
-call,bet 11,0.0,0.0
+bet,check,4.0,0.0
+call,bet,0.0,4.0
+call,bet,0.0,11.0
 call,call,0.0,0.0
-call,bet 3,0.0,0.0
-bet 40,check,0.0,0.0
+call,bet,0.0,3.0
+bet,check,40.0,0.0
 call,check,0.0,0.0
 call,check,0.0,0.0
 raise,raise,80.0,93.0
@@ -4953,12 +4953,12 @@ call,fold,0.0,0.0
 call,raise,0.0,27.0
 call,raise,0.0,86.0
 raise,raise,50.0,95.0
-bet 10,raise,0.0,16.0
+bet,raise,10.0,16.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
-call,bet 24,0.0,0.0
+call,bet,0.0,24.0
 call,raise,0.0,44.0
 call,call,0.0,0.0
 call,call,0.0,0.0
@@ -4966,12 +4966,12 @@ call,check,0.0,0.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
-bet 16,check,0.0,0.0
+bet,check,16.0,0.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
 call,call,0.0,0.0
-bet 4,check,0.0,0.0
+bet,check,4.0,0.0
 raise,fold,120.0,0.0
 call,fold,0.0,0.0
 call,raise,0.0,22.0
@@ -4991,13 +4991,13 @@ call,raise,0.0,38.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
 raise,call,20.0,0.0
-bet 4,check,0.0,0.0
+bet,check,4.0,0.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
 call,raise,0.0,25.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
-call,bet 8,0.0,0.0
+call,bet,0.0,8.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
 call,raise,0.0,32.0
@@ -5019,13 +5019,13 @@ call,raise,0.0,83.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
-bet 8,bet 10,0.0,0.0
+bet,bet,8.0,10.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
 call,raise,0.0,25.0
 call,check,0.0,0.0
-call,bet 25,0.0,0.0
+call,bet,0.0,25.0
 call,raise,0.0,30.0
 call,call,0.0,0.0
 call,check,0.0,0.0
@@ -5034,7 +5034,7 @@ call,call,0.0,0.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
-call,bet 16,0.0,0.0
+call,bet,0.0,16.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
@@ -5047,13 +5047,13 @@ call,call,0.0,0.0
 call,call,0.0,0.0
 call,check,0.0,0.0
 raise,raise,55.0,96.0
-call,bet 29,0.0,0.0
+call,bet,0.0,29.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
 raise,fold,40.0,0.0
 call,raise,0.0,27.0
-bet 10,check,0.0,0.0
-bet 40,check,0.0,0.0
+bet,check,10.0,0.0
+bet,check,40.0,0.0
 call,check,0.0,0.0
 call,call,0.0,0.0
 call,call,0.0,0.0
@@ -5062,7 +5062,7 @@ call,fold,0.0,0.0
 call,raise,0.0,81.0
 call,call,0.0,0.0
 raise,check,5.0,0.0
-call,bet 29,0.0,0.0
+call,bet,0.0,29.0
 call,fold,0.0,0.0
 call,raise,0.0,86.0
 call,fold,0.0,0.0
@@ -5071,7 +5071,7 @@ raise,fold,10.0,0.0
 call,raise,0.0,10.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
-bet 8,raise,0.0,13.0
+bet,raise,8.0,13.0
 call,raise,0.0,84.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
@@ -5092,7 +5092,7 @@ raise,fold,50.0,0.0
 call,call,0.0,0.0
 call,call,0.0,0.0
 call,check,0.0,0.0
-call,bet 17,0.0,0.0
+call,bet,0.0,17.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
 call,raise,0.0,86.0
@@ -5100,17 +5100,17 @@ raise,fold,100.0,0.0
 call,raise,0.0,35.0
 call,call,0.0,0.0
 raise,fold,60.0,0.0
-call,bet 10,0.0,0.0
+call,bet,0.0,10.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
 call,call,0.0,0.0
-bet 8,check,0.0,0.0
-call,bet 5,0.0,0.0
+bet,check,8.0,0.0
+call,bet,0.0,5.0
 call,check,0.0,0.0
 call,raise,0.0,65.0
 call,check,0.0,0.0
-call,bet 23,0.0,0.0
+call,bet,0.0,23.0
 call,call,0.0,0.0
 raise,fold,128.0,0.0
 call,fold,0.0,0.0
@@ -5122,13 +5122,13 @@ call,check,0.0,0.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
 call,check,0.0,0.0
-bet 20,call,0.0,0.0
+bet,call,20.0,0.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
-bet 4,check,0.0,0.0
+bet,check,4.0,0.0
 call,check,0.0,0.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
@@ -5136,27 +5136,27 @@ call,check,0.0,0.0
 call,raise,0.0,29.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
-call,bet 13,0.0,0.0
+call,bet,0.0,13.0
 raise,fold,40.0,0.0
 call,call,0.0,0.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
 call,raise,0.0,86.0
-call,bet 7,0.0,0.0
-call,bet 13,0.0,0.0
+call,bet,0.0,7.0
+call,bet,0.0,13.0
 call,call,0.0,0.0
 call,raise,0.0,93.0
 call,check,0.0,0.0
-bet 20,check,0.0,0.0
+bet,check,20.0,0.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
 call,raise,0.0,30.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
-call,bet 4,0.0,0.0
+call,bet,0.0,4.0
 raise,raise,120.0,85.0
-call,bet 29,0.0,0.0
+call,bet,0.0,29.0
 call,call,0.0,0.0
 call,raise,0.0,10.0
 raise,call,20.0,0.0
@@ -5166,7 +5166,7 @@ call,fold,0.0,0.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
 call,raise,0.0,16.0
-bet 23,bet 4,0.0,0.0
+bet,bet,23.0,4.0
 call,check,0.0,0.0
 call,call,0.0,0.0
 call,call,0.0,0.0
@@ -5177,27 +5177,27 @@ call,check,0.0,0.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
-call,bet 29,0.0,0.0
+call,bet,0.0,29.0
 call,check,0.0,0.0
 call,call,0.0,0.0
 call,call,0.0,0.0
 call,check,0.0,0.0
 call,raise,0.0,77.0
 raise,raise,80.0,83.0
-bet 51,fold,0.0,0.0
-raise,bet 29,32.0,0.0
+bet,fold,51.0,0.0
+raise,bet,32.0,29.0
 call,raise,0.0,11.0
 raise,fold,150.0,0.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
-call,bet 18,0.0,0.0
+call,bet,0.0,18.0
 call,check,0.0,0.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
 call,raise,0.0,88.0
 call,check,0.0,0.0
-call,bet 16,0.0,0.0
+call,bet,0.0,16.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
 raise,call,63.0,0.0
@@ -5206,15 +5206,15 @@ call,raise,0.0,17.0
 raise,call,150.0,0.0
 call,call,0.0,0.0
 call,check,0.0,0.0
-raise,bet 51,20.0,0.0
+raise,bet,20.0,51.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
-bet 4,check,0.0,0.0
+bet,check,4.0,0.0
 call,check,0.0,0.0
 call,raise,0.0,10.0
 call,check,0.0,0.0
 call,call,0.0,0.0
-bet 50,call,0.0,0.0
+bet,call,50.0,0.0
 call,call,0.0,0.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
@@ -5238,7 +5238,7 @@ call,raise,0.0,89.0
 call,check,0.0,0.0
 call,raise,0.0,92.0
 call,check,0.0,0.0
-call,bet 23,0.0,0.0
+call,bet,0.0,23.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
@@ -5254,14 +5254,14 @@ call,fold,0.0,0.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
-call,bet 23,0.0,0.0
-bet 15,check,0.0,0.0
+call,bet,0.0,23.0
+bet,check,15.0,0.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
-call,bet 18,0.0,0.0
+call,bet,0.0,18.0
 call,call,0.0,0.0
 call,check,0.0,0.0
 fold,fold,0.0,0.0
@@ -5281,26 +5281,26 @@ call,fold,0.0,0.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
-bet 4,bet 22,0.0,0.0
+bet,bet,4.0,22.0
 call,check,0.0,0.0
 call,check,0.0,0.0
 call,raise,0.0,74.0
 call,check,0.0,0.0
 call,check,0.0,0.0
 call,raise,0.0,32.0
-bet 10,fold,0.0,0.0
+bet,fold,10.0,0.0
 call,raise,0.0,10.0
 call,call,0.0,0.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
-bet 4,bet 7,0.0,0.0
+bet,bet,4.0,7.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
 call,raise,0.0,38.0
 call,fold,0.0,0.0
 call,raise,0.0,81.0
-bet 10,call,0.0,0.0
+bet,call,10.0,0.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
 raise,fold,50.0,0.0
@@ -5323,16 +5323,16 @@ call,raise,0.0,11.0
 call,call,0.0,0.0
 call,check,0.0,0.0
 call,call,0.0,0.0
-call,bet 18,0.0,0.0
+call,bet,0.0,18.0
 call,call,0.0,0.0
 call,call,0.0,0.0
-bet 4,check,0.0,0.0
+bet,check,4.0,0.0
 call,raise,0.0,16.0
 call,check,0.0,0.0
-call,bet 17,0.0,0.0
+call,bet,0.0,17.0
 call,raise,0.0,85.0
 call,check,0.0,0.0
-call,bet 32,0.0,0.0
+call,bet,0.0,32.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
 call,raise,0.0,18.0
@@ -5342,21 +5342,21 @@ call,call,0.0,0.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
-bet 10,check,0.0,0.0
-bet 10,check,0.0,0.0
+bet,check,10.0,0.0
+bet,check,10.0,0.0
 call,check,0.0,0.0
-call,bet 24,0.0,0.0
+call,bet,0.0,24.0
 call,call,0.0,0.0
 call,check,0.0,0.0
 call,check,0.0,0.0
-call,bet 8,0.0,0.0
+call,bet,0.0,8.0
 call,check,0.0,0.0
 raise,raise,40.0,92.0
 call,raise,0.0,93.0
-call,bet 29,0.0,0.0
+call,bet,0.0,29.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
-call,bet 13,0.0,0.0
+call,bet,0.0,13.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
 raise,call,144.0,0.0
@@ -5377,8 +5377,8 @@ call,call,0.0,0.0
 raise,call,144.0,0.0
 call,fold,0.0,0.0
 call,raise,0.0,89.0
-call,bet 29,0.0,0.0
-bet 65,check,0.0,0.0
+call,bet,0.0,29.0
+bet,check,65.0,0.0
 raise,fold,60.0,0.0
 call,call,0.0,0.0
 call,check,0.0,0.0
@@ -5392,7 +5392,7 @@ call,raise,0.0,17.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
-bet 30,fold,0.0,0.0
+bet,fold,30.0,0.0
 raise,fold,58.0,0.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
@@ -5403,9 +5403,9 @@ call,fold,0.0,0.0
 call,fold,0.0,0.0
 call,raise,0.0,67.0
 call,raise,0.0,27.0
-call,bet 23,0.0,0.0
+call,bet,0.0,23.0
 call,fold,0.0,0.0
-call,bet 3,0.0,0.0
+call,bet,0.0,3.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
@@ -5420,7 +5420,7 @@ call,call,0.0,0.0
 call,check,0.0,0.0
 call,check,0.0,0.0
 call,check,0.0,0.0
-call,bet 17,0.0,0.0
+call,bet,0.0,17.0
 raise,fold,200.0,0.0
 call,call,0.0,0.0
 call,raise,0.0,58.0
@@ -5429,7 +5429,7 @@ call,call,0.0,0.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
-bet 25,check,0.0,0.0
+bet,check,25.0,0.0
 call,fold,0.0,0.0
 call,raise,0.0,25.0
 call,call,0.0,0.0
@@ -5439,21 +5439,21 @@ call,raise,0.0,77.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
 raise,call,40.0,0.0
-bet 6,check,0.0,0.0
+bet,check,6.0,0.0
 call,check,0.0,0.0
-call,bet 18,0.0,0.0
+call,bet,0.0,18.0
 raise,fold,40.0,0.0
 call,call,0.0,0.0
-call,bet 8,0.0,0.0
+call,bet,0.0,8.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
-call,bet 17,0.0,0.0
+call,bet,0.0,17.0
 call,call,0.0,0.0
 call,raise,0.0,7.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
-call,bet 10,0.0,0.0
+call,bet,0.0,10.0
 raise,call,200.0,0.0
 call,check,0.0,0.0
 call,call,0.0,0.0
@@ -5462,7 +5462,7 @@ call,fold,0.0,0.0
 raise,fold,120.0,0.0
 call,call,0.0,0.0
 raise,call,55.0,0.0
-call,bet 3,0.0,0.0
+call,bet,0.0,3.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
@@ -5472,16 +5472,16 @@ call,call,0.0,0.0
 call,call,0.0,0.0
 call,raise,0.0,92.0
 call,call,0.0,0.0
-call,bet 12,0.0,0.0
-call,bet 13,0.0,0.0
-bet 20,call,0.0,0.0
+call,bet,0.0,12.0
+call,bet,0.0,13.0
+bet,call,20.0,0.0
 fold,fold,0.0,0.0
-bet 60,raise,0.0,88.0
+bet,raise,60.0,88.0
 call,check,0.0,0.0
-bet 15,check,0.0,0.0
+bet,check,15.0,0.0
 call,call,0.0,0.0
 call,check,0.0,0.0
-bet 60,fold,0.0,0.0
+bet,fold,60.0,0.0
 call,fold,0.0,0.0
 raise,call,40.0,0.0
 call,check,0.0,0.0
@@ -5492,20 +5492,20 @@ call,check,0.0,0.0
 raise,check,18.0,0.0
 call,call,0.0,0.0
 call,check,0.0,0.0
-bet 10,check,0.0,0.0
+bet,check,10.0,0.0
 call,call,0.0,0.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
 raise,raise,40.0,92.0
-bet 10,fold,0.0,0.0
-bet 10,bet 12,0.0,0.0
+bet,fold,10.0,0.0
+bet,bet,10.0,12.0
 call,call,0.0,0.0
-bet 4,check,0.0,0.0
+bet,check,4.0,0.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
 call,raise,0.0,22.0
-call,bet 12,0.0,0.0
-call,bet 24,0.0,0.0
+call,bet,0.0,12.0
+call,bet,0.0,24.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
@@ -5516,14 +5516,14 @@ call,check,0.0,0.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
-bet 40,check,0.0,0.0
+bet,check,40.0,0.0
 call,raise,0.0,64.0
-call,bet 7,0.0,0.0
+call,bet,0.0,7.0
 call,check,0.0,0.0
 call,call,0.0,0.0
-bet 5,check,0.0,0.0
+bet,check,5.0,0.0
 call,check,0.0,0.0
-bet 6,check,0.0,0.0
+bet,check,6.0,0.0
 raise,call,64.0,0.0
 call,raise,0.0,40.0
 call,fold,0.0,0.0
@@ -5531,25 +5531,25 @@ call,check,0.0,0.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
-bet 4,check,0.0,0.0
+bet,check,4.0,0.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
 call,raise,0.0,46.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
-bet 5,check,0.0,0.0
+bet,check,5.0,0.0
 call,call,0.0,0.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
 raise,fold,40.0,0.0
 call,call,0.0,0.0
 call,call,0.0,0.0
-bet 25,bet 6,0.0,0.0
+bet,bet,25.0,6.0
 raise,fold,50.0,0.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
-call,bet 18,0.0,0.0
+call,bet,0.0,18.0
 call,check,0.0,0.0
 call,call,0.0,0.0
 call,check,0.0,0.0
@@ -5562,8 +5562,8 @@ call,fold,0.0,0.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
-bet 16,check,0.0,0.0
-bet 3,check,0.0,0.0
+bet,check,16.0,0.0
+bet,check,3.0,0.0
 call,check,0.0,0.0
 call,raise,0.0,10.0
 call,fold,0.0,0.0
@@ -5586,10 +5586,10 @@ call,fold,0.0,0.0
 raise,call,200.0,0.0
 call,raise,0.0,90.0
 call,fold,0.0,0.0
-bet 5,check,0.0,0.0
+bet,check,5.0,0.0
 call,fold,0.0,0.0
 call,raise,0.0,74.0
-call,bet 4,0.0,0.0
+call,bet,0.0,4.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
@@ -5609,19 +5609,19 @@ call,check,0.0,0.0
 call,check,0.0,0.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
-call,bet 24,0.0,0.0
+call,bet,0.0,24.0
 call,raise,0.0,62.0
 call,check,0.0,0.0
 call,call,0.0,0.0
-bet 40,call,0.0,0.0
+bet,call,40.0,0.0
 call,check,0.0,0.0
 call,raise,0.0,13.0
 raise,call,50.0,0.0
 call,fold,0.0,0.0
-call,bet 23,0.0,0.0
+call,bet,0.0,23.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
-bet 10,check,0.0,0.0
+bet,check,10.0,0.0
 call,call,0.0,0.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
@@ -5630,8 +5630,8 @@ call,check,0.0,0.0
 raise,call,90.0,0.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
-bet 15,check,0.0,0.0
-call,bet 24,0.0,0.0
+bet,check,15.0,0.0
+call,bet,0.0,24.0
 raise,fold,40.0,0.0
 call,check,0.0,0.0
 call,call,0.0,0.0
@@ -5648,13 +5648,13 @@ call,raise,0.0,25.0
 call,check,0.0,0.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
-bet 6,bet 16,0.0,0.0
+bet,bet,6.0,16.0
 call,check,0.0,0.0
 call,check,0.0,0.0
 call,check,0.0,0.0
 raise,call,150.0,0.0
 call,call,0.0,0.0
-call,bet 32,0.0,0.0
+call,bet,0.0,32.0
 call,raise,0.0,29.0
 raise,raise,63.0,95.0
 call,check,0.0,0.0
@@ -5673,7 +5673,7 @@ call,check,0.0,0.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
-bet 15,check,0.0,0.0
+bet,check,15.0,0.0
 call,raise,0.0,86.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
@@ -5694,17 +5694,17 @@ call,call,0.0,0.0
 call,call,0.0,0.0
 call,raise,0.0,31.0
 call,fold,0.0,0.0
-bet 25,bet 2,0.0,0.0
-bet 25,check,0.0,0.0
+bet,bet,25.0,2.0
+bet,check,25.0,0.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
 raise,fold,150.0,0.0
 call,call,0.0,0.0
-call,bet 29,0.0,0.0
+call,bet,0.0,29.0
 call,check,0.0,0.0
 raise,fold,60.0,0.0
-bet 40,check,0.0,0.0
-call,bet 4,0.0,0.0
+bet,check,40.0,0.0
+call,bet,0.0,4.0
 call,call,0.0,0.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
@@ -5719,11 +5719,11 @@ call,fold,0.0,0.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
-bet 40,check,0.0,0.0
+bet,check,40.0,0.0
 call,call,0.0,0.0
 call,check,0.0,0.0
 raise,call,40.0,0.0
-call,bet 15,0.0,0.0
+call,bet,0.0,15.0
 call,check,0.0,0.0
 raise,fold,40.0,0.0
 call,call,0.0,0.0
@@ -5734,11 +5734,11 @@ call,fold,0.0,0.0
 call,raise,0.0,80.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
-bet 4,bet 8,0.0,0.0
+bet,bet,4.0,8.0
 call,fold,0.0,0.0
-call,bet 29,0.0,0.0
+call,bet,0.0,29.0
 raise,call,50.0,0.0
-call,bet 11,0.0,0.0
+call,bet,0.0,11.0
 call,call,0.0,0.0
 call,raise,0.0,89.0
 raise,call,150.0,0.0
@@ -5749,15 +5749,15 @@ call,fold,0.0,0.0
 call,check,0.0,0.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
-bet 4,fold,0.0,0.0
-bet 20,check,0.0,0.0
+bet,fold,4.0,0.0
+bet,check,20.0,0.0
 call,call,0.0,0.0
 call,raise,0.0,18.0
 call,fold,0.0,0.0
 call,raise,0.0,81.0
 call,check,0.0,0.0
 call,check,0.0,0.0
-bet 15,check,0.0,0.0
+bet,check,15.0,0.0
 call,call,0.0,0.0
 call,call,0.0,0.0
 raise,check,18.0,0.0
@@ -5790,29 +5790,29 @@ call,fold,0.0,0.0
 call,fold,0.0,0.0
 call,raise,0.0,83.0
 call,check,0.0,0.0
-bet 8,fold,0.0,0.0
+bet,fold,8.0,0.0
 raise,raise,64.0,93.0
 call,check,0.0,0.0
 call,call,0.0,0.0
 call,call,0.0,0.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
-call,bet 34,0.0,0.0
-call,bet 12,0.0,0.0
+call,bet,0.0,34.0
+call,bet,0.0,12.0
 call,call,0.0,0.0
 call,check,0.0,0.0
 call,raise,0.0,77.0
 call,call,0.0,0.0
 call,raise,0.0,74.0
-bet 20,call,0.0,0.0
-bet 10,call,0.0,0.0
+bet,call,20.0,0.0
+bet,call,10.0,0.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
 call,raise,0.0,86.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
-call,bet 5,0.0,0.0
+call,bet,0.0,5.0
 call,call,0.0,0.0
 call,check,0.0,0.0
 call,check,0.0,0.0
@@ -5820,14 +5820,14 @@ call,raise,0.0,84.0
 call,call,0.0,0.0
 call,raise,0.0,7.0
 raise,call,50.0,0.0
-call,bet 11,0.0,0.0
+call,bet,0.0,11.0
 call,fold,0.0,0.0
 raise,call,200.0,0.0
 raise,call,40.0,0.0
 call,check,0.0,0.0
 call,call,0.0,0.0
 call,raise,0.0,81.0
-call,bet 5,0.0,0.0
+call,bet,0.0,5.0
 call,fold,0.0,0.0
 call,raise,0.0,13.0
 raise,fold,20.0,0.0
@@ -5844,11 +5844,11 @@ call,fold,0.0,0.0
 call,call,0.0,0.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
-bet 8,check,0.0,0.0
+bet,check,8.0,0.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
 call,raise,0.0,38.0
-bet 10,check,0.0,0.0
+bet,check,10.0,0.0
 call,check,0.0,0.0
 call,call,0.0,0.0
 call,call,0.0,0.0
@@ -5864,18 +5864,18 @@ call,call,0.0,0.0
 call,check,0.0,0.0
 call,check,0.0,0.0
 raise,call,200.0,0.0
-call,bet 12,0.0,0.0
-bet 8,bet 17,0.0,0.0
+call,bet,0.0,12.0
+bet,bet,8.0,17.0
 call,check,0.0,0.0
 raise,fold,60.0,0.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
 call,call,0.0,0.0
 call,call,0.0,0.0
-bet 10,call,0.0,0.0
+bet,call,10.0,0.0
 raise,raise,40.0,95.0
 call,check,0.0,0.0
-call,bet 4,0.0,0.0
+call,bet,0.0,4.0
 call,raise,0.0,22.0
 call,call,0.0,0.0
 raise,raise,64.0,92.0
@@ -5886,7 +5886,7 @@ call,check,0.0,0.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
-call,bet 4,0.0,0.0
+call,bet,0.0,4.0
 call,check,0.0,0.0
 call,check,0.0,0.0
 call,call,0.0,0.0
@@ -5898,10 +5898,10 @@ call,fold,0.0,0.0
 call,call,0.0,0.0
 call,call,0.0,0.0
 call,raise,0.0,58.0
-call,bet 17,0.0,0.0
+call,bet,0.0,17.0
 call,fold,0.0,0.0
 call,raise,0.0,32.0
-bet 4,check,0.0,0.0
+bet,check,4.0,0.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
 call,raise,0.0,32.0
@@ -5913,16 +5913,16 @@ call,fold,0.0,0.0
 call,raise,0.0,41.0
 raise,call,35.0,0.0
 call,call,0.0,0.0
-call,bet 13,0.0,0.0
-call,bet 32,0.0,0.0
+call,bet,0.0,13.0
+call,bet,0.0,32.0
 call,call,0.0,0.0
 call,check,0.0,0.0
 call,check,0.0,0.0
-bet 4,check,0.0,0.0
+bet,check,4.0,0.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
 call,raise,0.0,13.0
-bet 10,bet 20,0.0,0.0
+bet,bet,10.0,20.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
@@ -5933,15 +5933,15 @@ call,call,0.0,0.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
 call,call,0.0,0.0
-call,bet 3,0.0,0.0
+call,bet,0.0,3.0
 call,check,0.0,0.0
-bet 10,check,0.0,0.0
+bet,check,10.0,0.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
 call,raise,0.0,81.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
-bet 20,call,0.0,0.0
+bet,call,20.0,0.0
 call,call,0.0,0.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
@@ -5951,9 +5951,9 @@ call,fold,0.0,0.0
 call,check,0.0,0.0
 call,check,0.0,0.0
 call,call,0.0,0.0
-call,bet 8,0.0,0.0
-bet 10,check,0.0,0.0
-call,bet 7,0.0,0.0
+call,bet,0.0,8.0
+bet,check,10.0,0.0
+call,bet,0.0,7.0
 call,check,0.0,0.0
 raise,fold,120.0,0.0
 call,call,0.0,0.0
@@ -5984,7 +5984,7 @@ call,check,0.0,0.0
 call,call,0.0,0.0
 call,check,0.0,0.0
 call,raise,0.0,25.0
-call,bet 12,0.0,0.0
+call,bet,0.0,12.0
 call,raise,0.0,29.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
@@ -6008,15 +6008,15 @@ raise,fold,20.0,0.0
 call,check,0.0,0.0
 call,raise,0.0,22.0
 call,fold,0.0,0.0
-bet 40,raise,0.0,84.0
+bet,raise,40.0,84.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
 call,raise,0.0,83.0
 call,check,0.0,0.0
 call,check,0.0,0.0
 call,check,0.0,0.0
-call,bet 32,0.0,0.0
-call,bet 3,0.0,0.0
+call,bet,0.0,32.0
+call,bet,0.0,3.0
 call,check,0.0,0.0
 raise,raise,15.0,29.0
 call,call,0.0,0.0
@@ -6033,14 +6033,14 @@ call,call,0.0,0.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
-call,bet 8,0.0,0.0
+call,bet,0.0,8.0
 raise,fold,20.0,0.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
 call,raise,0.0,16.0
 call,check,0.0,0.0
-call,bet 8,0.0,0.0
-call,bet 17,0.0,0.0
+call,bet,0.0,8.0
+call,bet,0.0,17.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
@@ -6048,12 +6048,12 @@ call,raise,0.0,80.0
 call,raise,0.0,77.0
 call,check,0.0,0.0
 call,raise,0.0,35.0
-bet 10,bet 20,0.0,0.0
+bet,bet,10.0,20.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
 call,raise,0.0,86.0
 call,check,0.0,0.0
-call,bet 10,0.0,0.0
+call,bet,0.0,10.0
 call,raise,0.0,28.0
 call,check,0.0,0.0
 call,call,0.0,0.0
@@ -6062,18 +6062,18 @@ call,check,0.0,0.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
 call,call,0.0,0.0
-call,bet 5,0.0,0.0
+call,bet,0.0,5.0
 raise,fold,120.0,0.0
-call,bet 4,0.0,0.0
+call,bet,0.0,4.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
-call,bet 4,0.0,0.0
+call,bet,0.0,4.0
 raise,call,20.0,0.0
-bet 15,check,0.0,0.0
+bet,check,15.0,0.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
 call,raise,0.0,87.0
-call,bet 13,0.0,0.0
+call,bet,0.0,13.0
 call,check,0.0,0.0
 call,raise,0.0,80.0
 call,check,0.0,0.0
@@ -6084,7 +6084,7 @@ call,check,0.0,0.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
-call,bet 23,0.0,0.0
+call,bet,0.0,23.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
 call,raise,0.0,70.0
@@ -6098,7 +6098,7 @@ call,call,0.0,0.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
-bet 15,check,0.0,0.0
+bet,check,15.0,0.0
 call,call,0.0,0.0
 call,call,0.0,0.0
 call,check,0.0,0.0
@@ -6118,15 +6118,15 @@ call,fold,0.0,0.0
 call,raise,0.0,16.0
 call,call,0.0,0.0
 call,check,0.0,0.0
-bet 40,check,0.0,0.0
-call,bet 5,0.0,0.0
-bet 10,bet 23,0.0,0.0
+bet,check,40.0,0.0
+call,bet,0.0,5.0
+bet,bet,10.0,23.0
 call,fold,0.0,0.0
 call,raise,0.0,74.0
 call,check,0.0,0.0
 raise,raise,40.0,93.0
 call,check,0.0,0.0
-bet 60,call,0.0,0.0
+bet,call,60.0,0.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
@@ -6135,12 +6135,12 @@ call,fold,0.0,0.0
 call,raise,0.0,25.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
-bet 10,check,0.0,0.0
+bet,check,10.0,0.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
 call,call,0.0,0.0
 call,call,0.0,0.0
-call,bet 4,0.0,0.0
+call,bet,0.0,4.0
 call,call,0.0,0.0
 call,call,0.0,0.0
 call,raise,0.0,93.0
@@ -6155,11 +6155,11 @@ call,call,0.0,0.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
-call,bet 29,0.0,0.0
+call,bet,0.0,29.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
-call,bet 5,0.0,0.0
+call,bet,0.0,5.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
@@ -6171,8 +6171,8 @@ call,raise,0.0,93.0
 call,call,0.0,0.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
-bet 8,bet 10,0.0,0.0
-call,bet 24,0.0,0.0
+bet,bet,8.0,10.0
+call,bet,0.0,24.0
 call,check,0.0,0.0
 call,raise,0.0,86.0
 raise,fold,80.0,0.0
@@ -6182,8 +6182,8 @@ raise,fold,50.0,0.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
-bet 96,call,0.0,0.0
-bet 10,call,0.0,0.0
+bet,call,96.0,0.0
+bet,call,10.0,0.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
@@ -6197,7 +6197,7 @@ raise,call,140.0,0.0
 call,check,0.0,0.0
 call,check,0.0,0.0
 call,check,0.0,0.0
-call,bet 8,0.0,0.0
+call,bet,0.0,8.0
 call,call,0.0,0.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
@@ -6205,12 +6205,12 @@ call,fold,0.0,0.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
-bet 6,raise,0.0,13.0
+bet,raise,6.0,13.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
 call,raise,0.0,83.0
 call,call,0.0,0.0
-bet 4,bet 22,0.0,0.0
+bet,bet,4.0,22.0
 call,check,0.0,0.0
 call,raise,0.0,81.0
 call,call,0.0,0.0
@@ -6235,9 +6235,9 @@ raise,fold,20.0,0.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
-bet 75,call,0.0,0.0
+bet,call,75.0,0.0
 raise,fold,20.0,0.0
-bet 20,check,0.0,0.0
+bet,check,20.0,0.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
@@ -6250,9 +6250,9 @@ raise,raise,20.0,35.0
 call,raise,0.0,84.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
-call,bet 45,0.0,0.0
-call,bet 23,0.0,0.0
-bet 10,call,0.0,0.0
+call,bet,0.0,45.0
+call,bet,0.0,23.0
+bet,call,10.0,0.0
 call,raise,0.0,70.0
 call,check,0.0,0.0
 call,call,0.0,0.0
@@ -6269,22 +6269,22 @@ call,check,0.0,0.0
 call,raise,0.0,32.0
 call,call,0.0,0.0
 raise,call,60.0,0.0
-bet 10,call,0.0,0.0
+bet,call,10.0,0.0
 call,call,0.0,0.0
-bet 40,check,0.0,0.0
-call,bet 22,0.0,0.0
-bet 16,check,0.0,0.0
+bet,check,40.0,0.0
+call,bet,0.0,22.0
+bet,check,16.0,0.0
 call,fold,0.0,0.0
-bet 10,call,0.0,0.0
+bet,call,10.0,0.0
 call,check,0.0,0.0
 call,call,0.0,0.0
-call,bet 39,0.0,0.0
+call,bet,0.0,39.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
-call,bet 10,0.0,0.0
+call,bet,0.0,10.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
 call,check,0.0,0.0
@@ -6292,15 +6292,15 @@ call,call,0.0,0.0
 call,raise,0.0,16.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
-call,bet 4,0.0,0.0
+call,bet,0.0,4.0
 call,call,0.0,0.0
 call,call,0.0,0.0
 call,check,0.0,0.0
 call,call,0.0,0.0
 call,raise,0.0,22.0
-call,bet 29,0.0,0.0
-call,bet 17,0.0,0.0
-call,bet 29,0.0,0.0
+call,bet,0.0,29.0
+call,bet,0.0,17.0
+call,bet,0.0,29.0
 call,check,0.0,0.0
 call,call,0.0,0.0
 call,raise,0.0,81.0
@@ -6314,7 +6314,7 @@ call,fold,0.0,0.0
 call,check,0.0,0.0
 call,check,0.0,0.0
 call,check,0.0,0.0
-call,bet 19,0.0,0.0
+call,bet,0.0,19.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
 call,raise,0.0,10.0
@@ -6326,15 +6326,15 @@ call,call,0.0,0.0
 raise,fold,50.0,0.0
 call,check,0.0,0.0
 call,call,0.0,0.0
-bet 60,call,0.0,0.0
+bet,call,60.0,0.0
 call,check,0.0,0.0
 call,raise,0.0,25.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
-bet 4,bet 8,0.0,0.0
-bet 4,check,0.0,0.0
+bet,bet,4.0,8.0
+bet,check,4.0,0.0
 call,check,0.0,0.0
 call,call,0.0,0.0
 call,check,0.0,0.0
@@ -6342,11 +6342,11 @@ call,fold,0.0,0.0
 raise,call,40.0,0.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
-bet 4,bet 20,0.0,0.0
+bet,bet,4.0,20.0
 call,raise,0.0,27.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
-bet 20,check,0.0,0.0
+bet,check,20.0,0.0
 call,call,0.0,0.0
 call,check,0.0,0.0
 call,raise,0.0,22.0
@@ -6367,39 +6367,39 @@ call,fold,0.0,0.0
 call,fold,0.0,0.0
 raise,fold,32.0,0.0
 raise,raise,64.0,94.0
-call,bet 8,0.0,0.0
-bet 4,check,0.0,0.0
+call,bet,0.0,8.0
+bet,check,4.0,0.0
 call,call,0.0,0.0
 call,raise,0.0,87.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
-bet 5,check,0.0,0.0
+bet,check,5.0,0.0
 call,raise,0.0,93.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
-bet 32,call,0.0,0.0
+bet,call,32.0,0.0
 call,raise,0.0,56.0
 call,call,0.0,0.0
 call,raise,0.0,58.0
 call,raise,0.0,17.0
-bet 4,check,0.0,0.0
+bet,check,4.0,0.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
 call,raise,0.0,25.0
 call,call,0.0,0.0
-call,bet 5,0.0,0.0
-call,bet 18,0.0,0.0
+call,bet,0.0,5.0
+call,bet,0.0,18.0
 call,raise,0.0,27.0
 call,raise,0.0,59.0
 raise,fold,200.0,0.0
 call,check,0.0,0.0
-bet 4,check,0.0,0.0
+bet,check,4.0,0.0
 call,check,0.0,0.0
 raise,raise,60.0,92.0
-bet 25,check,0.0,0.0
+bet,check,25.0,0.0
 call,call,0.0,0.0
 call,call,0.0,0.0
 call,raise,0.0,81.0
@@ -6413,7 +6413,7 @@ call,fold,0.0,0.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
-bet 10,raise,0.0,22.0
+bet,raise,10.0,22.0
 raise,fold,50.0,0.0
 call,fold,0.0,0.0
 call,raise,0.0,54.0
@@ -6430,32 +6430,32 @@ call,fold,0.0,0.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
-bet 8,check,0.0,0.0
+bet,check,8.0,0.0
 call,raise,0.0,77.0
 call,raise,0.0,44.0
 call,fold,0.0,0.0
-call,bet 12,0.0,0.0
+call,bet,0.0,12.0
 call,check,0.0,0.0
 call,call,0.0,0.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
-call,bet 23,0.0,0.0
+call,bet,0.0,23.0
 call,call,0.0,0.0
 call,call,0.0,0.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
-bet 10,check,0.0,0.0
+bet,check,10.0,0.0
 call,raise,0.0,81.0
 call,fold,0.0,0.0
 raise,call,50.0,0.0
 call,call,0.0,0.0
-bet 6,check,0.0,0.0
+bet,check,6.0,0.0
 call,check,0.0,0.0
 call,call,0.0,0.0
 call,raise,0.0,11.0
 call,fold,0.0,0.0
-call,bet 17,0.0,0.0
+call,bet,0.0,17.0
 raise,call,200.0,0.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
@@ -6476,58 +6476,58 @@ call,fold,0.0,0.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
 call,raise,0.0,86.0
-bet 6,check,0.0,0.0
+bet,check,6.0,0.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
 call,raise,0.0,77.0
 call,check,0.0,0.0
 call,check,0.0,0.0
-bet 15,bet 5,0.0,0.0
+bet,bet,15.0,5.0
 call,call,0.0,0.0
 raise,fold,50.0,0.0
 call,call,0.0,0.0
 raise,fold,40.0,0.0
 call,call,0.0,0.0
-call,bet 8,0.0,0.0
+call,bet,0.0,8.0
 call,call,0.0,0.0
 call,raise,0.0,89.0
 call,check,0.0,0.0
 call,call,0.0,0.0
-call,bet 3,0.0,0.0
+call,bet,0.0,3.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
-call,bet 17,0.0,0.0
-bet 20,check,0.0,0.0
+call,bet,0.0,17.0
+bet,check,20.0,0.0
 call,raise,0.0,44.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
 raise,fold,32.0,0.0
-call,bet 3,0.0,0.0
-bet 4,bet 22,0.0,0.0
+call,bet,0.0,3.0
+bet,bet,4.0,22.0
 call,check,0.0,0.0
 call,check,0.0,0.0
 call,raise,0.0,37.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
-call,bet 2,0.0,0.0
+call,bet,0.0,2.0
 call,call,0.0,0.0
 raise,call,120.0,0.0
 call,raise,0.0,89.0
-call,bet 23,0.0,0.0
+call,bet,0.0,23.0
 call,check,0.0,0.0
 call,check,0.0,0.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
-bet 40,bet 5,0.0,0.0
+bet,bet,40.0,5.0
 raise,fold,50.0,0.0
-call,bet 10,0.0,0.0
+call,bet,0.0,10.0
 call,call,0.0,0.0
 call,call,0.0,0.0
 call,raise,0.0,35.0
 call,call,0.0,0.0
 call,call,0.0,0.0
-call,bet 23,0.0,0.0
+call,bet,0.0,23.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
@@ -6557,29 +6557,29 @@ call,fold,0.0,0.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
-call,bet 29,0.0,0.0
+call,bet,0.0,29.0
 call,call,0.0,0.0
 call,check,0.0,0.0
 call,raise,0.0,90.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
-bet 4,check,0.0,0.0
-bet 5,check,0.0,0.0
+bet,check,4.0,0.0
+bet,check,5.0,0.0
 raise,call,40.0,0.0
-call,bet 18,0.0,0.0
+call,bet,0.0,18.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
 raise,fold,50.0,0.0
-raise,bet 29,32.0,0.0
+raise,bet,32.0,29.0
 call,call,0.0,0.0
 call,raise,0.0,25.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
 call,raise,0.0,58.0
 call,check,0.0,0.0
-call,bet 13,0.0,0.0
-bet 35,check,0.0,0.0
-call,bet 10,0.0,0.0
+call,bet,0.0,13.0
+bet,check,35.0,0.0
+call,bet,0.0,10.0
 call,raise,0.0,54.0
 call,call,0.0,0.0
 call,check,0.0,0.0
@@ -6593,16 +6593,16 @@ call,call,0.0,0.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
 call,raise,0.0,84.0
-bet 15,bet 3,0.0,0.0
+bet,bet,15.0,3.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
-bet 4,check,0.0,0.0
+bet,check,4.0,0.0
 call,call,0.0,0.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
-bet 4,check,0.0,0.0
-bet 10,call,0.0,0.0
+bet,check,4.0,0.0
+bet,call,10.0,0.0
 raise,fold,80.0,0.0
 call,fold,0.0,0.0
 call,raise,0.0,16.0
@@ -6612,13 +6612,13 @@ call,raise,0.0,58.0
 call,raise,0.0,92.0
 raise,call,40.0,0.0
 call,fold,0.0,0.0
-bet 10,check,0.0,0.0
-bet 23,bet 4,0.0,0.0
+bet,check,10.0,0.0
+bet,bet,23.0,4.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
 call,check,0.0,0.0
-bet 10,check,0.0,0.0
+bet,check,10.0,0.0
 call,raise,0.0,86.0
 call,raise,0.0,88.0
 call,call,0.0,0.0
@@ -6627,13 +6627,13 @@ raise,fold,150.0,0.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
-call,bet 10,0.0,0.0
-bet 15,check,0.0,0.0
+call,bet,0.0,10.0
+bet,check,15.0,0.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
 call,raise,0.0,46.0
 call,fold,0.0,0.0
-bet 25,check,0.0,0.0
+bet,check,25.0,0.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
 call,call,0.0,0.0
@@ -6645,9 +6645,9 @@ call,check,0.0,0.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
-bet 4,check,0.0,0.0
-call,bet 8,0.0,0.0
-call,bet 29,0.0,0.0
+bet,check,4.0,0.0
+call,bet,0.0,8.0
+call,bet,0.0,29.0
 call,check,0.0,0.0
 raise,call,200.0,0.0
 call,call,0.0,0.0
@@ -6657,21 +6657,21 @@ call,call,0.0,0.0
 call,fold,0.0,0.0
 call,raise,0.0,90.0
 call,check,0.0,0.0
-call,bet 29,0.0,0.0
-call,bet 17,0.0,0.0
+call,bet,0.0,29.0
+call,bet,0.0,17.0
 call,check,0.0,0.0
 call,raise,0.0,82.0
 call,fold,0.0,0.0
 raise,raise,120.0,88.0
 call,call,0.0,0.0
-bet 16,bet 17,0.0,0.0
-call,bet 17,0.0,0.0
+bet,bet,16.0,17.0
+call,bet,0.0,17.0
 call,call,0.0,0.0
 call,check,0.0,0.0
-bet 20,check,0.0,0.0
+bet,check,20.0,0.0
 call,call,0.0,0.0
-bet 20,check,0.0,0.0
-bet 16,check,0.0,0.0
+bet,check,20.0,0.0
+bet,check,16.0,0.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
 call,raise,0.0,88.0
@@ -6680,10 +6680,10 @@ call,call,0.0,0.0
 call,raise,0.0,88.0
 call,raise,0.0,38.0
 call,check,0.0,0.0
-call,bet 23,0.0,0.0
+call,bet,0.0,23.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
-bet 25,check,0.0,0.0
+bet,check,25.0,0.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
 call,raise,0.0,82.0
@@ -6693,14 +6693,14 @@ call,raise,0.0,16.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
 call,raise,0.0,85.0
-call,bet 5,0.0,0.0
+call,bet,0.0,5.0
 call,check,0.0,0.0
 raise,fold,60.0,0.0
 call,raise,0.0,7.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
-bet 75,check,0.0,0.0
+bet,check,75.0,0.0
 call,call,0.0,0.0
 raise,fold,40.0,0.0
 call,check,0.0,0.0
@@ -6710,12 +6710,12 @@ call,call,0.0,0.0
 call,raise,0.0,89.0
 call,call,0.0,0.0
 call,raise,0.0,8.0
-call,bet 4,0.0,0.0
+call,bet,0.0,4.0
 raise,fold,300.0,0.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
 call,raise,0.0,23.0
-call,bet 39,0.0,0.0
+call,bet,0.0,39.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
 call,raise,0.0,64.0
@@ -6724,7 +6724,7 @@ call,call,0.0,0.0
 call,call,0.0,0.0
 call,call,0.0,0.0
 call,check,0.0,0.0
-call,bet 29,0.0,0.0
+call,bet,0.0,29.0
 call,call,0.0,0.0
 call,check,0.0,0.0
 call,raise,0.0,86.0
@@ -6733,31 +6733,31 @@ raise,fold,40.0,0.0
 call,check,0.0,0.0
 raise,call,60.0,0.0
 raise,fold,50.0,0.0
-call,bet 4,0.0,0.0
+call,bet,0.0,4.0
 call,fold,0.0,0.0
 call,raise,0.0,22.0
 call,check,0.0,0.0
-bet 3,bet 11,0.0,0.0
+bet,bet,3.0,11.0
 call,check,0.0,0.0
 call,check,0.0,0.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
-call,bet 3,0.0,0.0
+call,bet,0.0,3.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
-bet 8,check,0.0,0.0
+bet,check,8.0,0.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
-call,bet 27,0.0,0.0
-call,bet 29,0.0,0.0
+call,bet,0.0,27.0
+call,bet,0.0,29.0
 call,check,0.0,0.0
-bet 25,bet 31,0.0,0.0
+bet,bet,25.0,31.0
 call,call,0.0,0.0
-call,bet 18,0.0,0.0
+call,bet,0.0,18.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
@@ -6772,14 +6772,14 @@ call,raise,0.0,55.0
 raise,check,18.0,0.0
 call,fold,0.0,0.0
 call,raise,0.0,90.0
-call,bet 25,0.0,0.0
+call,bet,0.0,25.0
 raise,raise,100.0,89.0
 call,fold,0.0,0.0
 call,raise,0.0,82.0
 call,raise,0.0,87.0
 call,check,0.0,0.0
 call,call,0.0,0.0
-call,bet 29,0.0,0.0
+call,bet,0.0,29.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
@@ -6787,7 +6787,7 @@ call,call,0.0,0.0
 call,raise,0.0,30.0
 call,check,0.0,0.0
 call,check,0.0,0.0
-bet 4,check,0.0,0.0
+bet,check,4.0,0.0
 call,check,0.0,0.0
 call,check,0.0,0.0
 call,raise,0.0,88.0
@@ -6795,21 +6795,21 @@ call,call,0.0,0.0
 call,check,0.0,0.0
 call,raise,0.0,31.0
 call,check,0.0,0.0
-bet 15,check,0.0,0.0
+bet,check,15.0,0.0
 call,fold,0.0,0.0
 call,raise,0.0,18.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
-call,bet 23,0.0,0.0
+call,bet,0.0,23.0
 call,call,0.0,0.0
 call,call,0.0,0.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
 call,raise,0.0,30.0
 call,check,0.0,0.0
-raise,bet 20,20.0,0.0
+raise,bet,20.0,20.0
 call,raise,0.0,54.0
-bet 10,check,0.0,0.0
+bet,check,10.0,0.0
 call,call,0.0,0.0
 call,call,0.0,0.0
 call,call,0.0,0.0
@@ -6818,29 +6818,29 @@ call,raise,0.0,80.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
 raise,fold,50.0,0.0
-call,bet 4,0.0,0.0
-call,bet 18,0.0,0.0
+call,bet,0.0,4.0
+call,bet,0.0,18.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
-bet 6,call,0.0,0.0
-bet 4,check,0.0,0.0
+bet,call,6.0,0.0
+bet,check,4.0,0.0
 call,check,0.0,0.0
-bet 4,check,0.0,0.0
-bet 20,fold,0.0,0.0
+bet,check,4.0,0.0
+bet,fold,20.0,0.0
 call,call,0.0,0.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
 call,check,0.0,0.0
-call,bet 19,0.0,0.0
+call,bet,0.0,19.0
 fold,fold,0.0,0.0
 call,fold,0.0,0.0
 raise,fold,150.0,0.0
-bet 6,check,0.0,0.0
+bet,check,6.0,0.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
 call,call,0.0,0.0
-bet 10,check,0.0,0.0
+bet,check,10.0,0.0
 call,check,0.0,0.0
 call,raise,0.0,32.0
 call,check,0.0,0.0
@@ -6848,14 +6848,14 @@ call,fold,0.0,0.0
 call,fold,0.0,0.0
 raise,fold,40.0,0.0
 call,raise,0.0,41.0
-bet 20,bet 31,0.0,0.0
+bet,bet,20.0,31.0
 raise,fold,50.0,0.0
 call,fold,0.0,0.0
-call,bet 4,0.0,0.0
+call,bet,0.0,4.0
 call,check,0.0,0.0
 call,check,0.0,0.0
 raise,fold,50.0,0.0
-call,bet 7,0.0,0.0
+call,bet,0.0,7.0
 call,check,0.0,0.0
 call,check,0.0,0.0
 call,check,0.0,0.0
@@ -6868,11 +6868,11 @@ call,fold,0.0,0.0
 call,call,0.0,0.0
 call,call,0.0,0.0
 call,check,0.0,0.0
-call,bet 3,0.0,0.0
+call,bet,0.0,3.0
 call,check,0.0,0.0
 call,call,0.0,0.0
 raise,call,40.0,0.0
-bet 4,bet 12,0.0,0.0
+bet,bet,4.0,12.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
@@ -6882,7 +6882,7 @@ call,call,0.0,0.0
 call,check,0.0,0.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
-call,bet 24,0.0,0.0
+call,bet,0.0,24.0
 call,call,0.0,0.0
 call,check,0.0,0.0
 call,call,0.0,0.0
@@ -6892,22 +6892,22 @@ call,fold,0.0,0.0
 call,raise,0.0,86.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
-call,bet 2,0.0,0.0
+call,bet,0.0,2.0
 call,raise,0.0,93.0
 call,call,0.0,0.0
-bet 15,bet 5,0.0,0.0
+bet,bet,15.0,5.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
 call,call,0.0,0.0
 call,call,0.0,0.0
 call,check,0.0,0.0
-call,bet 5,0.0,0.0
+call,bet,0.0,5.0
 raise,call,30.0,0.0
-call,bet 23,0.0,0.0
+call,bet,0.0,23.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
-call,bet 15,0.0,0.0
+call,bet,0.0,15.0
 call,call,0.0,0.0
 call,check,0.0,0.0
 call,call,0.0,0.0
@@ -6922,11 +6922,11 @@ call,raise,0.0,16.0
 call,fold,0.0,0.0
 raise,fold,30.0,0.0
 call,call,0.0,0.0
-bet 4,fold,0.0,0.0
-bet 16,bet 17,0.0,0.0
+bet,fold,4.0,0.0
+bet,bet,16.0,17.0
 call,raise,0.0,38.0
 call,raise,0.0,35.0
-call,bet 16,0.0,0.0
+call,bet,0.0,16.0
 call,check,0.0,0.0
 call,call,0.0,0.0
 call,check,0.0,0.0
@@ -6935,22 +6935,22 @@ raise,fold,120.0,0.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
 raise,fold,80.0,0.0
-call,bet 17,0.0,0.0
+call,bet,0.0,17.0
 call,call,0.0,0.0
 call,check,0.0,0.0
 call,call,0.0,0.0
 call,call,0.0,0.0
 call,call,0.0,0.0
-call,bet 34,0.0,0.0
+call,bet,0.0,34.0
 call,raise,0.0,27.0
 call,raise,0.0,77.0
 call,check,0.0,0.0
-call,bet 39,0.0,0.0
+call,bet,0.0,39.0
 call,check,0.0,0.0
 call,raise,0.0,88.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
-call,bet 10,0.0,0.0
+call,bet,0.0,10.0
 raise,call,40.0,0.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
@@ -6975,10 +6975,10 @@ call,call,0.0,0.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
-bet 40,call,0.0,0.0
-bet 45,check,0.0,0.0
+bet,call,40.0,0.0
+bet,check,45.0,0.0
 call,call,0.0,0.0
-call,bet 40,0.0,0.0
+call,bet,0.0,40.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
@@ -6987,24 +6987,24 @@ call,call,0.0,0.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
-bet 10,check,0.0,0.0
+bet,check,10.0,0.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
-bet 15,check,0.0,0.0
-call,bet 17,0.0,0.0
+bet,check,15.0,0.0
+call,bet,0.0,17.0
 call,call,0.0,0.0
 raise,fold,40.0,0.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
-bet 10,bet 11,0.0,0.0
+bet,bet,10.0,11.0
 call,call,0.0,0.0
 call,call,0.0,0.0
 call,check,0.0,0.0
 call,check,0.0,0.0
 call,call,0.0,0.0
-call,bet 3,0.0,0.0
+call,bet,0.0,3.0
 call,call,0.0,0.0
 call,check,0.0,0.0
 call,call,0.0,0.0
@@ -7012,10 +7012,10 @@ call,call,0.0,0.0
 call,raise,0.0,77.0
 call,raise,0.0,93.0
 call,raise,0.0,41.0
-call,bet 4,0.0,0.0
+call,bet,0.0,4.0
 call,fold,0.0,0.0
 call,raise,0.0,17.0
-call,bet 4,0.0,0.0
+call,bet,0.0,4.0
 call,check,0.0,0.0
 call,raise,0.0,82.0
 call,call,0.0,0.0
@@ -7026,10 +7026,10 @@ call,check,0.0,0.0
 call,fold,0.0,0.0
 raise,raise,60.0,89.0
 call,call,0.0,0.0
-call,bet 10,0.0,0.0
+call,bet,0.0,10.0
 call,check,0.0,0.0
 raise,fold,32.0,0.0
-call,bet 4,0.0,0.0
+call,bet,0.0,4.0
 call,call,0.0,0.0
 call,check,0.0,0.0
 call,call,0.0,0.0
@@ -7039,14 +7039,14 @@ call,fold,0.0,0.0
 call,raise,0.0,32.0
 raise,call,55.0,0.0
 call,call,0.0,0.0
-bet 4,check,0.0,0.0
+bet,check,4.0,0.0
 call,raise,0.0,38.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
-bet 10,check,0.0,0.0
+bet,check,10.0,0.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
-call,bet 5,0.0,0.0
+call,bet,0.0,5.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
@@ -7058,7 +7058,7 @@ call,fold,0.0,0.0
 call,raise,0.0,25.0
 call,call,0.0,0.0
 call,raise,0.0,58.0
-call,bet 10,0.0,0.0
+call,bet,0.0,10.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
@@ -7082,26 +7082,26 @@ call,fold,0.0,0.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
 call,call,0.0,0.0
-bet 25,check,0.0,0.0
-call,bet 10,0.0,0.0
+bet,check,25.0,0.0
+call,bet,0.0,10.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
 call,raise,0.0,25.0
 call,call,0.0,0.0
 call,call,0.0,0.0
 raise,call,40.0,0.0
-bet 4,check,0.0,0.0
+bet,check,4.0,0.0
 raise,check,5.0,0.0
-call,bet 13,0.0,0.0
+call,bet,0.0,13.0
 call,raise,0.0,44.0
 call,call,0.0,0.0
 call,check,0.0,0.0
 call,check,0.0,0.0
 call,check,0.0,0.0
 call,raise,0.0,89.0
-call,bet 17,0.0,0.0
+call,bet,0.0,17.0
 raise,fold,55.0,0.0
-call,bet 4,0.0,0.0
+call,bet,0.0,4.0
 raise,fold,128.0,0.0
 raise,call,27.0,0.0
 raise,fold,40.0,0.0
@@ -7111,26 +7111,26 @@ call,fold,0.0,0.0
 call,raise,0.0,37.0
 call,call,0.0,0.0
 call,call,0.0,0.0
-bet 4,check,0.0,0.0
+bet,check,4.0,0.0
 call,call,0.0,0.0
 call,raise,0.0,86.0
 call,raise,0.0,76.0
-bet 20,check,0.0,0.0
+bet,check,20.0,0.0
 call,raise,0.0,86.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
 raise,fold,40.0,0.0
-bet 10,fold,0.0,0.0
+bet,fold,10.0,0.0
 call,raise,0.0,82.0
 raise,raise,60.0,93.0
 call,call,0.0,0.0
-bet 10,check,0.0,0.0
+bet,check,10.0,0.0
 call,check,0.0,0.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
-bet 10,bet 12,0.0,0.0
+bet,bet,10.0,12.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
@@ -7138,24 +7138,24 @@ call,fold,0.0,0.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
-bet 40,fold,0.0,0.0
+bet,fold,40.0,0.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
-call,bet 24,0.0,0.0
+call,bet,0.0,24.0
 call,call,0.0,0.0
 call,check,0.0,0.0
 call,call,0.0,0.0
 call,raise,0.0,18.0
 call,call,0.0,0.0
-bet 8,raise,0.0,13.0
+bet,raise,8.0,13.0
 call,call,0.0,0.0
 call,call,0.0,0.0
-bet 15,check,0.0,0.0
+bet,check,15.0,0.0
 raise,fold,120.0,0.0
-call,bet 29,0.0,0.0
-call,bet 13,0.0,0.0
-bet 25,raise,0.0,83.0
+call,bet,0.0,29.0
+call,bet,0.0,13.0
+bet,raise,25.0,83.0
 call,raise,0.0,38.0
 call,raise,0.0,4.0
 call,call,0.0,0.0
@@ -7168,38 +7168,38 @@ call,fold,0.0,0.0
 call,check,0.0,0.0
 call,call,0.0,0.0
 call,call,0.0,0.0
-bet 45,check,0.0,0.0
+bet,check,45.0,0.0
 raise,call,55.0,0.0
 call,call,0.0,0.0
-call,bet 3,0.0,0.0
+call,bet,0.0,3.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
 call,call,0.0,0.0
-bet 20,bet 30,0.0,0.0
+bet,bet,20.0,30.0
 call,check,0.0,0.0
 call,raise,0.0,16.0
-call,bet 23,0.0,0.0
+call,bet,0.0,23.0
 call,call,0.0,0.0
 call,check,0.0,0.0
 call,check,0.0,0.0
 call,call,0.0,0.0
-call,bet 24,0.0,0.0
-bet 10,call,0.0,0.0
+call,bet,0.0,24.0
+bet,call,10.0,0.0
 call,check,0.0,0.0
 call,call,0.0,0.0
 call,check,0.0,0.0
-call,bet 29,0.0,0.0
+call,bet,0.0,29.0
 call,fold,0.0,0.0
-bet 10,check,0.0,0.0
-bet 8,bet 17,0.0,0.0
+bet,check,10.0,0.0
+bet,bet,8.0,17.0
 call,raise,0.0,25.0
-call,bet 29,0.0,0.0
+call,bet,0.0,29.0
 call,call,0.0,0.0
-bet 4,check,0.0,0.0
+bet,check,4.0,0.0
 call,raise,0.0,58.0
 call,raise,0.0,85.0
-bet 30,fold,0.0,0.0
+bet,fold,30.0,0.0
 call,raise,0.0,88.0
 call,raise,0.0,22.0
 call,call,0.0,0.0
@@ -7208,7 +7208,7 @@ call,fold,0.0,0.0
 call,check,0.0,0.0
 call,call,0.0,0.0
 call,check,0.0,0.0
-call,bet 7,0.0,0.0
+call,bet,0.0,7.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
@@ -7219,12 +7219,12 @@ call,check,0.0,0.0
 call,raise,0.0,87.0
 call,raise,0.0,11.0
 call,call,0.0,0.0
-call,bet 23,0.0,0.0
+call,bet,0.0,23.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
 call,call,0.0,0.0
-call,bet 11,0.0,0.0
+call,bet,0.0,11.0
 raise,fold,200.0,0.0
 call,call,0.0,0.0
 call,call,0.0,0.0
@@ -7244,16 +7244,16 @@ call,fold,0.0,0.0
 call,raise,0.0,23.0
 call,raise,0.0,85.0
 call,check,0.0,0.0
-call,bet 29,0.0,0.0
+call,bet,0.0,29.0
 call,call,0.0,0.0
 call,check,0.0,0.0
 call,call,0.0,0.0
 call,check,0.0,0.0
 raise,raise,80.0,92.0
 call,call,0.0,0.0
-call,bet 23,0.0,0.0
+call,bet,0.0,23.0
 call,fold,0.0,0.0
-call,bet 29,0.0,0.0
+call,bet,0.0,29.0
 call,fold,0.0,0.0
 call,raise,0.0,86.0
 call,fold,0.0,0.0
@@ -7265,23 +7265,23 @@ call,check,0.0,0.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
 call,check,0.0,0.0
-call,bet 23,0.0,0.0
+call,bet,0.0,23.0
 call,check,0.0,0.0
 call,check,0.0,0.0
-bet 40,check,0.0,0.0
-bet 10,check,0.0,0.0
+bet,check,40.0,0.0
+bet,check,10.0,0.0
 call,check,0.0,0.0
 call,check,0.0,0.0
 call,check,0.0,0.0
 call,check,0.0,0.0
 call,raise,0.0,84.0
-call,bet 12,0.0,0.0
+call,bet,0.0,12.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
 call,raise,0.0,11.0
 call,raise,0.0,10.0
-call,bet 23,0.0,0.0
-call,bet 7,0.0,0.0
+call,bet,0.0,23.0
+call,bet,0.0,7.0
 call,fold,0.0,0.0
 raise,call,150.0,0.0
 call,check,0.0,0.0
@@ -7290,8 +7290,8 @@ call,check,0.0,0.0
 call,raise,0.0,90.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
-call,bet 5,0.0,0.0
-bet 10,bet 20,0.0,0.0
+call,bet,0.0,5.0
+bet,bet,10.0,20.0
 call,check,0.0,0.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
@@ -7299,18 +7299,18 @@ raise,fold,40.0,0.0
 call,call,0.0,0.0
 call,raise,0.0,86.0
 call,fold,0.0,0.0
-call,bet 3,0.0,0.0
+call,bet,0.0,3.0
 call,check,0.0,0.0
-bet 25,bet 31,0.0,0.0
+bet,bet,25.0,31.0
 raise,raise,64.0,89.0
-bet 4,check,0.0,0.0
+bet,check,4.0,0.0
 call,fold,0.0,0.0
-bet 4,check,0.0,0.0
+bet,check,4.0,0.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
-bet 4,check,0.0,0.0
+bet,check,4.0,0.0
 call,check,0.0,0.0
-call,bet 18,0.0,0.0
+call,bet,0.0,18.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
@@ -7319,11 +7319,11 @@ call,raise,0.0,38.0
 call,call,0.0,0.0
 call,call,0.0,0.0
 raise,fold,64.0,0.0
-call,bet 34,0.0,0.0
-bet 4,check,0.0,0.0
+call,bet,0.0,34.0
+bet,check,4.0,0.0
 call,check,0.0,0.0
 call,raise,0.0,77.0
-call,bet 16,0.0,0.0
+call,bet,0.0,16.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
 call,check,0.0,0.0
@@ -7334,7 +7334,7 @@ call,call,0.0,0.0
 call,call,0.0,0.0
 call,call,0.0,0.0
 call,call,0.0,0.0
-call,bet 29,0.0,0.0
+call,bet,0.0,29.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
 call,check,0.0,0.0
@@ -7348,40 +7348,40 @@ call,fold,0.0,0.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
-bet 10,check,0.0,0.0
+bet,check,10.0,0.0
 call,check,0.0,0.0
-bet 6,check,0.0,0.0
+bet,check,6.0,0.0
 call,check,0.0,0.0
 raise,raise,20.0,41.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
 call,raise,0.0,41.0
-bet 8,bet 28,0.0,0.0
+bet,bet,8.0,28.0
 call,raise,0.0,90.0
 call,check,0.0,0.0
-call,bet 13,0.0,0.0
-bet 100,fold,0.0,0.0
+call,bet,0.0,13.0
+bet,fold,100.0,0.0
 raise,fold,64.0,0.0
 call,call,0.0,0.0
 call,check,0.0,0.0
 raise,call,50.0,0.0
 call,check,0.0,0.0
-call,bet 10,0.0,0.0
+call,bet,0.0,10.0
 call,call,0.0,0.0
 call,call,0.0,0.0
 raise,raise,120.0,92.0
 call,fold,0.0,0.0
 call,raise,0.0,13.0
-call,bet 40,0.0,0.0
+call,bet,0.0,40.0
 call,check,0.0,0.0
 call,raise,0.0,83.0
-call,bet 29,0.0,0.0
+call,bet,0.0,29.0
 call,check,0.0,0.0
 call,call,0.0,0.0
 call,raise,0.0,82.0
-bet 6,check,0.0,0.0
+bet,check,6.0,0.0
 call,fold,0.0,0.0
-bet 20,check,0.0,0.0
+bet,check,20.0,0.0
 call,call,0.0,0.0
 call,call,0.0,0.0
 call,call,0.0,0.0
@@ -7403,8 +7403,8 @@ call,call,0.0,0.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
-call,bet 18,0.0,0.0
-bet 15,check,0.0,0.0
+call,bet,0.0,18.0
+bet,check,15.0,0.0
 call,check,0.0,0.0
 raise,call,20.0,0.0
 call,raise,0.0,25.0
@@ -7415,12 +7415,12 @@ call,call,0.0,0.0
 call,call,0.0,0.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
-call,bet 13,0.0,0.0
-call,bet 23,0.0,0.0
+call,bet,0.0,13.0
+call,bet,0.0,23.0
 call,check,0.0,0.0
 call,check,0.0,0.0
-bet 8,bet 17,0.0,0.0
-call,bet 39,0.0,0.0
+bet,bet,8.0,17.0
+call,bet,0.0,39.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
 call,check,0.0,0.0
@@ -7433,7 +7433,7 @@ call,call,0.0,0.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
 raise,raise,40.0,73.0
-bet 8,check,0.0,0.0
+bet,check,8.0,0.0
 raise,fold,120.0,0.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
@@ -7444,7 +7444,7 @@ call,call,0.0,0.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
 call,raise,0.0,16.0
-bet 8,check,0.0,0.0
+bet,check,8.0,0.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
 raise,call,55.0,0.0
@@ -7452,11 +7452,11 @@ call,fold,0.0,0.0
 call,call,0.0,0.0
 call,check,0.0,0.0
 raise,fold,40.0,0.0
-call,bet 17,0.0,0.0
+call,bet,0.0,17.0
 call,fold,0.0,0.0
-raise,bet 18,18.0,0.0
+raise,bet,18.0,18.0
 call,raise,0.0,86.0
-call,bet 8,0.0,0.0
+call,bet,0.0,8.0
 call,call,0.0,0.0
 raise,call,40.0,0.0
 call,raise,0.0,86.0
@@ -7470,32 +7470,32 @@ call,call,0.0,0.0
 call,check,0.0,0.0
 call,raise,0.0,83.0
 call,call,0.0,0.0
-bet 8,check,0.0,0.0
+bet,check,8.0,0.0
 fold,fold,0.0,0.0
 call,raise,0.0,37.0
 call,check,0.0,0.0
 call,call,0.0,0.0
 call,raise,0.0,84.0
-bet 8,check,0.0,0.0
+bet,check,8.0,0.0
 call,call,0.0,0.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
-bet 15,check,0.0,0.0
+bet,check,15.0,0.0
 call,call,0.0,0.0
 call,check,0.0,0.0
-call,bet 8,0.0,0.0
+call,bet,0.0,8.0
 raise,raise,30.0,48.0
 call,call,0.0,0.0
-call,bet 10,0.0,0.0
+call,bet,0.0,10.0
 call,call,0.0,0.0
 call,raise,0.0,32.0
 call,call,0.0,0.0
 call,raise,0.0,35.0
-bet 16,check,0.0,0.0
+bet,check,16.0,0.0
 call,call,0.0,0.0
-call,bet 16,0.0,0.0
+call,bet,0.0,16.0
 call,fold,0.0,0.0
-call,bet 13,0.0,0.0
+call,bet,0.0,13.0
 call,check,0.0,0.0
 call,raise,0.0,81.0
 call,call,0.0,0.0
@@ -7504,10 +7504,10 @@ call,fold,0.0,0.0
 call,call,0.0,0.0
 raise,call,40.0,0.0
 call,check,0.0,0.0
-call,bet 11,0.0,0.0
+call,bet,0.0,11.0
 call,check,0.0,0.0
 call,check,0.0,0.0
-call,bet 4,0.0,0.0
+call,bet,0.0,4.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
@@ -7515,16 +7515,16 @@ fold,fold,0.0,0.0
 call,raise,0.0,84.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
-bet 10,bet 21,0.0,0.0
+bet,bet,10.0,21.0
 call,raise,0.0,32.0
 call,fold,0.0,0.0
-bet 4,check,0.0,0.0
-bet 40,check,0.0,0.0
+bet,check,4.0,0.0
+bet,check,40.0,0.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
-call,bet 39,0.0,0.0
-call,bet 12,0.0,0.0
+call,bet,0.0,39.0
+call,bet,0.0,12.0
 call,check,0.0,0.0
 call,call,0.0,0.0
 call,check,0.0,0.0
@@ -7532,18 +7532,18 @@ call,raise,0.0,84.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
 call,check,0.0,0.0
-call,bet 29,0.0,0.0
+call,bet,0.0,29.0
 call,raise,0.0,84.0
-bet 6,bet 24,0.0,0.0
+bet,bet,6.0,24.0
 call,call,0.0,0.0
-call,bet 25,0.0,0.0
+call,bet,0.0,25.0
 call,raise,0.0,87.0
 call,check,0.0,0.0
 call,check,0.0,0.0
 call,call,0.0,0.0
 call,raise,0.0,29.0
 raise,check,32.0,0.0
-call,bet 17,0.0,0.0
+call,bet,0.0,17.0
 call,call,0.0,0.0
 call,call,0.0,0.0
 call,call,0.0,0.0
@@ -7552,50 +7552,50 @@ call,fold,0.0,0.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
-bet 4,check,0.0,0.0
+bet,check,4.0,0.0
 fold,fold,0.0,0.0
-call,bet 13,0.0,0.0
+call,bet,0.0,13.0
 call,check,0.0,0.0
 call,check,0.0,0.0
-call,bet 13,0.0,0.0
+call,bet,0.0,13.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
 call,check,0.0,0.0
 call,raise,0.0,29.0
-call,bet 23,0.0,0.0
+call,bet,0.0,23.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
 raise,raise,50.0,95.0
 call,check,0.0,0.0
 call,check,0.0,0.0
-call,bet 16,0.0,0.0
+call,bet,0.0,16.0
 call,check,0.0,0.0
 call,check,0.0,0.0
 raise,check,18.0,0.0
 call,call,0.0,0.0
 call,raise,0.0,13.0
 call,raise,0.0,13.0
-bet 15,bet 5,0.0,0.0
-bet 10,raise,0.0,16.0
+bet,bet,15.0,5.0
+bet,raise,10.0,16.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
-call,bet 12,0.0,0.0
+call,bet,0.0,12.0
 call,call,0.0,0.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
 call,raise,0.0,25.0
 call,raise,0.0,31.0
 call,fold,0.0,0.0
-bet 10,raise,0.0,22.0
+bet,raise,10.0,22.0
 call,call,0.0,0.0
 call,raise,0.0,19.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
 call,raise,0.0,87.0
 call,call,0.0,0.0
-bet 20,check,0.0,0.0
-bet 20,check,0.0,0.0
+bet,check,20.0,0.0
+bet,check,20.0,0.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
@@ -7603,12 +7603,12 @@ call,call,0.0,0.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
-bet 25,check,0.0,0.0
+bet,check,25.0,0.0
 call,raise,0.0,86.0
 call,fold,0.0,0.0
-bet 10,bet 20,0.0,0.0
-call,bet 29,0.0,0.0
-call,bet 16,0.0,0.0
+bet,bet,10.0,20.0
+call,bet,0.0,29.0
+call,bet,0.0,16.0
 call,raise,0.0,17.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
@@ -7629,8 +7629,8 @@ call,check,0.0,0.0
 call,check,0.0,0.0
 call,call,0.0,0.0
 call,call,0.0,0.0
-bet 40,check,0.0,0.0
-bet 20,check,0.0,0.0
+bet,check,40.0,0.0
+bet,check,20.0,0.0
 raise,call,30.0,0.0
 call,call,0.0,0.0
 call,raise,0.0,46.0
@@ -7640,10 +7640,10 @@ call,check,0.0,0.0
 call,check,0.0,0.0
 call,raise,0.0,38.0
 call,fold,0.0,0.0
-call,bet 10,0.0,0.0
+call,bet,0.0,10.0
 call,fold,0.0,0.0
 raise,call,50.0,0.0
-call,bet 12,0.0,0.0
+call,bet,0.0,12.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
@@ -7655,17 +7655,17 @@ call,call,0.0,0.0
 call,raise,0.0,93.0
 call,check,0.0,0.0
 call,raise,0.0,64.0
-bet 20,bet 24,0.0,0.0
+bet,bet,20.0,24.0
 call,check,0.0,0.0
 call,raise,0.0,41.0
-call,bet 29,0.0,0.0
-call,bet 5,0.0,0.0
+call,bet,0.0,29.0
+call,bet,0.0,5.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
-call,bet 24,0.0,0.0
-call,bet 5,0.0,0.0
+call,bet,0.0,24.0
+call,bet,0.0,5.0
 call,call,0.0,0.0
 call,raise,0.0,29.0
 call,call,0.0,0.0
@@ -7675,7 +7675,7 @@ raise,fold,120.0,0.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
-call,bet 18,0.0,0.0
+call,bet,0.0,18.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
@@ -7684,13 +7684,13 @@ raise,fold,25.0,0.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
 raise,fold,200.0,0.0
-call,bet 29,0.0,0.0
+call,bet,0.0,29.0
 call,raise,0.0,27.0
 call,check,0.0,0.0
-call,bet 24,0.0,0.0
+call,bet,0.0,24.0
 call,call,0.0,0.0
 call,call,0.0,0.0
-call,bet 10,0.0,0.0
+call,bet,0.0,10.0
 call,check,0.0,0.0
 call,call,0.0,0.0
 call,call,0.0,0.0
@@ -7698,8 +7698,8 @@ call,call,0.0,0.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
-call,bet 3,0.0,0.0
-call,bet 29,0.0,0.0
+call,bet,0.0,3.0
+call,bet,0.0,29.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
@@ -7721,14 +7721,14 @@ call,raise,0.0,84.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
-call,bet 25,0.0,0.0
-call,bet 5,0.0,0.0
+call,bet,0.0,25.0
+call,bet,0.0,5.0
 raise,call,20.0,0.0
-call,bet 20,0.0,0.0
+call,bet,0.0,20.0
 call,call,0.0,0.0
 call,call,0.0,0.0
 call,check,0.0,0.0
-call,bet 29,0.0,0.0
+call,bet,0.0,29.0
 call,call,0.0,0.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
@@ -7744,11 +7744,11 @@ call,check,0.0,0.0
 call,check,0.0,0.0
 call,call,0.0,0.0
 call,check,0.0,0.0
-bet 29,fold,0.0,0.0
+bet,fold,29.0,0.0
 call,raise,0.0,62.0
 call,fold,0.0,0.0
-bet 12,check,0.0,0.0
-bet 15,raise,0.0,27.0
+bet,check,12.0,0.0
+bet,raise,15.0,27.0
 raise,call,40.0,0.0
 raise,fold,20.0,0.0
 call,fold,0.0,0.0
@@ -7761,24 +7761,24 @@ call,raise,0.0,29.0
 raise,call,40.0,0.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
-call,bet 4,0.0,0.0
+call,bet,0.0,4.0
 call,call,0.0,0.0
 call,raise,0.0,14.0
-bet 12,check,0.0,0.0
+bet,check,12.0,0.0
 call,check,0.0,0.0
 call,raise,0.0,25.0
 call,check,0.0,0.0
 raise,fold,100.0,0.0
 raise,call,120.0,0.0
-call,bet 24,0.0,0.0
+call,bet,0.0,24.0
 call,raise,0.0,29.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
 call,raise,0.0,83.0
-call,bet 12,0.0,0.0
+call,bet,0.0,12.0
 call,fold,0.0,0.0
-bet 4,check,0.0,0.0
+bet,check,4.0,0.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
@@ -7794,11 +7794,11 @@ raise,call,55.0,0.0
 raise,call,60.0,0.0
 call,call,0.0,0.0
 call,call,0.0,0.0
-call,bet 10,0.0,0.0
+call,bet,0.0,10.0
 call,raise,0.0,41.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
-bet 8,check,0.0,0.0
+bet,check,8.0,0.0
 raise,fold,50.0,0.0
 raise,fold,120.0,0.0
 call,check,0.0,0.0
@@ -7815,11 +7815,11 @@ call,raise,0.0,81.0
 call,call,0.0,0.0
 call,call,0.0,0.0
 call,call,0.0,0.0
-call,bet 10,0.0,0.0
-bet 10,check,0.0,0.0
+call,bet,0.0,10.0
+bet,check,10.0,0.0
 call,check,0.0,0.0
 call,raise,0.0,86.0
-call,bet 32,0.0,0.0
+call,bet,0.0,32.0
 raise,fold,40.0,0.0
 call,call,0.0,0.0
 call,check,0.0,0.0
@@ -7839,15 +7839,15 @@ call,check,0.0,0.0
 raise,call,40.0,0.0
 call,call,0.0,0.0
 call,check,0.0,0.0
-bet 8,check,0.0,0.0
+bet,check,8.0,0.0
 raise,check,18.0,0.0
 raise,fold,150.0,0.0
 call,fold,0.0,0.0
 call,raise,0.0,87.0
 call,call,0.0,0.0
-call,bet 11,0.0,0.0
+call,bet,0.0,11.0
 call,call,0.0,0.0
-bet 15,check,0.0,0.0
+bet,check,15.0,0.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
 call,check,0.0,0.0
@@ -7856,7 +7856,7 @@ call,call,0.0,0.0
 call,call,0.0,0.0
 call,check,0.0,0.0
 call,call,0.0,0.0
-call,bet 24,0.0,0.0
+call,bet,0.0,24.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
@@ -7864,7 +7864,7 @@ call,raise,0.0,88.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
-call,bet 13,0.0,0.0
+call,bet,0.0,13.0
 raise,fold,55.0,0.0
 call,check,0.0,0.0
 call,call,0.0,0.0
@@ -7876,7 +7876,7 @@ call,fold,0.0,0.0
 call,check,0.0,0.0
 call,raise,0.0,38.0
 call,raise,0.0,41.0
-call,bet 4,0.0,0.0
+call,bet,0.0,4.0
 raise,fold,50.0,0.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
@@ -7885,10 +7885,10 @@ call,raise,0.0,85.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
 call,check,0.0,0.0
-call,bet 17,0.0,0.0
+call,bet,0.0,17.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
-bet 30,raise,0.0,86.0
+bet,raise,30.0,86.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
@@ -7903,7 +7903,7 @@ call,check,0.0,0.0
 call,call,0.0,0.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
-bet 5,check,0.0,0.0
+bet,check,5.0,0.0
 call,call,0.0,0.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
@@ -7923,7 +7923,7 @@ call,call,0.0,0.0
 call,raise,0.0,61.0
 call,call,0.0,0.0
 call,raise,0.0,92.0
-bet 15,raise,0.0,27.0
+bet,raise,15.0,27.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
@@ -7933,40 +7933,40 @@ call,call,0.0,0.0
 call,check,0.0,0.0
 call,raise,0.0,83.0
 call,fold,0.0,0.0
-bet 4,bet 22,0.0,0.0
+bet,bet,4.0,22.0
 raise,raise,64.0,92.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
-bet 4,check,0.0,0.0
+bet,check,4.0,0.0
 call,check,0.0,0.0
-call,bet 12,0.0,0.0
-call,check,0.0,0.0
-call,fold,0.0,0.0
-call,check,0.0,0.0
-call,call,0.0,0.0
-call,check,0.0,0.0
-call,bet 34,0.0,0.0
-call,call,0.0,0.0
-bet 6,check,0.0,0.0
-call,bet 10,0.0,0.0
-call,check,0.0,0.0
+call,bet,0.0,12.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
-bet 4,check,0.0,0.0
 call,check,0.0,0.0
-bet 60,fold,0.0,0.0
+call,call,0.0,0.0
+call,check,0.0,0.0
+call,bet,0.0,34.0
+call,call,0.0,0.0
+bet,check,6.0,0.0
+call,bet,0.0,10.0
+call,check,0.0,0.0
+call,check,0.0,0.0
+call,fold,0.0,0.0
+bet,check,4.0,0.0
+call,check,0.0,0.0
+bet,fold,60.0,0.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
 call,check,0.0,0.0
-bet 6,check,0.0,0.0
+bet,check,6.0,0.0
 call,call,0.0,0.0
 call,check,0.0,0.0
 call,check,0.0,0.0
-call,bet 8,0.0,0.0
+call,bet,0.0,8.0
 call,raise,0.0,17.0
-bet 40,check,0.0,0.0
+bet,check,40.0,0.0
 call,check,0.0,0.0
-bet 10,check,0.0,0.0
+bet,check,10.0,0.0
 raise,check,20.0,0.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
@@ -7982,12 +7982,12 @@ call,check,0.0,0.0
 call,fold,0.0,0.0
 raise,fold,80.0,0.0
 call,fold,0.0,0.0
-call,bet 3,0.0,0.0
-bet 4,check,0.0,0.0
+call,bet,0.0,3.0
+bet,check,4.0,0.0
 call,raise,0.0,10.0
 call,check,0.0,0.0
 call,call,0.0,0.0
-bet 25,check,0.0,0.0
+bet,check,25.0,0.0
 raise,call,200.0,0.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
@@ -8011,7 +8011,7 @@ call,fold,0.0,0.0
 call,call,0.0,0.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
-bet 23,check,0.0,0.0
+bet,check,23.0,0.0
 call,raise,0.0,85.0
 call,check,0.0,0.0
 call,check,0.0,0.0
@@ -8023,7 +8023,7 @@ call,call,0.0,0.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
 call,raise,0.0,86.0
-bet 10,bet 12,0.0,0.0
+bet,bet,10.0,12.0
 call,raise,0.0,77.0
 call,call,0.0,0.0
 call,check,0.0,0.0
@@ -8039,7 +8039,7 @@ raise,fold,64.0,0.0
 call,check,0.0,0.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
-call,bet 22,0.0,0.0
+call,bet,0.0,22.0
 call,check,0.0,0.0
 call,raise,0.0,13.0
 call,check,0.0,0.0
@@ -8048,7 +8048,7 @@ call,check,0.0,0.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
-bet 6,check,0.0,0.0
+bet,check,6.0,0.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
@@ -8069,16 +8069,16 @@ call,check,0.0,0.0
 call,check,0.0,0.0
 call,check,0.0,0.0
 call,check,0.0,0.0
-bet 25,check,0.0,0.0
+bet,check,25.0,0.0
 call,call,0.0,0.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
 call,check,0.0,0.0
 call,raise,0.0,88.0
-bet 6,check,0.0,0.0
+bet,check,6.0,0.0
 call,fold,0.0,0.0
-call,bet 11,0.0,0.0
+call,bet,0.0,11.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
 call,raise,0.0,81.0
@@ -8096,14 +8096,14 @@ call,call,0.0,0.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
 call,call,0.0,0.0
-bet 20,check,0.0,0.0
-bet 17,fold,0.0,0.0
+bet,check,20.0,0.0
+bet,fold,17.0,0.0
 call,call,0.0,0.0
-bet 31,call,0.0,0.0
+bet,call,31.0,0.0
 call,call,0.0,0.0
 raise,raise,30.0,91.0
 call,call,0.0,0.0
-bet 8,bet 17,0.0,0.0
+bet,bet,8.0,17.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
@@ -8120,8 +8120,8 @@ call,fold,0.0,0.0
 call,check,0.0,0.0
 call,call,0.0,0.0
 call,check,0.0,0.0
-bet 15,check,0.0,0.0
-bet 15,fold,0.0,0.0
+bet,check,15.0,0.0
+bet,fold,15.0,0.0
 call,raise,0.0,86.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
@@ -8131,13 +8131,13 @@ raise,call,40.0,0.0
 call,check,0.0,0.0
 raise,fold,20.0,0.0
 call,call,0.0,0.0
-call,bet 29,0.0,0.0
+call,bet,0.0,29.0
 call,check,0.0,0.0
 call,check,0.0,0.0
-call,bet 18,0.0,0.0
+call,bet,0.0,18.0
 call,raise,0.0,70.0
 call,call,0.0,0.0
-bet 30,fold,0.0,0.0
+bet,fold,30.0,0.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
@@ -8145,11 +8145,11 @@ call,check,0.0,0.0
 call,raise,0.0,84.0
 call,call,0.0,0.0
 call,check,0.0,0.0
-bet 6,check,0.0,0.0
+bet,check,6.0,0.0
 raise,call,128.0,0.0
 call,call,0.0,0.0
 call,check,0.0,0.0
-bet 8,check,0.0,0.0
+bet,check,8.0,0.0
 call,fold,0.0,0.0
 call,raise,0.0,25.0
 call,call,0.0,0.0
@@ -8157,10 +8157,10 @@ call,call,0.0,0.0
 call,check,0.0,0.0
 call,raise,0.0,58.0
 call,fold,0.0,0.0
-call,bet 10,0.0,0.0
+call,bet,0.0,10.0
 call,check,0.0,0.0
 call,check,0.0,0.0
-bet 19,fold,0.0,0.0
+bet,fold,19.0,0.0
 call,check,0.0,0.0
 call,check,0.0,0.0
 call,call,0.0,0.0
@@ -8170,13 +8170,13 @@ call,fold,0.0,0.0
 raise,fold,120.0,0.0
 call,check,0.0,0.0
 call,check,0.0,0.0
-bet 16,bet 17,0.0,0.0
+bet,bet,16.0,17.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
 call,call,0.0,0.0
 raise,fold,55.0,0.0
 call,call,0.0,0.0
-call,bet 17,0.0,0.0
+call,bet,0.0,17.0
 call,raise,0.0,86.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
@@ -8188,7 +8188,7 @@ call,fold,0.0,0.0
 call,raise,0.0,74.0
 call,raise,0.0,94.0
 call,fold,0.0,0.0
-bet 6,check,0.0,0.0
+bet,check,6.0,0.0
 call,call,0.0,0.0
 call,call,0.0,0.0
 call,call,0.0,0.0
@@ -8196,13 +8196,13 @@ call,fold,0.0,0.0
 call,raise,0.0,35.0
 call,fold,0.0,0.0
 raise,raise,64.0,81.0
-call,bet 10,0.0,0.0
+call,bet,0.0,10.0
 call,call,0.0,0.0
 call,raise,0.0,89.0
 call,check,0.0,0.0
 call,check,0.0,0.0
 call,raise,0.0,81.0
-bet 4,check,0.0,0.0
+bet,check,4.0,0.0
 call,call,0.0,0.0
 call,call,0.0,0.0
 call,raise,0.0,16.0
@@ -8211,29 +8211,29 @@ raise,fold,150.0,0.0
 call,raise,0.0,93.0
 call,raise,0.0,85.0
 call,call,0.0,0.0
-call,bet 13,0.0,0.0
+call,bet,0.0,13.0
 call,check,0.0,0.0
-call,bet 4,0.0,0.0
+call,bet,0.0,4.0
 call,call,0.0,0.0
 call,call,0.0,0.0
 call,call,0.0,0.0
 call,raise,0.0,48.0
 call,check,0.0,0.0
-call,bet 29,0.0,0.0
+call,bet,0.0,29.0
 call,check,0.0,0.0
-bet 40,raise,0.0,77.0
+bet,raise,40.0,77.0
 call,raise,0.0,38.0
-call,bet 29,0.0,0.0
+call,bet,0.0,29.0
 call,call,0.0,0.0
 call,raise,0.0,35.0
 call,check,0.0,0.0
-call,bet 29,0.0,0.0
-bet 40,check,0.0,0.0
+call,bet,0.0,29.0
+bet,check,40.0,0.0
 call,check,0.0,0.0
 call,raise,0.0,80.0
 call,raise,0.0,90.0
 call,fold,0.0,0.0
-call,bet 20,0.0,0.0
+call,bet,0.0,20.0
 call,raise,0.0,18.0
 call,call,0.0,0.0
 call,call,0.0,0.0
@@ -8242,7 +8242,7 @@ call,call,0.0,0.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
-bet 10,check,0.0,0.0
+bet,check,10.0,0.0
 call,check,0.0,0.0
 raise,fold,80.0,0.0
 call,raise,0.0,32.0
@@ -8256,14 +8256,14 @@ call,raise,0.0,85.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
-call,bet 23,0.0,0.0
+call,bet,0.0,23.0
 call,check,0.0,0.0
-call,bet 5,0.0,0.0
+call,bet,0.0,5.0
 call,fold,0.0,0.0
 raise,raise,60.0,89.0
 call,check,0.0,0.0
-call,bet 11,0.0,0.0
-call,bet 2,0.0,0.0
+call,bet,0.0,11.0
+call,bet,0.0,2.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
@@ -8273,15 +8273,15 @@ call,call,0.0,0.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
 call,raise,0.0,25.0
-call,bet 5,0.0,0.0
+call,bet,0.0,5.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
 call,call,0.0,0.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
-bet 20,check,0.0,0.0
+bet,check,20.0,0.0
 raise,fold,55.0,0.0
-bet 4,check,0.0,0.0
+bet,check,4.0,0.0
 call,check,0.0,0.0
 call,check,0.0,0.0
 call,check,0.0,0.0
@@ -8294,18 +8294,18 @@ call,call,0.0,0.0
 call,call,0.0,0.0
 call,raise,0.0,22.0
 call,raise,0.0,86.0
-bet 20,call,0.0,0.0
+bet,call,20.0,0.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
-call,bet 23,0.0,0.0
-call,bet 11,0.0,0.0
+call,bet,0.0,23.0
+call,bet,0.0,11.0
 raise,fold,40.0,0.0
 call,check,0.0,0.0
-bet 48,raise,0.0,81.0
+bet,raise,48.0,81.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
 call,raise,0.0,81.0
@@ -8314,7 +8314,7 @@ call,fold,0.0,0.0
 call,check,0.0,0.0
 call,raise,0.0,82.0
 call,fold,0.0,0.0
-call,bet 18,0.0,0.0
+call,bet,0.0,18.0
 call,fold,0.0,0.0
 call,raise,0.0,80.0
 call,call,0.0,0.0
@@ -8323,11 +8323,11 @@ call,raise,0.0,85.0
 call,fold,0.0,0.0
 call,raise,0.0,84.0
 call,check,0.0,0.0
-call,bet 29,0.0,0.0
+call,bet,0.0,29.0
 call,call,0.0,0.0
 call,raise,0.0,35.0
 call,raise,0.0,32.0
-bet 16,bet 17,0.0,0.0
+bet,bet,16.0,17.0
 call,check,0.0,0.0
 call,check,0.0,0.0
 call,call,0.0,0.0
@@ -8344,31 +8344,31 @@ call,call,0.0,0.0
 call,raise,0.0,82.0
 call,fold,0.0,0.0
 call,raise,0.0,41.0
-bet 20,check,0.0,0.0
-bet 4,check,0.0,0.0
+bet,check,20.0,0.0
+bet,check,4.0,0.0
 call,call,0.0,0.0
 call,call,0.0,0.0
 call,call,0.0,0.0
 call,call,0.0,0.0
-bet 75,bet 20,0.0,0.0
+bet,bet,75.0,20.0
 call,raise,0.0,58.0
-call,bet 12,0.0,0.0
+call,bet,0.0,12.0
 call,check,0.0,0.0
 call,check,0.0,0.0
 call,check,0.0,0.0
-call,bet 7,0.0,0.0
+call,bet,0.0,7.0
 call,raise,0.0,88.0
 call,call,0.0,0.0
 raise,raise,60.0,89.0
 call,fold,0.0,0.0
-call,bet 15,0.0,0.0
+call,bet,0.0,15.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
 call,raise,0.0,35.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
-call,bet 23,0.0,0.0
+call,bet,0.0,23.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
@@ -8379,13 +8379,13 @@ call,fold,0.0,0.0
 call,check,0.0,0.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
-call,bet 27,0.0,0.0
+call,bet,0.0,27.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
-bet 15,call,0.0,0.0
-call,bet 29,0.0,0.0
+bet,call,15.0,0.0
+call,bet,0.0,29.0
 call,raise,0.0,86.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
@@ -8393,47 +8393,47 @@ call,fold,0.0,0.0
 call,call,0.0,0.0
 raise,call,55.0,0.0
 call,call,0.0,0.0
-call,bet 18,0.0,0.0
-bet 8,bet 16,0.0,0.0
+call,bet,0.0,18.0
+bet,bet,8.0,16.0
 call,raise,0.0,32.0
 raise,fold,40.0,0.0
 call,fold,0.0,0.0
-bet 8,bet 31,0.0,0.0
+bet,bet,8.0,31.0
 call,call,0.0,0.0
 call,call,0.0,0.0
 call,check,0.0,0.0
-call,bet 28,0.0,0.0
+call,bet,0.0,28.0
 call,check,0.0,0.0
-bet 10,check,0.0,0.0
+bet,check,10.0,0.0
 raise,call,50.0,0.0
-call,bet 8,0.0,0.0
+call,bet,0.0,8.0
 call,check,0.0,0.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
 call,check,0.0,0.0
-call,bet 16,0.0,0.0
+call,bet,0.0,16.0
 call,check,0.0,0.0
 raise,call,80.0,0.0
 call,raise,0.0,13.0
 call,call,0.0,0.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
-bet 4,check,0.0,0.0
+bet,check,4.0,0.0
 call,check,0.0,0.0
-bet 29,call,0.0,0.0
-bet 40,check,0.0,0.0
+bet,call,29.0,0.0
+bet,check,40.0,0.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
-call,bet 13,0.0,0.0
-call,bet 10,0.0,0.0
+call,bet,0.0,13.0
+call,bet,0.0,10.0
 call,raise,0.0,43.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
 fold,fold,0.0,0.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
-bet 10,call,0.0,0.0
+bet,call,10.0,0.0
 call,check,0.0,0.0
 call,check,0.0,0.0
 call,raise,0.0,90.0
@@ -8443,7 +8443,7 @@ call,raise,0.0,16.0
 call,call,0.0,0.0
 call,call,0.0,0.0
 call,call,0.0,0.0
-bet 15,check,0.0,0.0
+bet,check,15.0,0.0
 raise,call,50.0,0.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
@@ -8453,12 +8453,12 @@ call,call,0.0,0.0
 call,fold,0.0,0.0
 call,raise,0.0,38.0
 call,raise,0.0,17.0
-call,bet 10,0.0,0.0
+call,bet,0.0,10.0
 call,check,0.0,0.0
 call,raise,0.0,61.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
-call,bet 23,0.0,0.0
+call,bet,0.0,23.0
 call,check,0.0,0.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
@@ -8467,7 +8467,7 @@ call,check,0.0,0.0
 call,call,0.0,0.0
 raise,call,150.0,0.0
 call,fold,0.0,0.0
-call,bet 23,0.0,0.0
+call,bet,0.0,23.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
@@ -8476,18 +8476,18 @@ call,check,0.0,0.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
-bet 15,check,0.0,0.0
+bet,check,15.0,0.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
 call,raise,0.0,89.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
-call,bet 5,0.0,0.0
+call,bet,0.0,5.0
 call,raise,0.0,87.0
 call,call,0.0,0.0
 call,raise,0.0,81.0
 call,call,0.0,0.0
-call,bet 17,0.0,0.0
+call,bet,0.0,17.0
 call,fold,0.0,0.0
 call,raise,0.0,81.0
 call,raise,0.0,22.0
@@ -8500,17 +8500,17 @@ call,raise,0.0,85.0
 raise,fold,200.0,0.0
 call,check,0.0,0.0
 call,raise,0.0,86.0
-call,bet 2,0.0,0.0
+call,bet,0.0,2.0
 call,call,0.0,0.0
 call,check,0.0,0.0
-call,bet 34,0.0,0.0
+call,bet,0.0,34.0
 call,call,0.0,0.0
 call,raise,0.0,23.0
-bet 4,check,0.0,0.0
+bet,check,4.0,0.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
 call,raise,0.0,86.0
-call,bet 23,0.0,0.0
+call,bet,0.0,23.0
 call,call,0.0,0.0
 call,check,0.0,0.0
 call,raise,0.0,83.0
@@ -8537,7 +8537,7 @@ call,call,0.0,0.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
 raise,call,40.0,0.0
-bet 8,check,0.0,0.0
+bet,check,8.0,0.0
 call,call,0.0,0.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
@@ -8557,11 +8557,11 @@ call,check,0.0,0.0
 call,call,0.0,0.0
 call,check,0.0,0.0
 call,check,0.0,0.0
-bet 10,bet 29,0.0,0.0
+bet,bet,10.0,29.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
-call,bet 25,0.0,0.0
+call,bet,0.0,25.0
 call,check,0.0,0.0
 call,check,0.0,0.0
 call,call,0.0,0.0
@@ -8571,16 +8571,16 @@ all in,fold,0.0,0.0
 call,check,0.0,0.0
 call,check,0.0,0.0
 call,check,0.0,0.0
-call,bet 29,0.0,0.0
-bet 6,check,0.0,0.0
+call,bet,0.0,29.0
+bet,check,6.0,0.0
 call,call,0.0,0.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
-bet 10,check,0.0,0.0
+bet,check,10.0,0.0
 call,call,0.0,0.0
 call,raise,0.0,16.0
-bet 5,bet 18,0.0,0.0
+bet,bet,5.0,18.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
 raise,fold,120.0,0.0
@@ -8595,8 +8595,8 @@ call,call,0.0,0.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
 call,call,0.0,0.0
-bet 4,check,0.0,0.0
-bet 16,check,0.0,0.0
+bet,check,4.0,0.0
+bet,check,16.0,0.0
 raise,fold,120.0,0.0
 call,check,0.0,0.0
 call,raise,0.0,32.0
@@ -8608,10 +8608,10 @@ call,fold,0.0,0.0
 call,check,0.0,0.0
 call,raise,0.0,32.0
 call,check,0.0,0.0
-call,bet 23,0.0,0.0
+call,bet,0.0,23.0
 call,check,0.0,0.0
 call,call,0.0,0.0
-call,bet 29,0.0,0.0
+call,bet,0.0,29.0
 call,call,0.0,0.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
@@ -8620,10 +8620,10 @@ call,call,0.0,0.0
 raise,fold,50.0,0.0
 call,check,0.0,0.0
 call,call,0.0,0.0
-call,bet 18,0.0,0.0
+call,bet,0.0,18.0
 call,check,0.0,0.0
 call,raise,0.0,54.0
-bet 6,bet 18,0.0,0.0
+bet,bet,6.0,18.0
 call,check,0.0,0.0
 raise,raise,20.0,29.0
 call,check,0.0,0.0
@@ -8631,7 +8631,7 @@ call,fold,0.0,0.0
 call,raise,0.0,31.0
 call,call,0.0,0.0
 call,check,0.0,0.0
-call,bet 4,0.0,0.0
+call,bet,0.0,4.0
 call,raise,0.0,27.0
 call,fold,0.0,0.0
 call,raise,0.0,19.0
@@ -8641,9 +8641,9 @@ call,check,0.0,0.0
 raise,call,120.0,0.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
-call,bet 23,0.0,0.0
+call,bet,0.0,23.0
 call,call,0.0,0.0
-call,bet 5,0.0,0.0
+call,bet,0.0,5.0
 call,check,0.0,0.0
 call,raise,0.0,46.0
 call,call,0.0,0.0
@@ -8655,17 +8655,17 @@ call,call,0.0,0.0
 call,check,0.0,0.0
 call,raise,0.0,82.0
 call,fold,0.0,0.0
-bet 60,call,0.0,0.0
+bet,call,60.0,0.0
 call,call,0.0,0.0
 raise,fold,40.0,0.0
 call,check,0.0,0.0
-call,bet 17,0.0,0.0
+call,bet,0.0,17.0
 call,raise,0.0,32.0
 call,raise,0.0,23.0
 call,call,0.0,0.0
-bet 4,check,0.0,0.0
+bet,check,4.0,0.0
 call,call,0.0,0.0
-bet 8,bet 23,0.0,0.0
+bet,bet,8.0,23.0
 call,fold,0.0,0.0
 call,raise,0.0,74.0
 call,raise,0.0,14.0
@@ -8700,7 +8700,7 @@ call,raise,0.0,30.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
-bet 10,raise,0.0,41.0
+bet,raise,10.0,41.0
 call,check,0.0,0.0
 call,raise,0.0,83.0
 call,call,0.0,0.0
@@ -8709,11 +8709,11 @@ call,raise,0.0,80.0
 call,check,0.0,0.0
 call,raise,0.0,89.0
 call,call,0.0,0.0
-bet 20,call,0.0,0.0
+bet,call,20.0,0.0
 call,raise,0.0,44.0
 call,raise,0.0,83.0
 call,call,0.0,0.0
-bet 4,check,0.0,0.0
+bet,check,4.0,0.0
 call,raise,0.0,80.0
 call,call,0.0,0.0
 raise,raise,120.0,85.0
@@ -8724,35 +8724,35 @@ call,call,0.0,0.0
 call,call,0.0,0.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
-call,bet 4,0.0,0.0
+call,bet,0.0,4.0
 call,fold,0.0,0.0
 raise,fold,64.0,0.0
-call,bet 17,0.0,0.0
-call,bet 23,0.0,0.0
+call,bet,0.0,17.0
+call,bet,0.0,23.0
 call,check,0.0,0.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
-raise,bet 29,32.0,0.0
+raise,bet,32.0,29.0
 call,fold,0.0,0.0
-call,bet 10,0.0,0.0
+call,bet,0.0,10.0
 call,raise,0.0,34.0
 call,call,0.0,0.0
 call,call,0.0,0.0
-call,bet 29,0.0,0.0
+call,bet,0.0,29.0
 call,call,0.0,0.0
-call,bet 25,0.0,0.0
-call,bet 23,0.0,0.0
+call,bet,0.0,25.0
+call,bet,0.0,23.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
-call,bet 10,0.0,0.0
-call,bet 29,0.0,0.0
+call,bet,0.0,10.0
+call,bet,0.0,29.0
 call,call,0.0,0.0
-call,bet 29,0.0,0.0
-call,bet 2,0.0,0.0
+call,bet,0.0,29.0
+call,bet,0.0,2.0
 call,check,0.0,0.0
 call,check,0.0,0.0
 call,check,0.0,0.0
-bet 10,check,0.0,0.0
+bet,check,10.0,0.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
 raise,fold,150.0,0.0
@@ -8770,45 +8770,45 @@ raise,raise,43.0,89.0
 call,call,0.0,0.0
 call,check,0.0,0.0
 call,raise,0.0,84.0
-bet 16,check,0.0,0.0
-call,bet 39,0.0,0.0
+bet,check,16.0,0.0
+call,bet,0.0,39.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
 call,raise,0.0,73.0
 call,check,0.0,0.0
-call,bet 8,0.0,0.0
+call,bet,0.0,8.0
 call,call,0.0,0.0
-call,bet 4,0.0,0.0
+call,bet,0.0,4.0
 call,call,0.0,0.0
 call,call,0.0,0.0
-call,bet 10,0.0,0.0
+call,bet,0.0,10.0
 call,call,0.0,0.0
 call,call,0.0,0.0
 raise,check,32.0,0.0
-call,bet 10,0.0,0.0
+call,bet,0.0,10.0
 raise,fold,60.0,0.0
 call,call,0.0,0.0
 call,call,0.0,0.0
-call,bet 2,0.0,0.0
+call,bet,0.0,2.0
 call,call,0.0,0.0
 call,call,0.0,0.0
 raise,call,30.0,0.0
-call,bet 29,0.0,0.0
+call,bet,0.0,29.0
 call,call,0.0,0.0
 call,call,0.0,0.0
 call,call,0.0,0.0
-bet 15,check,0.0,0.0
+bet,check,15.0,0.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
 call,check,0.0,0.0
-bet 51,raise,0.0,77.0
+bet,raise,51.0,77.0
 call,fold,0.0,0.0
-call,bet 29,0.0,0.0
+call,bet,0.0,29.0
 raise,check,32.0,0.0
 call,raise,0.0,23.0
 call,fold,0.0,0.0
-bet 15,check,0.0,0.0
+bet,check,15.0,0.0
 call,call,0.0,0.0
 call,check,0.0,0.0
 call,check,0.0,0.0
@@ -8817,10 +8817,10 @@ call,raise,0.0,82.0
 raise,raise,20.0,29.0
 raise,fold,40.0,0.0
 call,call,0.0,0.0
-call,bet 10,0.0,0.0
+call,bet,0.0,10.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
-bet 20,raise,0.0,38.0
+bet,raise,20.0,38.0
 call,check,0.0,0.0
 call,call,0.0,0.0
 call,raise,0.0,81.0
@@ -8832,7 +8832,7 @@ call,check,0.0,0.0
 call,raise,0.0,7.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
-call,bet 29,0.0,0.0
+call,bet,0.0,29.0
 call,raise,0.0,70.0
 call,check,0.0,0.0
 raise,call,120.0,0.0
@@ -8841,7 +8841,7 @@ call,check,0.0,0.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
-bet 6,call,0.0,0.0
+bet,call,6.0,0.0
 raise,call,64.0,0.0
 call,call,0.0,0.0
 raise,fold,60.0,0.0
@@ -8882,7 +8882,7 @@ call,call,0.0,0.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
-bet 23,bet 6,0.0,0.0
+bet,bet,23.0,6.0
 call,call,0.0,0.0
 raise,fold,90.0,0.0
 call,check,0.0,0.0
@@ -8891,10 +8891,10 @@ call,call,0.0,0.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
-bet 4,check,0.0,0.0
+bet,check,4.0,0.0
 raise,fold,150.0,0.0
 call,raise,0.0,17.0
-call,bet 23,0.0,0.0
+call,bet,0.0,23.0
 call,raise,0.0,13.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
@@ -8907,14 +8907,14 @@ call,fold,0.0,0.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
-bet 16,bet 17,0.0,0.0
+bet,bet,16.0,17.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
 raise,check,20.0,0.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
-bet 4,check,0.0,0.0
-bet 56,fold,0.0,0.0
+bet,check,4.0,0.0
+bet,fold,56.0,0.0
 call,raise,0.0,88.0
 raise,call,64.0,0.0
 call,fold,0.0,0.0
@@ -8924,25 +8924,25 @@ call,raise,0.0,90.0
 call,raise,0.0,84.0
 call,call,0.0,0.0
 call,raise,0.0,16.0
-call,bet 17,0.0,0.0
+call,bet,0.0,17.0
 raise,call,50.0,0.0
-call,bet 13,0.0,0.0
+call,bet,0.0,13.0
 call,call,0.0,0.0
 call,raise,0.0,16.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
-call,bet 18,0.0,0.0
+call,bet,0.0,18.0
 call,fold,0.0,0.0
 raise,fold,20.0,0.0
 call,check,0.0,0.0
 call,check,0.0,0.0
 call,call,0.0,0.0
-call,bet 10,0.0,0.0
+call,bet,0.0,10.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
-call,bet 29,0.0,0.0
+call,bet,0.0,29.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
@@ -8950,14 +8950,14 @@ call,fold,0.0,0.0
 call,check,0.0,0.0
 call,raise,0.0,80.0
 call,call,0.0,0.0
-bet 10,check,0.0,0.0
+bet,check,10.0,0.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
 raise,fold,64.0,0.0
-call,bet 28,0.0,0.0
-call,bet 3,0.0,0.0
+call,bet,0.0,28.0
+call,bet,0.0,3.0
 raise,call,200.0,0.0
 call,fold,0.0,0.0
 call,raise,0.0,84.0
@@ -8969,23 +8969,23 @@ call,check,0.0,0.0
 raise,call,64.0,0.0
 call,check,0.0,0.0
 call,check,0.0,0.0
-bet 7,check,0.0,0.0
+bet,check,7.0,0.0
 call,call,0.0,0.0
 call,raise,0.0,70.0
 raise,call,40.0,0.0
 raise,raise,50.0,94.0
-bet 15,bet 35,0.0,0.0
+bet,bet,15.0,35.0
 call,raise,0.0,31.0
 call,call,0.0,0.0
 call,call,0.0,0.0
-bet 15,check,0.0,0.0
-bet 5,check,0.0,0.0
+bet,check,15.0,0.0
+bet,check,5.0,0.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
 call,call,0.0,0.0
-bet 4,check,0.0,0.0
+bet,check,4.0,0.0
 call,call,0.0,0.0
 call,check,0.0,0.0
 call,call,0.0,0.0
@@ -9010,17 +9010,17 @@ call,raise,0.0,89.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
 call,raise,0.0,58.0
-call,bet 10,0.0,0.0
-call,bet 8,0.0,0.0
+call,bet,0.0,10.0
+call,bet,0.0,8.0
 call,raise,0.0,58.0
 call,fold,0.0,0.0
-bet 10,check,0.0,0.0
+bet,check,10.0,0.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
 raise,call,50.0,0.0
 raise,fold,40.0,0.0
-call,bet 29,0.0,0.0
+call,bet,0.0,29.0
 call,fold,0.0,0.0
 raise,call,200.0,0.0
 call,raise,0.0,89.0
@@ -9029,7 +9029,7 @@ raise,fold,54.0,0.0
 call,call,0.0,0.0
 call,raise,0.0,80.0
 call,check,0.0,0.0
-call,bet 24,0.0,0.0
+call,bet,0.0,24.0
 call,call,0.0,0.0
 call,raise,0.0,77.0
 raise,fold,15.0,0.0
@@ -9037,7 +9037,7 @@ call,check,0.0,0.0
 raise,check,18.0,0.0
 call,check,0.0,0.0
 call,check,0.0,0.0
-call,bet 2,0.0,0.0
+call,bet,0.0,2.0
 call,raise,0.0,38.0
 call,check,0.0,0.0
 call,check,0.0,0.0
@@ -9056,12 +9056,12 @@ raise,fold,80.0,0.0
 call,check,0.0,0.0
 raise,fold,120.0,0.0
 call,raise,0.0,86.0
-bet 10,check,0.0,0.0
+bet,check,10.0,0.0
 call,call,0.0,0.0
 call,check,0.0,0.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
-call,bet 29,0.0,0.0
+call,bet,0.0,29.0
 raise,fold,120.0,0.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
@@ -9076,53 +9076,53 @@ call,fold,0.0,0.0
 call,call,0.0,0.0
 call,call,0.0,0.0
 call,check,0.0,0.0
-call,bet 11,0.0,0.0
+call,bet,0.0,11.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
 raise,call,150.0,0.0
-call,bet 4,0.0,0.0
+call,bet,0.0,4.0
 call,call,0.0,0.0
 call,check,0.0,0.0
 raise,fold,180.0,0.0
 call,raise,0.0,78.0
-call,bet 11,0.0,0.0
+call,bet,0.0,11.0
 call,fold,0.0,0.0
 call,raise,0.0,87.0
 call,check,0.0,0.0
-bet 20,bet 28,0.0,0.0
+bet,bet,20.0,28.0
 call,raise,0.0,10.0
 call,raise,0.0,88.0
-bet 4,bet 20,0.0,0.0
-call,bet 23,0.0,0.0
+bet,bet,4.0,20.0
+call,bet,0.0,23.0
 call,call,0.0,0.0
 call,raise,0.0,87.0
-call,bet 29,0.0,0.0
+call,bet,0.0,29.0
 call,call,0.0,0.0
 call,check,0.0,0.0
 call,raise,0.0,29.0
 call,call,0.0,0.0
-bet 10,check,0.0,0.0
+bet,check,10.0,0.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
 call,raise,0.0,81.0
-call,bet 4,0.0,0.0
+call,bet,0.0,4.0
 call,raise,0.0,27.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
 call,check,0.0,0.0
 call,check,0.0,0.0
 raise,check,32.0,0.0
-call,bet 10,0.0,0.0
+call,bet,0.0,10.0
 call,raise,0.0,81.0
 call,raise,0.0,44.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
-call,bet 29,0.0,0.0
+call,bet,0.0,29.0
 call,check,0.0,0.0
-call,bet 17,0.0,0.0
+call,bet,0.0,17.0
 call,check,0.0,0.0
 call,raise,0.0,27.0
 call,raise,0.0,92.0
@@ -9130,20 +9130,20 @@ call,call,0.0,0.0
 call,check,0.0,0.0
 raise,fold,30.0,0.0
 call,call,0.0,0.0
-bet 40,call,0.0,0.0
+bet,call,40.0,0.0
 call,call,0.0,0.0
 call,check,0.0,0.0
-bet 20,bet 27,0.0,0.0
+bet,bet,20.0,27.0
 call,call,0.0,0.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
-call,bet 32,0.0,0.0
+call,bet,0.0,32.0
 call,check,0.0,0.0
-bet 40,raise,0.0,84.0
-call,bet 3,0.0,0.0
+bet,raise,40.0,84.0
+call,bet,0.0,3.0
 call,check,0.0,0.0
 call,check,0.0,0.0
 raise,call,150.0,0.0
@@ -9157,14 +9157,14 @@ call,check,0.0,0.0
 call,check,0.0,0.0
 call,raise,0.0,81.0
 call,fold,0.0,0.0
-call,bet 12,0.0,0.0
-bet 50,fold,0.0,0.0
+call,bet,0.0,12.0
+bet,fold,50.0,0.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
-call,bet 24,0.0,0.0
+call,bet,0.0,24.0
 call,fold,0.0,0.0
-call,bet 16,0.0,0.0
+call,bet,0.0,16.0
 call,check,0.0,0.0
 call,check,0.0,0.0
 call,call,0.0,0.0
@@ -9184,16 +9184,16 @@ call,check,0.0,0.0
 call,call,0.0,0.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
-bet 10,call,0.0,0.0
+bet,call,10.0,0.0
 call,call,0.0,0.0
-call,bet 10,0.0,0.0
+call,bet,0.0,10.0
 call,check,0.0,0.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
 call,raise,0.0,86.0
 call,check,0.0,0.0
-bet 10,check,0.0,0.0
+bet,check,10.0,0.0
 raise,raise,40.0,89.0
 call,call,0.0,0.0
 call,raise,0.0,11.0
@@ -9201,32 +9201,32 @@ call,check,0.0,0.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
 raise,call,50.0,0.0
-bet 20,check,0.0,0.0
+bet,check,20.0,0.0
 call,check,0.0,0.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
-call,bet 23,0.0,0.0
+call,bet,0.0,23.0
 call,raise,0.0,74.0
 call,raise,0.0,35.0
 raise,fold,120.0,0.0
 call,fold,0.0,0.0
-bet 10,check,0.0,0.0
+bet,check,10.0,0.0
 call,check,0.0,0.0
 raise,fold,150.0,0.0
 call,call,0.0,0.0
 call,raise,0.0,92.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
-call,bet 3,0.0,0.0
+call,bet,0.0,3.0
 call,check,0.0,0.0
-bet 10,check,0.0,0.0
-bet 15,bet 3,0.0,0.0
+bet,check,10.0,0.0
+bet,bet,15.0,3.0
 call,raise,0.0,89.0
 call,fold,0.0,0.0
-call,bet 16,0.0,0.0
-call,bet 7,0.0,0.0
+call,bet,0.0,16.0
+call,bet,0.0,7.0
 call,check,0.0,0.0
 call,call,0.0,0.0
 call,call,0.0,0.0
@@ -9235,7 +9235,7 @@ call,fold,0.0,0.0
 call,check,0.0,0.0
 call,check,0.0,0.0
 call,check,0.0,0.0
-bet 16,check,0.0,0.0
+bet,check,16.0,0.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
 raise,raise,32.0,41.0
@@ -9250,25 +9250,25 @@ call,fold,0.0,0.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
-bet 6,check,0.0,0.0
+bet,check,6.0,0.0
 call,fold,0.0,0.0
 call,raise,0.0,88.0
 call,check,0.0,0.0
 call,raise,0.0,83.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
-call,bet 27,0.0,0.0
+call,bet,0.0,27.0
 call,call,0.0,0.0
 raise,call,20.0,0.0
 raise,raise,40.0,95.0
 call,call,0.0,0.0
 call,call,0.0,0.0
-call,bet 29,0.0,0.0
+call,bet,0.0,29.0
 call,raise,0.0,88.0
 call,call,0.0,0.0
 call,check,0.0,0.0
-bet 10,check,0.0,0.0
-call,bet 3,0.0,0.0
+bet,check,10.0,0.0
+call,bet,0.0,3.0
 call,call,0.0,0.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
@@ -9280,7 +9280,7 @@ call,fold,0.0,0.0
 call,call,0.0,0.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
-bet 15,call,0.0,0.0
+bet,call,15.0,0.0
 call,check,0.0,0.0
 call,call,0.0,0.0
 call,call,0.0,0.0
@@ -9295,12 +9295,12 @@ call,call,0.0,0.0
 call,raise,0.0,58.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
-bet 23,check,0.0,0.0
+bet,check,23.0,0.0
 call,raise,0.0,41.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
 call,call,0.0,0.0
-call,bet 17,0.0,0.0
+call,bet,0.0,17.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
 call,raise,0.0,74.0
@@ -9313,15 +9313,15 @@ call,fold,0.0,0.0
 call,check,0.0,0.0
 raise,fold,200.0,0.0
 call,fold,0.0,0.0
-call,bet 13,0.0,0.0
-call,bet 34,0.0,0.0
+call,bet,0.0,13.0
+call,bet,0.0,34.0
 call,call,0.0,0.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
-bet 10,call,0.0,0.0
+bet,call,10.0,0.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
-bet 15,bet 5,0.0,0.0
+bet,bet,15.0,5.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
 call,call,0.0,0.0
@@ -9330,7 +9330,7 @@ call,call,0.0,0.0
 call,fold,0.0,0.0
 raise,raise,120.0,88.0
 call,fold,0.0,0.0
-bet 30,check,0.0,0.0
+bet,check,30.0,0.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
@@ -9343,17 +9343,17 @@ call,call,0.0,0.0
 call,call,0.0,0.0
 call,call,0.0,0.0
 call,raise,0.0,88.0
-bet 20,call,0.0,0.0
-bet 4,check,0.0,0.0
+bet,call,20.0,0.0
+bet,check,4.0,0.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
-call,bet 4,0.0,0.0
+call,bet,0.0,4.0
 call,fold,0.0,0.0
 call,raise,0.0,90.0
 call,raise,0.0,90.0
 call,check,0.0,0.0
 call,call,0.0,0.0
-call,bet 29,0.0,0.0
+call,bet,0.0,29.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
@@ -9361,19 +9361,19 @@ call,check,0.0,0.0
 raise,raise,120.0,88.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
-bet 20,bet 24,0.0,0.0
+bet,bet,20.0,24.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
 call,raise,0.0,41.0
 call,check,0.0,0.0
-call,bet 23,0.0,0.0
-call,bet 29,0.0,0.0
-call,bet 18,0.0,0.0
-call,bet 18,0.0,0.0
-bet 25,check,0.0,0.0
-raise,bet 18,18.0,0.0
+call,bet,0.0,23.0
+call,bet,0.0,29.0
+call,bet,0.0,18.0
+call,bet,0.0,18.0
+bet,check,25.0,0.0
+raise,bet,18.0,18.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
@@ -9381,14 +9381,14 @@ call,check,0.0,0.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
-bet 10,raise,0.0,26.0
+bet,raise,10.0,26.0
 call,raise,0.0,83.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
-call,bet 2,0.0,0.0
-bet 10,bet 51,0.0,0.0
+call,bet,0.0,2.0
+bet,bet,10.0,51.0
 call,check,0.0,0.0
-bet 20,check,0.0,0.0
+bet,check,20.0,0.0
 call,raise,0.0,46.0
 raise,call,40.0,0.0
 call,raise,0.0,77.0
@@ -9416,8 +9416,8 @@ call,fold,0.0,0.0
 call,raise,0.0,36.0
 call,raise,0.0,7.0
 call,raise,0.0,77.0
-bet 10,check,0.0,0.0
-call,bet 23,0.0,0.0
+bet,check,10.0,0.0
+call,bet,0.0,23.0
 raise,call,150.0,0.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
@@ -9433,7 +9433,7 @@ call,fold,0.0,0.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
-call,bet 32,0.0,0.0
+call,bet,0.0,32.0
 call,call,0.0,0.0
 call,check,0.0,0.0
 call,raise,0.0,88.0
@@ -9443,10 +9443,10 @@ call,raise,0.0,80.0
 call,call,0.0,0.0
 call,raise,0.0,72.0
 call,raise,0.0,89.0
-call,bet 4,0.0,0.0
+call,bet,0.0,4.0
 call,call,0.0,0.0
 call,call,0.0,0.0
-bet 60,fold,0.0,0.0
+bet,fold,60.0,0.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
 call,check,0.0,0.0
@@ -9474,9 +9474,9 @@ call,raise,0.0,81.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
-call,bet 22,0.0,0.0
+call,bet,0.0,22.0
 call,check,0.0,0.0
-bet 16,check,0.0,0.0
+bet,check,16.0,0.0
 raise,fold,300.0,0.0
 fold,call,0.0,0.0
 call,check,0.0,0.0
@@ -9484,19 +9484,19 @@ call,check,0.0,0.0
 call,call,0.0,0.0
 call,raise,0.0,29.0
 call,check,0.0,0.0
-bet 45,check,0.0,0.0
+bet,check,45.0,0.0
 call,raise,0.0,80.0
 call,check,0.0,0.0
 call,check,0.0,0.0
-call,bet 34,0.0,0.0
+call,bet,0.0,34.0
 call,call,0.0,0.0
 call,raise,0.0,32.0
-bet 8,raise,0.0,17.0
+bet,raise,8.0,17.0
 call,call,0.0,0.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
-call,bet 29,0.0,0.0
+call,bet,0.0,29.0
 call,raise,0.0,84.0
 call,fold,0.0,0.0
 raise,raise,128.0,90.0
@@ -9507,36 +9507,36 @@ call,check,0.0,0.0
 call,fold,0.0,0.0
 raise,fold,40.0,0.0
 call,raise,0.0,84.0
-call,bet 23,0.0,0.0
+call,bet,0.0,23.0
 call,call,0.0,0.0
 call,check,0.0,0.0
 call,raise,0.0,83.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
-call,bet 8,0.0,0.0
-bet 15,check,0.0,0.0
+call,bet,0.0,8.0
+bet,check,15.0,0.0
 call,raise,0.0,81.0
 raise,check,32.0,0.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
 call,call,0.0,0.0
-bet 39,call,0.0,0.0
+bet,call,39.0,0.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
-call,bet 23,0.0,0.0
-call,bet 34,0.0,0.0
+call,bet,0.0,23.0
+call,bet,0.0,34.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
 call,check,0.0,0.0
 call,raise,0.0,83.0
-bet 10,check,0.0,0.0
+bet,check,10.0,0.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
 call,raise,0.0,83.0
-call,bet 27,0.0,0.0
+call,bet,0.0,27.0
 call,call,0.0,0.0
 call,raise,0.0,84.0
 call,fold,0.0,0.0
@@ -9556,14 +9556,14 @@ raise,call,32.0,0.0
 call,check,0.0,0.0
 call,check,0.0,0.0
 call,call,0.0,0.0
-call,bet 2,0.0,0.0
+call,bet,0.0,2.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
 call,raise,0.0,41.0
 call,raise,0.0,38.0
 call,raise,0.0,61.0
-call,bet 8,0.0,0.0
+call,bet,0.0,8.0
 call,check,0.0,0.0
 call,raise,0.0,13.0
 call,fold,0.0,0.0
@@ -9577,18 +9577,18 @@ call,call,0.0,0.0
 call,raise,0.0,11.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
-call,bet 28,0.0,0.0
+call,bet,0.0,28.0
 call,check,0.0,0.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
 call,raise,0.0,28.0
 call,raise,0.0,22.0
-call,bet 8,0.0,0.0
+call,bet,0.0,8.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
-bet 10,check,0.0,0.0
+bet,check,10.0,0.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
 call,check,0.0,0.0
@@ -9598,23 +9598,23 @@ call,fold,0.0,0.0
 call,raise,0.0,88.0
 call,check,0.0,0.0
 raise,call,60.0,0.0
-bet 4,bet 8,0.0,0.0
+bet,bet,4.0,8.0
 call,fold,0.0,0.0
-call,bet 18,0.0,0.0
+call,bet,0.0,18.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
 call,raise,0.0,33.0
 call,raise,0.0,93.0
-call,bet 10,0.0,0.0
+call,bet,0.0,10.0
 call,raise,0.0,48.0
 call,call,0.0,0.0
-call,bet 18,0.0,0.0
+call,bet,0.0,18.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
 raise,fold,40.0,0.0
-bet 16,check,0.0,0.0
-call,bet 4,0.0,0.0
+bet,check,16.0,0.0
+call,bet,0.0,4.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
 call,raise,0.0,95.0
@@ -9624,7 +9624,7 @@ call,check,0.0,0.0
 call,check,0.0,0.0
 call,call,0.0,0.0
 call,check,0.0,0.0
-call,bet 11,0.0,0.0
+call,bet,0.0,11.0
 call,check,0.0,0.0
 call,check,0.0,0.0
 call,call,0.0,0.0
@@ -9633,8 +9633,8 @@ call,call,0.0,0.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
-bet 40,fold,0.0,0.0
-call,bet 8,0.0,0.0
+bet,fold,40.0,0.0
+call,bet,0.0,8.0
 call,fold,0.0,0.0
 raise,fold,100.0,0.0
 call,call,0.0,0.0
@@ -9652,8 +9652,8 @@ call,check,0.0,0.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
-call,bet 29,0.0,0.0
-call,bet 8,0.0,0.0
+call,bet,0.0,29.0
+call,bet,0.0,8.0
 raise,fold,40.0,0.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
@@ -9666,38 +9666,38 @@ call,call,0.0,0.0
 raise,fold,120.0,0.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
-call,bet 16,0.0,0.0
+call,bet,0.0,16.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
-call,bet 7,0.0,0.0
+call,bet,0.0,7.0
 call,call,0.0,0.0
-call,bet 34,0.0,0.0
+call,bet,0.0,34.0
 call,raise,0.0,10.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
-call,bet 40,0.0,0.0
-bet 6,check,0.0,0.0
+call,bet,0.0,40.0
+bet,check,6.0,0.0
 all-in,call,0.0,0.0
-bet 10,bet 22,0.0,0.0
+bet,bet,10.0,22.0
 call,call,0.0,0.0
-bet 10,bet 29,0.0,0.0
+bet,bet,10.0,29.0
 call,check,0.0,0.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
 call,raise,0.0,10.0
-call,bet 8,0.0,0.0
+call,bet,0.0,8.0
 call,check,0.0,0.0
 call,call,0.0,0.0
-call,bet 29,0.0,0.0
+call,bet,0.0,29.0
 call,raise,0.0,31.0
-call,bet 13,0.0,0.0
+call,bet,0.0,13.0
 call,fold,0.0,0.0
 raise,raise,120.0,92.0
 raise,call,30.0,0.0
 call,call,0.0,0.0
 raise,call,20.0,0.0
 call,call,0.0,0.0
-bet 8,check,0.0,0.0
+bet,check,8.0,0.0
 call,call,0.0,0.0
 call,call,0.0,0.0
 call,call,0.0,0.0
@@ -9708,7 +9708,7 @@ call,call,0.0,0.0
 call,check,0.0,0.0
 call,call,0.0,0.0
 raise,fold,300.0,0.0
-bet 16,check,0.0,0.0
+bet,check,16.0,0.0
 call,call,0.0,0.0
 call,check,0.0,0.0
 call,check,0.0,0.0
@@ -9720,10 +9720,10 @@ raise,call,20.0,0.0
 call,call,0.0,0.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
-call,bet 29,0.0,0.0
+call,bet,0.0,29.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
-bet 8,raise,0.0,13.0
+bet,raise,8.0,13.0
 call,check,0.0,0.0
 call,raise,0.0,23.0
 call,fold,0.0,0.0
@@ -9738,12 +9738,12 @@ call,raise,0.0,7.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
-bet 20,raise,0.0,38.0
+bet,raise,20.0,38.0
 call,call,0.0,0.0
 call,raise,0.0,93.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
-call,bet 5,0.0,0.0
+call,bet,0.0,5.0
 call,raise,0.0,83.0
 raise,raise,64.0,91.0
 call,fold,0.0,0.0
@@ -9757,17 +9757,17 @@ call,check,0.0,0.0
 call,raise,0.0,31.0
 call,call,0.0,0.0
 call,call,0.0,0.0
-bet 15,bet 3,0.0,0.0
+bet,bet,15.0,3.0
 call,check,0.0,0.0
 raise,raise,60.0,89.0
-call,bet 11,0.0,0.0
+call,bet,0.0,11.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
-bet 10,check,0.0,0.0
-call,bet 10,0.0,0.0
+bet,check,10.0,0.0
+call,bet,0.0,10.0
 call,fold,0.0,0.0
-call,bet 29,0.0,0.0
-call,bet 29,0.0,0.0
+call,bet,0.0,29.0
+call,bet,0.0,29.0
 call,call,0.0,0.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
@@ -9786,7 +9786,7 @@ call,check,0.0,0.0
 call,call,0.0,0.0
 call,call,0.0,0.0
 raise,call,40.0,0.0
-bet 20,raise,0.0,46.0
+bet,raise,20.0,46.0
 call,raise,0.0,23.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
@@ -9797,9 +9797,9 @@ call,fold,0.0,0.0
 raise,call,40.0,0.0
 raise,call,120.0,0.0
 call,call,0.0,0.0
-call,bet 13,0.0,0.0
+call,bet,0.0,13.0
 call,call,0.0,0.0
-bet 4,bet 22,0.0,0.0
+bet,bet,4.0,22.0
 call,call,0.0,0.0
 call,call,0.0,0.0
 call,call,0.0,0.0
@@ -9813,16 +9813,16 @@ call,fold,0.0,0.0
 call,raise,0.0,41.0
 call,fold,0.0,0.0
 raise,fold,200.0,0.0
-call,bet 3,0.0,0.0
-bet 4,check,0.0,0.0
+call,bet,0.0,3.0
+bet,check,4.0,0.0
 call,call,0.0,0.0
 call,raise,0.0,32.0
-bet 8,check,0.0,0.0
+bet,check,8.0,0.0
 call,check,0.0,0.0
-call,bet 4,0.0,0.0
+call,bet,0.0,4.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
-bet 6,check,0.0,0.0
+bet,check,6.0,0.0
 call,raise,0.0,88.0
 call,check,0.0,0.0
 call,raise,0.0,84.0
@@ -9832,13 +9832,13 @@ call,check,0.0,0.0
 call,check,0.0,0.0
 call,raise,0.0,13.0
 call,fold,0.0,0.0
-call,bet 17,0.0,0.0
+call,bet,0.0,17.0
 call,call,0.0,0.0
 call,check,0.0,0.0
 raise,fold,32.0,0.0
 call,check,0.0,0.0
 call,call,0.0,0.0
-call,bet 10,0.0,0.0
+call,bet,0.0,10.0
 call,raise,0.0,74.0
 call,check,0.0,0.0
 call,call,0.0,0.0
@@ -9851,7 +9851,7 @@ call,check,0.0,0.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
 raise,fold,64.0,0.0
-bet 10,check,0.0,0.0
+bet,check,10.0,0.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
 call,check,0.0,0.0
@@ -9860,22 +9860,22 @@ call,fold,0.0,0.0
 raise,call,300.0,0.0
 call,raise,0.0,35.0
 call,call,0.0,0.0
-call,bet 29,0.0,0.0
+call,bet,0.0,29.0
 call,raise,0.0,21.0
 call,call,0.0,0.0
 call,call,0.0,0.0
 call,call,0.0,0.0
 call,check,0.0,0.0
 call,check,0.0,0.0
-call,bet 38,0.0,0.0
+call,bet,0.0,38.0
 call,check,0.0,0.0
-call,bet 39,0.0,0.0
+call,bet,0.0,39.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
 call,raise,0.0,38.0
 call,check,0.0,0.0
-call,bet 13,0.0,0.0
-call,bet 8,0.0,0.0
+call,bet,0.0,13.0
+call,bet,0.0,8.0
 raise,call,120.0,0.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
@@ -9886,7 +9886,7 @@ call,fold,0.0,0.0
 call,check,0.0,0.0
 raise,fold,60.0,0.0
 call,fold,0.0,0.0
-bet 16,check,0.0,0.0
+bet,check,16.0,0.0
 call,fold,0.0,0.0
 raise,raise,50.0,95.0
 call,check,0.0,0.0
@@ -9901,17 +9901,17 @@ call,call,0.0,0.0
 raise,raise,50.0,92.0
 call,check,0.0,0.0
 call,check,0.0,0.0
-bet 20,check,0.0,0.0
+bet,check,20.0,0.0
 call,raise,0.0,93.0
 call,raise,0.0,54.0
-call,bet 22,0.0,0.0
+call,bet,0.0,22.0
 call,raise,0.0,83.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
-call,bet 17,0.0,0.0
+call,bet,0.0,17.0
 raise,fold,40.0,0.0
 call,call,0.0,0.0
 call,call,0.0,0.0
@@ -9924,9 +9924,9 @@ call,check,0.0,0.0
 call,call,0.0,0.0
 raise,call,64.0,0.0
 call,call,0.0,0.0
-bet 40,bet 13,0.0,0.0
+bet,bet,40.0,13.0
 call,fold,0.0,0.0
-bet 4,check,0.0,0.0
+bet,check,4.0,0.0
 call,raise,0.0,32.0
 raise,call,140.0,0.0
 call,fold,0.0,0.0
@@ -9934,9 +9934,9 @@ call,raise,0.0,32.0
 raise,call,40.0,0.0
 call,raise,0.0,89.0
 call,fold,0.0,0.0
-bet 20,bet 28,0.0,0.0
+bet,bet,20.0,28.0
 call,check,0.0,0.0
-call,bet 23,0.0,0.0
+call,bet,0.0,23.0
 call,raise,0.0,18.0
 call,fold,0.0,0.0
 raise,fold,55.0,0.0
@@ -9958,12 +9958,12 @@ call,raise,0.0,33.0
 call,call,0.0,0.0
 call,raise,0.0,38.0
 raise,fold,100.0,0.0
-bet 100,call,0.0,0.0
+bet,call,100.0,0.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
 call,check,0.0,0.0
 call,call,0.0,0.0
-call,bet 13,0.0,0.0
+call,bet,0.0,13.0
 call,raise,0.0,25.0
 call,check,0.0,0.0
 call,call,0.0,0.0
@@ -9972,7 +9972,7 @@ call,fold,0.0,0.0
 call,fold,0.0,0.0
 call,raise,0.0,89.0
 raise,call,40.0,0.0
-bet 10,bet 22,0.0,0.0
+bet,bet,10.0,22.0
 call,raise,0.0,83.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
@@ -9984,17 +9984,17 @@ call,check,0.0,0.0
 call,fold,0.0,0.0
 call,fold,0.0,0.0
 call,call,0.0,0.0
-bet 20,check,0.0,0.0
+bet,check,20.0,0.0
 call,fold,0.0,0.0
 call,raise,0.0,38.0
-call,bet 29,0.0,0.0
+call,bet,0.0,29.0
 call,call,0.0,0.0
-bet 10,check,0.0,0.0
+bet,check,10.0,0.0
 call,call,0.0,0.0
 call,raise,0.0,77.0
 call,call,0.0,0.0
 call,raise,0.0,91.0
-bet 15,check,0.0,0.0
+bet,check,15.0,0.0
 call,call,0.0,0.0
 call,fold,0.0,0.0
 call,check,0.0,0.0
