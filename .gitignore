@@ -4,6 +4,6 @@ adapters/*
 */test
 evaluation/*
 models/*
-*/.DS_Store
+.DS_Store
 API-key.json
 
