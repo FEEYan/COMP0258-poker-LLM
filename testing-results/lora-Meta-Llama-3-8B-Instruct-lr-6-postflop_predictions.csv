@@ -1,0 +1,10001 @@
+Prediction,Ground Truth
+Bet 6 chips,check
+Raise 24 chips.,check
+Bet 17 chips,check
+Bet 6 chips,bet 10
+Raise 20 chips,check
+Raise 6 chips,raise 11
+Call,call
+Raise 20 chips,check
+Call,call
+Call,raise 92
+Call,call
+Bet 12 chips,check
+Shove,check
+Shove,check
+Check,check
+Fold,fold
+Call,call
+Call,call
+Fold,bet 12
+Call,raise 81
+Fold,raise 64
+Shove 81.0 chips.,check
+Call,raise 85
+Raise 77 chips,call
+Call,fold
+Raise 72 chips,call
+Bet 4 chips,check
+Bet 3.5 chips,bet 3
+Bet 15.0 chips,check
+Call,fold
+Call,call
+Raise 37 chips,call
+Raise 14.5 chips.,raise 16
+Fold,raise 73
+Raise 80 chips,raise 88
+Call,call
+Call,call
+Call,fold
+Call,call
+Check,check
+Call,call
+Raise 37 chips,fold
+Fold,fold
+Call,raise 29
+Fold,bet 7
+Fold,check
+Shove,bet 34
+Fold,fold
+Raise 12 chips,raise 25
+Shove,check
+Shove,check
+Check,check
+Raise 45 chips,raise 70
+Call,fold
+Call,call
+Fold,fold
+Shove,bet 18
+Fold,bet 3
+Fold,fold
+Fold,fold
+Raise 20 chips.,call
+Call,call
+Call,raise 88
+Fold,fold
+Call,fold
+Fold,fold
+Call,fold
+Fold,fold
+Call,raise 88
+Call,call
+Fold,fold
+Call,call
+Raise 80 chips,raise 86
+Fold,fold
+Raise 47 chips,call
+Raise 30 chips,call
+Fold,fold
+Raise 35 chips,call
+Bet 26 chips,bet 31
+Raise 85 chips,fold
+Call,raise 16
+Call,call
+Fold,call
+Bet 12 chips,bet 13
+Call,fold
+Fold,fold
+Bet 10.5 chips,check
+Fold,bet 10
+Raise 120 chips,fold
+Call,check
+Raise 35 chips,call
+Raise 12 chips,check
+Bet 14.0 chips.,check
+Bet 4 chips,bet 10
+Call,call
+Raise 10 chips,raise 25
+Call,raise 88
+Raise 32 chips,call
+Check,check
+Fold,bet 17
+Raise 53 chips,fold
+Call,fold
+Fold,fold
+Call,raise 13
+Call,call
+Fold,check
+Call,fold
+Call,fold
+Raise 20 chips.,call
+Raise 38 chips.,call
+Check,bet 18
+Raise 17 chips,fold
+Bet 5 chips,bet 12
+Raise 29 chips,call
+Call,fold
+Bet 13 chips,bet 10
+Bet 32 chips,bet 29
+Call,call
+Raise 30 chips.,raise 57
+Check,bet 35
+Raise 32 chips.,bet 29
+Call,fold
+Bet 10.0 chips,bet 8
+Raise 20 chips.,raise 27
+Fold,fold
+Bet 3.5 chips,check
+Fold,call
+Check,check
+Shove,bet 29
+Call,call
+Call,call
+Call,call
+Raise 84 chips,call
+Bet 5.0 chips,bet 5
+Fold,check
+Call,call
+Check,bet 29
+Fold,fold
+Fold,fold
+Call,fold
+Bet 2.0 chips,bet 3
+Raise 81 chips,fold
+Raise 121 chips,fold
+Shove,raise 58
+Call,call
+Raise 25 chips,raise 48
+Fold,fold
+Call,raise 16
+Call,bet 12
+Call,bet 13
+Call,check
+Fold,fold
+Fold,fold
+Raise 25 chips.,fold
+Raise 38 chips,call
+Call,check
+Fold,fold
+Raise 30 chips,call
+Fold,call
+Shove,check
+Call,fold
+Fold,call
+Raise 58 chips,fold
+Bet 3.5 chips,bet 4
+Fold,raise 84
+Call,call
+Call,check
+Fold,check
+Raise 11 chips.,fold
+Shove,check
+Raise 37 chips,raise 83
+Call,raise 11
+Call,fold
+Bet 6 chips,check
+Call,call
+Check,check
+Fold,fold
+Fold,fold
+Fold,bet 11
+Call,fold
+Call,fold
+Call,bet 29
+Bet 8 chips,check
+Call,call
+Raise 12 chips,check
+Bet 15.0 chips,check
+Raise 35 chips.,check
+Bet 4.5 chips,bet 4
+Raise 35 chips,fold
+Fold,raise 58
+Call,check
+Bet 6 chips,check
+Raise 44 chips,fold
+Call,call
+Fold,fold
+Raise 30 chips,fold
+Bet 6 chips,check
+Call,check
+Call,call
+Fold,fold
+Shove,check
+Shove,raise 61
+Shove 29.0 chips.,bet 23
+Fold,fold
+Raise 12 chips.,check
+Fold,raise 88
+Fold,call
+Call,raise 41
+Fold,fold
+Raise 35 chips,call
+Fold,fold
+Raise 10 chips,raise 22
+Fold,fold
+Raise 30 chips,call
+Call,call
+Call,call
+Check,bet 4
+Check,check
+Call,call
+Raise 77 chips,call
+Call,raise 16
+Check,bet 4
+Fold,fold
+Check,check
+Bet 3.5 chips,check
+Call,raise 16
+Fold,fold
+Fold,fold
+Fold,raise 58
+Shove,check
+Call,call
+Call,fold
+Call,check
+Raise 25 chips,call
+Raise 44 chips,raise 83
+Bet 12 chips.,check
+Call,fold
+Fold,fold
+Raise 40 chips,raise 92
+Bet 6 chips,check
+Call,call
+Call,call
+Call,fold
+Call,raise 57
+Raise 25 chips.,fold
+Fold,fold
+Call,call
+Raise 40 chips,raise 83
+Raise 31 chips,check
+Raise 40 chips,call
+Raise 12 chips,call
+Bet 12 chips,check
+Call,call
+Call,call
+Bet 6 chips,check
+Call,fold
+Raise 40 chips,raise 79
+Call,check
+Call,check
+Check,check
+Check,bet 3
+Raise 40 chips,raise 51
+Call,call
+Call,raise 7
+Call,fold
+Call,check
+Shove,bet 12
+Call,call
+Call,call
+Raise 88 chips,raise 70
+Call,call
+Fold,fold
+Raise 25 chips.,check
+Call,call
+Raise 39.0 chips.,raise 89
+Bet 4 chips,check
+Bet 6 chips,bet 10
+Fold,fold
+Call 10 chips,call
+Bet 17 chips,check
+Call,call
+Check,bet 17
+Raise 8 chips,raise 14
+Check,check
+Call,fold
+Call,bet 29
+Bet 13 chips,check
+Raise 26 chips,call
+Call 23 chips,call
+Fold,fold
+Shove,bet 39
+Fold,bet 23
+Fold,fold
+Fold,fold
+Fold,fold
+Call,fold
+Raise 100 chips,call
+Bet 8 chips,check
+Raise 83 chips,call
+Raise 77 chips,raise 80
+Raise 39 chips,call
+Raise 12 chips,check
+Raise 30 chips,call
+Raise 20 chips.,call
+Raise 26 chips,call
+Fold,raise 80
+Call,call
+Fold,fold
+Call,call
+Raise 75.0 chips,raise 78
+Check,check
+Raise 100 chips,call
+Fold,fold
+Bet 6 chips,check
+Bet 21 chips,check
+Fold,raise 93
+Check,check
+Raise 20 chips.,raise 35
+Raise 26 chips,check
+Raise 30 chips,raise 57
+Shove,bet 25
+Call,call
+Fold,fold
+Call,call
+Call,call
+Fold,bet 11
+Raise 100 chips,call
+Call,bet 24
+Call,raise 92
+Raise 30 chips.,call
+Call,raise 84
+Raise 13 chips,call
+Raise 81 chips,call
+Call,raise 13
+Raise 121 chips,call
+Call,call
+Call,check
+Call,call
+Bet 4 chips,check
+Call,fold
+Fold,fold
+Call,call
+Raise 57 chips,fold
+Shove,bet 29
+Call,raise 10
+Fold,bet 13
+Shove,check
+Bet 29.0 chips,bet 25
+Shove,check
+Call,fold
+Call 10 chips,raise 26
+Fold,raise 37
+Call,raise 10
+Check,bet 15
+Call 17 chips,raise 43
+Call,raise 90
+Fold,check
+Raise 25 chips,fold
+Call,check
+Call,raise 16
+Call,call
+Shove 45.0 chips.,check
+Call,call
+Bet 5.0 chips,bet 5
+Check,check
+Raise 44 chips,raise 90
+Shove,check
+Fold,fold
+Call,check
+Call,fold
+Fold,call
+Fold,bet 23
+Call,raise 73
+Raise 100 chips.,raise 88
+Call,call
+Call,call
+Fold,fold
+Call,call
+Raise 48 chips,fold
+Check,check
+Raise 39 chips,raise 85
+Raise 30 chips.,raise 46
+Raise 35 chips,call
+Raise 100 chips,call
+Fold,fold
+Fold,fold
+Raise 20 chips.,bet 29
+Call,call
+Bet 4.5 chips,bet 2
+Raise 24 chips,fold
+Call,check
+Fold,check
+Fold,bet 1
+Raise 40 chips,call
+Fold,raise 80
+Call,call
+Raise 73 chips,call
+Bet 20 chips,check
+Bet 6 chips,bet 13
+Fold,fold
+Bet 14 chips,check
+Call,raise 92
+Fold,fold
+Call,call
+Fold,bet 13
+Fold,fold
+Call,check
+Call,raise 38
+Fold,call
+Raise 15 chips.,check
+Raise 40 chips,raise 92
+Call,call
+Fold,fold
+Call,fold
+Call,call
+Call,fold
+Bet 4 chips,check
+Raise 151 chips,call
+Raise 53 chips,fold
+Raise 22 chips,raise 41
+Call,fold
+Fold,fold
+Call,call
+Fold,fold
+Shove,check
+Call,raise 90
+Raise 30 chips,call
+Bet 3.5 chips,check
+Call,call
+Bet 15.0 chips,check
+Raise 44 chips,raise 90
+Raise 15 chips,call
+Call,fold
+Raise 15 chips.,call
+Raise 89 chips,fold
+Fold,fold
+Call,fold
+Call,call
+Raise 77 chips,call
+Shove,bet 17
+Fold,fold
+Call,check
+Call,check
+Call,fold
+Fold,fold
+Shove,check
+Fold,fold
+Bet 10 chips,check
+Call,fold
+Raise 150 chips,call
+Call,raise 92
+Fold,fold
+Call,fold
+Raise 30 chips.,call
+Fold,fold
+Bet 3.5 chips,check
+Fold,fold
+Raise 84 chips,call
+Call,raise 10
+Bet 4.5 chips,check
+Call,raise 74
+Fold,fold
+Fold,raise 31
+Call,raise 38
+Check,check
+Fold,check
+Fold,fold
+Call,call
+Fold,bet 29
+Fold,fold
+Fold,fold
+Call,call
+Bet 14.0 chips,bet 11
+Call,fold
+Call,call
+Call,raise 23
+Fold,fold
+Call,fold
+Call,fold
+Fold,fold
+Raise 30 chips,fold
+Bet 6 chips,check
+Raise 15 chips,call
+Raise 38 chips,fold
+Raise 30 chips,check
+Shove 51.0 chips,check
+Bet 3.0 chips,bet 4
+Raise 86 chips,call
+Call,fold
+Fold,bet 10
+Raise 39 chips,raise 85
+Bet 6 chips,check
+Call,call
+Shove,check
+Call,fold
+Call,call
+Fold,check
+Raise 40 chips,call
+Call,raise 16
+Bet 4 chips,check
+Check,check
+Fold,bet 8
+Call,call
+Raise 24 chips.,call
+Call,raise 80
+Raise 30 chips,fold
+Raise 10 chips,check
+Call,call
+Fold,check
+Bet 25 chips,check
+Shove,check
+Raise 40 chips,raise 73
+Bet 10 chips,check
+Bet 6 chips,check
+Raise 10 chips.,call
+Shove,check
+Call,call
+Fold,fold
+Call,fold
+Shove 38.0 chips,bet 29
+Raise 54 chips,fold
+Fold,bet 17
+Call,call
+Fold,fold
+Check,check
+Fold,call
+Fold,fold
+Call,call
+Fold,raise 92
+Call,call
+Shove,bet 13
+Shove,check
+Call,check
+Call 8 chips,call
+Fold,fold
+Call,raise 11
+Call,raise 18
+Raise 38 chips,fold
+Check,check
+Raise 15 chips,call
+Check,check
+Call,fold
+Bet 4 chips,check
+Call,fold
+Call,raise 18
+Bet 5 chips,bet 10
+Call,call
+Bet 14.0 chips,bet 11
+Bet 20 chips,check
+Raise 5 chips,call
+Call,call
+Bet 3 chips,check
+Raise 65 chips,raise 74
+Bet 22 chips,bet 17
+Raise 40 chips,fold
+Bet 10 chips,check
+Raise 29 chips,call
+Raise 20 chips,check
+Shove,bet 24
+Fold,check
+Shove,check
+Raise 40 chips.,raise 88
+Call,call
+Raise 20 chips.,bet 29
+Call 13 chips,call
+Call,fold
+Raise 30 chips,call
+Fold,fold
+Call,fold
+Call,raise 77
+Raise 17.0 chips,call
+Shove,call
+Call,raise 27
+Call,check
+Fold,bet 18
+Raise 100 chips,raise 81
+Fold,fold
+Raise 30 chips,raise 80
+Fold,call
+Fold,raise 85
+Raise 74 chips,call
+Raise 7 chips,raise 22
+Raise 151 chips,call
+Raise 57 chips,raise 92
+Call,call
+Bet 6 chips,check
+Call,raise 10
+Shove 73.0 chips.,raise 61
+Shove,bet 23
+Fold,call
+Call,call
+Raise 64 chips,fold
+Call,fold
+Bet 4 chips,check
+Fold,fold
+Raise 32 chips,call
+Fold,bet 23
+Raise 66 chips,call
+Bet 14.0 chips,check
+Call,fold
+Call,fold
+Shove,bet 24
+Call,raise 11
+Bet 5 chips,check
+Fold,call
+Call,raise 27
+Fold,raise 64
+Raise 20 chips.,check
+Call,call
+Call,raise 13
+Bet 4.5 chips,check
+Call 13 chips,call
+Check,check
+Fold,fold
+Raise 120 chips.,call
+Raise 72 chips,call
+Call,raise 36
+Call,raise 46
+Fold,fold
+Call,fold
+Fold,fold
+Bet 15 chips,bet 20
+Call,call
+Call,call
+Call,call
+Call,fold
+Bet 6 chips,check
+Raise 20 chips.,bet 20
+Bet 10.0 chips,check
+Bet 6 chips,check
+Fold,check
+Bet 4 chips,check
+Fold,raise 82
+Raise 7.0 chips,call
+Call,call
+Bet 6 chips,check
+Shove,check
+Bet 16 chips,bet 19
+Call,fold
+Call,check
+Call,raise 17
+Raise 91 chips.,raise 73
+Check,check
+Raise 120 chips,fold
+Bet 6 chips,check
+Call,raise 33
+Fold,fold
+Call,call
+Raise 100 chips,call
+Call,call
+Call,call
+Call,fold
+Call,check
+Raise 20 chips.,call
+Fold,call
+Bet 6 chips,bet 12
+Call,raise 84
+Fold,fold
+Raise 6 chips,call
+Check,bet 29
+Call,raise 65
+Raise 81 chips,fold
+Shove,bet 23
+Raise 37 chips,check
+Bet 4 chips,check
+Call,check
+Bet 6 chips,check
+Bet 10.0 chips,check
+Bet 10 chips,bet 22
+Check,check
+Bet 4 chips,bet 4
+Fold,raise 58
+Raise 35 chips.,raise 74
+Fold,fold
+Check,check
+Bet 4.5 chips,bet 4
+Call,check
+Fold,fold
+Raise 89 chips,call
+Raise 35 chips,fold
+Shove,check
+Fold,fold
+Raise 30 chips,fold
+Fold,call
+Call,call
+Call,call
+Call,call
+Raise 51 chips,raise 77
+Raise 100 chips,call
+Call,raise 8
+Raise 12 chips,check
+Call,call
+Raise 35 chips,call
+Fold,fold
+Call,raise 83
+Bet 4 chips,check
+Fold,check
+Fold,bet 10
+Call,raise 37
+Fold,check
+Raise 5 chips,fold
+Bet 6 chips,bet 13
+Raise 24 chips.,call
+Raise 30 chips.,fold
+Call,raise 58
+Call,fold
+Call,fold
+Bet 17 chips,check
+Raise 100 chips,call
+Call,raise 81
+Call,call
+Call,raise 88
+Bet 3.5 chips,check
+Fold,check
+Raise 5 chips,fold
+Raise 81 chips,fold
+Shove,check
+Raise 44 chips,fold
+Raise 51 chips,call
+Call,fold
+Call,call
+Raise 12 chips,raise 25
+Raise 32 chips.,check
+Raise 20 chips,raise 40
+Call,raise 30
+Raise 20 chips,check
+Raise 12 chips,bet 18
+Raise 60 chips,raise 89
+Fold,fold
+Call,raise 25
+Check,check
+Call,fold
+Fold,fold
+Raise 54 chips,fold
+Fold,fold
+Bet 14 chips,bet 31
+Raise 35 chips,call
+Fold,raise 58
+Shove,check
+Fold,call
+Fold,raise 58
+Check,check
+Raise 30 chips,check
+Fold,fold
+Call,check
+Raise 40 chips,fold
+Shove,check
+Call,fold
+Check,check
+Raise 30 chips,fold
+Call,call
+Fold,fold
+Raise 40 chips,raise 83
+Call,raise 13
+Check,check
+Call,fold
+Call,call
+Raise 40 chips.,call
+Bet 6 chips,check
+Bet 4 chips,check
+Fold,fold
+Raise 20 chips,fold
+Bet 12 chips,check
+Shove,check
+Call,raise 94
+Shove,bet 27
+Bet 4 chips,check
+Call,raise 51
+Call,raise 18
+Shove,check
+Bet 12.5 chips,bet 3
+Call,call
+Fold,fold
+Call,fold
+Call,fold
+Bet 12 chips,bet 20
+Raise 20 chips.,call
+Bet 10 chips,bet 22
+Call,raise 84
+Call,raise 88
+Fold,fold
+Bet 4 chips,check
+Shove,bet 23
+Call,call
+Call,raise 38
+Raise 82 chips,call
+Bet 32 chips,check
+Call,call
+Call,fold
+Bet 10.0 chips,bet 8
+Call,check
+Shove,raise 72
+Raise 26 chips,call
+Fold,call
+Call,call
+Call,fold
+Raise 20 chips,call
+Bet 4 chips,check
+Call,check
+Call,call
+Raise 12 chips,call
+Raise 40 chips,raise 92
+Bet 23 chips,check
+Fold,fold
+Call,fold
+Fold,check
+Call,raise 92
+Fold,fold
+Call 10 chips,raise 22
+Call,call
+Call,raise 10
+Call,fold
+Fold,fold
+Bet 14.0 chips,bet 11
+Check,bet 2
+Shove,check
+Shove 73.0 chips.,check
+Raise 90 chips,raise 74
+Call,call
+Call,call
+Bet 6 chips,check
+Raise 35 chips,call
+Call,raise 11
+Raise 51 chips,raise 89
+Call,call
+Bet 3.5 chips,check
+Raise 12 chips,check
+Raise 20 chips,check
+Call,raise 10
+Call,fold
+Raise 60.0 chips.,call
+Call,fold
+Check,check
+Call,check
+Raise 15 chips.,raise 22
+Check,check
+Fold,check
+Call,call
+Call,fold
+Fold,call
+Call,call
+Raise 20 chips.,call
+Shove,check
+Check,check
+Check,check
+Bet 4 chips,check
+Raise 40 chips,call
+Shove 37.0 chips.,check
+Fold,fold
+Fold,fold
+Call,call
+Raise 10 chips,call
+Call,raise 22
+Bet 17 chips,bet 13
+Bet 2 chips,check
+Raise 38 chips,raise 92
+Raise 83 chips,fold
+Fold,fold
+Call,call
+Shove,check
+Bet 3.5 chips,check
+Fold,fold
+Bet 3.0 chips,check
+Check,bet 3
+Call,raise 38
+Fold,raise 74
+Bet 6 chips,check
+Call,fold
+Raise 25 chips.,call
+Raise 35 chips,raise 93
+Call,call
+Bet 3.5 chips,check
+Call,check
+Fold,check
+Raise 82 chips,call
+Call,raise 82
+Bet 6 chips,check
+Check,check
+Call,check
+Call,call
+Fold,call
+Raise 20 chips,call
+Call,raise 17
+Call,fold
+Call,raise 41
+Fold,fold
+Call,check
+Call 10 chips,call
+Raise 45 chips.,call
+Call,call
+Raise 40 chips,raise 84
+Fold,check
+Fold,call
+Fold,bet 40
+Fold,fold
+Call,fold
+Bet 3.5 chips,bet 4
+Raise 30 chips,fold
+Fold,fold
+Raise 80 chips,raise 84
+Call,call
+Bet 39 chips,check
+Raise 4 chips.,raise 7
+Call,fold
+Call,call
+Raise 120 chips.,call
+Call,fold
+Raise 54 chips,fold
+Fold,fold
+Call,call
+Call,fold
+Call,check
+Shove,bet 24
+Fold,fold
+Call,call
+Raise 20 chips,call
+Shove 82.0 chips.,raise 58
+Call,fold
+Call,raise 92
+Fold,fold
+Bet 14 chips,check
+Raise 100 chips,call
+Call,fold
+Call,fold
+Call,check
+Shove 31.0 chips,check
+Call,call
+Bet 8 chips,bet 17
+Fold,check
+Bet 5 chips,check
+Raise 12 chips,fold
+Call,call
+Call,call
+Call,call
+Bet 2.0 chips,check
+Raise 30 chips,fold
+Call,call
+Raise 41 chips,raise 91
+Raise 15 chips.,call
+Call,bet 13
+Raise 30 chips.,fold
+Raise 20 chips.,call
+Call,raise 83
+Bet 17 chips,check
+Raise 12 chips.,bet 18
+Fold,fold
+Fold,check
+Raise 12 chips.,call
+Raise 55 chips,call
+Call,raise 7
+Bet 9.0 chips,check
+Fold,call
+Bet 4 chips,check
+Raise 15 chips,call
+Raise 40 chips,raise 94
+Raise 83 chips,call
+Call,call
+Raise 20 chips,raise 38
+Raise 151.0 chips,call
+Raise 84 chips,fold
+Call,fold
+Call,call
+Check,check
+Call,call
+Call,fold
+Shove,bet 27
+Fold,check
+Raise 46 chips,fold
+Call,call
+Call 10 chips,call
+Call,raise 19
+Bet 16.0 chips.,bet 12
+Fold,fold
+Call,fold
+Fold,call
+Call,call
+Raise 35 chips.,call
+Call,fold
+Raise 12 chips,bet 16
+Call,call
+Raise 77 chips,call
+Shove,check
+Check,check
+Fold,fold
+Fold,call
+Call,fold
+Raise 62 chips,raise 86
+Call,raise 38
+Fold,raise 54
+Fold,fold
+Raise 26 chips.,check
+Raise 20 chips.,check
+Check,check
+Bet 16 chips,check
+Fold,bet 29
+Raise 20 chips,fold
+Call,call
+Raise 15 chips,call
+Call,call
+Call,check
+Call,raise 11
+Bet 3.5 chips,check
+Call,call
+Fold,raise 86
+Fold,call
+Call,raise 90
+Call,call
+Call 10 chips,call
+Call,raise 90
+Call,fold
+Raise 80 chips,raise 67
+Raise 5 chips,raise 16
+Raise 37 chips,fold
+Raise 12 chips,call
+Call,fold
+Raise 10 chips,check
+Bet 4 chips,check
+Raise 12 chips,fold
+Check,check
+Call,check
+Raise 10 chips,check
+Raise 30 chips,call
+Bet 7 chips,check
+Fold,fold
+Check,check
+Check,bet 17
+Bet 8 chips,bet 17
+Call,fold
+Call,raise 90
+Bet 4.5 chips.,check
+Fold,fold
+Fold,fold
+Shove,check
+Raise 18 chips.,check
+Raise 4 chips.,call
+Raise 40 chips,call
+Call,call
+Call,raise 48
+Bet 8.0 chips,check
+Call,raise 93
+Call,call
+Fold,bet 24
+Call,fold
+Raise 38 chips,fold
+Shove,bet 24
+Check,check
+Call,fold
+Call,call
+Raise 20 chips,check
+Raise 20 chips,bet 20
+Raise 26 chips.,check
+Call,check
+Raise 130 chips,call
+Call,fold
+Raise 10 chips.,raise 22
+Check,check
+Raise 55 chips.,raise 88
+Call,call
+Call,call
+Check,check
+Fold,fold
+Call,check
+Call,check
+Check,check
+Raise 26 chips,call
+Raise 20 chips,check
+Call,call
+Raise 40 chips,call
+Fold,fold
+Bet 5 chips,bet 24
+Call,fold
+Fold,fold
+Call,fold
+Raise 25 chips,fold
+Fold,fold
+Call,raise 86
+Bet 12 chips,check
+Call,fold
+Bet 3.5 chips,check
+Call,check
+Call,check
+Raise 54 chips,fold
+Fold,call
+Call,call
+Bet 4 chips,check
+Raise 20 chips,raise 41
+Call,bet 13
+Call,fold
+Fold,fold
+Shove,check
+Bet 14 chips,check
+Call,call
+Shove,bet 29
+Call,call
+Call,call
+Call,call
+Bet 6 chips,check
+Call,check
+Call,fold
+Raise 55 chips.,raise 88
+Call,raise 84
+Call,fold
+Call,raise 81
+Call,fold
+Call,call
+Fold,raise 77
+Call,check
+Fold,call
+Shove 31.0 chips,check
+Raise 15 chips.,check
+Bet 4 chips,bet 10
+Call,call
+Call,fold
+Call,fold
+Raise 37 chips,call
+Fold,fold
+Shove 31.0 chips,check
+Call,call
+Fold,bet 11
+Bet 6 chips,check
+Call,call
+Call,check
+Call,fold
+Call,call
+Shove 51.0 chips,bet 40
+Call,call
+Call,call
+Call,fold
+Check,check
+Bet 4 chips,check
+Call,call
+Call,call
+Fold,fold
+Bet 2.0 chips,bet 3
+Bet 4 chips,check
+Shove,bet 23
+Call,check
+Fold,fold
+Bet 23 chips,bet 39
+Fold,fold
+Raise 32 chips,check
+Shove,bet 25
+Raise 30 chips,raise 58
+Bet 23 chips,bet 39
+Fold,call
+Raise 38 chips.,fold
+Fold,fold
+Raise 35 chips.,check
+Raise 40 chips,call
+Call,call
+Raise 41 chips,call
+Fold,check
+Shove,check
+Call,call
+Call,call
+Raise 40 chips,call
+Raise 85 chips,fold
+Call,fold
+Raise 83 chips,call
+Bet 4.5 chips,check
+Call,call
+Bet 3.5 chips,check
+Call,fold
+Raise 40 chips.,fold
+Shove 69.0 chips,raise 64
+Call,call
+Call,raise 80
+Call,call
+Call,check
+Raise 40 chips,raise 83
+Raise 100 chips,call
+Bet 3.5 chips,check
+Bet 12 chips,check
+Bet 3.0 chips,check
+Call,check
+Bet 3.5 chips,check
+Shove,check
+Fold,fold
+Call 13 chips,call
+Raise 50 chips,call
+Fold,raise 70
+Call,fold
+Raise 26 chips,raise 33
+Raise 86 chips,call
+Call,fold
+Raise 35 chips,fold
+Call,raise 89
+Raise 40 chips,raise 93
+Bet 24 chips,check
+Bet 12 chips,check
+Call,call
+Fold,fold
+Fold,fold
+Call,raise 80
+Call,fold
+Fold,fold
+Fold,fold
+Raise 83 chips,call
+Fold,fold
+Raise 35 chips,fold
+Call,check
+Fold,check
+Fold,fold
+Call,bet 12
+Fold,fold
+Fold,fold
+Call,fold
+Call,raise 28
+Shove,check
+Raise 12 chips,check
+Fold,fold
+Call,fold
+Bet 30 chips,check
+Shove,bet 23
+Shove,bet 27
+Call,fold
+Raise 89 chips,call
+Fold,raise 77
+Bet 4 chips,check
+Fold,check
+Fold,raise 88
+Raise 37 chips,call
+Call,raise 32
+Raise 35 chips,call
+Fold,fold
+Fold,fold
+Fold,check
+Shove,check
+Fold,call
+Bet 14 chips,check
+Raise 15 chips,raise 25
+Fold,fold
+Bet 2 chips,check
+Call,raise 81
+Raise 40 chips,fold
+Call,check
+Call,check
+Call,call
+Call,fold
+Raise 12 chips,check
+Call,fold
+Raise 26 chips,fold
+Raise 10 chips,call
+Call,raise 10
+Call,raise 11
+Raise 30 chips,fold
+Shove 41.0 chips,bet 34
+Call,raise 11
+Call,call
+Call,call
+Raise 72 chips,call
+Raise,raise 82
+Raise 81 chips,fold
+Shove,check
+Raise 44 chips,raise 90
+Raise 10 chips,call
+Raise 25 chips,fold
+Shove,check
+Bet 12.5 chips,check
+Call,call
+Raise 40 chips,call
+Raise 20 chips,check
+Fold,fold
+Raise 10 chips,call
+Call,call
+Call,fold
+Call,call
+Call,raise 41
+Fold,fold
+Fold,fold
+Shove,check
+Fold,fold
+Call,fold
+Call,call
+Check,check
+Shove,raise 70
+Bet 4 chips,check
+Call,raise 32
+Raise 12 chips.,fold
+Bet 4 chips,check
+Shove,check
+Bet 14 chips,check
+Raise 40 chips.,raise 82
+Raise 20 chips.,fold
+Raise 15 chips,raise 32
+Raise 141.0 chips,call
+Call,raise 18
+Raise 77 chips,fold
+Call,bet 29
+Fold,call
+Fold,fold
+Bet 5 chips,check
+Raise 75.0 chips.,raise 78
+Raise 12 chips.,fold
+Fold,bet 29
+Fold,fold
+Call,fold
+Raise 120 chips,call
+Raise 37 chips,call
+Call,check
+Raise 29 chips,call
+Raise 150 chips,call
+Call,call
+Call,call
+Call,call
+Fold,fold
+Raise 83 chips,call
+Call,call
+Call 13 chips,call
+Call,check
+Raise 38 chips,call
+Raise 121 chips,call
+Shove,check
+Call,call
+Raise 30 chips.,fold
+Bet 3.5 chips,bet 1
+Call,check
+Fold,fold
+Shove,check
+Call,check
+Raise 35 chips,fold
+Fold,fold
+Raise 20 chips,raise 29
+Fold,fold
+Raise 100 chips.,call
+Raise 47 chips,raise 87
+Shove 17.0 chips,check
+Call,call
+Shove,check
+Bet 2 chips,bet 7
+Call,raise 92
+Call,call
+Fold,call
+Raise 57 chips,fold
+Call,call
+Call,call
+Raise 20 chips,call
+Bet 7 chips,check
+Call,raise 88
+Raise 30 chips,raise 79
+Raise 50 chips,fold
+Check,check
+Raise 12 chips,call
+Call,raise 30
+Call,raise 91
+Call 25 chips,raise 94
+Bet 6 chips,check
+Raise 47 chips,fold
+Bet 8.5 chips,check
+Bet 13 chips,bet 10
+Raise 82 chips,raise 87
+Call,fold
+Bet 12 chips,check
+Raise 40 chips,call
+Bet 5 chips,bet 12
+Raise 39 chips,fold
+Shove,check
+Fold,check
+Call,check
+Raise 10 chips,call
+Check,check
+Raise 35 chips,call
+Call,raise 83
+Check,check
+Raise 26 chips,bet 28
+Call,fold
+Raise 35 chips,call
+Call,check
+Bet 10.0 chips,bet 11
+Bet 10.0 chips,check
+Fold,fold
+Raise 58 chips,raise 88
+Raise 40 chips,fold
+Raise 12 chips.,call
+Call,check
+Fold,fold
+Raise 24 chips.,call
+Fold,fold
+Fold,fold
+Raise 30 chips,call
+Shove,check
+Shove,check
+Bet 32 chips,check
+Raise 40 chips,call
+Fold,fold
+Call,call
+Fold,fold
+Call,call
+Bet 4.5 chips,bet 4
+Call,raise 57
+Fold,fold
+Call,call
+Shove,check
+Call,raise 92
+Call,call
+Raise 30 chips,raise 88
+Call,call
+Bet 5 chips,check
+Raise 40 chips,raise 95
+Call,call
+Call,call
+Call,raise 32
+Call,fold
+Call,call
+Call,call
+Fold,fold
+Call,fold
+Bet 4 chips,check
+Bet 8.5 chips,bet 8
+Call,fold
+Bet 3.5 chips,bet 1
+Raise 77 chips,fold
+Bet 12 chips,bet 19
+Call,fold
+Call,call
+Call,call
+Raise 46 chips,fold
+Bet 4.0 chips,bet 2
+Raise 15 chips,raise 35
+Fold,fold
+Call,raise 88
+Bet 32 chips,bet 29
+Bet 24.0 chips,check
+Fold,fold
+Fold,fold
+Raise 12 chips.,check
+Shove,check
+Bet 4 chips,check
+Raise 35 chips,call
+Fold,fold
+Shove,check
+Bet 5 chips,bet 13
+Fold,fold
+Raise 25 chips,fold
+Raise 40 chips.,call
+Call,call
+Call,call
+Call 10 chips,call
+Call,fold
+Raise 25 chips,raise 83
+Fold,fold
+Bet 6 chips,bet 16
+Shove,bet 39
+Fold,call
+Call,raise 30
+Raise 32 chips,bet 51
+Call,call
+Call,fold
+Fold,fold
+Shove,check
+Shove,check
+Call,fold
+Call,raise 90
+Call 30 chips,raise 93
+Bet 4 chips,check
+Call,raise 16
+Raise 12 chips,check
+Bet 4.5 chips.,bet 4
+Raise 150 chips,call
+Call,fold
+Call,fold
+Fold,fold
+Raise 30 chips,raise 84
+Raise 30 chips,raise 57
+Raise 82 chips,call
+Call,call
+Raise 12 chips.,call
+Fold,fold
+Call,fold
+Bet 16.0 chips,bet 12
+Raise 83 chips,call
+Shove,check
+Call,call
+Bet 8 chips,check
+Bet 5 chips,check
+Shove,check
+Call,call
+Call,call
+Call,call
+Call,check
+Raise 12 chips.,raise 25
+Raise 40 chips,call
+Raise 30 chips,call
+Raise 26 chips,call
+Bet 6 chips,check
+Call,call
+Bet 4.5 chips.,check
+Bet 4 chips,bet 4
+Raise 30 chips,call
+Bet 14 chips,check
+Call,call
+Bet 4 chips,check
+Call,call
+Call,fold
+Fold,fold
+Check,check
+Shove,check
+Raise 47 chips,raise 79
+Call,raise 81
+Call,fold
+Bet 3.5 chips,check
+Call,call
+Raise 40 chips,fold
+Shove,check
+Call,check
+Fold,fold
+Raise 32 chips,check
+Raise 81 chips,call
+Bet 10.0 chips,bet 8
+Call,raise 22
+Fold,call
+Raise 40 chips,fold
+Bet 4 chips,bet 2
+Call,fold
+Raise 40 chips,raise 80
+Fold,bet 5
+Bet 10.0 chips,check
+Call,raise 82
+Fold,raise 32
+Raise 20 chips,call
+Call,raise 13
+Check,check
+Fold,fold
+Call,fold
+Check,check
+Check,check
+Call,call
+Bet 3.5 chips,check
+Call,raise 33
+Check,check
+Fold,call
+Call,raise 77
+Shove,check
+Raise 24 chips.,check
+Call,bet 20
+Fold,fold
+Call,raise 10
+Fold,fold
+Call,raise 86
+Call,check
+Raise 12 chips,check
+Bet 4.5 chips,check
+Call,check
+Call,fold
+Bet 4 chips,bet 10
+Call,fold
+Raise 24 chips,call
+Call,call
+Call,call
+Call,call
+Call,fold
+Call,fold
+Bet 6 chips,check
+Call,raise 90
+Fold,bet 40
+Raise 32 chips.,raise 81
+Raise 40 chips,raise 77
+Raise 40 chips,fold
+Call,fold
+Bet 3.5 chips,check
+Call,fold
+Fold,fold
+Fold,call
+Check,check
+Raise 51 chips,fold
+Bet 3.5 chips,check
+Raise 84 chips,call
+Call,raise 37
+Call,call
+Shove 101.0 chips,check
+Raise 15 chips,call
+Call,raise 77
+Call,check
+Fold,call
+Raise 40 chips,raise 74
+Bet 10 chips,check
+Raise 20 chips,check
+Raise 10 chips,call
+Raise 37 chips,call
+Raise 150 chips,call
+Bet 10 chips,bet 18
+Fold,call
+Fold,fold
+Call 13 chips,fold
+Raise 51 chips,raise 77
+Fold,fold
+Bet 3.5 chips,check
+Raise 120 chips,call
+Raise 20 chips,call
+Call,check
+Call,fold
+Bet 2 chips,check
+Fold,fold
+Check,check
+Call,call
+Fold,fold
+Raise 18 chips.,check
+Call,call
+Call,raise 13
+Call,fold
+Raise 137.0 chips,call
+Fold,fold
+Fold,fold
+Call,call
+Call,fold
+Bet 4 chips,check
+Fold,fold
+Raise 40 chips,raise 92
+Call,call
+Raise 25 chips,call
+Call 10 chips,call
+Call,call
+Raise 30 chips.,raise 49
+Raise 26 chips,fold
+Bet 4 chips,check
+Fold,check
+Raise 12 chips,check
+Raise 30 chips,call
+Call,fold
+Bet 5 chips,check
+Call,raise 28
+Fold,check
+Call,call
+Call,raise 90
+Raise 30 chips,fold
+Shove,bet 23
+Fold,fold
+Raise 10 chips,call
+Call,check
+Raise 26 chips,bet 28
+Fold,call
+Call,fold
+Call,call
+Call,fold
+Raise 32 chips.,call
+Shove,check
+Fold,fold
+Bet 6 chips,check
+Call,raise 33
+Fold,fold
+Call,call
+Fold,fold
+Call,fold
+Fold,fold
+Call,raise 89
+Call,call
+Raise 30 chips,call
+Call,raise 77
+Call,check
+Raise 24 chips,call
+Call,call
+Raise 51 chips,raise 77
+Fold,bet 29
+Bet 8 chips,check
+Fold,call
+Fold,raise 14
+Raise 31 chips.,call
+Fold,fold
+Check,check
+Fold,fold
+Fold,fold
+Fold,fold
+Call,raise 90
+Call,call
+Call,fold
+Shove,check
+Fold,fold
+Call,check
+Check,check
+Fold,fold
+Fold,check
+Call 30 chips,raise 93
+Call,check
+Call,call
+Shove,check
+Raise 24 chips,call
+Fold,bet 7
+Raise 66 chips,call
+Bet 4 chips,check
+Raise 20 chips,call
+Call,call
+Fold,fold
+Fold,fold
+Bet 5 chips,check
+Call,raise 89
+Call,raise 74
+Call,call
+Fold,call
+Call,fold
+Shove,check
+Call,call
+Raise 25 chips.,raise 83
+Call,call
+Fold,raise 93
+Call,fold
+Fold,bet 20
+Raise 46 chips,raise 83
+Call,raise 92
+Call,call
+Raise 20 chips,bet 22
+Fold,fold
+Shove,bet 27
+Shove,check
+Fold,fold
+Raise 30 chips,call
+Bet 14 chips,check
+Raise 5 chips,call
+Raise 26 chips,fold
+Fold,raise 74
+Raise 30 chips,fold
+Call,call
+Raise 40 chips.,check
+Fold,fold
+Raise 32 chips,bet 29
+Call,fold
+Call,fold
+Raise 15 chips.,call
+Check,bet 31
+Raise 40 chips.,raise 86
+Raise 30 chips.,call
+Fold,fold
+Fold,check
+Fold,fold
+Call,fold
+Call,call
+Call,raise 27
+Call,call
+Raise 5 chips,fold
+Fold,fold
+Raise 40 chips,call
+Fold,fold
+Shove,check
+Fold,fold
+Bet 3.5 chips,check
+Raise 12 chips,check
+Raise 40 chips,raise 89
+Call,call
+Call,call
+Bet 10.0 chips,bet 8
+Call,fold
+Call,bet 17
+Call,raise 18
+Raise 40 chips,fold
+Raise 40 chips,raise 80
+Shove,check
+Shove,check
+Bet 4.5 chips,bet 5
+Bet 4 chips,check
+Raise 35 chips,call
+Raise 25 chips,call
+Raise 30 chips.,call
+Call,call
+Call,call
+Fold,fold
+Call,call
+Shove,check
+Bet 10.0 chips.,check
+Call,raise 84
+Bet 4.5 chips.,check
+Fold,raise 85
+Raise 58 chips,call
+Shove,bet 23
+Call,raise 41
+Call,raise 84
+Check,check
+Fold,fold
+Call,check
+Call,call
+Shove 69.0 chips,check
+Call,call
+Fold,fold
+Bet 4.5 chips,check
+Bet 3 chips,bet 7
+Shove,check
+Bet 16 chips,check
+Raise 100 chips,call
+Fold,check
+Call,fold
+Fold,check
+Fold,fold
+Shove,bet 18
+Fold,check
+Call,fold
+Bet 20 chips,check
+Shove,check
+Raise 48 chips,raise 81
+Raise 47 chips,fold
+Raise 8 chips,call
+Raise 50 chips.,check
+Fold,fold
+Call,raise 16
+Call,call
+Bet 22 chips,check
+Shove,check
+Bet 9.0 chips,bet 7
+Call,fold
+Fold,fold
+Fold,fold
+Call,fold
+Fold,raise 80
+Raise 25 chips,raise 93
+Call,fold
+Bet 4.5 chips,check
+Fold,bet 12
+Call,fold
+Raise 83 chips,fold
+Bet 4 chips,check
+Bet 10 chips,check
+Raise 50 chips,fold
+Raise 83 chips,call
+Call,call
+Fold,fold
+Raise 13 chips,fold
+Bet 4.5 chips,bet 2
+Bet 4.5 chips,bet 4
+Fold,fold
+Call,call
+Check,bet 8
+Bet 4 chips,check
+Raise 120 chips,fold
+Fold,fold
+Call,fold
+Bet 26 chips,bet 31
+Call,fold
+Raise 40 chips,call
+Bet 4 chips,check
+Call,call
+Call,fold
+Raise 86 chips,fold
+Call,call
+Call,call
+Fold,check
+Raise 4.5 chips,call
+Call,call
+Fold,check
+Check,check
+Bet 3.0 chips,check
+Call,fold
+Check,check
+Raise 30 chips,raise 84
+Call,fold
+Call,call
+Raise 30 chips,call
+Call,call
+Fold,fold
+Check,bet 8
+Call,bet 29
+Bet 17 chips,check
+Fold,fold
+Call,call
+Fold,raise 27
+Raise 24 chips.,check
+Fold,fold
+Call,call
+Bet 6 chips,check
+Call,raise 33
+Bet 8.0 chips,bet 15
+Raise 40 chips,raise 90
+Raise 25 chips.,call
+Raise 81 chips,fold
+Shove,check
+Raise 26 chips,check
+Fold,fold
+Raise 30 chips.,fold
+Raise 51 chips,raise 77
+Call,call
+Fold,bet 17
+Call,raise 72
+Raise 50 chips.,raise 54
+Call,call
+Call,raise 89
+Raise 100 chips,call
+Call,fold
+Call,call
+Bet 4.0 chips,check
+Call,fold
+Bet 4 chips,bet 22
+Raise 121 chips,call
+Raise 20 chips,raise 38
+Raise 15 chips,call
+Fold,fold
+Raise 13 chips,call
+Call,raise 77
+Call,bet 29
+Bet 4 chips,check
+Raise 35 chips,fold
+Fold,bet 17
+Check,bet 16
+Raise 89 chips,fold
+Fold,fold
+Bet 3.5 chips,check
+Call,call
+Fold,bet 23
+Raise 20 chips.,bet 28
+Call,call
+Call,check
+Check,bet 5
+Call,fold
+Fold,fold
+Fold,fold
+Bet 13 chips,check
+Fold,fold
+Call,fold
+Raise 25 chips,raise 48
+Call,raise 16
+Raise 24 chips,call
+Check,check
+Call,call
+Fold,bet 13
+Call,raise 27
+Bet 4.5 chips.,check
+Call,check
+Call,call
+Fold,call
+Call,raise 10
+Raise 40 chips,raise 65
+Bet 17 chips,check
+Call,fold
+Call,fold
+Raise 40 chips.,fold
+Shove,check
+Bet 10 chips,check
+Raise 51 chips,raise 93
+Bet 20 chips,check
+Bet 20 chips,check
+Fold,fold
+Fold,raise 64
+Raise 40 chips,raise 79
+Call,raise 25
+Fold,call
+Bet 3.0 chips,check
+Fold,fold
+Call,fold
+Check,check
+Raise 15 chips,fold
+Call,fold
+Raise 35 chips.,call
+Bet 3 chips,check
+Raise 82 chips,call
+Check,check
+Call,fold
+Call,call
+Bet 3.5 chips,check
+Call,raise 43
+Bet 29 chips,bet 23
+Raise 5 chips,raise 16
+Fold,raise 64
+Shove,check
+Fold,check
+Bet 4.0 chips,bet 5
+Call,call
+Call,fold
+Call,call
+Raise 40 chips,call
+Fold,fold
+Bet 8 chips,check
+Fold,check
+Call,fold
+Raise 6 chips,call
+Raise 45 chips,raise 70
+Raise 12 chips.,raise 25
+Bet 8 chips,bet 17
+Shove,check
+Shove,call
+Shove,check
+Call,call
+Bet 2.0 chips,bet 3
+Call,check
+Fold,fold
+Raise 100 chips,call
+Raise 44 chips,call
+Fold,check
+Raise 40 chips,raise 82
+Call,fold
+Bet 13 chips,bet 23
+Bet 13 chips,check
+Bet 6.0 chips,check
+Raise 25 chips.,call
+Raise 30 chips,raise 58
+Call,fold
+Fold,fold
+Call,raise 7
+Bet 5 chips.,check
+Bet 6 chips,check
+Bet 4 chips,check
+Shove 73.0 chips.,raise 61
+Raise 50 chips,raise 89
+Check,check
+Raise 83 chips,call
+Raise 20 chips,bet 23
+Bet 20 chips.,check
+Call,call
+Raise 35 chips,call
+Shove,check
+Raise 6 chips,call
+Call,call
+Raise 18 chips,raise 32
+Call,call
+Raise 30 chips,call
+Shove,bet 29
+Bet 16 chips,bet 28
+Call,raise 31
+Call,check
+Call,check
+Call,call
+Raise 5 chips,raise 10
+Call,fold
+Shove,check
+Call,call
+Call,fold
+Raise 40 chips,call
+Fold,call
+Bet 5 chips,check
+Shove,check
+Raise 40 chips,fold
+Raise 35 chips.,check
+Call,fold
+Call,call
+Call,fold
+Call,call
+Call,raise 82
+Raise 26 chips.,check
+Raise 30 chips,call
+Raise 25 chips.,raise 47
+Call,check
+Bet 12.5 chips,bet 12
+Call,raise 74
+Call,call
+Call,call
+Raise 10 chips,check
+Raise 41 chips,call
+Bet 24 chips,check
+Bet 5 chips,check
+Fold,fold
+Call,check
+Fold,check
+Shove 24.0 chips.,check
+Call,call
+Raise 35 chips,raise 95
+Raise 40 chips,raise 90
+Call,fold
+Call,raise 58
+Call,raise 16
+Fold,check
+Bet 17 chips,check
+Call,call
+Check,check
+Call,check
+Call,call
+Check,check
+Call,check
+Raise 81 chips,call
+Call,fold
+Call,raise 41
+Bet 3 chips,check
+Bet 6 chips,bet 13
+Bet 26 chips,check
+Raise 20 chips,call
+Bet 10.5 chips,check
+Call,call
+Call,raise 88
+Call,raise 86
+Fold,call
+Bet 6 chips,check
+Shove,bet 17
+Call,call
+Call,fold
+Raise 12 chips.,call
+Raise 18 chips,raise 32
+Raise 31 chips,call
+Check,check
+Raise 30 chips,fold
+Raise 25 chips.,call
+Shove,raise 73
+Fold,check
+Call,call
+Fold,check
+Bet 12 chips,check
+Raise 89 chips,call
+Fold,fold
+Fold,check
+Bet 4 chips,check
+Bet 39 chips,check
+Call,call
+Call,call
+Bet 2.0 chips,bet 3
+Bet 14.0 chips.,bet 11
+Fold,raise 13
+Bet 7 chips,bet 17
+Call,bet 11
+Call,raise 94
+Raise 77 chips,call
+Fold,call
+Raise 50 chips.,call
+Raise 12 chips,fold
+Call,call
+Call,check
+Bet 4.5 chips,check
+Fold,check
+Call,raise 41
+Check,bet 5
+Bet 15.0 chips,check
+Raise 25 chips,call
+Call,call
+Fold,fold
+Call,call
+Raise 30 chips.,fold
+Shove,check
+Raise 35 chips,call
+Call,raise 26
+Call,raise 80
+Fold,check
+Raise 81 chips,fold
+Fold,check
+Fold,fold
+Fold,fold
+Fold,fold
+Call,fold
+Fold,raise 32
+Raise 20 chips,check
+Call,call
+Fold,fold
+Bet 4 chips,check
+Bet 25 chips,check
+Bet 4.5 chips,check
+Raise 12 chips.,fold
+Bet 6 chips,check
+Call,check
+Shove,bet 12
+Fold,fold
+Shove 31.0 chips,check
+Raise 32 chips.,bet 29
+Raise 25 chips,call
+Raise 10 chips,call
+Call,raise 74
+Call,raise 90
+Call,call
+Call,fold
+Raise 20 chips.,fold
+Call,raise 88
+Bet 3 chips,check
+Call,fold
+Bet 10 chips,check
+Fold,fold
+Fold,check
+Raise 40 chips,fold
+Call,raise 38
+Raise 20 chips.,call
+Call,fold
+Call,call
+Fold,fold
+Raise 151 chips,call
+Bet 13.0 chips,check
+Call,call
+Bet 16.0 chips.,check
+Shove,check
+Shove,check
+Bet 4.5 chips,check
+Bet 15.0 chips,bet 13
+Fold,check
+Bet 12 chips,check
+Call,call
+Shove 37.0 chips.,check
+Fold,call
+Raise 20 chips,raise 41
+Raise 10 chips,call
+Call,call
+Call,call
+Bet 4.5 chips,check
+Call,call
+Call,call
+Check,check
+Shove,bet 29
+Raise 62 chips,raise 86
+Call,fold
+Call,fold
+Call,fold
+Fold,call
+Raise 81 chips,fold
+Raise 12 chips.,call
+Raise 12 chips.,fold
+Fold,fold
+Raise 44 chips,fold
+Raise 25 chips,fold
+Check,check
+Raise 10 chips,call
+Raise 15 chips,call
+Check,check
+Bet 8.5 chips,check
+Bet 4 chips,check
+Raise 40 chips.,fold
+Fold,fold
+Bet 4 chips,check
+Call 13 chips,fold
+Check,check
+Fold,call
+Call,fold
+Raise 26 chips,check
+Fold,fold
+Bet 31 chips,check
+Fold,fold
+Fold,fold
+Bet 4 chips,check
+Fold,fold
+Bet 4 chips,check
+Raise 38 chips,fold
+Fold,fold
+Raise 16 chips,raise 46
+Raise 20 chips,call
+Bet 4 chips,check
+Raise 20 chips.,raise 32
+Raise 40 chips,fold
+Raise 30 chips.,call
+Call,fold
+Bet 6.0 chips,check
+Call,raise 31
+Call,fold
+Bet 13 chips,bet 23
+Call,call
+Call,fold
+Raise 120 chips,call
+Bet 3.5 chips,check
+Bet 8 chips,check
+Bet 4 chips,check
+Call,fold
+Shove,raise 58
+Bet 6 chips,check
+Bet 17 chips,check
+Raise 4 chips,raise 11
+Call,raise 13
+Call,fold
+Raise 30 chips,raise 87
+Fold,fold
+Raise 35 chips.,call
+Fold,fold
+Fold,check
+Raise 15 chips,raise 25
+Fold,check
+Raise 75.0 chips,fold
+Raise 8 chips,raise 16
+Fold,fold
+Raise 24 chips,fold
+Bet 4 chips,check
+Shove,raise 74
+Call,fold
+Call,fold
+Call,raise 28
+Call,check
+Bet 13 chips,check
+Fold,bet 13
+Raise 20 chips,raise 32
+Raise 26 chips,call
+Fold,fold
+Raise 29 chips,call
+Bet 12.0 chips,bet 13
+Call,call
+Bet 3 chips,check
+Bet 6 chips,check
+Fold,fold
+Raise 20 chips.,check
+Bet 12.5 chips,check
+Call,call
+Call,call
+Shove,check
+Fold,call
+Raise 15 chips,call
+Call,fold
+Call,fold
+Call,bet 17
+Shove,check
+Bet 4 chips,check
+Fold,call
+Call,fold
+Bet 3.0 chips,bet 3
+Shove,check
+Check,check
+Fold,fold
+Bet 17 chips,check
+Bet 4 chips,check
+Call,call
+Call,bet 29
+Raise 15 chips.,call
+Shove,bet 24
+Call,call
+Raise 20 chips,check
+Call,check
+Bet 17 chips,bet 13
+Call,raise 37
+Call,raise 90
+Fold,fold
+Raise 10 chips,fold
+Call,call
+Call,call
+Call,raise 18
+Raise 30 chips,raise 83
+Raise 82 chips.,raise 58
+Call,call
+Call,call
+Fold,fold
+Call,check
+Call,fold
+Fold,bet 23
+Call,fold
+Bet 2.0 chips,check
+Fold,fold
+Fold,call
+Fold,fold
+Bet 10 chips,check
+Call,call
+Call,fold
+Raise 25 chips.,raise 48
+Call,fold
+Raise 51 chips,fold
+Bet 6 chips,bet 13
+Shove 45.0 chips.,check
+Shove,bet 17
+Fold,fold
+Raise 15 chips,raise 31
+Call,call
+Call,call
+Raise 12 chips,call
+Bet 12 chips,check
+Call,raise 38
+Raise 20 chips,raise 27
+Raise 84 chips,fold
+Raise 51 chips,fold
+Call,call
+Raise 30 chips.,call
+Raise 30 chips,call
+Bet 4.5 chips,check
+Fold,bet 24
+Shove 31.0 chips.,check
+Check,check
+Bet 6 chips,bet 10
+Bet 4 chips,check
+Fold,fold
+Call,call
+Call,check
+Raise 25 chips.,fold
+Fold,check
+Check,check
+Raise 30 chips,raise 86
+Bet 10 chips,check
+Fold,bet 29
+Raise 81 chips,call
+Bet 9 chips,check
+Fold,fold
+Call,call
+Bet 4 chips,check
+Fold,bet 13
+Call,check
+Shove,check
+Shove,bet 23
+Bet 3.5 chips,check
+Check,check
+Bet 4 chips,check
+Call,fold
+Call,call
+Fold,fold
+Call,call
+Fold,bet 12
+Bet 8.5 chips,check
+Fold,fold
+Raise 83 chips,fold
+Raise 25 chips,fold
+Bet 4 chips,check
+Call,call
+Fold,fold
+Raise 20 chips,raise 38
+Fold,check
+Raise 41 chips,raise 91
+Fold,bet 23
+Bet 6 chips,check
+Call,call
+Call,check
+Shove,bet 34
+Call,call
+Fold,check
+Raise 15 chips,raise 31
+Raise 40 chips,raise 81
+Call,call
+Raise 20 chips.,bet 22
+Raise 10 chips,raise 32
+Call,raise 83
+Fold,fold
+Fold,fold
+Bet 13.0 chips,check
+Shove,check
+Call,raise 41
+Call,fold
+Call,check
+Raise 11 chips,call
+Fold,fold
+Bet 8 chips,bet 17
+Raise 20 chips.,call
+Bet 4.0 chips,check
+Call,fold
+Call,raise 13
+Call,fold
+Raise 37 chips,raise 83
+Raise 100 chips,call
+Bet 22 chips,check
+Raise 40 chips,call
+Bet 3 chips,check
+Call,call
+Call,fold
+Fold,fold
+Call,fold
+Call 12 chips,call
+Fold,fold
+Call,check
+Call,call
+Bet 2 chips,check
+Raise 30 chips,raise 83
+Bet 10 chips,check
+Fold,call
+Raise 20 chips.,bet 20
+Bet 8 chips,bet 17
+Shove,check
+Fold,fold
+Call,call
+Fold,check
+Raise 20 chips,raise 87
+Bet 4 chips,check
+Call,call
+Call,call
+Fold,fold
+Shove,bet 17
+Call,raise 29
+Raise 32 chips.,check
+Fold,fold
+Fold,raise 83
+Raise 77 chips,call
+Call 23 chips,raise 45
+Raise 25 chips,fold
+Call,call
+Bet 8.5 chips,check
+Call,call
+Fold,bet 13
+Fold,fold
+Raise 40 chips,call
+Call,call
+Fold,call
+Call,fold
+Call,call
+Fold,call
+Raise 12 chips,bet 16
+Shove,check
+Fold,fold
+Check,check
+Raise 37 chips,raise 83
+Fold,fold
+Shove,bet 17
+Call,call
+Fold,fold
+Fold,fold
+Fold,fold
+Raise 120 chips,fold
+Bet 6 chips,check
+Bet 16.0 chips.,check
+Call,fold
+Call,call
+Fold,check
+Call,fold
+Check,check
+Check,check
+Check,check
+Raise 30 chips,call
+Shove,check
+Bet 6 chips,check
+Fold,fold
+Bet 6 chips,check
+Call,raise 73
+Call,fold
+Fold,fold
+Bet 4 chips,check
+Fold,fold
+Shove,check
+Raise 15 chips.,call
+Call,fold
+Shove 45.0 chips.,check
+Fold,fold
+Fold,raise 89
+Call,raise 25
+Bet 3.5 chips,bet 2
+Call,check
+Bet 6 chips,check
+Call,fold
+Check,bet 12
+Raise 12 chips,check
+Shove,check
+Shove,raise 70
+Call,raise 38
+Shove,check
+Call,raise 32
+Bet 4.5 chips,bet 2
+Call,bet 12
+Call,fold
+Raise 37 chips,call
+Call,call
+Check,bet 12
+Fold,bet 18
+Call,call
+Call,call
+Call,call
+Call,call
+Call,raise 27
+Call,raise 16
+Shove,raise 75
+Fold,call
+Fold,check
+Raise 80 chips,raise 86
+Fold,fold
+Raise 13 chips,fold
+Call 27 chips,call
+Call,fold
+Fold,bet 27
+Check,check
+Fold,raise 61
+Call,fold
+Fold,raise 58
+Bet 5 chips,check
+Raise 18 chips,call
+Fold,raise 89
+Call,call
+Raise 30 chips.,raise 83
+Bet 2.0 chips,bet 3
+Call,fold
+Fold,fold
+Shove,check
+Fold,check
+Fold,bet 4
+Call,fold
+Raise 106.0 chips,raise 84
+Raise 77 chips,call
+Bet 10.0 chips,check
+Shove,check
+Call,raise 57
+Shove,bet 23
+Check,check
+Call,call
+Call,raise 81
+Call,bet 11
+Call,call
+Fold,fold
+Fold,check
+Fold,fold
+Call,call
+Bet 6 chips,check
+Bet 3 chips,check
+Raise 30 chips.,call
+Shove,check
+Fold,check
+Raise 25 chips,raise 43
+Bet 4.5 chips.,check
+Raise 37 chips,call
+Bet 10.0 chips,check
+Call,fold
+Raise 13 chips,fold
+Bet 4 chips,check
+Bet 4 chips,check
+Fold,bet 13
+Call,call
+Call,fold
+Bet 2.0 chips,check
+Raise 20 chips.,check
+Call,call
+Check,check
+Fold,call
+Call,call
+Raise 55 chips,call
+Fold,bet 29
+Raise 18 chips,call
+Fold,fold
+Raise 43 chips,fold
+Call,call
+Bet 10 chips,check
+Fold,raise 81
+Call,fold
+Bet 5 chips,check
+Raise 25 chips,call
+Call,fold
+Call,fold
+Call,call
+Call,call
+Bet 10 chips,check
+Fold,fold
+Call,raise 32
+Fold,fold
+Raise 38 chips,fold
+Call,check
+Call,check
+Shove,check
+Shove,check
+Call,bet 29
+Raise 46 chips,raise 93
+Bet 5.0 chips,bet 2
+Call,call
+Raise 30 chips.,raise 81
+Raise 30 chips.,fold
+Call,raise 81
+Call,fold
+Raise 20 chips.,call
+Bet 14.0 chips,bet 11
+Fold,check
+Fold,call
+Call,raise 10
+Raise 20 chips,raise 38
+Call,bet 10
+Fold,fold
+Call,fold
+Fold,fold
+Raise 26 chips,check
+Bet 5 chips,bet 24
+Fold,call
+Shove,bet 34
+Bet 16.0 chips,bet 12
+Bet 32 chips,check
+Shove,check
+Call,raise 19
+Raise 25 chips,call
+Call,call
+Call,call
+Call,call
+Bet 10 chips,check
+Shove,bet 29
+Shove,check
+Raise 30 chips.,fold
+Fold,call
+Raise 84 chips,fold
+Fold,fold
+Call,call
+Call,call
+Raise 35 chips,call
+Fold,bet 29
+Call,raise 46
+Fold,raise 84
+Call,fold
+Raise 6.5 chips,call
+Call,raise 10
+Check,check
+Raise 54 chips,fold
+Fold,fold
+Raise 11 chips,fold
+Bet 4 chips,check
+Shove,check
+Call,fold
+Fold,fold
+Call,raise 35
+Shove,bet 13
+Fold,bet 24
+Raise 12 chips.,fold
+Call,call
+Raise 30 chips,fold
+Fold,fold
+Raise 12 chips,call
+Call,raise 18
+Raise 20 chips,call
+Call,fold
+Bet 17 chips,bet 13
+Bet 3.5 chips,bet 4
+Shove,check
+Raise 20 chips.,raise 40
+Call,raise 25
+Fold,check
+Bet 6 chips,bet 10
+Bet 14.0 chips.,check
+Call,fold
+Raise 4 chips,call
+Check,check
+Fold,fold
+Call,call
+Call,fold
+Fold,fold
+Call,fold
+Call,raise 29
+Fold,fold
+Raise 10 chips.,fold
+Call,call
+Call,call
+Bet 20 chips,check
+Raise 100 chips,raise 86
+Fold,fold
+Fold,bet 16
+Raise 30 chips,fold
+Bet 4 chips,check
+Call,raise 41
+Fold,fold
+Call,check
+Bet 4 chips,check
+Call,call
+Call,call
+Raise 54 chips.,call
+Check,check
+Call,raise 32
+Call,call
+Shove,check
+Fold,fold
+Call,call
+Raise 7 chips,call
+Call,call
+Call,bet 29
+Shove,check
+Call,fold
+Raise 60 chips.,raise 82
+Bet 18 chips,check
+Raise 100 chips,call
+Call,raise 16
+Raise 121 chips,call
+Raise 51 chips,fold
+Fold,bet 23
+Raise 133.0 chips,call
+Raise 10 chips.,call
+Check,check
+Call,raise 84
+Bet 3.0 chips,bet 3
+Fold,fold
+Raise 20 chips,call
+Fold,check
+Shove,check
+Call,call
+Check,check
+Raise 62 chips,raise 86
+Call,fold
+Fold,raise 92
+Raise 12 chips,raise 18
+Shove,check
+Raise 120 chips.,call
+Raise 30 chips,raise 85
+Call,fold
+Bet 24.0 chips,check
+Raise 15 chips,raise 31
+Bet 6 chips,check
+Shove,bet 17
+Fold,fold
+Shove,check
+Fold,bet 10
+Raise 32 chips,call
+Fold,fold
+Call,raise 83
+Fold,fold
+Check,bet 4
+Call,fold
+Raise 40 chips.,call
+Fold,check
+Raise 12 chips.,fold
+Call,call
+Bet 3.0 chips,check
+Call,call
+Call,call
+Call,raise 36
+Call,call
+Raise 40 chips.,fold
+Shove,bet 29
+Bet 17 chips,check
+Call,call
+Call,raise 18
+Fold,check
+Bet 4.5 chips.,check
+Call,fold
+Fold,call
+Call,call
+Call,fold
+Bet 5 chips,bet 13
+Fold,bet 23
+Raise 85 chips,call
+Call,raise 84
+Raise 51 chips,fold
+Bet 30 chips,check
+Raise 26 chips,bet 28
+Shove,check
+Fold,fold
+Call,call
+Shove,check
+Call,check
+Shove,bet 23
+Raise 17 chips,call
+Raise 10 chips.,check
+Call,call
+Call 25 chips.,call
+Fold,fold
+Fold,fold
+Call,call
+Call,call
+Raise 37 chips,fold
+Bet 4 chips,bet 10
+Fold,fold
+Fold,bet 10
+Raise 35 chips,call
+Fold,check
+Check,check
+Call,call
+Raise 31 chips,call
+Raise 66 chips,raise 90
+Fold,fold
+Call,check
+Raise 24 chips,call
+Raise 25 chips.,call
+Bet 8 chips,check
+Shove,check
+Raise 15.5 chips,call
+Check,bet 10
+Call,call
+Fold,fold
+Raise 84 chips,call
+Raise 30 chips,call
+Bet 4 chips,check
+Fold,raise 70
+Shove,bet 29
+Shove,check
+Bet 8.0 chips,bet 15
+Call,call
+Fold,fold
+Fold,fold
+Call,call
+Call,call
+Raise 37 chips,call
+Shove,check
+Raise 40 chips,raise 89
+Raise 44 chips,raise 83
+Call,bet 17
+Fold,call
+Call,fold
+Bet 5 chips,check
+Bet 3.5 chips,check
+Bet 10.0 chips,bet 11
+Call,fold
+Fold,fold
+Raise 57 chips,raise 92
+Fold,fold
+Raise 30 chips.,call
+Fold,check
+Fold,bet 8
+Call,call
+Fold,check
+Call,fold
+Shove,check
+Raise 89 chips,call
+Fold,call
+Check,bet 10
+Shove,check
+Check,check
+Raise 20 chips.,raise 41
+Fold,fold
+Fold,fold
+Raise 121 chips,fold
+Call,call
+Raise 15 chips.,fold
+Bet 13 chips,check
+Call,fold
+Fold,fold
+Bet 20 chips,check
+Call,check
+Call,check
+Call,call
+Raise 35 chips,raise 65
+Call,call
+Check,check
+Shove,bet 29
+Call 10 chips,call
+Call,bet 29
+Raise 41 chips,fold
+Raise 20 chips,bet 23
+Raise 60 chips,raise 89
+Call,fold
+Raise 29 chips,raise 92
+Raise 37 chips,raise 95
+Call,fold
+Call,call
+Call,call
+Raise 7.0 chips.,call
+Raise 100 chips.,fold
+Call,call
+Call,fold
+Call,call
+Call,call
+Bet 5 chips,check
+Fold,call
+Fold,bet 12
+Bet 17 chips,check
+Check,check
+Raise 26 chips.,bet 28
+Raise 46 chips,raise 93
+Fold,fold
+Fold,fold
+Fold,fold
+Fold,fold
+Call,fold
+Call,fold
+Call,fold
+Shove,check
+Bet 3.5 chips,check
+Bet 10.0 chips,check
+Bet 4.5 chips,check
+Call,call
+Fold,raise 85
+Bet 5 chips,check
+Fold,fold
+Call,fold
+Call,fold
+Fold,fold
+Fold,fold
+Fold,fold
+Call,check
+Fold,fold
+Check,check
+Fold,fold
+Bet 10 chips,check
+Call,fold
+Fold,bet 29
+Bet 3.5 chips,check
+Raise 20 chips,call
+Shove,check
+Raise 35 chips,call
+Fold,fold
+Check,check
+Call,raise 10
+Call,call
+Call,call
+Fold,check
+Call,check
+Call,fold
+Call,call
+Fold,fold
+Raise 74 chips,fold
+Fold,raise 61
+Bet 8 chips,bet 17
+Fold,bet 7
+Shove,check
+Raise 31 chips,raise 64
+Fold,fold
+Call,call
+Raise 40 chips,fold
+Raise 84 chips,fold
+Bet 12 chips.,check
+Shove,raise 74
+Call,call
+Shove,check
+Raise 35 chips,call
+Fold,fold
+Call,raise 44
+Raise 15 chips.,call
+Fold,fold
+Call,fold
+Fold,check
+Raise 24 chips,call
+Call,fold
+Call,fold
+Bet 14 chips,check
+Bet 20 chips,check
+Call,raise 86
+Raise 12 chips,fold
+Call,call
+Fold,check
+Call,check
+Raise 30 chips,call
+Bet 10 chips,check
+Raise 8 chips,raise 16
+Fold,fold
+Call,call
+Call,raise 74
+Call,raise 35
+Call,raise 93
+Bet 3.5 chips,check
+Call,raise 81
+Call,fold
+Raise 5 chips,raise 16
+Fold,fold
+Call,raise 10
+Call,call
+Call,fold
+Fold,fold
+Shove,check
+Call,raise 10
+Raise 30 chips.,fold
+Call,raise 27
+Call,raise 38
+Call,fold
+Raise 100 chips,fold
+Raise 50 chips,raise 86
+Call,raise 11
+Call,check
+Fold,fold
+Check,bet 17
+Raise 20 chips,check
+Shove,check
+Call,check
+Call,call
+Call,fold
+Call,raise 81
+Raise 30 chips,call
+Call,check
+Bet 20 chips,check
+Fold,fold
+Call,bet 13
+Call,call
+Check,check
+Fold,fold
+Fold,raise 86
+Call,call
+Fold,call
+Fold,fold
+Call,raise 10
+Raise 81 chips,fold
+Call,call
+Call,fold
+Check,check
+Call,fold
+Call,bet 11
+Check,check
+Call,raise 77
+Fold,bet 29
+Raise 25 chips,call
+Raise 50 chips.,raise 86
+Call,fold
+Call,call
+Call,call
+Call,fold
+Raise 15 chips,raise 19
+Call,call
+Call,raise 32
+Call,call
+Fold,fold
+Call,raise 89
+Raise 20 chips,check
+Call,check
+Raise 20 chips,raise 43
+Bet 4.0 chips,check
+Raise 35 chips,call
+Fold,fold
+Fold,bet 23
+Raise 100 chips,fold
+Bet 3.5 chips,bet 3
+Shove,check
+Raise 137.0 chips,fold
+Shove,check
+Call,raise 10
+Shove,check
+Call,call
+Raise 20 chips.,bet 20
+Call,raise 76
+Call,call
+Fold,check
+Fold,check
+Bet 13 chips,check
+Fold,fold
+Bet 2.5 chips,check
+Fold,fold
+Raise 26 chips,check
+Bet 6 chips,check
+Call,call
+Call,raise 86
+Fold,fold
+Fold,bet 29
+Shove,check
+Raise 51 chips,fold
+Check,check
+Raise 8 chips,fold
+Call,call
+Raise 30 chips,fold
+Raise 20 chips,call
+Call,call
+Call,call
+Raise 30 chips,call
+Raise 26 chips,raise 85
+Raise 15 chips,call
+Shove,check
+Call,raise 85
+Call,raise 16
+Call,call
+Bet 8.5 chips,bet 11
+Raise 34 chips,raise 77
+Fold,fold
+Raise 30 chips,raise 85
+Bet 13 chips,check
+Call,call
+Call,check
+Shove,bet 17
+Fold,fold
+Call,raise 58
+Raise 120 chips,call
+Fold,fold
+Raise 20 chips,raise 32
+Call,raise 11
+Fold,check
+Fold,check
+Raise 12 chips,call
+Raise 6 chips,raise 13
+Call,check
+Raise 51 chips,raise 89
+Fold,bet 25
+Fold,fold
+Fold,call
+Fold,fold
+Raise 10 chips,fold
+Call,call
+Raise 30 chips.,raise 86
+Shove,check
+Fold,check
+Check,check
+Bet 12.0 chips,check
+Raise 30 chips,fold
+Call,fold
+Raise 20 chips,check
+Raise 30 chips.,call
+Fold,check
+Raise 50 chips.,check
+Shove,check
+Call,call
+Call,fold
+Call,call
+Shove,bet 23
+Call,call
+Raise 30 chips,fold
+Call,call
+Raise 24 chips,call
+Raise 30 chips.,raise 79
+Bet 6 chips,check
+Fold,fold
+Check,check
+Fold,fold
+Fold,call
+Bet 13 chips,check
+Raise 39.0 chips.,call
+Bet 20 chips,bet 24
+Call,call
+Check,bet 5
+Bet 8.5 chips,bet 7
+Bet 14 chips,check
+Call,call
+Call,raise 16
+Call,raise 81
+Raise 25 chips.,fold
+Fold,check
+Call,call
+Fold,check
+Fold,check
+Shove,check
+Call,raise 89
+Call,raise 17
+Raise 90 chips,fold
+Raise 40 chips,call
+Fold,fold
+Shove,bet 24
+Fold,fold
+Call,call
+Call,call
+Raise 30 chips,fold
+Raise 20 chips,check
+Call,raise 58
+Call,call
+Raise 40 chips,raise 92
+Fold,fold
+Fold,fold
+Raise 40 chips,raise 92
+Raise 20 chips.,check
+Call,call
+Bet 5 chips,bet 10
+Bet 4 chips,check
+Fold,fold
+Shove,check
+Call,fold
+Fold,fold
+Call,raise 82
+Call,call
+Call,bet 24
+Check,check
+Call,call
+Fold,fold
+Bet 4.5 chips,check
+Call,fold
+Call,fold
+Raise 30 chips.,call
+Check,check
+Raise 10 chips,raise 32
+Check,check
+Raise 26 chips,call
+Bet 3.5 chips,check
+Fold,fold
+Raise 120 chips,call
+Check,check
+Raise 39 chips,fold
+Bet 4 chips,bet 10
+Raise 120 chips.,call
+Raise 83 chips,call
+Raise 32 chips,call
+Raise 30 chips,raise 85
+Bet 6 chips,check
+Bet 4.0 chips,bet 3
+Bet 6 chips,check
+Raise 40 chips,raise 80
+Call,check
+Check,check
+Call,fold
+Raise 30 chips.,raise 83
+Raise 40 chips.,call
+Call,fold
+Call,call
+Fold,fold
+Check,check
+Call,raise 10
+Call,call
+Call,fold
+Fold,fold
+Raise 32 chips,bet 29
+Bet 39 chips,check
+Raise 100 chips,call
+Check,check
+Shove,check
+Fold,fold
+Bet 10 chips,check
+Call 10 chips,call
+Call,fold
+Raise 10 chips,call
+Call,check
+Call,call
+Raise 20 chips.,check
+Fold,fold
+Bet 10 chips,check
+Call,raise 86
+Fold,fold
+Raise,call
+Fold,fold
+Fold,fold
+Bet 5 chips,check
+Bet 3.5 chips,bet 2
+Raise 4 chips,call
+Bet 10.0 chips,check
+Call,call
+Fold,check
+Call,fold
+Raise 18 chips,call
+Raise 12 chips,check
+Bet 2.5 chips,bet 3
+Fold,fold
+Call,check
+Call,call
+Call,raise 10
+Check,check
+Raise 89 chips,fold
+Call,check
+Call,check
+Bet 6 chips,bet 17
+Call,fold
+Check,bet 8
+Raise 51 chips,fold
+Call,check
+Fold,fold
+Fold,fold
+Raise 40 chips,raise 92
+Raise 25 chips,fold
+Raise 40 chips,call
+Raise 12 chips,raise 25
+Fold,bet 16
+Call,call
+Raise 10 chips,raise 22
+Fold,fold
+Call,raise 85
+Raise 120 chips,call
+Fold,raise 61
+Raise 20 chips,check
+Call,fold
+Raise 40 chips,raise 93
+Call,check
+Call,call
+Raise 20 chips.,call
+Raise 29 chips,raise 89
+Fold,fold
+Raise 4 chips.,raise 7
+Raise 12 chips,call
+Bet 2 chips,check
+Check,check
+Check,check
+Bet 10.0 chips,check
+Shove,check
+Fold,call
+Check,check
+Bet 4 chips,check
+Call,call
+Call,fold
+Raise 120 chips,call
+Fold,bet 18
+Call,fold
+Fold,raise 74
+Call,fold
+Fold,fold
+Fold,check
+Fold,fold
+Raise 100 chips,call
+Shove,raise 74
+Bet 4 chips,check
+Call,call
+Fold,fold
+Check,bet 10
+Call,call
+Fold,fold
+Call,call
+Bet 10 chips,bet 3
+Call,raise 77
+Raise 58 chips,raise 84
+Shove,check
+Fold,fold
+Call,raise 57
+Call,call
+Raise 32 chips.,check
+Fold,check
+Fold,check
+Raise 83 chips,call
+Call,call
+Bet 16 chips,check
+Call,call
+Call,call
+Bet 15.5 chips,check
+Raise 37 chips,raise 86
+Raise 120 chips.,call
+Fold,call
+Call,raise 88
+Raise 5 chips,call
+Bet 3 chips,check
+Raise 30 chips,fold
+Fold,fold
+Bet 20 chips,check
+Bet 3.5 chips,check
+Raise 100 chips,call
+Fold,fold
+Call,call
+Raise 24 chips,fold
+Raise 30 chips,call
+Raise 30 chips,call
+Bet 4 chips,bet 5
+Call,call
+Raise 24 chips.,fold
+Bet 14.0 chips,check
+Raise 100 chips,call
+Shove,check
+Fold,fold
+Bet 5 chips,check
+Fold,check
+Fold,bet 11
+Call,fold
+Fold,fold
+Call,fold
+Fold,fold
+Raise 120 chips.,fold
+Call,call
+Fold,call
+Call,call
+Raise 10 chips,call
+Raise 85 chips,fold
+Bet 2.0 chips,check
+Raise 100 chips.,call
+Check,check
+Fold,call
+Bet 4 chips,check
+Fold,fold
+Call,fold
+Bet 4 chips,check
+Raise 20 chips.,call
+Raise 100 chips,call
+Call,call
+Call,call
+Fold,fold
+Bet 4 chips,bet 10
+Call,call
+Raise 151.0 chips,call
+Call,fold
+Raise 40 chips,fold
+Call,call
+Call,fold
+Call,raise 55
+Bet 12.5 chips,check
+Fold,call
+Check,check
+Call,call
+Call,call
+Fold,fold
+Raise 100 chips,call
+Bet 9.0 chips,check
+Call,raise 89
+Bet 31 chips,check
+Call,bet 23
+Raise 20 chips,check
+Shove,bet 27
+Fold,fold
+Bet 12.5 chips,check
+Raise 24 chips.,fold
+Bet 25 chips,check
+Shove 51.0 chips,bet 40
+Raise 57 chips,fold
+Bet 15.0 chips,check
+Bet 3 chips,check
+Fold,check
+Raise 12 chips,bet 16
+Fold,fold
+Raise 80 chips,call
+Call,fold
+Bet 8 chips,check
+Bet 15.0 chips,bet 12
+Call,call
+Raise 12 chips,call
+Check,check
+Check,check
+Bet 4 chips,bet 4
+Raise 85 chips,fold
+Fold,fold
+Raise 25 chips,raise 48
+Fold,fold
+Raise 15 chips.,raise 32
+Check,check
+Shove,bet 20
+Raise 7 chips.,call
+Call,raise 88
+Call,raise 41
+Call,raise 32
+Fold,fold
+Check,check
+Fold,fold
+Raise 121 chips,fold
+Call,fold
+Bet 4 chips,check
+Call,raise 10
+Raise 20 chips,call
+Shove 32.0 chips.,check
+Call,raise 81
+Call,raise 41
+Fold,fold
+Call,raise 80
+Check,bet 29
+Fold,fold
+Shove 32.0 chips,bet 24
+Fold,check
+Bet 8.5 chips,bet 8
+Call,fold
+Call,check
+Fold,fold
+Raise 83 chips,call
+Call,call
+Call,fold
+Call,call
+Raise 23 chips,call
+Call,fold
+Call,raise 88
+Call,fold
+Call,call
+Fold,raise 64
+Bet 2.0 chips,check
+Call,fold
+Bet 16.0 chips,check
+Bet 17 chips,check
+Call,fold
+Call,bet 29
+Raise 77 chips,call
+Raise 54 chips,raise 92
+Call,call
+Raise 34 chips,call
+Call,fold
+Raise 20 chips.,check
+Fold,fold
+Shove,raise 64
+Bet 4 chips,check
+Call,call
+Raise 32.0 chips,call
+Shove,check
+Check,check
+Raise 15 chips,call
+Shove,raise 61
+Bet 4.0 chips,check
+Call,call
+Call,call
+Check,check
+Fold,raise 54
+Fold,check
+Raise 57 chips,raise 92
+Call,raise 77
+Shove,check
+Call,call
+Fold,check
+Call,check
+Fold,check
+Call,fold
+Fold,call
+Call,bet 23
+Call,call
+Raise 100 chips,call
+Call,call
+Call,fold
+Fold,check
+Raise 12 chips,check
+Raise 37 chips,call
+Call,check
+Fold,fold
+Call 18 chips,raise 93
+Check,check
+Call,check
+Fold,fold
+Check,check
+Call,fold
+Raise 40 chips,raise 83
+Raise 57 chips,raise 92
+Call,raise 81
+Raise 51 chips,raise 89
+Raise 81 chips,call
+Call,raise 62
+Raise 24 chips.,call
+Shove,check
+Call,call
+Check,bet 23
+Shove,check
+Fold,fold
+Bet 8.0 chips,check
+Call,raise 32
+Raise 3 chips,raise 4
+Call,raise 82
+Check,check
+Raise 32 chips,call
+Call,raise 25
+Bet 6 chips,check
+Fold,fold
+Raise 26 chips,call
+Call,raise 83
+Call,call
+Call,raise 36
+Bet 12 chips,check
+Bet 15.0 chips,check
+Bet 3.5 chips,check
+Call,fold
+Fold,fold
+Check,check
+Call,call
+Fold,call
+Bet 3 chips,check
+Fold,fold
+Call 17 chips,call
+Call,check
+Shove,check
+Call,call
+Fold,fold
+Raise 40 chips,raise 92
+Bet 17 chips,bet 13
+Call,call
+Raise 80 chips,call
+Shove,bet 29
+Raise 30 chips,raise 84
+Fold,call
+Bet 17 chips,check
+Bet 4 chips,check
+Call,raise 88
+Check,check
+Call,raise 10
+Fold,bet 23
+Fold,raise 16
+Raise 24 chips,raise 46
+Call,check
+Shove,check
+Raise 40 chips.,raise 84
+Call,check
+Check,check
+Call,fold
+Raise 39 chips,call
+Fold,check
+Check,raise 74
+Shove,check
+Check,check
+Bet 4 chips,bet 4
+Call,raise 82
+Call,fold
+Fold,call
+Bet 4 chips,bet 10
+Raise 40 chips,raise 96
+Bet 12 chips,check
+Call,raise 46
+Bet 3.5 chips,check
+Call,raise 16
+Raise 35 chips,fold
+Fold,fold
+Shove,check
+Fold,check
+Bet 6 chips,check
+Bet 3 chips,check
+Check,check
+Call,check
+Raise 15 chips,call
+Raise 12 chips,check
+Bet 8 chips,check
+Raise 12 chips,check
+Raise 38 chips,raise 92
+Fold,check
+Bet 20 chips,bet 24
+Raise 88 chips,call
+Call,raise 41
+Raise 30 chips,call
+Fold,call
+Shove,check
+Bet 16 chips,check
+Shove,check
+Call,call
+Bet 10.0 chips.,bet 8
+Check,bet 4
+Call,call
+Call,fold
+Call,call
+Shove,check
+Raise 30 chips,call
+Shove,check
+Call,call
+Call,call
+Check,bet 11
+Fold,fold
+Call,call
+Raise 12 chips,call
+Bet 4 chips,check
+Call,call
+Call,call
+Fold,fold
+Call,call
+Call,call
+Bet 10.0 chips,bet 18
+Raise 51 chips,fold
+Call,fold
+Call,raise 19
+Fold,fold
+Call,call
+Bet 6 chips,bet 10
+Call,fold
+Raise 39 chips,raise 74
+Fold,raise 58
+Raise 30 chips.,bet 39
+Call,raise 26
+Fold,fold
+Shove 10.0 chips.,bet 8
+Call,call
+Fold,check
+Bet 6 chips,check
+Fold,check
+Raise 20 chips.,fold
+Call,bet 13
+Raise 24 chips,fold
+Bet 4 chips,check
+Raise 12 chips,check
+Fold,fold
+Bet 24.0 chips,check
+Fold,check
+Fold,fold
+Fold,fold
+Fold,fold
+Call,fold
+Check,check
+Raise 12 chips,check
+Fold,call
+Call,fold
+Call,raise 31
+Call,raise 88
+Bet 15.0 chips,bet 13
+Raise 12 chips.,call
+Bet 13.0 chips,bet 10
+Call,call
+Bet 39 chips,bet 29
+Raise 75 chips,raise 93
+Fold,fold
+Bet 4 chips,bet 22
+Call,fold
+Call,call
+Call,bet 10
+Fold,check
+Shove,check
+Shove,bet 17
+Call,call
+Fold,fold
+Call,call
+Call,fold
+Fold,call
+Raise 25 chips.,call
+Call 10 chips,call
+Fold,fold
+Shove,bet 34
+Call,fold
+Call,raise 86
+Bet 4.5 chips,check
+Fold,call
+Call,fold
+Check,check
+Call,check
+Call,check
+Raise 6 chips,call
+Call,fold
+Fold,fold
+Fold,raise 70
+Fold,fold
+Bet 5 chips,check
+Shove,check
+Raise 20 chips,call
+Call,fold
+Raise 4 chips.,raise 7
+Bet 39 chips,check
+Bet 4.5 chips,check
+Raise 24 chips.,call
+Call,call
+Fold,fold
+Call,call
+Check,check
+Call,fold
+Raise 15 chips.,call
+Bet 15.0 chips,check
+Raise 10 chips,check
+Call,raise 83
+Raise 40 chips,call
+Shove,bet 20
+Call,check
+Bet 4 chips,check
+Call,check
+Fold,raise 41
+Check,check
+Shove,check
+Raise 84 chips,call
+Fold,raise 72
+Bet 4.0 chips.,check
+Fold,check
+Raise 37 chips,raise 86
+Call,raise 36
+Fold,check
+Call,call
+Raise 12 chips,check
+Fold,fold
+Call,check
+Bet 4.5 chips,bet 4
+Check,check
+Raise 40 chips.,raise 84
+Call,call
+Call,raise 25
+Call,fold
+Fold,fold
+Bet 2.0 chips,check
+Raise 20 chips.,fold
+Bet 12.5 chips,check
+Bet 4.0 chips,bet 3
+Call,raise 86
+Call,call
+Call,call
+Call,call
+Call,call
+Raise 30 chips,call
+Call,check
+Fold,fold
+Fold,fold
+Fold,bet 7
+Fold,check
+Call,raise 41
+Call,call
+Call,fold
+Fold,fold
+Call,raise 11
+Bet 6 chips,bet 13
+Fold,fold
+Raise 13 chips,fold
+Shove,check
+Fold,call
+Call,call
+Call,call
+Call,raise 36
+Bet 3.5 chips,bet 2
+Fold,fold
+Fold,bet 18
+Fold,check
+Raise 40 chips.,raise 88
+Call,fold
+Call,call
+Raise 100 chips,call
+Call,fold
+Fold,fold
+Fold,call
+Raise 12 chips,call
+Raise 20 chips,check
+Bet 18 chips,bet 18
+Raise 40 chips,call
+Call,call
+Call,call
+Raise 35 chips,fold
+Fold,fold
+Call,raise 63
+Shove,check
+Bet 10 chips,check
+Raise 40 chips,fold
+Fold,fold
+Call,call
+Call,fold
+Raise 26 chips,fold
+Call,raise 35
+Call,call
+Bet 12 chips,check
+Call,call
+Call,raise 25
+Call,check
+Call,call
+Fold,fold
+Raise 44 chips,raise 90
+Fold,fold
+Raise 40 chips,fold
+Call,fold
+Call,call
+Raise 7 chips,raise 22
+Check,check
+Bet 4 chips,check
+Call,raise 86
+Raise 10 chips,call
+Bet 4 chips,bet 4
+Fold,fold
+Fold,fold
+Raise 40 chips,fold
+Call,raise 85
+Call,call
+Raise 12 chips.,call
+Check,check
+Call,raise 81
+Check,check
+Call,check
+Fold,fold
+Bet 2.0 chips,bet 3
+Call,raise 38
+Raise 30 chips,raise 84
+Raise 18 chips.,check
+Call,check
+Call,fold
+Raise 44 chips.,fold
+Bet 4 chips,check
+Shove 69.0 chips,raise 64
+Bet 5 chips,bet 24
+Call,call
+Call,raise 90
+Call,call
+Fold,fold
+Fold,fold
+Call,call
+Fold,fold
+Raise 100 chips,call
+Fold,raise 86
+Call 5 chips,call
+Fold,check
+Fold,fold
+Raise 25 chips,call
+Fold,fold
+Call,raise 81
+Call,fold
+Shove,check
+Fold,fold
+Call,call
+Fold,fold
+Raise 68 chips,call
+Shove,bet 39
+Call,raise 25
+Raise 45 chips,fold
+Raise 20 chips.,check
+Raise 24 chips,raise 46
+Call,fold
+Call,fold
+Shove,check
+Raise 81 chips,fold
+Call,fold
+Shove,raise 74
+Bet 6 chips,check
+Shove,check
+Bet 4 chips,check
+Fold,raise 88
+Call,fold
+Call,call
+Fold,fold
+Raise 15 chips,raise 37
+Call,fold
+Bet 16.0 chips,check
+Call,fold
+Raise 120 chips.,call
+Call,fold
+Call,call
+Raise 40 chips,fold
+Check,bet 26
+Shove,check
+Call,fold
+Shove,bet 16
+Call,call
+Fold,fold
+Raise 53 chips,raise 80
+Raise 20 chips,check
+Raise 7 chips,fold
+Bet 8.0 chips,check
+Call,raise 82
+Fold,call
+Raise 100 chips,call
+Check,check
+Shove,check
+Check,check
+Call,fold
+Fold,fold
+Check,check
+Call,raise 90
+Fold,fold
+Fold,fold
+Bet 6 chips,check
+Call,call
+Raise 7 chips.,raise 16
+Call,call
+Call,check
+Call,raise 10
+Call,call
+Call,raise 81
+Check,check
+Call,call
+Raise 30 chips.,call
+Fold,raise 85
+Raise 35 chips,raise 95
+Call,check
+Call,call
+Raise 15 chips,call
+Call,raise 33
+Raise 30 chips.,call
+Fold,raise 93
+Bet 4 chips,check
+Fold,fold
+Call,check
+Call,raise 13
+Call 35 chips,raise 84
+Bet 3 chips,check
+Raise 24 chips.,fold
+Bet 14.0 chips,bet 11
+Raise 54 chips,call
+Call,call
+Call,fold
+Call,call
+Raise 20 chips.,call
+Call,fold
+Call,check
+Fold,fold
+Fold,raise 86
+Call,fold
+Call,raise 4
+Call,call
+Raise 77 chips,call
+Call,call
+Call,fold
+Call,raise 43
+Call,call
+Call,fold
+Raise 25 chips,call
+Call,fold
+Raise 10 chips,fold
+Fold,fold
+Call,call
+Call,call
+Fold,call
+Call,fold
+Call,fold
+Raise 35 chips,raise 93
+Bet 2 chips,bet 5
+Call,call
+Call,call
+Call,check
+Call,raise 22
+Call,call
+Call,raise 77
+Call,call
+Raise 10 chips.,check
+Shove,check
+Bet 14 chips,check
+Shove,bet 13
+Raise 37 chips,call
+Raise 53 chips,raise 80
+Call,call
+Bet 4 chips,check
+Shove 51.0 chips.,check
+Raise 74 chips,call
+Call,raise 13
+Call,raise 38
+Fold,fold
+Bet 10 chips,bet 22
+Raise 100 chips,call
+Fold,fold
+Fold,fold
+Fold,fold
+Shove,check
+Raise 77 chips,call
+Call,check
+Fold,raise 61
+Call,raise 13
+Shove,check
+Raise 20 chips,call
+Raise 35 chips.,check
+Raise 24 chips.,call
+Call,raise 30
+Raise 7 chips.,call
+Raise 30 chips,raise 48
+Fold,raise 61
+Fold,call
+Call,raise 10
+Call,fold
+Fold,fold
+Call,call
+Raise 4 chips.,call
+Call,bet 29
+Raise 100 chips,fold
+Fold,fold
+Call,fold
+Bet 10 chips,check
+Raise 10 chips,call
+Call,raise 10
+Call,raise 81
+Call,bet 18
+Check,bet 30
+Raise 12 chips,call
+Call,fold
+Shove,check
+Raise 12 chips,check
+Call,fold
+Call,raise 10
+Fold,raise 90
+Check,check
+Fold,fold
+Call,call
+Call,call
+Call,call
+Fold,fold
+Call,fold
+Call,fold
+Raise 40 chips,call
+Call,call
+Raise 80 chips,raise 84
+Call,call
+Fold,fold
+Call,fold
+Raise 20 chips,raise 38
+Raise 20 chips,call
+Raise 30 chips,fold
+Raise 75.0 chips,raise 78
+Bet 3.5 chips,check
+Raise 20 chips,call
+Raise 135 chips.,call
+Shove,check
+Call,raise 77
+Check,check
+Fold,check
+Raise 41 chips.,fold
+Call,call
+Raise 20 chips,check
+Raise 40 chips,fold
+Raise 10 chips,check
+Fold,call
+Bet 4 chips,check
+Call,raise 27
+Shove,bet 17
+Call 13 chips,call
+Call,fold
+Call,raise 72
+Bet 6 chips,check
+Fold,fold
+Raise 25 chips,call
+Raise 40 chips,raise 90
+Raise 35 chips,call
+Bet 5 chips,check
+Check,check
+Fold,check
+Check,check
+Shove,check
+Bet 15.5 chips,check
+Bet 12 chips,check
+Raise 20 chips,call
+Fold,fold
+Call,fold
+Call,call
+Call,check
+Raise 12 chips,raise 25
+Fold,bet 7
+Raise 84 chips,fold
+Fold,fold
+Call,fold
+Call,call
+Raise 40 chips,call
+Call,bet 4
+Raise 30 chips,fold
+Fold,call
+Call,fold
+Call,call
+Call,call
+Raise 26 chips,fold
+Call,raise 27
+Raise 44 chips,raise 83
+Fold,fold
+Bet 4 chips,check
+Raise 20 chips,call
+Fold,fold
+Bet 16 chips,check
+Call,call
+Raise 44 chips,raise 90
+Call,call
+Call,raise 35
+Shove 37.0 chips.,check
+Call,fold
+Raise 100 chips,call
+Bet 17 chips,check
+Raise 20 chips,check
+Raise 38 chips,call
+Raise 24 chips.,call
+Raise 30 chips,call
+Fold,fold
+Shove,raise 61
+Call,fold
+Raise 76 chips,raise 82
+Raise 40 chips,fold
+Fold,fold
+Fold,fold
+Raise 30 chips,call
+Raise 25 chips,call
+Bet 4 chips,bet 10
+Raise 40 chips,raise 86
+Call,raise 92
+Bet 4 chips,check
+Check,check
+Call,raise 18
+Check,check
+Raise 20 chips.,check
+Call,raise 77
+Call,call
+Call,call
+Call,call
+Fold,fold
+Raise 20 chips,check
+Fold,fold
+Call,fold
+Call,fold
+Call,fold
+Raise 80 chips,call
+Fold,fold
+Shove 39.0 chips.,check
+Call,call
+Call,call
+Shove,check
+Call,raise 13
+Raise 12 chips,call
+Call,raise 18
+Call,call
+Call,call
+Raise 20 chips,fold
+Check,check
+Call,call
+Raise 82 chips,call
+Bet 13 chips,check
+Fold,fold
+Bet 9.0 chips,bet 7
+Raise 100 chips,call
+Call,call
+Call,raise 13
+Bet 20 chips,check
+Raise 30 chips,call
+Fold,check
+Call,raise 82
+Call,call
+Fold,fold
+Call,raise 22
+Bet 22 chips,check
+Call,call
+Call,raise 88
+Call,call
+Call,fold
+Call,call
+Call,call
+Call,call
+Raise 20 chips.,raise 37
+Raise 30 chips,raise 82
+Fold,check
+Call,check
+Call,fold
+Fold,fold
+Call,check
+Fold,fold
+Call,fold
+Fold,fold
+Call,fold
+Shove,bet 16
+Shove,check
+Fold,check
+Bet 8 chips,check
+Fold,check
+Raise 40 chips.,fold
+Raise 40 chips.,fold
+Call,call
+Raise 34 chips,raise 77
+Check,check
+Call,call
+Raise 26 chips,call
+Fold,fold
+Call,raise 7
+Check,check
+Raise 80 chips,call
+Call,call
+Call,call
+Raise 30 chips.,check
+Call,check
+Call,call
+Raise 40 chips,fold
+Bet 10 chips,bet 24
+Raise 100 chips,call
+Bet 13 chips,check
+Raise 30 chips,fold
+Raise 37 chips,fold
+Call,raise 35
+Raise 46 chips,call
+Fold,bet 13
+Call,call
+Bet 3.5 chips,bet 4
+Raise 45 chips,raise 70
+Call,fold
+Bet 12.5 chips,bet 3
+Call,call
+Bet 10.0 chips,bet 11
+Bet 4 chips,check
+Raise 35 chips,call
+Check,check
+Call 25 chips.,call
+Fold,fold
+Bet 8 chips,check
+Shove,bet 29
+Call,fold
+Fold,call
+Raise 30 chips.,raise 81
+Call,call
+Call,fold
+Fold,fold
+Fold,fold
+Call,call
+Bet 9 chips,bet 7
+Fold,raise 83
+Bet 6 chips,check
+Call,raise 89
+Call,check
+Raise 20 chips,raise 26
+Call,raise 13
+Raise 40 chips,raise 91
+Call,call
+Fold,fold
+Raise 15 chips.,call
+Shove,check
+Call,call
+Raise 20 chips,fold
+Fold,call
+Call,call
+Raise 40 chips,fold
+Bet 14.0 chips,check
+Call,raise 22
+Raise 25 chips,raise 70
+Check,check
+Raise 20 chips.,call
+Shove,check
+Fold,fold
+Raise 40 chips.,raise 75
+Raise 81 chips,fold
+Bet 5 chips,check
+Shove,bet 29
+Call,raise 38
+Fold,fold
+Call,call
+Call,raise 84
+Fold,call
+Fold,fold
+Call,fold
+Shove,bet 17
+Call,call
+Check,check
+Bet 3 chips,bet 5
+Fold,fold
+Bet 17 chips,check
+Call,call
+Call,call
+Shove,check
+Fold,check
+Call,fold
+Fold,fold
+Raise 80 chips,fold
+Shove 78.0 chips.,raise 74
+Call,fold
+Fold,fold
+Call,call
+Raise 12 chips,check
+Raise 30 chips.,call
+Shove,bet 29
+Fold,bet 29
+Call,fold
+Raise 13 chips,fold
+Bet 4 chips,check
+Raise 12 chips,fold
+Call,fold
+Raise 77 chips,fold
+Bet 6 chips,bet 10
+Bet 4.5 chips,check
+Call,fold
+Call,check
+Check,bet 3
+Fold,check
+Bet 4.5 chips,check
+Fold,fold
+Check,check
+Call,fold
+Raise 26 chips,check
+Fold,fold
+Call,raise 90
+Call,call
+Bet 3.5 chips,check
+Raise 25 chips.,raise 48
+Raise 100 chips,call
+Call,fold
+Bet 2.0 chips,check
+Fold,fold
+Call,raise 25
+Raise 40 chips,call
+Bet 4.5 chips,check
+Call,call
+Bet 4.5 chips,bet 5
+Check,check
+Fold,bet 18
+Check,check
+Shove,check
+Shove,check
+Shove,check
+Raise 15 chips,raise 25
+Call,call
+Raise 82 chips,fold
+Check,check
+Fold,fold
+Check,check
+Call,call
+Check,bet 25
+Fold,call
+Raise 20 chips.,check
+Bet 4.5 chips.,check
+Fold,check
+Fold,raise 64
+Shove,check
+Call,call
+Check,check
+Raise 25 chips,raise 87
+Raise 40 chips.,raise 95
+Raise 34 chips,call
+Fold,check
+Fold,fold
+Call,call
+Raise 100 chips,call
+Bet 4 chips,check
+Call,call
+Check,check
+Call,check
+Check,check
+Call,call
+Raise 44 chips,raise 83
+Call,call
+Fold,fold
+Raise 81 chips,call
+Call,call
+Bet 2.5 chips,check
+Shove 51.0 chips,check
+Bet 3.5 chips,check
+Shove,raise 72
+Check,check
+Fold,fold
+Call,call
+Bet 3.5 chips,check
+Fold,raise 82
+Raise 40 chips,fold
+Raise 40 chips,call
+Fold,bet 13
+Raise 44 chips,fold
+Bet 3.0 chips,check
+Bet 4.5 chips,bet 4
+Call,fold
+Raise 50 chips,call
+Raise 6 chips,call
+Check,bet 39
+Call,call
+Call,fold
+Call,fold
+Fold,raise 54
+Bet 2.5 chips,bet 1
+Call,call
+Shove,check
+Bet 10 chips,bet 13
+Raise 30 chips,call
+Fold,fold
+Raise 40 chips,raise 77
+Fold,check
+Call,bet 11
+Call,call
+Call,raise 84
+Call,raise 83
+Raise 30 chips.,call
+Call,call
+Call,call
+Fold,fold
+Shove,check
+Call,check
+Shove 37.0 chips.,check
+Raise 26 chips,fold
+Fold,fold
+Call,raise 18
+Raise 151.0 chips,call
+Check,check
+Raise 25 chips,check
+Fold,raise 70
+Bet 10 chips,check
+Raise 139 chips,fold
+Bet 6 chips,check
+Shove,check
+Raise 12 chips.,call
+Bet 15.0 chips,check
+Bet 17 chips,bet 13
+Bet 3.5 chips,check
+Raise 40 chips,raise 77
+Bet 3.0 chips,check
+Raise 40 chips.,raise 84
+Fold,check
+Bet 5 chips,check
+Call,fold
+Call,raise 77
+Call,fold
+Call,fold
+Fold,check
+Bet 10.0 chips,check
+Raise 40 chips.,call
+Call,fold
+Check,bet 7
+Call,call
+Check,check
+Bet 16.0 chips,bet 12
+Fold,bet 16
+Bet 24 chips,bet 18
+Check,bet 39
+Fold,fold
+Shove,raise 74
+Fold,fold
+Raise 26 chips,fold
+Call,call
+Fold,fold
+Check,check
+Bet 3.5 chips,check
+Fold,check
+Shove,raise 61
+Check,check
+Call,call
+Call,fold
+Call,fold
+Fold,check
+Fold,check
+Raise 100 chips,fold
+Call,raise 83
+Raise 41 chips,call
+Bet 4.5 chips,bet 2
+Fold,bet 13
+Raise 40 chips,raise 77
+Call,fold
+Bet 18 chips,check
+Raise 10 chips,call
+Raise 151 chips,fold
+Bet 4 chips,check
+Call,fold
+Call,raise 90
+Call,call
+Shove,check
+Bet 3.5 chips,check
+Call,call
+Shove,bet 29
+Fold,bet 29
+Raise 37 chips,check
+Raise 12 chips,check
+Call,raise 54
+Bet 15 chips,bet 18
+Call,fold
+Fold,fold
+Call,fold
+Fold,fold
+Check,bet 8
+Raise 8 chips,call
+Call,raise 85
+Call,raise 10
+Call,fold
+Bet 8.5 chips,check
+Raise 44 chips,raise 90
+Bet 17 chips,check
+Check,check
+Fold,fold
+Bet 4 chips,bet 10
+Fold,fold
+Bet 4 chips,check
+Fold,check
+Bet 4.5 chips.,bet 2
+Call,raise 86
+Bet 4 chips,check
+Raise 32.0 chips,call
+Call,fold
+Call,check
+Raise 40 chips.,fold
+Call,fold
+Call,fold
+Call,raise 89
+Call,call
+Raise 81 chips,fold
+Fold,call
+Bet 4 chips,check
+Call,call
+Raise 58 chips,raise 88
+Raise 40 chips,fold
+Fold,fold
+Shove,check
+Call,call
+Fold,fold
+Call,call
+Call,call
+Call,raise 23
+Bet 15 chips,bet 21
+Raise 26 chips,fold
+Call,fold
+Bet 10.0 chips,bet 8
+Check,check
+Raise 81 chips,fold
+Raise 100 chips,fold
+Call,call
+Fold,check
+Call,fold
+Raise 89 chips,call
+Call,fold
+Call,raise 35
+Call,fold
+Fold,fold
+Bet 10 chips,bet 20
+Bet 6 chips,check
+Bet 17 chips,check
+Raise 10 chips,fold
+Bet 4 chips,check
+Call,fold
+Fold,raise 90
+Call,call
+Raise 84 chips,call
+Call,fold
+Call,fold
+Shove,check
+Call,call
+Call,raise 32
+Fold,bet 34
+Call,call
+Call,bet 32
+Call,raise 30
+Bet 6 chips,check
+Fold,fold
+Raise 74 chips,call
+Fold,fold
+Bet 4.5 chips,check
+Fold,fold
+Call,call
+Call,call
+Call,raise 13
+Call,call
+Bet 8.5 chips,check
+Call,fold
+Call,raise 38
+Bet 4 chips,check
+Fold,bet 11
+Shove,check
+Fold,call
+Shove 69.0 chips,check
+Call,raise 77
+Fold,raise 89
+Call,raise 95
+Raise 74 chips,call
+Call,fold
+Check,check
+Call,call
+Raise 20 chips.,check
+Raise 66 chips,raise 92
+Raise 30 chips,raise 96
+Raise 20 chips.,check
+Call,call
+Shove,check
+Call,check
+Call 10 chips,call
+Raise 40 chips,fold
+Shove,check
+Raise 43 chips,call
+Bet 8.5 chips,check
+Call,raise 88
+Raise 35 chips,check
+Bet 5 chips.,check
+Call,call
+Call,raise 89
+Raise 4 chips.,call
+Shove,bet 29
+Bet 20 chips,check
+Call,call
+Call,fold
+Fold,fold
+Fold,call
+Shove,check
+Raise 14 chips,raise 25
+Raise 30 chips.,call
+Call,call
+Fold,fold
+Raise 41 chips,call
+Bet 4 chips,check
+Raise 120 chips,call
+Call,check
+Call,check
+Fold,fold
+Call,check
+Call,fold
+Bet 3 chips,check
+Fold,fold
+Raise 12 chips,check
+Bet 4 chips,check
+Call,fold
+Call,call
+Shove,bet 23
+Fold,fold
+Call,call
+Call,fold
+Fold,check
+Call,call
+Raise 100 chips,call
+Call,check
+Raise 32 chips,call
+Fold,call
+Call,fold
+Call,fold
+Call,raise 25
+Call,call
+Call,fold
+Call,fold
+Fold,check
+Call,call
+Call,fold
+Call,raise 16
+Raise 31 chips,raise 64
+Fold,fold
+Raise 84 chips,call
+Fold,fold
+Shove,bet 23
+Fold,fold
+Call,call
+Check,check
+Call,fold
+Fold,fold
+Call,call
+Call,call
+Shove,check
+Call,call
+Call,check
+Raise 83 chips.,raise 75
+Raise 30 chips.,raise 88
+Call,raise 22
+Shove,bet 12
+Shove,check
+Call,raise 88
+Call,call
+Call,fold
+Call,call
+Raise 32 chips,call
+Call,fold
+Shove 31.0 chips,check
+Shove,bet 18
+Fold,fold
+Raise 40 chips,call
+Fold,fold
+Fold,fold
+Call,call
+Call,raise 11
+Call,call
+Bet 16 chips,check
+Call,fold
+Fold,check
+Call,fold
+Raise 20 chips,fold
+Raise 30 chips.,call
+Raise 20 chips,raise 38
+Call,raise 10
+Bet 16.0 chips,check
+Call,fold
+Fold,bet 23
+Call,call
+Raise 40 chips,fold
+Call,raise 90
+Call,fold
+Call,fold
+Raise 20 chips,call
+Bet 20 chips,check
+Bet 10 chips,check
+Fold,fold
+Raise 12 chips,check
+Call,call
+Call,call
+Call,call
+Bet 3 chips,check
+Bet 39 chips,check
+Bet 3.5 chips,bet 4
+Check,check
+Fold,fold
+Raise 57 chips,fold
+Check,bet 2
+Raise 29 chips,fold
+Call,fold
+Call,call
+Fold,call
+Fold,fold
+Shove,check
+Check,bet 25
+Call,check
+Fold,fold
+Fold,fold
+Raise 73 chips,fold
+Call,raise 83
+Raise 30 chips,call
+Check,check
+Fold,fold
+Raise,raise 72
+Bet 5 chips,bet 24
+Shove,check
+Bet 10 chips,bet 8
+Fold,fold
+Raise 12 chips.,fold
+Bet 5 chips,bet 10
+Fold,check
+Call,raise 74
+Call,call
+Fold,raise 41
+Check,check
+Call,raise 29
+Bet 10.0 chips,check
+Call,call
+Call,fold
+Call,fold
+Fold,fold
+Raise 40 chips,fold
+Check,check
+Call,raise 44
+Bet 10 chips,check
+Bet 39 chips,check
+Fold,fold
+Fold,check
+Call,fold
+Fold,fold
+Raise 32 chips.,check
+Call,check
+Call,call
+Shove,check
+Raise 50 chips,call
+Raise 37 chips,call
+Call,call
+Shove,check
+Raise 12 chips,check
+Raise 30 chips,call
+Fold,fold
+Call,raise 13
+Raise 82 chips,fold
+Check,check
+Bet 10 chips,check
+Call,call
+Call,call
+Shove,check
+Raise 100 chips,call
+Call,call
+Call,call
+Raise 100 chips.,fold
+Fold,call
+Call,raise 92
+Call,call
+Check,bet 8
+Bet 10 chips,check
+Call,check
+Call,call
+Raise 100 chips,call
+Raise 15 chips.,check
+Call,raise 38
+Raise 80 chips,call
+Fold,fold
+Check,check
+Check,check
+Raise 72 chips,call
+Raise 15 chips.,raise 31
+Call,fold
+Call,raise 80
+Check,check
+Bet 4.5 chips,bet 4
+Raise 30 chips,raise 80
+Call,raise 86
+Call,fold
+Raise 20 chips,check
+Call,bet 40
+Fold,check
+Call,call
+Fold,fold
+Fold,fold
+Call,call
+Bet 2 chips,check
+Raise 30 chips.,call
+Fold,bet 23
+Call,fold
+Check,check
+Fold,fold
+Raise 39 chips,raise 84
+Fold,check
+Fold,fold
+Raise 12 chips,check
+Fold,fold
+Bet 4.0 chips,bet 3
+Shove,check
+Bet 8.0 chips,check
+Raise 20 chips.,fold
+Call,call
+Check,check
+Raise 44 chips.,raise 83
+Raise 20 chips,check
+Call,fold
+Fold,fold
+Call,call
+Fold,fold
+Fold,fold
+Call,call
+Call,raise 16
+Call,call
+Call,call
+Raise 60 chips,call
+Fold,check
+Call,call
+Bet 4.5 chips,bet 5
+Shove,check
+Call,raise 80
+Bet 4 chips,check
+Shove,check
+Shove,check
+Check,check
+Bet 4 chips,check
+Fold,fold
+Raise 20 chips.,raise 35
+Shove,check
+Call,fold
+Raise 26 chips,raise 89
+Call,fold
+Call,raise 30
+Call,check
+Raise 20 chips.,fold
+Raise 12 chips,call
+Call,call
+Call,call
+Fold,check
+Raise 37 chips,fold
+Raise 12 chips,raise 29
+Fold,fold
+Shove,check
+Call,check
+Raise 40 chips,call
+Raise 30 chips.,call
+Raise 37 chips,fold
+Bet 6 chips,bet 16
+Raise 20 chips,call
+Call,call
+Call,fold
+Raise 37 chips,raise 57
+Call,check
+Bet 20 chips,check
+Raise 41 chips,raise 91
+Call,call
+Call,call
+Raise 141 chips.,call
+Fold,call
+Raise 20 chips,check
+Raise 16 chips,fold
+Check,check
+Call,call
+Call,fold
+Raise 15 chips.,call
+Raise 12 chips,call
+Call,call
+Check,bet 27
+Call,raise 89
+Check,check
+Call,check
+Raise 10 chips,call
+Call,fold
+Call,check
+Call,fold
+Call,fold
+Call,call
+Call,fold
+Fold,bet 17
+Raise 37 chips,call
+Raise 44 chips,raise 83
+Bet 16.0 chips,bet 12
+Call,fold
+Bet 3.5 chips,check
+Call,raise 70
+Raise 100 chips.,fold
+Raise 20 chips,call
+Shove,check
+Bet 6 chips,check
+Call,fold
+Bet 6 chips,check
+Bet 4 chips,check
+Raise 30 chips.,check
+Call,call
+Bet 3.5 chips,check
+Fold,fold
+Bet 4.0 chips,bet 5
+Fold,raise 64
+Bet 4 chips,bet 10
+Call,call
+Raise 81 chips,fold
+Bet 8.5 chips,bet 7
+Bet 2.5 chips,bet 3
+Fold,fold
+Check,check
+Fold,fold
+Call,fold
+Bet 6 chips,check
+Check,bet 4
+Call,fold
+Raise 25 chips,raise 48
+Raise 40 chips,fold
+Fold,raise 77
+Raise 30 chips,call
+Call,raise 23
+Fold,fold
+Raise 18 chips,check
+Check,bet 7
+Call,call
+Fold,fold
+Raise 37 chips,fold
+Bet 3.5 chips,check
+Call,raise 92
+Shove,check
+Fold,fold
+Bet 8.5 chips,bet 3
+Call,fold
+Call,call
+Shove,check
+Fold,bet 3
+Call,call
+Call 27 chips,call
+Bet 6 chips,check
+Fold,fold
+Call,call
+Check,check
+Bet 3.5 chips,bet 4
+Bet 8.5 chips,bet 11
+Raise 35 chips,call
+Bet 4.0 chips,bet 3
+Call,check
+Bet 12 chips,check
+Check,check
+Raise 46 chips,raise 93
+Fold,fold
+Fold,raise 10
+Fold,fold
+Call,raise 27
+Call,raise 86
+Call,raise 95
+Call,raise 16
+Bet 3.0 chips,check
+Fold,fold
+Raise 30 chips,fold
+Raise 15 chips.,call
+Bet 20 chips,bet 24
+Raise 20 chips.,raise 44
+Raise 40 chips,call
+Raise 6 chips,call
+Call,check
+Raise 20 chips,check
+Call,fold
+Raise 25 chips,check
+Bet 8 chips,check
+Call,call
+Raise 44 chips,fold
+Raise 20 chips.,call
+Raise 90 chips.,call
+Check,check
+Fold,fold
+Call,fold
+Raise 7 chips,raise 22
+Call,raise 16
+Call 10 chips,call
+Call,fold
+Call,call
+Call,raise 25
+Call,call
+Raise 30 chips,fold
+Call,call
+Fold,call
+Bet 4.5 chips,check
+Raise 40 chips.,raise 72
+Fold,fold
+Fold,raise 38
+Call,call
+Fold,fold
+Raise 20 chips,call
+Fold,check
+Fold,fold
+Raise 35 chips,fold
+Call,raise 25
+Call,fold
+Call,fold
+Bet 12.5 chips,bet 8
+Call,fold
+Call,check
+Call,raise 32
+Call,fold
+Raise 20 chips.,fold
+Raise 15 chips.,fold
+Shove,check
+Fold,fold
+Call,call
+Bet 17 chips,check
+Fold,fold
+Fold,check
+Raise 24 chips.,fold
+Fold,call
+Call,call
+Raise 40 chips.,call
+Raise 80 chips,call
+Raise 40 chips,raise 83
+Call,fold
+Call,fold
+Raise 26 chips,fold
+Bet 4 chips,bet 10
+Raise 12 chips,call
+Call,fold
+Shove 45.0 chips.,check
+Call,raise 25
+Bet 4.0 chips,check
+Check,bet 25
+Call,raise 30
+Call,call
+Bet 25 chips,check
+Check,check
+Raise 30 chips,call
+Check,check
+Call,fold
+Bet 3 chips,check
+Raise 12 chips.,bet 16
+Call,fold
+Fold,fold
+Call,call
+Fold,fold
+Fold,fold
+Raise 100 chips,fold
+Fold,raise 13
+Raise 40 chips,raise 93
+Raise 20 chips.,call
+Call,call
+Bet 39 chips,check
+Raise 40 chips.,raise 96
+Fold,bet 29
+Check,check
+Fold,fold
+Fold,fold
+Call,raise 27
+Bet 10 chips,check
+Call,check
+Bet 10.0 chips,check
+Raise 10 chips,call
+Raise 20 chips,call
+Call,fold
+Call,fold
+Raise 48 chips.,raise 81
+Call,call
+Bet 4 chips,check
+Fold,bet 29
+Call,fold
+Call,raise 86
+Fold,fold
+Call,call
+Fold,fold
+Call,raise 10
+Call,fold
+Raise 32 chips,call
+Raise 6.5 chips,raise 13
+Raise 40 chips.,raise 84
+Fold,fold
+Call,call
+Call 10 chips,call
+Fold,fold
+Call,fold
+Check,check
+Raise 20 chips,raise 38
+Fold,fold
+Call,call
+Fold,fold
+Call,raise 72
+Call,fold
+Call,fold
+Fold,fold
+Raise 81 chips,call
+Fold,fold
+Call,call
+Call,call
+Bet 6 chips,check
+Fold,bet 17
+Call,call
+Fold,fold
+Call,raise 86
+Raise 51 chips,fold
+Call,raise 35
+Call,call
+Fold,fold
+Bet 13 chips,bet 10
+Fold,fold
+Raise 40 chips.,fold
+Check,check
+Call,call
+Bet 6 chips,check
+Bet 6.0 chips,bet 5
+Bet 14.0 chips,check
+Fold,raise 65
+Shove,check
+Call,bet 23
+Raise 24 chips.,call
+Raise 51 chips,fold
+Raise 25 chips.,fold
+Call,fold
+Call,raise 92
+Call,raise 13
+Bet 3.5 chips,check
+Shove 52.0 chips,check
+Raise 30 chips,fold
+Raise 15 chips,call
+Bet 10 chips,check
+Call,call
+Fold,fold
+Fold,fold
+Raise 83 chips,call
+Shove,check
+Call,fold
+Bet 4 chips,check
+Fold,check
+Call,call
+Fold,fold
+Shove,check
+Call,raise 29
+Raise 20 chips,call
+Raise 15 chips.,fold
+Fold,bet 13
+Fold,fold
+Call,call
+Raise 30 chips.,call
+Call,fold
+Raise 37 chips,raise 86
+Bet 9.0 chips,bet 7
+Bet 17 chips,bet 13
+Call,call
+Raise 40 chips,raise 93
+Fold,check
+Check,check
+Raise 26 chips,fold
+Fold,check
+Fold,fold
+Call,raise 30
+Raise 26 chips,fold
+Bet 13 chips,check
+Bet 4 chips,bet 4
+Fold,raise 85
+Shove,bet 29
+Raise 88 chips,call
+Call,raise 10
+Raise 21 chips.,call
+Call,check
+Raise 40 chips,call
+Fold,fold
+Fold,fold
+Shove,check
+Raise 5 chips,raise 16
+Bet 4.5 chips,bet 4
+Raise 12 chips,check
+Raise 15 chips.,call
+Raise 18 chips,call
+Call,call
+Call,raise 92
+Raise 40 chips.,call
+Call,check
+Raise 50 chips.,check
+Raise 30 chips,fold
+Call,check
+Call,bet 29
+Shove,check
+Call 14 chips,call
+Raise 120 chips.,call
+Shove,check
+Call,raise 77
+Fold,raise 83
+Call,fold
+Bet 32 chips,bet 29
+Raise 6.0 chips,raise 11
+Fold,fold
+Fold,fold
+Call,call
+Shove,bet 18
+Call,check
+Call,call
+Call,fold
+Check,check
+Call,raise 88
+Raise 32 chips,check
+Raise 12 chips,bet 16
+Fold,fold
+Call,check
+Call,call
+Shove,check
+Call,raise 17
+Raise 100 chips,call
+Fold,call
+Shove,check
+Raise 32 chips,bet 51
+Raise 79 chips,call
+Fold,fold
+Bet 4 chips,check
+Shove,check
+Raise 5 chips.,raise 10
+Bet 4 chips,check
+Call,call
+Raise 83 chips,call
+Call,call
+Raise 26 chips,call
+Call,fold
+Call,raise 27
+Call,fold
+Fold,fold
+Raise 15 chips,fold
+Fold,fold
+Call,fold
+Raise 41 chips,fold
+Bet 10.0 chips,check
+Bet 13 chips,check
+Call,check
+Raise 20 chips,check
+Fold,call
+Call,raise 35
+Fold,call
+Call,raise 81
+Fold,fold
+Call,raise 89
+Fold,check
+Raise 38 chips,raise 92
+Check,check
+Fold,bet 23
+Bet 4 chips,check
+Fold,fold
+Raise 35 chips,fold
+Raise 73 chips,fold
+Call,call
+Raise 83 chips,fold
+Call,call
+Call,call
+Raise 35 chips.,fold
+Raise 10 chips,call
+Raise 12 chips.,fold
+Fold,fold
+Raise 25 chips,fold
+Call,call
+Call,fold
+Raise 20 chips,bet 23
+Bet 2 chips,check
+Raise 100 chips,call
+Call,fold
+Bet 16.0 chips,check
+Bet 4 chips,check
+Fold,fold
+Shove,bet 18
+Raise 25 chips.,call
+Check,check
+Fold,fold
+Call,check
+Fold,fold
+Call,fold
+Call,fold
+Fold,call
+Call,raise 17
+Call,fold
+Call,raise 16
+Raise 30 chips,fold
+Raise 29 chips,call
+Call,fold
+Call,raise 89
+Call,fold
+Shove,check
+Fold,fold
+Call,fold
+Bet 10 chips,bet 22
+Bet 13 chips,check
+Shove,check
+Raise 90 chips,raise 74
+Bet 4.5 chips,check
+Shove,check
+Call,raise 32
+Raise 10 chips,fold
+Raise 4 chips,raise 10
+Raise 32 chips,call
+Call,call
+Call,fold
+Fold,check
+Bet 4 chips,bet 7
+Fold,fold
+Raise 45 chips.,call
+Call,raise 38
+Fold,fold
+Call,raise 81
+Raise 15 chips.,call
+Call,fold
+Call,call
+Fold,fold
+Call,check
+Raise 20 chips,raise 44
+Check,check
+Bet 10 chips.,check
+Fold,fold
+Call,call
+Fold,fold
+Raise 35 chips.,call
+Bet 39 chips,check
+Raise 58 chips,fold
+Raise 47 chips,call
+Raise 29 chips,fold
+Raise 30 chips,fold
+Check,check
+Fold,raise 41
+Call,raise 11
+Call,call
+Bet 16.0 chips.,check
+Raise 37 chips,call
+Fold,bet 18
+Call,call
+Call,call
+Bet 4 chips,check
+Raise 15.5 chips,raise 16
+Raise 20 chips,check
+Shove,bet 17
+Call,raise 85
+Shove,check
+Call,bet 32
+Call,fold
+Shove,check
+Call,raise 18
+Raise 15 chips,raise 19
+Raise 7 chips,call
+Raise 44 chips,call
+Raise 12 chips,check
+Fold,fold
+Fold,check
+Check,check
+Bet 5 chips,check
+Call,check
+Fold,bet 24
+Call,call
+Bet 4.5 chips,check
+Bet 15.0 chips,check
+Call,bet 8
+Call,check
+Raise 57 chips,raise 92
+Raise 25 chips,raise 93
+Fold,bet 29
+Call,call
+Raise 89 chips,fold
+Check,bet 13
+Raise 24 chips,call
+Fold,fold
+Raise 120 chips.,call
+Bet 14.0 chips,check
+Raise 41 chips,call
+Call,check
+Bet 2.5 chips,check
+Fold,fold
+Raise 100 chips,raise 88
+Call,check
+Fold,fold
+Raise 25 chips,raise 43
+Raise 100 chips,fold
+Call,fold
+Call,call
+Call,fold
+Call,call
+Raise 121 chips,call
+Fold,fold
+Call,raise 89
+Shove,bet 29
+Bet 6 chips,check
+Call,fold
+Raise 20 chips.,call
+Call,check
+Raise 38 chips,call
+Call,raise 10
+Raise 40 chips,fold
+Shove 14.0 chips,check
+Raise 120 chips,fold
+Fold,check
+Call,raise 17
+Call 25 chips,call
+Call,fold
+Call,fold
+Call,fold
+Fold,fold
+Call,call
+Call,fold
+Fold,fold
+Raise 46 chips,call
+Call,call
+Call,fold
+Fold,fold
+Raise 35 chips,raise 67
+Call,raise 27
+Shove,bet 23
+Raise 81 chips,fold
+Bet 10.5 chips,bet 3
+Fold,call
+Call,fold
+Raise 25 chips.,call
+Call,fold
+Raise 12 chips.,call
+Call,raise 10
+Raise 44 chips,raise 83
+Raise 12 chips.,raise 25
+Fold,fold
+Shove,check
+Call,call
+Shove,check
+Check,check
+Call,check
+Fold,bet 17
+Fold,fold
+Raise 25 chips,call
+Call,raise 58
+Shove,check
+Call,call
+Call,call
+Call,fold
+Fold,fold
+Bet 4.0 chips,check
+Call,fold
+Raise 15 chips.,raise 25
+Call,call
+Call,fold
+Call,raise 81
+Call,raise 77
+Call,fold
+Fold,fold
+Raise 30 chips,call
+Bet 10 chips,check
+Bet 13 chips,check
+Bet 10 chips,bet 18
+Raise 30 chips,fold
+Call,call
+Call,bet 8
+Fold,fold
+Shove,check
+Bet 8 chips,bet 17
+Raise,call
+Call,raise 7
+Bet 6 chips,check
+Call,fold
+Bet 4 chips,check
+Call,bet 10
+Call,call
+Call,check
+Call,call
+Fold,fold
+Fold,fold
+Fold,fold
+Call,call
+Raise 55 chips,call
+Bet 2.5 chips,bet 3
+Call,fold
+Call,check
+Call,fold
+Raise 20 chips.,call
+Fold,fold
+Call,call
+Fold,call
+Raise 65 chips.,raise 92
+Fold,call
+Bet 15.0 chips,bet 12
+Bet 17.0 chips.,bet 13
+Raise 30 chips.,call
+Call,fold
+Call,raise 88
+Shove,check
+Bet 2 chips,check
+Fold,call
+Raise 10 chips,check
+Call,fold
+Call,fold
+Call,call
+Shove,check
+Fold,fold
+Fold,check
+Call,call
+Shove,check
+Raise 12 chips,check
+Call,call
+Shove,check
+Check,check
+Raise 84 chips,call
+Raise 10 chips,call
+Call,fold
+Raise 57 chips,raise 92
+Call,fold
+Bet 16.0 chips,bet 12
+Call,call
+Check,check
+Raise 25 chips,call
+Fold,fold
+Call,raise 22
+Bet 5 chips,bet 12
+Bet 20 chips,bet 24
+Bet 5 chips,check
+Fold,fold
+Call,call
+Raise 80 chips,raise 82
+Shove,check
+Raise 6 chips,call
+Check,check
+Check,check
+Raise 54 chips,fold
+Raise 15 chips,check
+Check,check
+Fold,raise 64
+Bet 4 chips,bet 7
+Fold,check
+Fold,call
+Fold,check
+Shove,check
+Bet 8 chips,check
+Call,call
+Raise 20 chips.,raise 40
+Fold,fold
+Shove,check
+Call,check
+Fold,fold
+Call,check
+Bet 6 chips,check
+Fold,fold
+Fold,fold
+Fold,raise 46
+Call,fold
+Call,call
+Fold,check
+Raise 30 chips,call
+Raise 12 chips,call
+Call,fold
+Fold,fold
+Raise 20 chips.,call
+Raise 44 chips,call
+Bet 4.0 chips,bet 6
+Call,fold
+Call,fold
+Check,check
+Call,fold
+Bet 24.0 chips,bet 18
+Bet 3.5 chips,check
+Raise 7 chips,call
+Check,check
+Raise 12 chips,call
+Fold,call
+Shove,check
+Call,check
+Shove,check
+Fold,fold
+Check,check
+Fold,fold
+Shove,check
+Bet 22 chips,check
+Check,check
+Raise 20 chips.,check
+Call,raise 10
+Call,fold
+Call,fold
+Raise 89 chips,call
+Call,call
+Raise 73 chips,call
+Call,raise 80
+Call,fold
+Call,fold
+Call,call
+Fold,fold
+Call,call
+Fold,fold
+Call,raise 13
+Raise 24 chips,call
+Call 22 chips,raise 92
+Shove,check
+Fold,fold
+Raise 81 chips,call
+Raise 40 chips,raise 90
+Call,fold
+Raise 15 chips,check
+Fold,fold
+Shove,raise 74
+Bet 4.5 chips,bet 4
+Bet 3.0 chips,check
+Raise 39 chips,fold
+Raise 32 chips,fold
+Call,fold
+Fold,fold
+Call,check
+Raise 40 chips.,call
+Call,call
+Fold,fold
+Bet 10 chips,check
+Bet 10 chips,check
+Raise 151.0 chips,call
+Call,fold
+Call,fold
+Raise 32 chips.,check
+Call,check
+Shove,check
+Fold,call
+Call,fold
+Call,bet 24
+Call,raise 62
+Raise 30 chips.,check
+Raise 20 chips,call
+Raise 30 chips,call
+Check,check
+Call,raise 13
+Raise 40 chips,call
+Call,fold
+Call,bet 23
+Call,fold
+Call,fold
+Bet 5 chips,check
+Raise 150 chips,call
+Shove,check
+Fold,fold
+Fold,fold
+Bet 20 chips,check
+Call,call
+Fold,check
+Fold,fold
+Bet 3.5 chips,check
+Bet 32 chips,bet 24
+Call,fold
+Call,check
+Raise 84 chips,call
+Raise 20 chips.,call
+Raise 77 chips,call
+Call,call
+Call,fold
+Call,call
+Call,raise 86
+Call,check
+Call,call
+Shove,check
+Raise 15 chips,raise 25
+Check,check
+Call,call
+Raise 40 chips,fold
+Bet 6 chips,bet 16
+Shove,check
+Bet 4 chips,check
+Call,check
+Call,call
+Call,call
+Raise 30 chips.,bet 32
+Call,raise 29
+Call,raise 95
+Check,check
+Raise 24.5 chips.,raise 28
+Fold,raise 88
+Call,raise 84
+Call,fold
+Shove,check
+Raise 20 chips,call
+Call,call
+Fold,call
+Call,call
+Call,raise 84
+Shove,check
+Bet 4.5 chips,check
+Fold,fold
+Fold,fold
+Call,call
+Bet 12 chips,check
+Call,raise 86
+Call,fold
+Fold,fold
+Bet 4 chips,check
+Call,call
+Raise 26 chips,raise 33
+Shove,check
+Raise 40 chips,call
+Call 10 chips,call
+Call,call
+Fold,check
+Call,raise 25
+Fold,raise 92
+Bet 2.0 chips,check
+Raise 62 chips,raise 86
+Call,call
+Call,call
+Raise 26 chips,call
+Raise 24 chips,raise 31
+Fold,fold
+Bet 4 chips,bet 2
+Bet 4 chips,check
+Fold,fold
+Shove,check
+Fold,fold
+Raise 5 chips,call
+Shove,bet 29
+Fold,check
+Raise 40 chips,fold
+Call,check
+Bet 3.5 chips,bet 4
+Call,call
+Fold,check
+Fold,fold
+Bet 6 chips,check
+Call,fold
+Raise 40 chips,call
+Raise 44 chips,raise 83
+Fold,fold
+Raise 30 chips,check
+Call,call
+Raise 10 chips,fold
+Fold,fold
+Raise 12 chips.,check
+Call,fold
+Bet 15.0 chips,check
+Call,call
+Check,check
+Raise 40 chips,call
+Bet 8.5 chips,bet 15
+Shove,check
+Raise 30 chips.,fold
+Call 13 chips,call
+Raise 40 chips.,call
+Call,check
+Call,fold
+Fold,fold
+Raise 40 chips,raise 80
+Fold,fold
+Fold,fold
+Bet 4 chips,bet 8
+Fold,fold
+Call,bet 29
+Raise 40 chips,call
+Bet 14.0 chips,bet 11
+Call,call
+Raise 72 chips,raise 89
+Call,call
+Raise 58 chips,raise 85
+Call,fold
+Fold,fold
+Call,fold
+Fold,check
+Call,check
+Raise 26 chips,fold
+Call,fold
+Bet 3.0 chips,check
+Call,call
+Call,raise 18
+Fold,fold
+Fold,raise 81
+Bet 5 chips,check
+Bet 21 chips,check
+Bet 12 chips,check
+Raise 81 chips,call
+Raise 120 chips,call
+Bet 12 chips,check
+Call,call
+Call,call
+Bet 24.0 chips,check
+Call,call
+Fold,raise 32
+Call,call
+Call,raise 89
+Fold,fold
+Raise 60 chips,raise 82
+Fold,fold
+Raise 82 chips,fold
+Raise 38 chips.,raise 54
+Raise 12 chips,call
+Call,call
+Raise 25 chips,raise 48
+Fold,fold
+Call,call
+Fold,call
+Call,call
+Call,fold
+Call,call
+Bet 3.5 chips.,check
+Call,raise 16
+Call,fold
+Call,fold
+Raise 32 chips,fold
+Fold,fold
+Call,raise 83
+Check,check
+Call,fold
+Raise 40 chips,raise 93
+Shove 39.0 chips,check
+Raise 100 chips.,call
+Call,call
+Call,call
+Call,fold
+Check,bet 34
+Fold,bet 12
+Raise 40 chips.,call
+Bet 2 chips,check
+Call,raise 77
+Call,call
+Raise 83.0 chips,raise 74
+Raise 20 chips,call
+Raise 12 chips.,call
+Bet 4.0 chips,check
+Fold,fold
+Call,raise 86
+Fold,call
+Call,fold
+Fold,fold
+Bet 4.5 chips,bet 5
+Call,call
+Fold,check
+Fold,check
+Call,raise 84
+Call,call
+Call,raise 7
+Raise 31 chips,call
+Bet 14.0 chips,bet 11
+Call,fold
+Raise 100 chips,call
+Raise 41 chips,call
+Fold,check
+Raise 89 chips,call
+Call,raise 81
+Bet 4.5 chips,bet 5
+Call,fold
+Call,raise 13
+Raise 20 chips.,fold
+Fold,raise 88
+Shove,check
+Raise 4 chips,call
+Raise 58 chips,fold
+Call,check
+Call,raise 10
+Check,check
+Raise 35 chips,call
+Call,call
+Fold,fold
+Call,call
+Bet 17 chips,check
+Fold,fold
+Bet 6 chips,check
+Call,call
+Call 13 chips,fold
+Raise 20 chips,raise 38
+Check,check
+Call,check
+Raise 37 chips,call
+Raise 25 chips,call
+Call,raise 89
+Fold,fold
+Shove,check
+Call,fold
+Raise 100 chips,call
+Call,call
+Call,raise 38
+Raise 35 chips,fold
+Call,call
+Shove,check
+Call,check
+Fold,call
+Fold,bet 12
+Check,bet 17
+Bet 16.0 chips.,check
+Fold,fold
+Fold,fold
+Call,call
+Call,call
+Raise 87 chips,call
+Raise 7.0 chips.,call
+Raise 35 chips,raise 95
+Shove,check
+Check,bet 4
+Fold,raise 22
+Fold,call
+Call,raise 92
+Raise 50 chips,raise 89
+Call,fold
+Call,call
+Check,check
+Call,call
+Call,fold
+Raise 30 chips,fold
+Bet 4.5 chips,bet 4
+Bet 4 chips,check
+Bet 10.0 chips,check
+Call,call
+Call,fold
+Raise 31 chips,raise 64
+Call,fold
+Fold,raise 80
+Fold,fold
+Call,call
+Raise 5 chips,call
+Shove 81.0 chips.,raise 58
+Fold,bet 17
+Call,fold
+Raise 10 chips,raise 32
+Bet 4 chips,check
+Fold,fold
+Call,fold
+Call,raise 32
+Bet 3.5 chips,check
+Call,call
+Call,raise 84
+Raise 40 chips,call
+Call,fold
+Call,raise 41
+Call,call
+Call 13 chips,call
+Check,bet 13
+Raise 30 chips,bet 32
+Fold,call
+Shove,check
+Bet 8 chips,check
+Raise 12 chips,check
+Call,call
+Raise 44 chips,fold
+Call,raise 13
+Bet 10 chips,bet 20
+Bet 3.5 chips,check
+Call,fold
+Call,call
+Raise 74 chips,call
+Shove,check
+Call,raise 16
+Fold,call
+Raise 40 chips,fold
+Call,check
+Call,call
+Bet 2.0 chips,bet 3
+Fold,check
+Bet 10 chips,check
+Fold,fold
+Raise 35 chips,call
+Raise 40 chips,raise 81
+Call,call
+Fold,fold
+Raise 20 chips.,call
+Call,call
+Fold,call
+Fold,fold
+Bet 32 chips,check
+Raise 30 chips,call
+Fold,fold
+Bet 3.5 chips,check
+Check,check
+Call,call
+Bet 10.0 chips,bet 8
+Bet 14 chips,check
+Bet 9.0 chips,bet 7
+Call,check
+Fold,fold
+Call,call
+Call,call
+Raise 100 chips,call
+Call 13 chips,call
+Fold,raise 90
+Bet 4 chips,check
+Raise 30 chips,call
+Fold,check
+Raise 82 chips,raise 87
+Bet 4.5 chips,check
+Call,call
+Call,call
+Call,check
+Fold,fold
+Call,call
+Raise 40 chips,raise 89
+Fold,fold
+Bet 4 chips,check
+Call,call
+Call,call
+Fold,raise 84
+Call,call
+Call,call
+Call,fold
+Call,check
+Fold,call
+Call,check
+Raise 14 chips,raise 25
+Call,bet 12
+Call,raise 29
+Bet 4 chips,check
+Call,fold
+Call,call
+Call,raise 23
+Check,check
+Fold,fold
+Call,raise 92
+Raise 15.5 chips,raise 16
+Fold,raise 25
+Call,check
+Call 13 chips,raise 33
+Call,fold
+Call,call
+Call,call
+Call,fold
+Raise 24 chips,call
+Raise 40 chips,fold
+Call,call
+Call,fold
+Bet 24 chips.,check
+Call,raise 22
+Fold,fold
+Raise 44 chips,raise 84
+Call,fold
+Call,call
+Fold,raise 83
+Raise 30 chips.,check
+Shove,check
+Bet 14.0 chips.,check
+Raise 30 chips,bet 32
+Bet 4.0 chips,bet 3
+Bet 13 chips,check
+Call,raise 29
+Call 10 chips,call
+Shove,check
+Call,call
+Raise 20 chips.,check
+Raise 12 chips,call
+Call,fold
+Call,fold
+Shove,check
+Bet 12 chips,check
+Raise 20 chips.,call
+Raise 77 chips,call
+Call,call
+Fold,fold
+Call,fold
+Bet 12.5 chips,bet 8
+Raise 24 chips,fold
+Fold,fold
+Call,fold
+Call,raise 16
+Bet 8 chips,check
+Bet 4 chips,bet 8
+Check,bet 17
+Fold,fold
+Call,call
+Fold,fold
+Call,raise 80
+Raise 40 chips,raise 77
+Call,check
+Call,raise 35
+Bet 11 chips,bet 20
+Call,check
+Call,fold
+Raise 62 chips,raise 86
+Fold,check
+Bet 13 chips,bet 10
+Call,raise 28
+Shove,check
+Raise 39.0 chips,call
+Call,call
+Check,check
+Call,fold
+Call,call
+Call,call
+Bet 4.5 chips,bet 5
+Fold,fold
+Bet 4 chips,bet 4
+Call,fold
+Call,fold
+Call,bet 4
+Raise 29 chips,call
+Bet 16 chips,check
+Call,call
+Call,fold
+Call,raise 87
+Bet 6 chips,bet 13
+Fold,check
+Call,raise 80
+Call,check
+Raise 40 chips,raise 92
+Check,check
+Fold,fold
+Raise 20 chips.,check
+Call,fold
+Fold,fold
+Raise 53 chips,fold
+Call,bet 23
+Call,check
+Raise 100 chips.,fold
+Raise 45 chips,raise 70
+Raise 30 chips,raise 57
+Raise 24 chips.,call
+Bet 10 chips,check
+Fold,fold
+Call,raise 77
+Call,call
+Call,call
+Call,fold
+Call,call
+Call,fold
+Bet 2 chips,check
+Fold,call
+Raise 45 chips,call
+Call,check
+Call,call
+Check,check
+Call,call
+Raise 120 chips.,call
+Call,fold
+Raise 40 chips,call
+Fold,fold
+Fold,raise 14
+Raise 15 chips.,raise 25
+Call,call
+Call,check
+Raise 10 chips,call
+Call,fold
+Call,raise 16
+Raise 20 chips,call
+Bet 2.5 chips,check
+Bet 5.0 chips,check
+Bet 5.0 chips,bet 5
+Raise 25 chips.,bet 23
+Raise 25 chips,fold
+Call,raise 74
+Bet 3.5 chips,check
+Call,raise 93
+Bet 17 chips,check
+Raise 51 chips,call
+Call,call
+Fold,fold
+Call,fold
+Fold,fold
+Fold,fold
+Call,raise 25
+Bet 4 chips,check
+Fold,fold
+Check,check
+Raise 120 chips,fold
+Bet 3.0 chips,check
+Raise 40 chips.,call
+Raise 25 chips.,call
+Bet 3.5 chips,bet 4
+Call,call
+Call,call
+Call,raise 93
+Raise 20 chips,call
+Call,check
+Call,call
+Bet 24.0 chips,check
+Fold,call
+Fold,fold
+Call,raise 16
+Call,call
+Bet 12.5 chips,check
+Call,fold
+Bet 3.0 chips,check
+Call,bet 29
+Raise 40 chips,call
+Call,fold
+Raise 12 chips.,check
+Bet 4.5 chips,bet 5
+Fold,fold
+Raise 24 chips.,fold
+Fold,fold
+Call,call
+Call,call
+Bet 4.5 chips.,check
+Bet 12 chips,check
+Fold,raise 93
+Call,call
+Raise 15 chips,check
+Call,fold
+Bet 13 chips,bet 10
+Shove,bet 24
+Raise 32 chips.,check
+Raise 37 chips,raise 86
+Fold,fold
+Fold,fold
+Call,raise 86
+Raise 37 chips,fold
+Call,fold
+Call,fold
+Raise 46 chips,fold
+Raise 121 chips,call
+Call,call
+Bet 2.0 chips,check
+Raise 133.0 chips,fold
+Call,check
+Bet 6 chips,check
+Fold,fold
+Call,call
+Raise 10 chips,call
+Raise 30 chips.,raise 84
+Fold,fold
+Fold,call
+Call,check
+Bet 4 chips,check
+Fold,check
+Bet 12.5 chips,bet 8
+Call,call
+Shove,check
+Call,fold
+Fold,fold
+Fold,fold
+Raise 10 chips,call
+Raise 50 chips,fold
+Call,raise 13
+Raise 20 chips.,check
+Raise 46 chips,fold
+Raise 37 chips,raise 83
+Raise 30 chips,call
+Check,bet 22
+Bet 3.5 chips,check
+Call,raise 81
+Raise 34 chips,call
+Call,fold
+Raise 90 chips.,raise 74
+Fold,raise 89
+Raise 51 chips,fold
+Call,call
+Raise 150 chips,fold
+Call,check
+Call,fold
+Call,raise 13
+Shove,check
+Bet 10 chips,check
+Call,fold
+Call,raise 90
+Raise 141.0 chips.,call
+Fold,raise 75
+Bet 6 chips,check
+Raise 51 chips,raise 93
+Raise 20 chips,fold
+Call,fold
+Raise 35 chips,fold
+Fold,fold
+Raise 75 chips,call
+Call,fold
+Bet 20 chips,check
+Fold,check
+Fold,fold
+Call,fold
+Call,fold
+Call,call
+Fold,fold
+Raise 32 chips,raise 73
+Fold,fold
+Raise 20 chips.,raise 35
+Call,raise 84
+Call,fold
+Call,fold
+Raise 35 chips.,bet 45
+Raise 20 chips,bet 23
+Raise 7.0 chips,call
+Fold,raise 70
+Call,check
+Call,call
+Raise 30 chips.,call
+Raise 120 chips.,fold
+Raise 51 chips,raise 89
+Call,raise 18
+Raise 47 chips,raise 87
+Call,fold
+Raise 40 chips,call
+Raise 20 chips.,fold
+Raise 20 chips.,call
+Check,check
+Raise 20 chips,raise 32
+Call,call
+Raise 40 chips.,call
+Raise 24 chips.,call
+Call,call
+Bet 4 chips.,check
+Bet 12 chips,bet 22
+Shove,check
+Call,fold
+Call,call
+Call,check
+Call,call
+Call,bet 39
+Call,fold
+Fold,fold
+Raise 45 chips,fold
+Call,call
+Fold,fold
+Bet 4 chips,bet 10
+Fold,fold
+Call,call
+Call,check
+Raise 40 chips,call
+Call,raise 16
+Raise 80 chips,call
+Call,fold
+Check,bet 4
+Call,call
+Call 10 chips,call
+Check,check
+Raise 120 chips,call
+Call,raise 22
+Shove,bet 29
+Shove,bet 17
+Raise 32 chips,bet 29
+Call,check
+Fold,call
+Raise 49 chips,raise 81
+Shove 51.0 chips.,check
+Fold,fold
+Fold,fold
+Call 16 chips,raise 31
+Bet 6 chips,check
+Call,fold
+Fold,fold
+Bet 4 chips,check
+Call,check
+Bet 3.5 chips,check
+Check,bet 19
+Fold,check
+Raise 83 chips,fold
+Call,raise 10
+Raise 30 chips,fold
+Call,fold
+Call,fold
+Fold,fold
+Raise 7 chips,call
+Fold,fold
+Shove 39.0 chips,check
+Call,call
+Raise 77 chips,call
+Bet 20.0 chips,check
+Raise 12 chips.,raise 25
+Call,fold
+Fold,fold
+Call,call
+Raise 100 chips,fold
+Bet 4 chips,bet 8
+Bet 4 chips,check
+Check,check
+Call,call
+Bet 4 chips,check
+Fold,fold
+Raise 30 chips,call
+Raise 40 chips.,fold
+Call,call
+Fold,bet 20
+Call,raise 27
+Fold,fold
+Call,check
+Bet 15 chips,check
+Raise 24 chips.,call
+Fold,check
+Raise 7 chips,raise 22
+Call,fold
+Call 44 chips,raise 83
+Bet 39 chips,check
+Call,call
+Bet 18 chips,check
+Fold,fold
+Call,raise 25
+Call,check
+Fold,fold
+Raise 150 chips,call
+Bet 16.0 chips.,check
+Raise 40 chips.,fold
+Call,fold
+Fold,fold
+Fold,fold
+Call,fold
+Fold,raise 94
+Check,bet 8
+Check,check
+Fold,call
+Raise 76 chips,raise 87
+Call,call
+Call,fold
+Raise 15 chips.,check
+Fold,raise 93
+Shove,check
+Fold,fold
+Raise 30 chips,call
+Fold,fold
+Call,call
+Raise 75 chips,call
+Call,raise 56
+Raise 26 chips,call
+Raise 40 chips,raise 58
+Call,raise 17
+Bet 3 chips,check
+Fold,check
+Raise 81 chips,fold
+Raise 12 chips,raise 25
+Raise 13 chips,call
+Bet 6.0 chips,bet 5
+Raise 15 chips,bet 18
+Call,raise 27
+Call,raise 59
+Raise 89 chips,fold
+Shove 32.0 chips,check
+Check,check
+Call,check
+Raise 40 chips,raise 92
+Bet 3.5 chips,check
+Raise 10 chips,call
+Call,call
+Call,raise 81
+Call,raise 44
+Call,check
+Call,fold
+Raise 83 chips,call
+Shove,check
+Call,call
+Fold,fold
+Call,fold
+Call,call
+Fold,fold
+Raise 10 chips,raise 22
+Raise 40 chips,fold
+Fold,fold
+Call,raise 54
+Check,check
+Call,call
+Fold,fold
+Bet 4 chips,check
+Raise 40 chips.,check
+Call,raise 10
+Call,fold
+Bet 4 chips,check
+Call,fold
+Raise 40 chips,fold
+Fold,fold
+Call 10 chips,fold
+Shove,check
+Raise 20 chips.,check
+Call,raise 77
+Fold,raise 44
+Raise 38 chips,fold
+Shove,bet 12
+Bet 3.5 chips,check
+Call,call
+Raise 30 chips.,call
+Raise 6 chips,fold
+Shove 31.0 chips,bet 23
+Raise 6 chips,call
+Raise 24 chips,call
+Check,check
+Raise 20 chips,fold
+Fold,fold
+Raise 10 chips,check
+Fold,raise 81
+Fold,fold
+Call,call
+Call,call
+Raise 15 chips.,check
+Check,check
+Raise 81 chips,call
+Call,raise 11
+Call,fold
+Call,bet 17
+Raise 100 chips,call
+Call,fold
+Call,call
+Bet 4 chips,check
+Bet 17 chips,check
+Call,fold
+Fold,fold
+Raise 76 chips,call
+Call,fold
+Bet 13 chips,check
+Bet 4 chips,check
+Raise 100 chips,call
+Raise 30 chips,call
+Raise 20 chips,check
+Check,check
+Fold,fold
+Raise 30 chips,fold
+Bet 32.0 chips,check
+Call,fold
+Call,raise 86
+Bet 6 chips,check
+Call,fold
+Bet 6 chips,check
+Raise 34 chips,raise 77
+Bet 17 chips,check
+Check,check
+Bet 2 chips,bet 5
+Call,call
+Call,fold
+Call,call
+Raise 30 chips,fold
+Raise 76 chips,call
+Check,bet 8
+Call,call
+Call,raise 89
+Check,check
+Call,call
+Bet 10.5 chips,bet 3
+Fold,fold
+Fold,call
+Check,bet 17
+Bet 20 chips,check
+Call,raise 44
+Call,call
+Raise 25 chips,fold
+Call,fold
+Bet 4.0 chips,bet 3
+Bet 6 chips,bet 22
+Shove,check
+Check,check
+Raise 25 chips.,raise 37
+Call,fold
+Fold,fold
+Call,call
+Bet 5.0 chips,bet 2
+Call,call
+Fold,call
+Call,raise 89
+Fold,bet 23
+Fold,check
+Bet 3.0 chips,check
+Call,call
+Raise 46 chips,fold
+Bet 5.0 chips,bet 5
+Fold,fold
+Call,bet 10
+Call,call
+Fold,call
+Raise 20 chips.,raise 35
+Raise 20 chips.,call
+Raise 83 chips,call
+Bet 20 chips,bet 23
+Call,call
+Call,fold
+Bet 4.5 chips,check
+Call,fold
+Raise 83 chips,call
+Shove,check
+Call,call
+Call,call
+Raise 20 chips.,call
+Raise 10 chips,call
+Call,raise 77
+Call,call
+Raise 83 chips,call
+Call,check
+Shove,check
+Call,raise 25
+Call,call
+Call,call
+Call,check
+Call,fold
+Raise 32 chips,check
+Call,fold
+Raise 20 chips,raise 41
+Raise 30 chips.,call
+Shove,check
+Call,fold
+Fold,fold
+Fold,fold
+Call,call
+Fold,bet 29
+Raise 7 chips,call
+Check,check
+Call,raise 90
+Fold,fold
+Call,fold
+Bet 5 chips,check
+Raise 15 chips.,check
+Raise 41 chips,call
+Fold,bet 18
+Call,call
+Call,fold
+Call,fold
+Bet 16 chips,bet 29
+Raise 30 chips,call
+Call,raise 25
+Fold,fold
+Call,call
+Shove 79.0 chips.,raise 58
+Shove,check
+Bet 17 chips,bet 13
+Raise 10 chips,check
+Shove,bet 10
+Fold,raise 54
+Raise 35 chips.,call
+Bet 6 chips,check
+Call,check
+Raise 40 chips,raise 89
+Raise 40 chips.,call
+Fold,fold
+Raise 100 chips,raise 84
+Fold,fold
+Call,call
+Fold,fold
+Call,call
+Call,raise 84
+Bet 3.0 chips,bet 3
+Raise 12 chips,fold
+Raise 25 chips.,check
+Bet 6 chips,check
+Call,call
+Bet 13 chips,check
+Raise 100 chips.,fold
+Fold,call
+Bet 6 chips,check
+Call,call
+Call,fold
+Fold,fold
+Call,raise 16
+Raise 15 chips.,call
+Raise 53 chips.,raise 80
+Fold,raise 58
+Call,raise 92
+Raise 40 chips,call
+Fold,fold
+Bet 5 chips,check
+Bet 4.5 chips,bet 4
+Fold,check
+Call,fold
+Bet 8.0 chips,check
+Raise 32 chips.,check
+Bet 16.0 chips,check
+Call,raise 86
+Call,raise 88
+Call,call
+Shove,check
+Fold,fold
+Bet 10.0 chips,check
+Raise 81 chips,fold
+Fold,check
+Call,bet 10
+Bet 2 chips,check
+Call,fold
+Fold,fold
+Fold,raise 46
+Fold,fold
+Bet 3.5 chips,check
+Raise 40 chips,fold
+Raise 35 chips.,check
+Raise 12 chips.,call
+Raise 10 chips,raise 37
+Call,raise 84
+Fold,fold
+Raise 30 chips,fold
+Check,check
+Fold,fold
+Call,check
+Raise 12 chips,fold
+Bet 4 chips,check
+Bet 4 chips,bet 8
+Fold,bet 29
+Check,check
+Fold,call
+Call,call
+Call,call
+Fold,fold
+Call,call
+Raise 80 chips,fold
+Call,raise 90
+Bet 14 chips,check
+Shove,bet 29
+Fold,bet 17
+Bet 13 chips,check
+Raise 30 chips,raise 82
+Fold,fold
+Fold,raise 88
+Call,call
+Shove,bet 17
+Check,bet 17
+Call,call
+Fold,check
+Raise 24 chips.,check
+Call,call
+Bet 25 chips,check
+Bet 8 chips,check
+Raise 89 chips,fold
+Call,fold
+Call,raise 88
+Call,fold
+Raise 20.0 chips.,call
+Call,raise 88
+Call,raise 38
+Shove,check
+Fold,bet 23
+Call,fold
+Call,fold
+Bet 26 chips,check
+Call,call
+Fold,fold
+Raise 40 chips.,raise 82
+Raise 41 chips,call
+Fold,fold
+Raise 5 chips,raise 16
+Call,fold
+Raise 26 chips,call
+Fold,raise 85
+Bet 6.0 chips,bet 5
+Bet 4.5 chips.,check
+Raise 32 chips,fold
+Call,raise 7
+Call,fold
+Fold,fold
+Bet 17 chips,check
+Raise 20 chips,check
+Call,call
+Raise 30 chips.,fold
+Fold,check
+Raise 37 chips,call
+Fold,raise 83
+Call,call
+Call,raise 89
+Call,call
+Call,raise 8
+Call,bet 4
+Fold,fold
+Raise 12 chips,check
+Fold,fold
+Fold,raise 23
+Shove,bet 39
+Raise 40 chips.,fold
+Raise,fold
+Fold,raise 64
+Fold,fold
+Call,call
+Raise 11 chips.,call
+Raise 20 chips.,call
+Fold,check
+Bet 39 chips,bet 29
+Call 13 chips,call
+Check,check
+Call,raise 86
+Raise 120 chips,call
+Call,fold
+Raise 12 chips,check
+Raise 40 chips,call
+Fold,fold
+Bet 3.5 chips,bet 4
+Call,fold
+Raise 7 chips,raise 22
+Bet 6 chips,check
+Bet 4 chips,bet 11
+Shove,check
+Check,check
+Bet 3 chips,check
+Call,fold
+Call,call
+Call,bet 3
+Call,fold
+Bet 4 chips,check
+Call,call
+Raise 20 chips,fold
+Call,call
+Bet 8 chips,check
+Raise 30 chips,fold
+Call,check
+Check,bet 27
+Shove,bet 29
+Raise 12 chips,check
+Bet 26 chips,bet 31
+Raise 83 chips,call
+Shove,bet 18
+Raise 37 chips,fold
+Fold,fold
+Bet 10.0 chips,check
+Call,call
+Check,check
+Call,check
+Call,call
+Fold,fold
+Call,check
+Fold,fold
+Call,raise 55
+Bet 18 chips.,check
+Raise 37 chips,fold
+Fold,raise 90
+Shove,bet 25
+Call,raise 89
+Call,fold
+Call,raise 82
+Call,raise 87
+Check,check
+Call,call
+Shove,bet 29
+Fold,fold
+Call,call
+Fold,fold
+Call,call
+Call,raise 30
+Raise 12 chips.,check
+Raise 12 chips,check
+Bet 4 chips,check
+Raise 20 chips,check
+Check,check
+Call,raise 88
+Fold,call
+Shove,check
+Call,raise 31
+Fold,check
+Fold,check
+Call,fold
+Raise 10 chips,raise 18
+Check,check
+Fold,fold
+Bet 31.0 chips,bet 23
+Call,call
+Call,call
+Raise 20 chips,check
+Call,fold
+Call,raise 30
+Shove,check
+Raise 20 chips,bet 20
+Fold,raise 54
+Bet 14 chips,check
+Call,call
+Call,call
+Fold,call
+Raise 40 chips,raise 81
+Raise 44 chips,raise 80
+Raise 39 chips,fold
+Call,fold
+Raise 40 chips,fold
+Check,bet 4
+Shove,bet 18
+Shove,check
+Call,fold
+Call,call
+Check,check
+Call,check
+Fold,check
+Raise 20 chips,fold
+Raise 15 chips,call
+Call,check
+Fold,fold
+Bet 12 chips.,check
+Bet 13 chips,check
+Bet 12 chips,bet 19
+Fold,fold
+Raise 25 chips,fold
+Fold,fold
+Bet 6 chips,check
+Fold,fold
+Call,call
+Raise 12 chips.,call
+Bet 5 chips,check
+Fold,check
+Call,raise 32
+Bet 6 chips,check
+Call,fold
+Call,fold
+Fold,fold
+Call,raise 41
+Bet 25 chips,bet 31
+Raise 37 chips,fold
+Fold,fold
+Bet 4 chips,bet 4
+Check,check
+Fold,check
+Call,fold
+Bet 4 chips,bet 7
+Call,check
+Bet 4.0 chips,check
+Check,check
+Call,fold
+Raise 87 chips,raise 54
+Call,call
+Raise 32 chips.,fold
+Shove,check
+Raise 20 chips.,fold
+Call,call
+Call,call
+Call,check
+Check,bet 3
+Shove,check
+Raise 120 chips.,call
+Raise 40 chips,call
+Bet 6 chips,bet 12
+Fold,fold
+Check,check
+Fold,fold
+Raise 25 chips,raise 35
+Fold,fold
+Fold,call
+Shove,check
+Call,call
+Fold,fold
+Shove,bet 24
+Call,call
+Fold,check
+Call,call
+Fold,fold
+Raise 41 chips,call
+Call,fold
+Raise 100 chips,raise 86
+Call,fold
+Raise 40 chips,fold
+Bet 4 chips,bet 2
+Call,raise 93
+Call,call
+Bet 3 chips,bet 5
+Call,fold
+Call,call
+Call,call
+Call,call
+Fold,check
+Bet 4.0 chips,bet 5
+Call,call
+Shove,bet 23
+Fold,fold
+Raise 20 chips,check
+Raise 30 chips.,fold
+Bet 8.0 chips,bet 15
+Raise 24 chips,call
+Bet 32 chips,check
+Call,call
+Raise 40 chips.,call
+Call,call
+Call,call
+Call,call
+Raise 89 chips,call
+Fold,fold
+Fold,fold
+Call,raise 16
+Fold,fold
+Call,fold
+Call,call
+Call,fold
+Bet 8 chips,bet 17
+Call,raise 38
+Raise 20 chips,raise 35
+Raise 12 chips,bet 16
+Bet 15.0 chips,check
+Call,call
+Call,check
+Call,call
+Call,fold
+Raise 11 chips,fold
+Raise 35 chips.,check
+Raise 46 chips,fold
+Fold,bet 17
+Call,call
+Bet 3.0 chips,check
+Call,call
+Call,call
+Call,call
+Bet 16 chips,bet 34
+Call,raise 27
+Call,raise 77
+Call,check
+Raise 20 chips,bet 39
+Call,check
+Raise 100 chips.,raise 88
+Fold,fold
+Call,fold
+Bet 6 chips,bet 10
+Call,call
+Fold,check
+Raise 39 chips,fold
+Fold,raise 84
+Call,call
+Call,call
+Raise 46 chips,fold
+Call,fold
+Bet 4 chips,check
+Shove,check
+Check,check
+Fold,fold
+Raise 120 chips.,call
+Call,fold
+Fold,check
+Fold,fold
+Call,fold
+Raise 40 chips.,raise 80
+Raise 44 chips,raise 80
+Call,call
+Call,call
+Fold,fold
+Raise 44 chips,fold
+Call,call
+Raise 37 chips,call
+Bet 12.5 chips,check
+Raise 8 chips,call
+Raise 40 chips.,bet 40
+Call,call
+Call,fold
+Bet 17 chips,check
+Call,call
+Call,call
+Shove,check
+Raise 120 chips,fold
+Call,check
+Check,check
+Raise 40 chips,call
+Raise 20 chips,fold
+Bet 14 chips,check
+Fold,bet 17
+Call,call
+Fold,fold
+Raise 22 chips,call
+Fold,fold
+Raise 25 chips,call
+Fold,fold
+Bet 14.0 chips,bet 11
+Raise 30 chips.,call
+Call,call
+Call,check
+Bet 15.0 chips,check
+Raise 30 chips.,call
+Call,bet 3
+Raise 76 chips,call
+Shove,check
+Call,call
+Call,call
+Raise 40 chips,raise 77
+Raise 35 chips,raise 93
+Call,raise 41
+Bet 4.5 chips,bet 4
+Call,fold
+Call,raise 17
+Bet 4.5 chips,bet 4
+Bet 4.5 chips,check
+Call,raise 82
+Raise,call
+Raise 46 chips,fold
+Call,fold
+Call,fold
+Fold,check
+Fold,fold
+Call,raise 89
+Call,call
+Check,bet 10
+Shove,check
+Raise 24 chips.,fold
+Check,bet 4
+Raise 134 chips,call
+Bet 14.0 chips,check
+Call,call
+Call,call
+Raise 40 chips,raise 81
+Call,fold
+Raise 15 chips,raise 32
+Fold,call
+Raise 30 chips,call
+Check,check
+Call,raise 38
+Fold,fold
+Raise 20 chips,check
+Bet 5 chips,check
+Fold,fold
+Call,call
+Bet 4.5 chips,bet 5
+Check,check
+Fold,fold
+Fold,fold
+Raise 89 chips,fold
+Call,call
+Call,call
+Raise 25 chips,raise 48
+Raise 82 chips,fold
+Call,raise 25
+Call,call
+Shove 81.0 chips.,raise 58
+Fold,bet 10
+Raise 15 chips,call
+Raise 40 chips,fold
+Bet 17 chips,check
+Call,call
+Call,check
+Shove 69.0 chips.,check
+Raise 40 chips,raise 93
+Call,raise 89
+Call,call
+Raise 10 chips,check
+Bet 16.0 chips,check
+Raise 58 chips,raise 84
+Call,fold
+Call,check
+Shove,check
+Raise 30 chips,fold
+Fold,fold
+Raise 20 chips.,fold
+Bet 12 chips,check
+Fold,fold
+Call,fold
+Call,call
+Call,call
+Bet 3 chips,check
+Bet 6 chips,bet 10
+Raise 30 chips,fold
+Raise 30 chips,call
+Call,raise 25
+Call,call
+Raise 6.5 chips,call
+Raise 41 chips.,call
+Bet 4 chips,check
+Bet 4 chips,check
+Fold,bet 13
+Raise 24 chips.,raise 44
+Fold,call
+Fold,check
+Call,check
+Bet 7 chips,check
+Raise 54 chips,raise 89
+Shove,bet 17
+Raise 25 chips,fold
+Bet 3.5 chips,bet 4
+Fold,fold
+Raise 30 chips.,call
+Fold,fold
+Raise 20 chips,raise 41
+Call,fold
+Call,fold
+Raise 23 chips.,raise 37
+Call,call
+Fold,call
+Fold,check
+Raise 10 chips,call
+Call,raise 86
+Call,raise 76
+Shove 35.0 chips.,check
+Call,raise 86
+Raise 89 chips,call
+Call,fold
+Call,fold
+Check,check
+Raise 40 chips,fold
+Raise 20 chips,fold
+Call,raise 82
+Call,raise 93
+Call,call
+Bet 5 chips,check
+Bet 13 chips,check
+Call,check
+Raise 74 chips,fold
+Bet 16.0 chips,bet 12
+Fold,fold
+Raise 30 chips.,fold
+Bet 4 chips,check
+Call,fold
+Raise 24 chips.,call
+Raise 26 chips,fold
+Raise 77 chips,fold
+Raise 77 chips,fold
+Fold,fold
+Call,fold
+Fold,check
+Fold,bet 24
+Call,call
+Call,check
+Raise 20 chips.,call
+Raise 10 chips,raise 18
+Raise 7 chips.,call
+Call,raise 13
+Call,call
+Raise 20 chips.,call
+Bet 2.5 chips,check
+Fold,fold
+Fold,bet 29
+Bet 6 chips,bet 13
+Raise 50 chips,raise 83
+Call,raise 38
+Fold,raise 4
+Raise 120 chips.,call
+Raise 20 chips.,call
+Call,call
+Call,call
+Fold,check
+Call,call
+Fold,fold
+Bet 10.0 chips,check
+Call,call
+Fold,call
+Bet 4 chips,check
+Raise 40 chips.,call
+Raise 25 chips,call
+Call,bet 3
+Fold,fold
+Fold,fold
+Shove,check
+Fold,call
+Bet 35 chips,bet 30
+Fold,check
+Call,raise 16
+Shove,bet 23
+Fold,call
+Check,check
+Bet 14.0 chips,check
+Call,call
+Shove,bet 24
+Raise 7 chips,call
+Fold,check
+Call,call
+Raise 32 chips,check
+Shove,bet 29
+Call,fold
+Check,check
+Fold,bet 17
+Raise 12 chips,raise 25
+Fold,bet 29
+Raise 35 chips,call
+Bet 4 chips,check
+Call,raise 58
+Call,raise 85
+Raise 30 chips.,fold
+Call,raise 88
+Raise 10 chips,raise 22
+Call,call
+Raise 37 chips,call
+Fold,fold
+Fold,check
+Raise 23 chips.,call
+Shove,check
+Fold,bet 7
+Fold,check
+Call,fold
+Call 5 chips,fold
+Call,fold
+Call,raise 27
+Bet 10.0 chips,check
+Check,check
+Raise 30 chips,raise 87
+Call,raise 11
+Raise 10 chips,call
+Fold,bet 23
+Bet 10.0 chips,check
+Call,fold
+Bet 17 chips,check
+Raise 30 chips,call
+Bet 14.0 chips.,bet 11
+Raise 81 chips,fold
+Call,call
+Fold,call
+Call,call
+Raise 66 chips.,call
+Call,call
+Bet 17 chips,check
+Call,fold
+Fold,fold
+Bet 10 chips,check
+Raise 4 chips,call
+Shove 31.0 chips.,check
+Call,raise 29
+Raise 40 chips,raise 77
+Call,call
+Raise 40 chips,fold
+Call,raise 23
+Raise 40 chips.,raise 85
+Raise 15 chips.,check
+Shove 37.0 chips.,bet 29
+Raise 100 chips,call
+Bet 4.5 chips,check
+Call,call
+Check,check
+Raise 57 chips,raise 92
+Raise 40 chips,call
+Shove,bet 23
+Call,fold
+Shove 52 chips,bet 29
+Fold,fold
+Call,raise 86
+Raise 25 chips,fold
+Raise 30 chips,call
+Call,fold
+Raise 30 chips,raise 58
+Call,raise 41
+Call,check
+Fold,fold
+Call,call
+Bet 12 chips,check
+Shove,bet 23
+Shove,check
+Bet 5 chips,check
+Bet 4.5 chips,check
+Check,check
+Bet 3.0 chips,check
+Call,check
+Call,check
+Raise 30 chips.,check
+Call,raise 84
+Check,bet 12
+Call,call
+Raise 25 chips,fold
+Call,raise 11
+Call,raise 10
+Bet 31 chips,bet 23
+Bet 4 chips,bet 7
+Raise 20 chips,fold
+Fold,call
+Fold,check
+Call,raise 13
+Bet 14.0 chips,check
+Call,raise 90
+Call,call
+Fold,fold
+Bet 8.0 chips,bet 5
+Shove,bet 20
+Bet 3.0 chips,check
+Raise 12 chips.,call
+Call,fold
+Raise 40 chips,fold
+Fold,call
+Raise 40 chips,raise 86
+Call,fold
+Bet 2.0 chips,bet 3
+Bet 5 chips,check
+Bet 26 chips,bet 31
+Raise 51 chips,raise 89
+Bet 4 chips,check
+Fold,fold
+Bet 5 chips,check
+Raise 12 chips.,call
+Call,fold
+Bet 4 chips,check
+Shove,check
+Shove,bet 18
+Bet 15 chips,check
+Fold,fold
+Shove,check
+Call,fold
+Raise 20 chips,raise 38
+Raise 30 chips.,call
+Call,call
+Raise 40 chips,fold
+Shove,bet 34
+Bet 4 chips,check
+Shove,check
+Raise 40 chips.,raise 77
+Raise 12 chips,bet 16
+Fold,fold
+Call,call
+Raise 16 chips.,check
+Call,call
+Bet 25 chips,check
+Fold,fold
+Call,call
+Call,call
+Raise 22 chips.,call
+Call,call
+Fold,bet 29
+Fold,fold
+Call,call
+Shove,check
+Bet 4 chips,check
+Fold,call
+Check,check
+Bet 4 chips,check
+Bet 20 chips,check
+Raise 30 chips.,call
+Fold,fold
+Fold,fold
+Raise 10 chips,call
+Raise 30 chips,fold
+Check,check
+Bet 3.5 chips,check
+Bet 13 chips,check
+Bet 12 chips,check
+Raise 20 chips,raise 41
+Shove,check
+Fold,fold
+Call,raise 41
+Raise 26 chips,bet 28
+Raise 44 chips,raise 90
+Shove 69.0 chips.,check
+Check,bet 13
+Raise 77 chips,fold
+Fold,fold
+Raise 45 chips,call
+Raise 12 chips,check
+Call,call
+Fold,check
+Bet 4 chips,bet 10
+Call,call
+Call,call
+Raise 57 chips,raise 92
+Fold,fold
+Raise 6 chips,raise 13
+Call,bet 40
+Fold,check
+Raise 30 chips,raise 83
+Fold,bet 29
+Bet 15.0 chips,check
+Call,call
+Raise 40 chips.,raise 82
+Bet 6 chips,check
+Fold,fold
+Check,check
+Raise 30 chips,call
+Call,call
+Raise 141.0 chips,call
+Call,call
+Call,call
+Raise 32 chips,fold
+Call,fold
+Call,fold
+Raise 38 chips,raise 92
+Raise 35 chips,fold
+Fold,fold
+Call,call
+Fold,fold
+Raise 20 chips,call
+Shove,check
+Call,fold
+Call,call
+Raise 100 chips,call
+Fold,fold
+Raise 30 chips,call
+Call,fold
+Bet 10.0 chips,bet 18
+Bet 2.0 chips,check
+Shove,check
+Call,call
+Call,raise 25
+Shove,check
+Call,call
+Raise 23 chips.,call
+Raise 15 chips,call
+Call,call
+Fold,call
+Fold,fold
+Bet 17 chips,bet 13
+Raise 20 chips,bet 23
+Shove,check
+Bet 16.0 chips.,check
+Bet 12 chips,bet 17
+Fold,bet 39
+Fold,fold
+Fold,check
+Call,check
+Call,call
+Raise 26 chips,fold
+Call,call
+Call,fold
+Bet 4 chips,check
+Call,call
+Raise 7 chips,call
+Raise 54 chips,fold
+Call,raise 73
+Bet 6 chips,check
+Fold,fold
+Fold,fold
+Fold,check
+Call,fold
+Raise 20 chips,call
+Fold,fold
+Call,call
+Call,fold
+Raise 10 chips,check
+Call,raise 16
+Bet 8 chips,check
+Fold,fold
+Call,call
+Raise 40 chips.,call
+Call,fold
+Call,call
+Bet 4.5 chips,check
+Raise 40 chips,fold
+Check,bet 17
+Fold,fold
+Check,bet 18
+Raise 100 chips,raise 86
+Check,bet 8
+Call,call
+Call,call
+Raise 37 chips,raise 86
+Shove,check
+Call,call
+Raise 35 chips,call
+Fold,fold
+Raise 26 chips,call
+Raise 12 chips.,fold
+Raise 20 chips,call
+Bet 5 chips,check
+Call,raise 83
+Raise 44 chips,call
+Bet 10 chips,check
+Fold,fold
+Call,raise 37
+Bet 17 chips,check
+Call,call
+Call,raise 84
+Bet 6 chips,check
+Raise 35 chips,call
+Bet 13 chips,check
+Call,fold
+Bet 12 chips,check
+Raise 5 chips,call
+Shove 39.0 chips,check
+Check,bet 8
+Raise 25 chips,raise 48
+Fold,call
+Bet 13.0 chips,bet 10
+Call,call
+Call,raise 32
+Raise 20 chips,call
+Call,raise 35
+Shove,check
+Call,call
+Bet 10.0 chips,bet 16
+Fold,fold
+Call,bet 13
+Fold,check
+Raise 40 chips,raise 81
+Call,call
+Call,call
+Raise 51 chips,fold
+Call,call
+Raise 40 chips,call
+Raise 25 chips,check
+Bet 14.0 chips,bet 11
+Call,check
+Bet 12 chips,check
+Fold,bet 4
+Check,check
+Fold,fold
+Shove,check
+Fold,fold
+Raise 93 chips,raise 84
+Call,call
+Fold,fold
+Bet 10 chips,bet 21
+Raise 18 chips,raise 32
+Call,fold
+Bet 4 chips,check
+Bet 5 chips,check
+Fold,call
+Fold,fold
+Call,call
+Fold,bet 39
+Check,bet 12
+Fold,check
+Raise 77 chips,call
+Fold,check
+Raise 40 chips,raise 84
+Call,fold
+Call,call
+Shove,check
+Fold,bet 29
+Call,raise 84
+Bet 5 chips,bet 24
+Raise 7 chips.,call
+Shove 29.0 chips.,bet 25
+Call,raise 87
+Fold,check
+Shove,check
+Call,call
+Call,raise 29
+Check,check
+Shove,bet 17
+Raise 100 chips,call
+Raise 25 chips,call
+Call,call
+Call,fold
+Fold,fold
+Bet 4.5 chips,check
+Call,fold
+Bet 4 chips,check
+Bet 4 chips,check
+Fold,fold
+Bet 6 chips,bet 13
+Call,check
+Raise 20 chips,check
+Fold,bet 13
+Fold,fold
+Call,fold
+Call,call
+Raise 10 chips,check
+Call,raise 29
+Shove,bet 23
+Call 10 chips,fold
+Call,call
+Raise 37 chips,raise 95
+Raise 30 chips,check
+Bet 3.5 chips,check
+Bet 10.0 chips,bet 16
+Call,check
+Bet 4 chips,check
+Raise 12 chips,check
+Raise 20 chips,call
+Call,raise 13
+Call,raise 13
+Call,bet 5
+Raise 10 chips.,raise 16
+Raise 12 chips.,call
+Fold,fold
+Bet 16.0 chips.,bet 12
+Call,call
+Call,call
+Call,fold
+Raise 10 chips,raise 25
+Call,raise 31
+Call,fold
+Call,raise 22
+Call,call
+Call,raise 19
+Call,call
+Raise 30 chips,fold
+Raise 84 chips,raise 87
+Raise 20 chips.,call
+Check,check
+Check,check
+Fold,fold
+Fold,fold
+Fold,fold
+Raise 100 chips,call
+Shove,check
+Fold,fold
+Call,call
+Raise 10 chips,check
+Call,raise 86
+Fold,fold
+Check,bet 20
+Shove,bet 29
+Check,bet 16
+Call,raise 17
+Call,fold
+Shove,check
+Fold,check
+Call,check
+Call,call
+Call,call
+Fold,fold
+Raise 120 chips,fold
+Fold,fold
+Fold,fold
+Call,fold
+Call,call
+Call,raise 10
+Call 8 chips,call
+Call,fold
+Check,check
+Bet 4.5 chips,check
+Call,call
+Call,call
+Bet 4 chips,check
+Shove,check
+Raise 30 chips,call
+Call,call
+Raise 20 chips.,raise 46
+Call,raise 13
+Fold,fold
+Call,check
+Bet 32 chips,check
+Call,raise 38
+Fold,fold
+Bet 15.0 chips,bet 10
+Fold,fold
+Fold,call
+Fold,bet 12
+Fold,fold
+Raise 4 chips.,call
+Call,fold
+Bet 6 chips,check
+Raise 40 chips,raise 77
+Fold,check
+Raise 44 chips,fold
+Raise,call
+Call,raise 93
+Bet 12.5 chips,check
+Fold,raise 64
+Bet 20 chips,bet 24
+Shove,check
+Call,raise 41
+Bet 17 chips,bet 29
+Bet 5.0 chips,bet 5
+Call,fold
+Raise 15 chips,call
+Fold,fold
+Fold,check
+Shove,bet 24
+Check,bet 5
+Fold,call
+Raise 12 chips,raise 29
+Fold,call
+Raise 30 chips,call
+Fold,call
+Raise 51 chips,fold
+Fold,fold
+Call,call
+Call,fold
+Bet 24.0 chips,bet 18
+Fold,check
+Fold,fold
+Check,check
+Raise 35 chips,call
+Call,fold
+Fold,fold
+Bet 6 chips,check
+Call,fold
+Shove,bet 29
+Call,raise 27
+Shove,check
+Call,bet 24
+Call,call
+Raise 15 chips.,call
+Check,bet 10
+Call,check
+Call,call
+Call,call
+Raise 81 chips,call
+Shove,check
+Fold,fold
+Fold,fold
+Call,bet 3
+Fold,bet 29
+Call,fold
+Fold,fold
+Raise 10 chips.,call
+Call,raise 13
+Raise 20 chips.,raise 41
+Raise 40 chips,call
+Call,call
+Raise 30 chips,fold
+Call,raise 89
+Fold,fold
+Shove,check
+Fold,fold
+Call,call
+Call,fold
+Call,fold
+Call,raise 18
+Fold,fold
+Call,raise 84
+Call,call
+Call,fold
+Fold,fold
+Shove,bet 25
+Bet 6.0 chips,bet 5
+Raise 20 chips,call
+Shove 23.0 chips.,bet 20
+Call,call
+Raise 20 chips,call
+Bet 4 chips,check
+Fold,bet 29
+Raise 40 chips.,call
+Call,call
+Fold,fold
+Raise 20 chips,fold
+Check,check
+Raise 30 chips,call
+Shove,check
+Call,call
+Fold,fold
+Bet 4 chips,check
+Fold,fold
+Call,check
+Raise 12 chips,check
+Call,call
+Shove 51.0 chips.,check
+Raise 81 chips,fold
+Fold,raise 62
+Call,fold
+Check,check
+Call,raise 27
+Fold,call
+Raise 25 chips,fold
+Call,fold
+Fold,raise 29
+Raise 31 chips,fold
+Check,check
+Raise 20 chips,check
+Call,fold
+Raise 20 chips.,raise 29
+Call,call
+Bet 6 chips,check
+Fold,fold
+Bet 4.5 chips,bet 4
+Raise 15 chips.,call
+Call,raise 14
+Shove,check
+Check,check
+Raise 14 chips,raise 25
+Bet 4 chips,check
+Raise 51 chips,fold
+Raise 138 chips,call
+Fold,bet 24
+Call,raise 29
+Call,fold
+Call,call
+Fold,fold
+Call,raise 83
+Call,bet 12
+Raise 10 chips,fold
+Bet 4 chips,check
+Fold,fold
+Call,fold
+Shove,check
+Fold,fold
+Call,call
+Raise 25 chips,raise 89
+Check,check
+Call,raise 86
+Shove 51.0 chips,raise 73
+Fold,check
+Call,raise 29
+Raise 31 chips,call
+Fold,call
+Call,call
+Fold,call
+Check,bet 10
+Raise 20 chips,raise 41
+Fold,fold
+Fold,call
+Fold,check
+Call,fold
+Fold,fold
+Fold,check
+Call,call
+Fold,fold
+Fold,fold
+Bet 4 chips,check
+Fold,check
+Call,fold
+Raise 12 chips.,raise 29
+Raise 100 chips,fold
+Call,fold
+Raise 49 chips,raise 81
+Call,call
+Raise 5 chips.,call
+Raise 15 chips,call
+Bet 13 chips,bet 10
+Bet 5 chips,check
+Fold,check
+Fold,raise 86
+Raise 30 chips,bet 32
+Call,fold
+Call,call
+Call,check
+Call,fold
+Fold,fold
+Raise 100 chips,call
+Fold,fold
+Call,call
+Fold,fold
+Call,raise 93
+Fold,call
+Call,fold
+Call,raise 88
+Call,call
+Fold,fold
+Raise 20 chips,check
+Raise 30 chips,call
+Call,call
+Bet 3.5 chips,check
+Raise 20 chips,check
+Bet 12 chips,check
+Fold,fold
+Fold,fold
+Call,raise 87
+Call,call
+Bet 14.0 chips.,bet 11
+Call,call
+Bet 2.0 chips,check
+Call,fold
+Call,call
+Bet 6.0 chips,check
+Raise 12 chips,check
+Fold,call
+Fold,call
+Bet 12.0 chips,check
+Call,call
+Shove,bet 24
+Raise 37 chips,call
+Raise 120 chips.,fold
+Call,call
+Raise 25 chips,raise 88
+Fold,fold
+Fold,fold
+Call,fold
+Fold,bet 13
+Raise 40 chips,fold
+Call,check
+Raise 30 chips,call
+Call,fold
+Raise 150 chips,call
+Call,call
+Fold,fold
+Fold,fold
+Check,check
+Raise 20 chips,raise 38
+Raise 32 chips.,raise 41
+Check,bet 4
+Fold,fold
+Call,fold
+Raise 25 chips,call
+Raise 76 chips,fold
+Call,raise 85
+Fold,fold
+Call,check
+Fold,check
+Fold,bet 17
+Raise 18 chips,call
+Raise 45 chips,fold
+Raise 37 chips,raise 86
+Raise,call
+Fold,fold
+Raise 23 chips,call
+Shove 21.0 chips,check
+Call,fold
+Call,call
+Bet 4.0 chips,check
+Raise 30 chips.,raise 58
+Fold,fold
+Call,check
+Call,check
+Raise 10 chips,call
+Call,call
+Fold,fold
+Raise 15 chips,check
+Call,call
+Check,check
+Fold,fold
+Raise 10 chips,raise 37
+Fold,fold
+Check,check
+Call,call
+Shove,check
+Call,fold
+Raise 44 chips,call
+Bet 20 chips,check
+Shove,check
+Raise 20 chips,raise 41
+Call,call
+Call,fold
+Raise 84 chips,call
+Fold,raise 61
+Raise 20 chips,call
+Raise 29 chips,raise 92
+Raise 20 chips,raise 27
+Call,call
+Fold,fold
+Call,fold
+Call,raise 30
+Raise 66 chips,raise 92
+Call,call
+Bet 6.0 chips,check
+Call,raise 83
+Fold,fold
+Bet 6 chips,bet 22
+Raise 40 chips,raise 92
+Fold,fold
+Call,fold
+Bet 4 chips,check
+Check,check
+Call,bet 12
+Bet 6 chips,check
+Call,fold
+Bet 12.5 chips,check
+Call,call
+Check,check
+Shove,bet 34
+Call,call
+Call,check
+Bet 13 chips,bet 10
+Fold,check
+Call,check
+Fold,fold
+Bet 4 chips,check
+Bet 3.5 chips,check
+Raise 62 chips,fold
+Call,fold
+Raise 62 chips,call
+Fold,check
+Bet 6 chips,check
+Fold,call
+Bet 12.5 chips,check
+Call,check
+Bet 10.0 chips.,bet 8
+Raise 20.0 chips,raise 17
+Shove,check
+Fold,check
+Bet 10 chips,check
+Raise 15 chips,check
+Fold,fold
+Check,check
+Raise 46 chips,raise 48
+Call,call
+Check,check
+Call,call
+Fold,raise 58
+Raise 34 chips.,call
+Check,check
+Call,raise 92
+Bet 10 chips,check
+Raise 30 chips.,fold
+Call,fold
+Call,fold
+Call,bet 3
+Bet 4 chips,check
+Call,raise 10
+Check,check
+Call,call
+Bet 3.5 chips,check
+Raise 100 chips,call
+Raise 89 chips,fold
+Call,call
+Fold,fold
+Call,fold
+Call,fold
+Check,check
+Fold,raise 75
+Raise 26 chips,call
+Shove,check
+Fold,fold
+Call,raise 46
+Call,call
+Bet 3 chips,check
+Raise 29 chips,fold
+Raise 52 chips,raise 88
+Call,fold
+Call,raise 89
+Call,call
+Call,fold
+Raise 20 chips,call
+Fold,check
+Call,fold
+Bet 4.5 chips,check
+Call,raise 85
+Bet 14.0 chips,check
+Bet 23 chips,check
+Call,fold
+Fold,check
+Raise 38 chips,fold
+Call,call
+Call,call
+Bet 4.5 chips,check
+Call,fold
+Call,raise 86
+Bet 16.0 chips,bet 12
+Raise 40 chips,raise 77
+Call,call
+Fold,check
+Fold,call
+Call,raise 48
+Raise 30 chips.,call
+Bet 39 chips,check
+Bet 8.0 chips,check
+Raise 32 chips.,check
+Call,call
+Shove 69.0 chips.,check
+Fold,fold
+Bet 6 chips,check
+Raise 31 chips,call
+Call,fold
+Bet 15.0 chips,bet 22
+Call,check
+Call,raise 13
+Shove 21.0 chips,check
+Raise 81 chips,call
+Fold,check
+Call,fold
+Call,fold
+Call,call
+Bet 6 chips,check
+Fold,fold
+Raise 32 chips,call
+Call,fold
+Call,raise 35
+Check,check
+Call,call
+Call,fold
+Fold,raise 82
+Raise 26 chips,call
+Call,fold
+Call,call
+Shove,check
+Call,call
+Fold,fold
+Call,raise 56
+Shove,raise 58
+Bet 3.5 chips,check
+Call,check
+Shove 31.0 chips.,check
+Fold,check
+Bet 3.5 chips,check
+Call,call
+Bet 24.0 chips,check
+Call,fold
+Bet 20 chips,check
+Fold,check
+Call,raise 88
+Call,check
+Fold,fold
+Bet 14.0 chips,bet 11
+Bet 6 chips,check
+Fold,fold
+Raise 40 chips,raise 81
+Fold,raise 38
+Raise 40 chips.,raise 86
+Call,call
+Call,call
+Fold,raise 90
+Fold,check
+Call,call
+Raise 42 chips,fold
+Call,fold
+Fold,fold
+Raise 100 chips,call
+Fold,fold
+Call,check
+Call,call
+Bet 24 chips,check
+Raise 30 chips.,fold
+Call,call
+Raise 44 chips.,call
+Call,call
+Call,raise 91
+Call,call
+Check,bet 17
+Fold,fold
+Call,call
+Call,fold
+Raise 20 chips.,call
+Fold,fold
+Fold,fold
+Fold,fold
+Call,raise 19
+Raise 40 chips,call
+Fold,fold
+Call,check
+Raise 40 chips,fold
+Fold,fold
+Fold,check
+Call,call
+Bet 3.5 chips,check
+Bet 4.5 chips,check
+Raise 20 chips.,fold
+Call,raise 86
+Fold,fold
+Call,fold
+Raise 12 chips.,call
+Call,fold
+Fold,call
+Bet 8 chips,check
+Call,fold
+Call,call
+Fold,bet 29
+Call,check
+Check,check
+Check,bet 18
+Fold,raise 70
+Call,call
+Raise 20 chips,fold
+Check,check
+Fold,fold
+Call,call
+Check,check
+Raise 32 chips.,raise 84
+Call,call
+Bet 13 chips,check
+Bet 5 chips,check
+Raise 51 chips,call
+Call,call
+Bet 6 chips,check
+Call,check
+Call,fold
+Call,raise 25
+Call,call
+Call,call
+Shove,check
+Raise 37 chips,raise 58
+Raise 37 chips,fold
+Call,bet 10
+Bet 15.5 chips,check
+Bet 4.5 chips,check
+Raise 137 chips,fold
+Shove,check
+Shove,check
+Call,call
+Raise 20 chips,fold
+Raise 74 chips,fold
+Call,fold
+Raise 100 chips.,fold
+Check,check
+Call,check
+Bet 8 chips,bet 17
+Call,fold
+Check,check
+Call,call
+Raise 40 chips,fold
+Call,call
+Fold,bet 17
+Raise 40 chips,raise 86
+Call,fold
+Call,fold
+Raise 40 chips.,raise 88
+Raise 90 chips,fold
+Call,fold
+Bet 3.5 chips,check
+Raise 25 chips.,fold
+Raise 40 chips,raise 74
+Raise 30 chips,raise 94
+Call,fold
+Bet 8 chips,check
+Raise 15 chips.,call
+Call,call
+Call,call
+Call,fold
+Raise 20 chips.,raise 35
+Fold,fold
+Raise 100 chips.,raise 81
+Bet 4 chips,bet 10
+Call,call
+Call,raise 89
+Shove,check
+Bet 12 chips,check
+Call,raise 81
+Check,check
+Call,call
+Raise 25 chips,call
+Call,raise 16
+Raise 40 chips,call
+Fold,fold
+Raise 45 chips,raise 93
+Raise 30 chips,raise 85
+Call,call
+Check,bet 13
+Bet 4 chips,check
+Call,bet 4
+Raise 22 chips.,call
+Call,call
+Call,call
+Call,raise 48
+Bet 20 chips,check
+Check,bet 29
+Shove,check
+Raise 40 chips.,raise 77
+Raise 20 chips,raise 38
+Shove,bet 29
+Call,call
+Call,raise 35
+Call,check
+Shove,bet 29
+Bet 4.5 chips,check
+Shove,check
+Raise 40 chips.,raise 80
+Raise 40 chips,raise 90
+Fold,fold
+Check,bet 20
+Call,raise 18
+Call,call
+Call,call
+Raise 40 chips,call
+Call,call
+Bet 24.0 chips,check
+Fold,fold
+Bet 4 chips,check
+Bet 10 chips,check
+Check,check
+Fold,fold
+Raise 20 chips.,raise 32
+Bet 4.5 chips.,check
+Bet 4.5 chips.,check
+Call,check
+Call,raise 18
+Check,check
+Call,call
+Fold,raise 85
+Fold,check
+Call,fold
+Raise 25 chips,check
+Shove,bet 23
+Call,check
+Check,bet 5
+Fold,fold
+Raise 60 chips,raise 89
+Fold,check
+Shove 14.0 chips.,bet 11
+Bet 3.5 chips,bet 2
+Call,call
+Raise 30 chips.,fold
+Raise 17 chips,call
+Bet 8 chips,check
+Raise 30 chips,call
+Call,call
+Call,fold
+Fold,fold
+Raise 15 chips,raise 25
+Bet 4.5 chips,bet 5
+Call,fold
+Call,check
+Call,call
+Raise 30 chips,call
+Call,fold
+Check,check
+Call,fold
+Bet 4 chips,check
+Call,check
+Bet 6 chips,check
+Check,check
+Raise 100 chips,fold
+Fold,fold
+Fold,fold
+Call,raise 73
+Call,fold
+Fold,call
+Raise 12 chips,call
+Raise 7 chips,raise 22
+Fold,raise 86
+Raise 20 chips,call
+Call,call
+Raise 40 chips,fold
+Call,fold
+Fold,fold
+Call,fold
+Fold,check
+Call,bet 23
+Bet 7 chips,bet 11
+Fold,fold
+Fold,check
+Raise 86 chips.,raise 81
+Call,fold
+Call 16 chips,call
+Raise 30 chips.,raise 81
+Raise 44 chips,call
+Fold,fold
+Bet 4 chips,check
+Raise 40 chips.,raise 82
+Fold,fold
+Shove,bet 18
+Fold,fold
+Raise 40 chips,raise 80
+Call,call
+Call,call
+Raise 40 chips,raise 85
+Fold,fold
+Call,raise 84
+Bet 16.0 chips.,check
+Raise 20 chips.,bet 29
+Raise 20 chips,call
+Call,raise 35
+Call,raise 32
+Bet 8 chips,bet 17
+Fold,check
+Shove 45.0 chips.,check
+Call,call
+Bet 4 chips,check
+Call,raise 16
+Call,raise 73
+Call,call
+Check,check
+Call,fold
+Raise 40 chips,call
+Call,call
+Call,call
+Call,call
+Raise,raise 82
+Call,fold
+Raise 22 chips,raise 41
+Shove,check
+Check,check
+Raise 30 chips,call
+Fold,call
+Call,call
+Raise 6.0 chips,call
+Raise 20 chips.,bet 20
+Raise 30 chips.,raise 58
+Fold,bet 12
+Check,check
+Shove,check
+Fold,check
+Bet 8.5 chips,bet 7
+Call,raise 88
+Call,call
+Raise 40 chips,raise 89
+Fold,fold
+Bet 8.5 chips,bet 15
+Raise 74 chips,fold
+Fold,fold
+Fold,fold
+Call,raise 35
+Raise 25 chips,fold
+Call,call
+Shove,bet 23
+Fold,fold
+Fold,fold
+Bet 31 chips,check
+Fold,raise 84
+Raise 40 chips,raise 95
+Call,raise 30
+Call,fold
+Bet 10.0 chips,check
+Call,call
+Fold,fold
+Shove,bet 27
+Call,fold
+Call,call
+Fold,fold
+Raise 30 chips,fold
+Raise 30 chips,call
+Shove,bet 29
+Raise 37 chips,raise 86
+Call,fold
+Check,check
+Fold,fold
+Raise 5 chips,call
+Call,call
+Call,call
+Bet 10 chips,bet 18
+Bet 6 chips,bet 16
+Fold,raise 32
+Raise 30 chips.,fold
+Call,fold
+Bet 6 chips,bet 31
+Raise 12 chips,call
+Call,call
+Shove,check
+Bet 16 chips,bet 28
+Shove,check
+Check,check
+Raise 35 chips,call
+Bet 10.0 chips,bet 8
+Bet 6 chips,check
+Raise 40 chips,call
+Raise 39 chips,fold
+Raise 42 chips,call
+Shove,check
+Raise 12 chips.,bet 16
+Shove,check
+Fold,call
+Call,raise 13
+Call,call
+Call,call
+Fold,fold
+Bet 4 chips,check
+Call,check
+Raise 40 chips,call
+Check,check
+Bet 12 chips,check
+Fold,fold
+Call,bet 13
+Bet 4 chips,bet 10
+Raise 20 chips,raise 43
+Call,fold
+Bet 13.0 chips,check
+Fold,fold
+Raise 40 chips.,fold
+Call,fold
+Raise 20 chips,call
+Shove,check
+Raise 20 chips,check
+Call,raise 90
+Raise 46 chips,fold
+Call,fold
+Call,raise 16
+Call,call
+Call,call
+Fold,call
+Check,check
+Raise 30 chips,call
+Call,fold
+Call,call
+Raise 50 chips,call
+Bet 3.5 chips,check
+Call,call
+Raise 30 chips,fold
+Call,raise 38
+Call,raise 17
+Fold,bet 10
+Shove 21.0 chips,check
+Fold,raise 61
+Call,fold
+Call,call
+Shove,bet 23
+Call,check
+Call,call
+Fold,fold
+Call,raise 32
+Bet 4 chips,check
+Call,call
+Fold,call
+Call,fold
+Check,bet 23
+Call,call
+Fold,fold
+Fold,fold
+Call,raise 16
+Call,check
+Call,fold
+Fold,fold
+Check,check
+Bet 2 chips,check
+Call,fold
+Raise 20 chips,call
+Fold,raise 89
+Fold,call
+Fold,fold
+Fold,bet 5
+Raise 47 chips,raise 87
+Call,call
+Raise 48 chips,raise 81
+Raise 100 chips,call
+Shove,bet 17
+Raise 20 chips.,fold
+Raise 49 chips,raise 81
+Fold,raise 22
+Fold,call
+Call,fold
+Call,fold
+Check,raise 75
+Call,call
+Raise 40 chips,raise 85
+Raise 100 chips,fold
+Call,check
+Raise 25 chips.,raise 86
+Check,bet 2
+Call,call
+Check,check
+Shove,bet 34
+Raise 84 chips,call
+Fold,raise 23
+Shove,check
+Call,fold
+Raise 15 chips,check
+Raise 50 chips,raise 86
+Shove,bet 23
+Fold,call
+Shove,check
+Call,raise 83
+Raise 25 chips,call
+Fold,fold
+Check,check
+Call,fold
+Raise 100 chips,call
+Bet 10.0 chips,check
+Call,fold
+Bet 4.5 chips,check
+Call,fold
+Raise 30 chips,fold
+Raise 150 chips,call
+Fold,check
+Shove,check
+Call,call
+Fold,fold
+Call,raise 84
+Call,call
+Fold,raise 61
+Raise 100 chips,call
+Fold,call
+Call,fold
+Call,call
+Raise 40 chips.,call
+Bet 6 chips,check
+Call,call
+Fold,call
+Call,fold
+Fold,fold
+Raise 20 chips,check
+Fold,fold
+Bet 15.0 chips,check
+Raise 10 chips,call
+Call,raise 18
+Shove,check
+Fold,raise 73
+Fold,fold
+Bet 6 chips,check
+Raise 47 chips,call
+Shove,check
+Raise 20 chips,check
+Raise 3 chips.,call
+Check,check
+Check,check
+Raise 32 chips,bet 29
+Check,check
+Call,fold
+Raise 75 chips,call
+Fold,bet 25
+Shove,check
+Shove,check
+Call,call
+Raise 10 chips,check
+Raise 31 chips,call
+Fold,fold
+Call,check
+Bet 25 chips,check
+Shove,check
+Shove,bet 29
+Raise 15 chips,check
+Call,call
+Call,call
+Call,fold
+Fold,fold
+Bet 10 chips,check
+Call 23 chips,call
+Call,raise 16
+Fold,bet 18
+Call,call
+Call,fold
+Call,fold
+Raise 24 chips,raise 31
+Shove 51.0 chips,check
+Bet 17 chips,check
+Fold,fold
+Call,call
+Call,raise 87
+Call,raise 90
+Call,call
+Fold,fold
+Check,check
+Call,call
+Bet 10 chips,check
+Check,check
+Fold,fold
+Call,check
+Call,raise 32
+Raise 76 chips,raise 82
+Raise 57 chips,call
+Call,raise 22
+Fold,fold
+Call,fold
+Bet 4.5 chips,check
+Raise 20 chips.,raise 32
+Fold,check
+Shove,bet 23
+Bet 3.5 chips,check
+Call,call
+Shove,bet 29
+Call,call
+Bet 6 chips,check
+Call,fold
+Call,check
+Call,call
+Fold,fold
+Bet 3.5 chips,check
+Call,call
+Shove,bet 18
+Shove,check
+Fold,raise 54
+Raise 20 chips,bet 18
+Bet 9.0 chips,check
+Call,raise 29
+Shove,check
+Call,fold
+Call,raise 31
+Call,call
+Call,check
+Check,bet 4
+Call,raise 27
+Call,fold
+Raise 10 chips,raise 19
+Call,raise 86
+Fold,fold
+Bet 4 chips,check
+Fold,call
+Check,check
+Raise 44 chips,fold
+Fold,bet 23
+Fold,call
+Bet 4.5 chips,bet 5
+Raise 20 chips.,check
+Raise 35 chips,raise 46
+Raise 81 chips,call
+Call,raise 94
+Raise 44 chips,call
+Raise 30 chips,fold
+Call,raise 88
+Call,call
+Fold,check
+Raise,raise 82
+Call,fold
+Call,call
+Call,call
+Raise 38 chips,fold
+Bet 4 chips.,check
+Fold,bet 17
+Raise 20 chips,raise 32
+Call,raise 23
+Call,call
+Bet 5 chips,check
+Call,call
+Raise 20 chips,bet 23
+Call,fold
+Shove,raise 74
+Fold,raise 14
+Call,raise 13
+Call,call
+Fold,check
+Check,check
+Call,call
+Raise 30 chips.,check
+Call,call
+Call,raise 90
+Call,check
+Check,check
+Fold,fold
+Fold,check
+Raise 40 chips,call
+Fold,check
+Fold,fold
+Call,call
+Check,check
+Raise 35 chips,raise 67
+Raise 100 chips,call
+Fold,call
+Call,call
+Fold,fold
+Call,check
+Fold,fold
+Fold,fold
+Raise 41 chips,fold
+Raise 7 chips,call
+Call,raise 30
+Call,call
+Raise 40 chips,fold
+Raise 30 chips,fold
+Raise 20 chips,raise 41
+Bet 12 chips.,check
+Call,raise 83
+Raise 60.0 chips,call
+Shove 69.0 chips,check
+Call,raise 80
+Bet 6 chips,check
+Call,raise 89
+Call,call
+Raise 35 chips.,call
+Raise 20 chips.,raise 44
+Raise 44 chips,raise 83
+Call,call
+Bet 4 chips,check
+Raise 53 chips,raise 80
+Call,call
+Fold,raise 85
+Fold,check
+Fold,check
+Call,call
+Raise 4 chips,call
+Call,call
+Call,check
+Call,fold
+Bet 4.5 chips,bet 4
+Fold,fold
+Call,fold
+Check,bet 17
+Fold,bet 23
+Check,check
+Call,call
+Fold,fold
+Bet 16 chips,bet 29
+Fold,fold
+Bet 4 chips,bet 10
+Raise 32 chips,raise 34
+Raise 4 chips.,call
+Call,call
+Shove,bet 29
+Call,call
+Check,bet 25
+Raise 20 chips.,bet 23
+Raise 89 chips,fold
+Call,call
+Call,bet 10
+Check,bet 29
+Call,call
+Bet 39 chips,bet 29
+Bet 3.5 chips,bet 2
+Raise 35 chips.,check
+Bet 4 chips,check
+Raise 12 chips,check
+Bet 10 chips,check
+Raise 37 chips,fold
+Fold,fold
+Raise 82 chips,fold
+Call,check
+Call,check
+Call,call
+Fold,fold
+Shove,check
+Raise 89 chips,fold
+Call,call
+Raise 47 chips,call
+Raise 25 chips,check
+Fold,check
+Raise 76 chips,raise 89
+Call,call
+Shove,check
+Call,raise 84
+Bet 8 chips,check
+Shove,bet 39
+Call,fold
+Raise 121 chips.,call
+Fold,raise 73
+Bet 4 chips,check
+Fold,bet 8
+Call,call
+Bet 3.0 chips,bet 4
+Raise 15 chips,call
+Raise 42 chips.,call
+Bet 13 chips,bet 10
+Fold,call
+Call,call
+Check,check
+Bet 13 chips,bet 10
+Call,fold
+Call,call
+Call,call
+Bet 4.5 chips,bet 2
+Call,call
+Raise 26 chips,call
+Raise 41 chips,call
+Shove 37.0 chips.,bet 29
+Call,call
+Call,call
+Raise 12 chips.,call
+Shove,check
+Fold,check
+Call,fold
+Fold,check
+Shove,check
+Raise 51 chips,raise 77
+Raise 40 chips.,fold
+Shove,bet 29
+Raise 32 chips,check
+Call,raise 23
+Fold,fold
+Bet 3.0 chips,check
+Fold,call
+Bet 5.0 chips,check
+Bet 17 chips,check
+Call,fold
+Call,raise 82
+Call,raise 29
+Fold,fold
+Raise 10 chips,call
+Bet 4 chips,bet 10
+Bet 2.0 chips,check
+Fold,fold
+Raise 20 chips,raise 38
+Call,check
+Call,call
+Raise 40 chips,raise 81
+Call,fold
+Fold,raise 57
+Fold,check
+Fold,fold
+Raise 32 chips,check
+Raise 4 chips,raise 7
+Call,call
+Call,fold
+Check,bet 29
+Fold,raise 70
+Raise 25 chips,check
+Raise 40 chips,call
+Raise 80 chips,call
+Bet 8 chips,check
+Raise 100 chips,call
+Call,fold
+Bet 17 chips,check
+Call 10 chips,call
+Fold,call
+Call,call
+Raise 40 chips,fold
+Fold,call
+Call,fold
+Fold,call
+Call,call
+Fold,check
+Raise 40 chips,call
+Fold,fold
+Fold,fold
+Raise 25 chips,call
+Raise 100 chips,call
+Raise 41 chips.,call
+Call,raise 92
+Raise 77 chips,call
+Fold,fold
+Call,fold
+Raise 24 chips,call
+Raise 40 chips.,fold
+Check,check
+Fold,fold
+Call,fold
+Fold,fold
+Call,fold
+Call,fold
+Call,fold
+Fold,fold
+Bet 6 chips,check
+Shove,check
+Fold,fold
+Call,raise 27
+Raise 30 chips,check
+Check,check
+Call,raise 91
+Fold,fold
+Fold,call
+Raise 35 chips.,call
+Fold,fold
+Bet 6 chips,check
+Bet 4.5 chips,bet 6
+Raise 15 chips.,call
+Fold,fold
+Check,check
+Raise 58 chips,fold
+Raise 154.0 chips,call
+Bet 16 chips,check
+Fold,fold
+Bet 6 chips,check
+Bet 4 chips,check
+Fold,fold
+Call,raise 17
+Shove,bet 23
+Call,raise 13
+Fold,fold
+Fold,check
+Shove,check
+Raise 89 chips,fold
+Fold,fold
+Fold,check
+Call,raise 77
+Fold,fold
+Raise 51 chips,fold
+Fold,fold
+Bet 4 chips,check
+Bet 8 chips,bet 17
+Call,call
+Raise 30 chips,fold
+Raise 20 chips,check
+Raise 72 chips,call
+Raise 24 chips.,fold
+Bet 4 chips,check
+Raise 77 chips,fold
+Call,raise 88
+Fold,call
+Call,fold
+Call,call
+Fold,raise 64
+Call,raise 90
+Fold,raise 84
+Call,call
+Call,raise 16
+Check,bet 17
+Call,call
+Call,bet 13
+Raise 100 chips,call
+Call,raise 16
+Raise 30 chips,fold
+Call,fold
+Shove,check
+Fold,bet 18
+Fold,fold
+Fold,fold
+Fold,check
+Check,check
+Fold,call
+Bet 4 chips,bet 10
+Raise 20 chips.,call
+Fold,fold
+Fold,fold
+Shove,bet 29
+Shove 69.0 chips.,check
+Fold,fold
+Fold,check
+Raise 24 chips.,fold
+Bet 3.5 chips,check
+Raise 30 chips.,raise 80
+Raise 15 chips.,call
+Bet 10 chips,check
+Raise 100 chips,fold
+Call,call
+Fold,fold
+Fold,fold
+Raise 40 chips,fold
+Fold,bet 28
+Call,bet 3
+Fold,call
+Fold,fold
+Call,raise 84
+Call,raise 86
+Fold,fold
+Call,fold
+Call,raise 16
+Shove 32.0 chips,check
+Call,call
+Shove 29.0 chips.,check
+Bet 4 chips,check
+Bet 15 chips,check
+Raise 24 chips,call
+Shove,raise 70
+Raise 30 chips,call
+Raise 35 chips,raise 94
+Bet 12 chips,bet 35
+Call,raise 31
+Call,call
+Fold,call
+Check,check
+Raise 20 chips,check
+Call,fold
+Call,call
+Fold,fold
+Bet 6 chips,check
+Fold,call
+Bet 4 chips,check
+Call,call
+Shove,check
+Call,call
+Raise 40 chips.,fold
+Fold,fold
+Raise 82 chips.,check
+Fold,fold
+Raise 32 chips,call
+Raise 40 chips,fold
+Fold,check
+Shove,check
+Raise 12 chips.,call
+Raise 40 chips,fold
+Bet 4 chips,check
+Fold,check
+Raise 12 chips.,raise 25
+Raise 35 chips.,call
+Call,fold
+Call,call
+Raise 20 chips,call
+Call,raise 89
+Bet 8.0 chips,check
+Fold,fold
+Shove,raise 58
+Bet 12.5 chips,bet 10
+Call,bet 8
+Call,raise 58
+Fold,fold
+Raise 24 chips.,check
+Raise 80 chips,call
+Fold,fold
+Call,call
+Raise 35 chips,call
+Fold,fold
+Fold,bet 29
+Fold,fold
+Raise 89 chips,call
+Call,raise 89
+Raise 37 chips,call
+Fold,fold
+Call,call
+Raise 40 chips,raise 80
+Bet 4 chips,check
+Fold,bet 24
+Raise 12 chips,call
+Call,raise 77
+Fold,fold
+Check,check
+Bet 12 chips,check
+Shove,check
+Call,check
+Check,bet 2
+Call,raise 38
+Fold,check
+Bet 4 chips,check
+Call,fold
+Raise 37 chips,fold
+Bet 17 chips.,check
+Bet 32 chips,check
+Raise 29 chips,raise 92
+Call,call
+Call,fold
+Call,fold
+Fold,fold
+Raise 80 chips,fold
+Bet 6 chips,check
+Fold,fold
+Bet 13.0 chips,check
+Fold,fold
+Fold,raise 86
+Bet 10 chips,check
+Call,call
+Fold,check
+Call,call
+Fold,fold
+Shove,bet 29
+Call,fold
+Call,fold
+Fold,check
+Call,raise 37
+Fold,fold
+Fold,raise 10
+Call,call
+Fold,raise 64
+Call,call
+Call,call
+Fold,fold
+Call,call
+Raise 20 chips.,call
+Fold,check
+Shove,bet 11
+Call,fold
+Call,call
+Call,call
+Bet 4.5 chips,bet 4
+Call,call
+Bet 4 chips,check
+Fold,fold
+Raise 75.0 chips.,raise 78
+Check,bet 11
+Raise 40 chips,fold
+Call 35 chips,raise 87
+Bet 4.5 chips,check
+Bet 25 chips,bet 28
+Raise 5 chips.,raise 10
+Call,raise 88
+Call,bet 20
+Raise 20 chips.,bet 23
+Raise 17 chips,call
+Fold,raise 87
+Shove,bet 29
+Raise 7 chips,call
+Bet 17 chips,check
+Call,raise 29
+Raise 40 chips.,call
+Check,check
+Raise 62 chips,call
+Fold,fold
+Raise 30 chips,call
+Raise 40 chips.,raise 81
+Check,bet 4
+Call,raise 27
+Raise 100 chips,fold
+Call,call
+Call,check
+Fold,check
+Bet 20 chips,check
+Call,bet 10
+Raise 30 chips.,raise 81
+Call,raise 44
+Shove,check
+Fold,fold
+Raise 100 chips,call
+Fold,fold
+Fold,bet 29
+Call,check
+Fold,bet 17
+Shove,check
+Raise 20 chips,raise 27
+Call,raise 92
+Raise 30 chips,call
+Bet 8 chips,check
+Fold,fold
+Call,call
+Raise 30 chips,call
+Raise 54 chips,call
+Call,check
+Shove,bet 27
+Call 22 chips,call
+Call,call
+Raise 20 chips,fold
+Fold,fold
+Call,call
+Call,fold
+Raise 30 chips,bet 32
+Bet 4 chips,check
+Raise 30 chips.,raise 84
+Bet 2.0 chips,bet 3
+Fold,check
+Fold,check
+Call,call
+Call,fold
+Call,call
+Raise 90 chips.,raise 74
+Raise 90 chips.,call
+Call,call
+Call,raise 18
+Shove,check
+Bet 10 chips,check
+Call,raise 81
+Call,fold
+Call,bet 12
+Call,fold
+Raise 76 chips,fold
+Call,check
+Fold,fold
+Fold,bet 24
+Fold,fold
+Bet 10.0 chips,bet 16
+Raise 35 chips.,check
+Bet 13 chips,check
+Call,call
+Raise 10 chips.,check
+Shove,check
+Call,raise 89
+Bet 14.0 chips.,check
+Fold,check
+Call,raise 13
+Call,call
+Bet 30 chips,check
+Bet 4 chips,check
+Call,fold
+Raise 40 chips,call
+Call,fold
+Call,check
+Call,call
+Call,check
+Fold,fold
+Raise 10 chips,call
+Call,call
+Bet 6 chips,bet 10
+Bet 39 chips,check
+Call,check
+Fold,fold
+Check,check
+Call,raise 86
+Raise 20 chips,check
+Bet 10 chips,check
+Raise 54 chips.,raise 89
+Raise 12 chips.,call
+Call,raise 11
+Check,check
+Fold,check
+Call,fold
+Call,call
+Shove,check
+Raise 12 chips,check
+Bet 3.5 chips,check
+Raise 40 chips,fold
+Fold,fold
+Bet 17 chips,check
+Fold,bet 23
+Fold,raise 74
+Call,raise 35
+Fold,fold
+Fold,fold
+Bet 13.0 chips,check
+Shove,check
+Fold,fold
+Raise 12 chips.,call
+Call,raise 92
+Call,fold
+Call,call
+Check,bet 3
+Call,check
+Raise 32 chips.,check
+Bet 2.5 chips,bet 3
+Call,raise 89
+Call,fold
+Raise 12 chips,bet 16
+Fold,bet 7
+Raise 20 chips,check
+Call,call
+Raise 16 chips,call
+Call,raise 16
+Fold,fold
+Shove 51.0 chips.,check
+Call,check
+Fold,check
+Bet 8 chips,check
+Raise 35 chips,fold
+Call,call
+Raise 32 chips,raise 41
+Raise 58 chips,fold
+Raise 35 chips.,call
+Call,fold
+Fold,fold
+Bet 3.5 chips,check
+Bet 12.5 chips,check
+Bet 3 chips,check
+Fold,fold
+Call,call
+Fold,fold
+Bet 4 chips,check
+Bet 6 chips,check
+Raise 84 chips,fold
+Raise 58 chips,raise 88
+Bet 6 chips,check
+Raise 44 chips,raise 83
+Call,fold
+Shove 45.0 chips.,check
+Shove,bet 27
+Raise 30 chips,call
+Call,call
+Call,raise 95
+Raise 77 chips,call
+Call,call
+Bet 17 chips,bet 29
+Raise 100 chips.,raise 88
+Raise 77 chips,call
+Shove,check
+Bet 11.0 chips,check
+Call,bet 3
+Call,call
+Bet 13 chips,check
+Call,fold
+Call,fold
+Raise 100 chips,call
+Raise 100 chips,call
+Fold,fold
+Call,fold
+Call,call
+Raise 25 chips,check
+Call,fold
+Raise 20 chips.,call
+Bet 4 chips,check
+Call,call
+Raise 15 chips.,call
+Call,raise 25
+Call,raise 29
+Raise 15.0 chips,call
+Fold,raise 58
+Raise 10 chips,raise 37
+Fold,raise 37
+Call,raise 93
+Call,call
+Fold,raise 58
+Call,call
+Fold,fold
+Bet 3.5 chips,check
+Call,raise 41
+Raise 25 chips,fold
+Check,check
+Call,call
+Check,bet 17
+Fold,fold
+Bet 6 chips,check
+Call,raise 74
+Fold,fold
+Bet 4 chips,check
+Raise 54 chips,call
+Raise 121 chips.,call
+Call,raise 88
+Fold,fold
+Bet 24.0 chips,check
+Call,fold
+Call,fold
+Call,bet 13
+Fold,bet 34
+Call,call
+Raise 50 chips,call
+Fold,fold
+Call,call
+Call,fold
+Call,call
+Bet 6.0 chips,bet 5
+Call,fold
+Call,call
+Call,call
+Raise 20 chips,call
+Raise 41 chips,call
+Fold,fold
+Raise 100 chips.,raise 88
+Fold,fold
+Raise 10 chips,check
+Call,call
+Raise 30 chips.,fold
+Bet 12.5 chips,check
+Shove,check
+Raise 40 chips,fold
+Call,call
+Raise 20 chips.,check
+Raise 15 chips.,raise 25
+Raise 8 chips,call
+Call,call
+Fold,call
+Raise 43 chips,raise 88
+Raise 37 chips,call
+Bet 6 chips,check
+Call,call
+Fold,fold
+Bet 3.5 chips,bet 4
+Fold,fold
+Raise 40 chips,raise 90
+Call,raise 90
+Fold,check
+Call,call
+Call,bet 29
+Raise 5 chips.,call
+Fold,fold
+Raise 30 chips,call
+Shove,check
+Fold,raise 88
+Call,call
+Raise 15 chips.,fold
+Bet 20 chips,bet 24
+Fold,fold
+Bet 4 chips,check
+Raise 25 chips.,call
+Call,fold
+Call,raise 41
+Raise 15 chips.,check
+Fold,bet 23
+Check,bet 29
+Bet 10 chips,bet 18
+Bet 10.0 chips,bet 18
+Bet 3 chips,check
+Shove,bet 18
+Bet 3.5 chips,check
+Call,fold
+Bet 4.5 chips.,check
+Shove,check
+Call,fold
+Raise 7 chips,fold
+Call,fold
+Raise 20 chips,raise 26
+Raise 44 chips,raise 83
+Raise 30 chips.,call
+Fold,fold
+Fold,bet 2
+Raise 24 chips.,bet 51
+Bet 2.0 chips,check
+Bet 20 chips.,check
+Raise 35 chips.,raise 46
+Raise 35 chips.,call
+Raise 51 chips,raise 77
+Call,fold
+Bet 24.0 chips,check
+Call,call
+Call,raise 84
+Fold,check
+Raise 54 chips,raise 89
+Call,fold
+Call,call
+Raise 7 chips,call
+Fold,fold
+Check,check
+Raise 40 chips,raise 76
+Call,call
+Call,check
+Call,raise 16
+Shove,check
+Fold,fold
+Raise 30 chips,fold
+Call,call
+Call,raise 13
+Call 14 chips.,fold
+Raise 30 chips.,raise 36
+Call,raise 7
+Call,raise 77
+Check,check
+Shove,bet 23
+Raise 81 chips,call
+Call,fold
+Raise 15 chips,call
+Call,call
+Call,raise 16
+Call,fold
+Fold,fold
+Call,fold
+Raise 3.5 chips,call
+Raise 26 chips,call
+Raise 12 chips.,call
+Call,fold
+Fold,fold
+Raise 57 chips,fold
+Call,call
+Raise 30 chips,bet 32
+Raise 40 chips,call
+Raise 26 chips.,check
+Call,raise 88
+Fold,call
+Raise 40 chips,fold
+Call,raise 80
+Call,call
+Raise 42 chips,raise 72
+Raise 54 chips,raise 89
+Bet 4 chips,bet 4
+Call,call
+Call,call
+Raise 58 chips,fold
+Raise 120 chips,fold
+Call,check
+Shove,check
+Call,call
+Call,call
+Shove,raise 61
+Call,check
+Shove,check
+Fold,check
+Bet 10 chips,check
+Bet 4.5 chips,check
+Call,check
+Call,raise 16
+Raise 30 chips.,call
+Call,fold
+Raise 44 chips,raise 83
+Call,fold
+Check,check
+Fold,fold
+Raise 10 chips,call
+Fold,fold
+Fold,check
+Raise 20 chips,call
+Call,raise 81
+Call,fold
+Fold,fold
+Call,fold
+Call,bet 22
+Check,check
+Check,check
+Raise 120 chips.,fold
+Raise 80 chips,call
+Call,check
+Fold,check
+Call,call
+Raise 15 chips.,raise 29
+Bet 4 chips,check
+Bet 4 chips,check
+Raise 53 chips,raise 80
+Call,check
+Check,check
+Shove,bet 34
+Raise 30 chips,call
+Call,raise 32
+Raise 8 chips,raise 17
+Call,call
+Bet 8.0 chips,check
+Fold,fold
+Raise 40 chips.,call
+Fold,bet 29
+Call,raise 84
+Raise 15 chips,fold
+Call,raise 90
+Shove,check
+Call,fold
+Call,call
+Shove,check
+Fold,fold
+Call,fold
+Raise 25 chips,raise 84
+Call,bet 23
+Call,call
+Shove,check
+Raise 37 chips,raise 83
+Call,fold
+Bet 5 chips,check
+Fold,bet 8
+Bet 4.5 chips,check
+Call,raise 81
+Raise 32 chips,check
+Call,check
+Raise 51 chips,fold
+Raise 77 chips,call
+Raise 20 chips.,call
+Raise 100 chips,call
+Call,fold
+Shove 32.0 chips.,check
+Shove 31.0 chips.,bet 23
+Fold,bet 34
+Call,call
+Call,fold
+Shove,check
+Check,check
+Call,raise 83
+Shove,check
+Raise 23 chips,check
+Call,fold
+Call,call
+Raise 25 chips.,raise 83
+Shove,bet 27
+Raise 13 chips,call
+Raise 30 chips,raise 84
+Call,fold
+Raise 25 chips,fold
+Check,check
+Raise 30 chips.,fold
+Call,raise 32
+Raise 24 chips,call
+Fold,check
+Fold,fold
+Fold,fold
+Call,fold
+Shove,check
+Call,check
+Call,call
+Raise 20 chips,call
+Check,check
+Raise 20 chips.,check
+Call,call
+Bet 3.5 chips,bet 2
+Bet 4.5 chips,check
+Raise 26 chips,fold
+Call,fold
+Call,raise 41
+Call,raise 38
+Fold,raise 61
+Bet 3 chips,bet 8
+Check,check
+Call,raise 13
+Raise 10 chips,fold
+Raise 120 chips,fold
+Raise 40 chips.,fold
+Call,raise 77
+Raise 20 chips.,raise 38
+Call,fold
+Call,fold
+Fold,call
+Call,raise 11
+Fold,fold
+Shove,check
+Raise 20 chips.,bet 28
+Call,check
+Call 13 chips,call
+Fold,fold
+Raise 30 chips,call
+Call,raise 28
+Raise 15 chips,raise 22
+Fold,bet 8
+Call,fold
+Raise 40 chips,call
+Call,fold
+Bet 10 chips,check
+Call,fold
+Shove,check
+Call,check
+Call,call
+Call,fold
+Fold,fold
+Call,raise 88
+Raise 12 chips.,check
+Call,call
+Bet 3 chips,bet 8
+Fold,fold
+Call,bet 18
+Call,call
+Call,fold
+Call,raise 33
+Call,raise 93
+Bet 5 chips,bet 10
+Call,raise 48
+Call,call
+Fold,bet 18
+Call,fold
+Call,fold
+Call,call
+Fold,fold
+Bet 8 chips,check
+Bet 3.5 chips,bet 4
+Raise 46 chips,fold
+Fold,fold
+Raise 37 chips,raise 95
+Call,fold
+Fold,fold
+Bet 4 chips,check
+Bet 20.0 chips,check
+Call 23 chips,call
+Bet 3.5 chips,check
+Bet 10.0 chips,bet 11
+Call,check
+Call,check
+Raise 40 chips,call
+Call,call
+Call,call
+Bet 8.5 chips,check
+Fold,fold
+Call,call
+Raise 30 chips,fold
+Fold,bet 8
+Call,fold
+Fold,fold
+Call,call
+Call,call
+Shove,check
+Shove 51.0 chips.,check
+Call,call
+Raise 13 chips,raise 41
+Call,call
+Call,fold
+Raise 10 chips,raise 22
+Shove,check
+Raise 40 chips,fold
+Bet 15.0 chips,check
+Fold,fold
+Check,check
+Call,fold
+Shove,bet 29
+Bet 10.0 chips.,bet 8
+Call,fold
+Call,fold
+Shove,check
+Fold,raise 28
+Call,raise 33
+Raise 20 chips,raise 41
+Call,raise 91
+Raise 15 chips.,call
+Call,call
+Fold,fold
+Call,call
+Fold,fold
+Bet 12 chips,bet 16
+Shove,check
+Raise 12 chips.,fold
+Check,bet 7
+Call,call
+Fold,bet 34
+Call,raise 10
+Call,fold
+Shove,check
+Raise 20 chips,bet 40
+Bet 6 chips,check
+Fold,call
+Bet 10 chips,bet 22
+Fold,call
+Shove 37.0 chips.,bet 29
+Bet 17 chips,check
+Call,fold
+Raise 20 chips.,call
+Call,raise 10
+Bet 5 chips,bet 8
+Bet 4.5 chips,check
+Call,call
+Raise 39 chips.,bet 29
+Raise 20 chips,raise 31
+Fold,bet 13
+Call,fold
+Call,raise 92
+Raise 35 chips,call
+Call,call
+Raise 25 chips,call
+Call,call
+Raise 20 chips.,check
+Call,call
+Call,call
+Call,call
+Fold,fold
+Check,check
+Raise 76 chips,fold
+Call,call
+Fold,check
+Raise 40 chips,call
+Call,fold
+Bet 8 chips,check
+Raise 12 chips,call
+Bet 39 chips,check
+Shove,check
+Call,call
+Raise 81 chips,call
+Fold,fold
+Call,raise 85
+Call,call
+Raise 15 chips.,call
+Raise 100 chips,call
+Call,fold
+Raise 39.0 chips,bet 29
+Raise 120 chips,fold
+Fold,call
+Raise 6 chips,raise 13
+Bet 14.0 chips,check
+Call,raise 23
+Fold,fold
+Call,call
+Raise 100 chips.,raise 88
+Call,call
+Fold,fold
+Check,check
+Call,call
+Raise 37 chips,raise 95
+Raise 4 chips,raise 7
+Raise 12 chips.,call
+Call,fold
+Shove,check
+Raise 20 chips.,raise 38
+Call,call
+Call,raise 93
+Fold,fold
+Bet 4 chips,check
+Bet 5.0 chips,bet 5
+Fold,raise 83
+Call,raise 91
+Fold,fold
+Check,check
+Call,call
+Call,call
+Fold,raise 21
+Call,call
+Fold,check
+Shove,check
+Call,raise 31
+Call,call
+Call,call
+Bet 2.5 chips,bet 3
+Bet 6.0 chips,check
+Raise 50 chips,raise 89
+Call,bet 11
+Call,call
+Call,fold
+Bet 10 chips,check
+Bet 6 chips,bet 10
+Call,fold
+Fold,bet 29
+Fold,bet 29
+Call,call
+Call,call
+Call,fold
+Bet 10 chips,check
+Fold,fold
+Raise 40 chips,fold
+Fold,check
+Raise 20 chips,check
+Shove 51.0 chips.,check
+All-in,call
+Call,call
+Bet 16.0 chips,check
+Raise 77 chips,fold
+Call,call
+Check,check
+Call,call
+Call,call
+Call,call
+Call,raise 46
+Call,raise 23
+Fold,fold
+Call,call
+Raise 40 chips,raise 91
+Call,fold
+Fold,raise 64
+Fold,fold
+Fold,call
+Raise 84 chips,call
+Call,call
+Bet 17 chips,bet 13
+Fold,call
+Bet 6 chips,bet 22
+Call,call
+Call,call
+Call,call
+Call,call
+Fold,fold
+Raise 15 chips.,call
+Call,fold
+Raise 20 chips.,raise 35
+Fold,raise 73
+Call,fold
+Call,raise 41
+Raise 20 chips.,fold
+Fold,fold
+Bet 10.5 chips,bet 3
+Bet 4 chips,check
+Call,call
+Raise 15 chips,raise 32
+Raise 20 chips.,check
+Shove 32.0 chips,check
+Bet 4 chips,bet 4
+Fold,fold
+Raise 38 chips,fold
+Bet 6 chips,check
+Fold,raise 88
+Call,check
+Raise 30 chips,raise 84
+Call,call
+Raise 30 chips,call
+Bet 13 chips,check
+Bet 2.0 chips,check
+Call,raise 13
+Call,fold
+Fold,bet 17
+Call,call
+Shove,check
+Call,fold
+Call,check
+Call,call
+Shove,bet 10
+Call,raise 74
+Shove,check
+Call,call
+Bet 8.5 chips,check
+Fold,fold
+Call,raise 88
+Bet 9.0 chips,check
+Raise 40 chips,raise 92
+Bet 12 chips,check
+Call,fold
+Fold,fold
+Raise 32 chips,fold
+Fold,check
+Call,fold
+Raise 100 chips,call
+Bet 12 chips,check
+Fold,fold
+Call,fold
+Call,call
+Call,raise 35
+Call,call
+Bet 25 chips,bet 29
+Raise 20 chips,raise 21
+Call,call
+Raise 15 chips,call
+Call,call
+Bet 5 chips,check
+Bet 3 chips,check
+Shove 45.0 chips.,bet 38
+Call,check
+Raise 35 chips.,bet 39
+Call,fold
+Bet 3 chips,check
+Raise 20 chips.,raise 38
+Bet 10.0 chips,check
+Call,bet 13
+Check,bet 8
+Raise 100 chips,call
+Call,fold
+Raise 150 chips,call
+Call,raise 32
+Fold,raise 83
+Shove,check
+Fold,fold
+Raise 12 chips,check
+Fold,fold
+Fold,fold
+Shove,check
+Fold,fold
+Call,raise 95
+Fold,check
+Call,fold
+Raise 75.0 chips,raise 77
+Call,fold
+Call,raise 46
+Fold,fold
+Call,fold
+Call,check
+Call,call
+Raise 40 chips,raise 92
+Bet 4 chips,check
+Bet 16 chips,check
+Check,check
+Call,raise 93
+Fold,raise 54
+Bet 10 chips,bet 22
+Call,raise 83
+Call,call
+Raise 30 chips,fold
+Fold,check
+Raise 12 chips,call
+Raise 51 chips,fold
+Fold,bet 17
+Raise 30 chips.,fold
+Call,call
+Call,call
+Shove,check
+Raise 6 chips,call
+Call,call
+Call,fold
+Call,fold
+Raise 12 chips,check
+Call,call
+Fold,call
+Call,call
+Bet 4 chips,bet 13
+Call,fold
+Bet 4 chips,check
+Call,raise 32
+All-in,call
+Call,fold
+Call,raise 32
+Call,call
+Call,raise 89
+Call,fold
+Raise 32 chips,bet 28
+Call,check
+Fold,bet 23
+Call,raise 18
+Raise 30 chips,fold
+Raise 40 chips,fold
+Bet 5 chips,check
+Fold,call
+Raise 40 chips,raise 95
+Call,call
+Call,call
+Call,fold
+Fold,fold
+Raise 89 chips,call
+Raise 30 chips,fold
+Call,check
+Fold,fold
+Raise 30 chips,fold
+Call,fold
+Bet 6 chips,check
+Call,raise 33
+Raise 40 chips.,call
+Call,raise 38
+Fold,fold
+Call,call
+Fold,fold
+Bet 4 chips,check
+Bet 4 chips,check
+Raise 77 chips,call
+Bet 17 chips,bet 13
+Call,raise 25
+Bet 39 chips,check
+Raise 81 chips,call
+Bet 16.0 chips.,check
+Raise 83 chips,fold
+Fold,fold
+Fold,raise 89
+Raise 30 chips,call
+Bet 10 chips,bet 22
+Raise 44 chips,raise 83
+Call,fold
+Raise 46 chips,fold
+Raise 40 chips,call
+Call,raise 11
+Call 10 chips,fold
+Fold,fold
+Check,check
+Fold,fold
+Raise 43 chips,fold
+Raise 77 chips,call
+Check,check
+Fold,fold
+Call,raise 38
+Fold,bet 29
+Call,call
+Raise 24 chips.,check
+Call,call
+Raise 34 chips,raise 77
+Raise 10 chips.,call
+Raise 40 chips,raise 91
+Bet 4.5 chips,check
+Call,call
+Fold,fold
+Shove 51.0 chips.,check
+Call,fold
