@@ -1,7 +1,7 @@
 # Install unbuffer if needed: brew install expect
 fine_tune_type="lora"
-model="meta-llama/Llama-3.2-3B-Instruct"  # Add this line
-job_name="${fine_tune_type}-Llama-3.2-3B-Instruct-lr-6"
+model="Qwen/Qwen2.5-14B-Instruct-1M"  # Add this line
+job_name="${fine_tune_type}-Qwen2.5-14B-Instruct-1M"
 data_path=../data/poker-total
 output_path_base=../adapters/${job_name}
 # adapter_file=../adapters/lora-Meta-Llama-3-8B-Instruct-lr-5/adapters.safetensors
@@ -22,7 +22,7 @@ python -m mlx_lm.lora \
     --data $data_path \
     --iters 5000 \
     --num-layers 16 \
-    --batch-size 4 \
+    --batch-size 2 \
     --val-batches 25 \
     --test-batches 100 \
     --steps-per-report 100 \
