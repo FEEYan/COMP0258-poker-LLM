@@ -1,0 +1,10153 @@
+Ground Truth,Prediction
+check,bets 12.0
+check,call
+check,call 16
+bet 10,check
+check,check
+raise 11,Fold
+call,You continue to check.
+check,Check.
+call,call
+raise 92,Call
+call,check
+check,check
+check,call
+check,call 23
+check,Check
+fold,Check
+call,check
+call,fold
+bet 12,bet 12
+raise 81,fold
+raise 64,check
+check,check
+raise 85,You raise.
+call,fold
+fold,bet 8 chips
+call,call
+check,bet 10 chips
+bet 3,fold
+check,check
+fold,call
+call,Check
+call,call
+raise 16,Bet 10
+raise 73,bet 21.4 chips
+raise 88,Check
+call,You have to call
+call,check
+fold,call
+call,fold
+check,bet 12
+call,Check.
+fold,fold
+fold,Call 2.75 chips.
+raise 29,check
+bet 7,check
+check,call.
+bet 34,fold.
+fold,raise 62
+raise 25,bet 3.5
+check,Your optimal action is: call
+check,check
+check,fold
+raise 70,Your optimal action is: fold.
+fold,fold
+call,fold
+fold,Check
+bet 18,check
+bet 3,check
+fold,fold
+fold,call
+call,call
+call,fold
+raise 88,You are a specialist in playing 6
+fold,All-in
+fold,call
+fold,check
+fold,call
+fold,You are at table with a massive
+raise 88,raise
+call,Bet 10
+fold,call
+call,call
+raise 86,check
+fold,fold
+call,Call
+call,call
+fold,fold
+call,check
+bet 31,call
+fold,fold
+raise 16,check.
+call,bet 12
+call,call
+bet 13,check
+fold,call
+fold,raise 28
+check,Check.
+bet 10,check
+fold,You are facing a very tough hand against
+check,call
+call,check
+check,call
+check,check
+bet 10,bet
+call,check
+raise 25,check
+raise 88,check
+call,call 50
+check,call
+bet 17,Fold
+fold,call
+fold,call
+fold,call
+raise 13,raise 30
+call,call
+check,Check
+fold,check
+fold,call
+call,fold
+call,call
+bet 18,call
+fold,Fold
+bet 12,check
+call,fold
+fold,check
+bet 10,You don't specify what the optimal action
+bet 29,check
+call,raise 97
+raise 57,call 23
+bet 35,bet 4 chips
+bet 29,check
+fold,call
+bet 8,check
+raise 27,bet
+fold,Call
+check,Check
+call,call
+check,bet
+bet 29,fold
+call,call
+call,fold
+call,call
+call,fold
+bet 5,call 6
+check,fold
+call,bet 5
+bet 29,bet 8
+fold,call 18.8
+fold,Your optimal action is: raise
+fold,bet 65 chips
+bet 3,check
+fold,check
+fold,The current pot size is 167.
+raise 58,fold
+call,You are required to fold
+raise 48,call 13
+fold,call
+raise 16,You are holding [Nine of Club and
+bet 12,check
+bet 13,check
+check,Check.
+fold,raise 42
+fold,Check
+fold,fold
+call,call 20
+check,check
+fold,call
+call,Call
+call,call
+check,fold
+fold,call
+call,fold
+fold,check
+bet 4,Raise 25.
+raise 84,check
+call,check
+check,call
+check,check
+fold,call
+check,Bet 16
+raise 83,call
+raise 11,Call 7.
+fold,Call
+check,fold
+call,call
+check,bet 13 chips
+fold,call 8
+fold,check
+bet 11,Call
+fold,fold
+fold,call
+bet 29,fold
+check,Check
+call,call
+check,call
+check,bet 30
+check,call
+bet 4,check
+fold,call
+raise 58,You are unable to view that hand as
+check,fold
+check,call
+fold,You bet 15.
+call,fold
+fold,check
+fold,check
+check,Check
+check,call
+call,Check
+fold,check
+check,check
+raise 61,call
+bet 23,Call.
+fold,call 40
+check,call
+raise 88,call
+call,call 61
+raise 41,check
+fold,call
+call,You raise 20
+fold,call
+raise 22,You are now presented with a scenario where
+fold,check
+call,call
+call,fold
+call,call 13 chips
+bet 4,call 4
+check,check
+call,call 5
+call,fold
+raise 16,fold
+bet 4,The optimal action is: bet
+fold,Call 40 chips
+check,call
+check,bet 2
+raise 16,fold
+fold,Check
+fold,call
+raise 58,check
+check,fold
+call,call 31
+fold,fold
+check,fold
+call,fold
+raise 83,call
+check,call
+fold,check
+fold,fold
+raise 92,Fold
+check,check
+call,call 5
+call,call
+fold,call
+raise 57,call 7
+fold,Fold.
+fold,fold
+call,check
+raise 83,Call 10 chips.
+check,check
+call,call
+call,call
+check,bet 7
+call,call
+call,call
+check,bet 6
+fold,Fold
+raise 79,Call
+check,call
+check,check
+check,bet 10 chips
+bet 3,fold.
+raise 51,call
+call,You're in a situation where you have
+raise 7,call
+fold,call
+check,check
+bet 12,fold
+call,Check
+call,fold
+raise 70,check
+call,Bet
+fold,check
+check,bet 3
+call,fold
+raise 89,check
+check,fold
+bet 10,raise 8.0
+fold,check
+call,call
+check,fold
+call,call
+bet 17,check
+raise 14,fold
+check,check
+fold,fold
+bet 29,bet 10
+check,check
+call,call
+call,Fold
+fold,call 8 chips
+bet 39,Check
+bet 23,You are dealt the Seven of Spade
+fold,fold
+fold,fold
+fold,fold
+fold,Call 10 chips
+call,call
+check,check
+call,check
+raise 80,check
+call,check.
+check,check
+call,fold
+call,Check
+call,call
+raise 80,raise
+call,check
+fold,call
+call,check
+raise 78,Fold
+check,"You are being attacked with aggression, so"
+call,check
+fold,raise 70 chips
+check,bet
+check,Your optimal action is: fold
+raise 93,call 35
+check,fold
+raise 35,Fold.
+check,check
+raise 57,check
+bet 25,check
+call,call 25
+fold,call
+call,fold
+call,check.
+bet 11,call
+call,check
+bet 24,check
+raise 92,fold
+call,fold
+raise 84,check
+call,check
+call,Call 85.
+raise 13,fold
+call,call
+call,raise
+check,call
+call,call
+check,Fold
+fold,fold
+fold,call 23
+call,check
+fold,call 63
+bet 29,fold
+raise 10,fold
+bet 13,Bet 8
+check,call
+bet 25,call
+check,Check.
+fold,fold
+raise 26,check
+raise 37,bet 1
+raise 10,bet 2
+bet 15,You are dealt [Nine of Spade
+raise 43,call
+raise 90,check
+check,check
+fold,bet 15
+check,call
+raise 16,call 8
+call,call
+check,bet
+call,call
+bet 5,Your optimal action is: fold
+check,check.
+raise 90,call 43.5 chips
+check,call
+fold,call 31.5
+check,call
+fold,Fold
+call,Call 5
+bet 23,bet 10 chips
+raise 73,fold
+raise 88,Call 63.
+call,check
+call,check.
+fold,raise 22.5
+call,"Since BB is the aggressor, has"
+fold,fold
+check,fold
+raise 85,You are holding [Ten of Spade
+raise 46,Your optimal action is: fold.
+call,call
+call,call
+fold,Your optimal action is: raise
+fold,Call
+bet 29,call
+call,Call
+bet 2,call
+fold,Raise 17 chips.
+check,check
+check,Bet 14.0
+bet 1,bet 1.5
+call,check
+raise 80,bet 25
+call,fold
+call,Call 105
+check,call
+bet 13,call 5.5
+fold,check
+check,call 10
+raise 92,call
+fold,call
+call,call
+bet 13,check
+fold,fold
+check,Check
+raise 38,check
+call,call
+check,fold
+raise 92,call
+call,call.
+fold,raise 71.
+fold,call
+call,fold
+fold,Call 43
+check,Check
+call,check
+fold,fold
+raise 41,check
+fold,call 8
+fold,Check
+call,fold
+fold,bet 10
+check,check.
+raise 90,call
+call,bet 17.8
+check,Check
+call,call
+check,check
+raise 90,check
+call,call 10.
+fold,raise 90
+call,check
+fold,call
+fold,raise
+fold,check
+call,fold
+call,fold
+bet 17,check
+fold,Fold
+check,bet
+check,You continue with a bet 16 chips
+fold,raise
+fold,Call
+check,check
+fold,check
+check,fold
+fold,call
+call,call
+raise 92,raise 45
+fold,check
+fold,Check
+call,Check
+fold,check
+check,You choose to check
+fold,Fold
+call,fold
+raise 10,fold
+check,fold.
+raise 74,call
+fold,check
+raise 31,check
+raise 38,You're at the river. Your opponent
+check,"check
+
+call"
+check,Fold
+fold,call
+call,fold
+bet 29,"You are BB, holding [Six of"
+fold,fold
+fold,call
+call,fold
+bet 11,bet 3
+fold,fold
+call,call
+raise 23,Call 8
+fold,Check
+fold,Bet 13
+fold,call 10 chips
+fold,call 18
+fold,Fold
+check,fold
+call,check
+fold,call 43
+check,check
+check,bet 39
+bet 4,You bet 3 chips
+call,fold
+fold,call
+bet 10,fold
+raise 85,Raise
+check,check
+call,fold
+check,bet 8
+fold,Fold
+call,check
+check,fold
+call,call
+raise 16,fold
+check,check
+check,You are dealing. The current board is
+bet 8,check
+call,fold
+call,fold
+raise 80,bet 13
+fold,Fold.
+check,call
+call,check.
+check,bet 10
+check,fold
+check,check
+raise 73,call
+check,call 5
+check,bet 9
+call,check
+check,You call
+call,call 8
+fold,raise 125
+fold,fold
+bet 29,You continue with your bet and push
+fold,call 54 chips
+bet 17,check
+call,fold
+fold,check
+check,bet
+call,fold
+fold,Fold
+call,call
+raise 92,Fold.
+call,check.
+bet 13,bet 10.5
+check,check
+check,check
+call,Call
+fold,check
+raise 11,call
+raise 18,call
+fold,raise
+check,Check.
+call,Fold.
+check,Check
+fold,call 45
+check,Bet 6
+fold,call
+raise 18,bet 9
+bet 10,check
+call,check
+bet 11,call
+check,bet 18
+call,call
+call,You bet 80 chips.
+check,"You are UTG.
+Your optimal action"
+raise 74,Your optimal action is: call
+bet 17,check
+fold,check
+check,Bet
+call,fold
+check,Fold
+bet 24,Your optimal action is: check
+check,fold
+check,check
+raise 88,call
+call,call
+bet 29,call
+call,fold
+fold,Fold
+call,call.
+fold,check
+fold,You bet 21 chips
+raise 77,raise
+call,bet 11 chips
+call,Call 27.
+raise 27,call
+check,call
+bet 18,fold
+raise 81,Fold
+fold,call
+raise 80,Check.
+call,bet 16
+raise 85,fold
+call,raise 124.
+raise 22,call
+call,fold
+raise 92,fold
+call,Call
+check,check
+raise 10,Check
+raise 61,call
+bet 23,Check.
+call,check
+call,call
+fold,fold
+fold,fold.
+check,check
+fold,fold
+call,Check
+bet 23,fold
+call,call 25
+check,check
+fold,call
+fold,raise
+bet 24,bet
+raise 11,Call
+check,Fold
+call,bet 25
+raise 27,You are holding [Ace of Club and
+raise 64,bet 40
+check,Fold
+call,bet 4.0 chips
+raise 13,check
+check,"You are showing Two of Clubs, which"
+call,fold
+check,call 20
+fold,Your optimal action is: call
+call,call 60
+call,fold
+raise 36,fold
+raise 46,check
+fold,call
+fold,call 7
+fold,Fold
+bet 20,You are a specialist in playing 6
+call,check
+call,call
+call,call
+fold,fold
+check,check.
+bet 20,raise 30
+check,call
+check,call 4
+check,You bet 5 chips
+check,You can raise 13 chips
+raise 82,Check.
+call,raise 7
+call,call
+check,bet
+check,Fold
+bet 19,bet
+fold,call
+check,You are a specialist in playing 6
+raise 17,call
+raise 73,fold
+check,check
+fold,call
+check,check
+raise 33,call
+fold,call
+call,You are being challenged on multiple hands.
+call,fold
+call,Bet 4.5
+call,fold
+fold,call
+check,fold
+call,call 4
+call,raise
+bet 12,You raise 6 chips
+raise 84,fold
+fold,"Your holding is Five of Heart, and"
+call,call
+bet 29,raise 5
+raise 65,check
+fold,Call 113
+bet 23,check
+check,call
+check,check
+check,fold
+check,bet 7
+check,check
+bet 22,fold
+check,Check
+bet 4,Call 2
+raise 58,Your optimal action is: call 45
+raise 74,call.
+fold,call
+check,bet 6
+bet 4,call
+check,fold.
+fold,You are facing BB's 3-
+call,check
+fold,raise 60.0
+check,call 11
+fold,check
+fold,check
+call,Call 15
+call,Call 18.0
+call,Call 27
+call,fold
+raise 77,"You are showing down with Two Pair,"
+call,Call
+raise 8,Bet 1
+check,call
+call,call
+call,fold
+fold,Your optimal action is: call 53
+raise 83,call
+check,raise 20
+check,check
+bet 10,call 3
+raise 37,Call 10
+check,check
+fold,check.
+bet 13,fold
+call,check
+fold,You fold
+raise 58,fold
+fold,call
+fold,bet 13
+check,You need to fold.
+call,call
+raise 81,check
+call,fold
+raise 88,call
+check,call
+check,call
+fold,fold
+fold,fold
+check,call 7
+fold,call 45
+call,call
+fold,Call 72
+call,fold
+raise 25,bet 13
+check,check
+raise 40,Bet 23 chips.
+raise 30,call
+check,You raise 9.6 chips
+bet 18,check.
+raise 89,Call 26
+fold,fold
+raise 25,Call
+check,Check
+fold,check
+fold,Your optimal action is: call 84
+fold,fold
+fold,raise 120 chips
+bet 31,Bet 5 chips
+call,call
+raise 58,check
+check,Fold.
+call,raise 62
+raise 58,fold
+check,Check.
+check,check
+fold,check
+check,check
+fold,call
+check,check
+fold,Raise
+check,Bet 10 chips
+fold,check
+call,"fold
+
+fold
+
+bet"
+fold,check
+raise 83,raise 38
+raise 13,call 4
+check,call
+fold,check
+call,call 10
+call,You are a specialist in playing 6
+check,bet 3
+check,fold
+fold,call
+fold,check
+check,check
+check,check
+raise 94,Fold
+bet 27,check
+check,bet 1
+raise 51,You are bluffing with a possible
+raise 18,check
+check,Fold
+bet 3,Bet 4.
+call,call
+fold,fold
+fold,fold
+fold,check
+bet 20,Bet 16
+call,You didn't provide enough information on the
+bet 22,Check
+raise 84,call
+raise 88,You are playing with the [Eight of
+fold,You are facing HJ who has bet
+check,check.
+bet 23,bet
+call,You have 8 chips in your pocket
+raise 38,check
+call,You are in position with a [Eight
+check,bet 8
+call,Fold
+fold,call
+bet 8,fold.
+check,check.
+raise 72,check
+call,bet 11 chips
+call,call 5
+call,bet
+fold,call
+call,call 33.
+check,Bet.
+check,call
+call,call
+call,call 26.
+raise 92,Fold.
+check,bet 7
+fold,call
+fold,call
+check,call
+raise 92,Your optimal action is: check
+fold,call
+raise 22,raise 50
+call,call
+raise 10,call
+fold,call
+fold,Check
+bet 11,call
+bet 2,fold
+check,Fold
+check,fold
+raise 74,Fold
+call,fold
+call,check
+check,check
+call,Fold
+raise 11,Call 3
+raise 89,Check
+call,call
+check,check
+check,bet 8
+check,Fold
+raise 10,raise 32
+fold,check
+call,Fold
+fold,fold
+check,Check.
+check,check
+raise 22,fold
+check,call
+check,bet 5
+call,raise 75
+fold,fold
+call,call
+call,You are being bluffed on the turn
+call,Call
+check,bet 5.0 chips
+check,call
+check,bet 3.0 chips
+check,check
+call,call 18
+check,call
+fold,call 7 chips
+fold,check
+call,check
+call,fold.
+raise 22,call
+bet 13,check
+check,fold
+raise 92,raise
+fold,call
+fold,Call.
+call,Call 25 chips
+check,Fold
+check,call 5
+fold,Call.
+check,Fold
+bet 3,check
+raise 38,check
+raise 74,fold
+check,check
+fold,call 45 chips
+call,call
+raise 93,fold
+call,call
+check,fold
+check,check
+check,Check.
+call,fold
+raise 82,fold
+check,Bet 6.
+check,check
+check,check
+call,check
+call,call 15
+call,check
+raise 17,check
+fold,fold
+raise 41,call
+fold,You are still a specialist in playing
+check,check.
+call,Call
+call,check
+call,check
+raise 84,check
+check,check
+call,Call
+bet 40,check
+fold,Check
+fold,fold
+bet 4,bet 0.6
+fold,fold
+fold,raise 32
+raise 84,call
+call,You are a specialist in playing 6
+check,check
+raise 7,fold
+fold,check
+call,fold
+call,call 40
+fold,fold
+fold,call 8
+fold,call
+call,fold
+fold,Fold
+check,check
+bet 24,call
+fold,fold
+call,check
+call,bet 7
+raise 58,call 15 chips
+fold,call 79
+raise 92,call
+fold,call
+check,bet
+call,fold
+fold,fold
+fold,You are a specialist in playing 6
+check,Check
+check,Call 14
+call,Your optimal action is: bet
+bet 17,check
+check,call
+check,call
+fold,fold
+call,"Fold
+
+check 
+
+call"
+call,You are a specialist in playing 6
+call,Fold.
+check,check
+fold,check.
+call,call
+raise 91,call
+call,call 6
+bet 13,Fold.
+fold,bet 21
+call,You're dealt Four of Clubs and King
+raise 83,call 22
+check,fold
+bet 18,check
+fold,call
+check,check
+call,check
+call,check
+raise 7,call
+check,Bet 4.0
+call,call
+check,call
+call,Check
+raise 94,fold
+call,raise 83
+call,Raise
+raise 38,Call.
+call,You are facing a bet of 28
+fold,fold
+fold,fold
+call,call 19.7 chips
+check,fold
+call,call
+fold,fold
+bet 27,check
+check,check
+fold,Raise
+call,Fold.
+call,fold
+raise 19,You are being asked to decide between checking
+bet 12,call
+fold,Check
+fold,check
+call,check
+call,call 9
+call,fold
+fold,Call
+bet 16,bet 4 chips
+call,raise
+call,raise
+check,call 10
+check,check
+fold,call 27
+call,You're not providing the necessary information to
+fold,check.
+raise 86,You raise
+raise 38,check
+raise 54,Fold
+fold,Check
+check,bet 25
+check,call
+check,fold
+check,check
+bet 29,fold
+fold,check
+call,The current board reads: Three Of Heart
+call,bet
+call,raise
+check,Check
+raise 11,raise 7
+check,Check
+call,Call 3
+raise 86,Call
+call,call 77 chips
+raise 90,call
+call,You are a specialist in playing 6
+call,Your optimal action is: call
+raise 90,You are at the river with a hand
+fold,fold
+raise 67,Call
+raise 16,call
+fold,call 30
+call,fold
+fold,check
+check,fold.
+check,check
+fold,You raise
+check,bet
+check,call
+check,Call
+call,Call
+check,check
+fold,call 11
+check,fold
+bet 17,You are facing a 4-1
+bet 17,fold
+fold,fold
+raise 90,Call
+check,call
+fold,check
+fold,call 7
+check,fold
+check,Bet 6.
+call,fold.
+call,Check
+call,check
+raise 48,call
+check,check
+raise 93,call
+call,call 12
+bet 24,bet
+fold,Your optimal action is: call
+fold,call
+bet 24,The optimal action is: call 15
+check,Call 3.5 chips
+fold,Fold.
+call,Call
+check,call
+bet 20,bet 4.75
+check,check
+check,Fold
+call,You are at the river with an Ace
+fold,You continue to bet.
+raise 22,fold
+check,check.
+raise 88,raise
+call,call 13
+call,fold
+check,call
+fold,fold
+check,bet 1.5
+check,You fold
+check,check
+call,call
+check,Check
+call,call 11
+call,fold
+fold,Bet 14.0
+bet 24,bet
+fold,check
+fold,call
+fold,You are bluffing with the [King
+fold,check
+fold,Fold
+raise 86,call
+check,fold
+fold,call 4
+check,call
+check,raise
+check,raise
+fold,call
+call,call
+call,Fold
+check,call
+raise 41,You are forced to fold.
+bet 13,Call
+fold,Call.
+fold,fold
+check,call 9.5
+check,check
+call,fold
+bet 29,Check
+call,call
+call,Fold
+call,You fold.
+check,fold
+check,fold
+fold,call
+raise 88,fold
+raise 84,fold
+fold,You should raise.
+raise 81,call 19 chips
+fold,call 17.0
+call,fold
+raise 77,fold
+check,Raise 35.
+call,check
+check,Check
+check,call 10
+bet 10,bet
+call,bet 24
+fold,fold
+fold,Bet 16
+call,fold
+fold,check
+check,check
+call,check
+bet 11,check
+check,call
+call,call
+check,call
+fold,check.
+call,Call
+bet 40,Check
+call,fold
+call,call
+fold,Call 22
+check,raise
+check,The current pot size is 10.
+call,fold
+call,fold
+fold,check
+bet 3,You decide to bet 2.5
+check,fold
+bet 23,Your optimal action is: call
+check,check
+fold,call
+bet 39,check
+fold,call
+check,check
+bet 25,check
+raise 58,call 23
+bet 39,bet 11
+call,Fold
+fold,check.
+fold,call
+check,check
+call,check
+call,call
+call,fold
+check,check
+check,bet
+call,check
+call,call
+call,call 28
+fold,call for 83 chips
+fold,Call 17
+call,fold
+check,check
+call,You are holding [Ten of Club and
+check,bet 10
+fold,call
+fold,bet 48
+raise 64,raise 32
+call,call
+raise 80,Call
+call,check
+check,check
+raise 83,call
+call,fold.
+check,raise
+check,call
+check,"You have 10 chips. 
+
+Fold"
+check,You're in the BB position with [
+check,bet 1.7
+check,check
+fold,Fold
+call,bet 13
+call,raise
+raise 70,fold.
+fold,bet
+raise 33,call 9
+call,raise
+fold,Check
+fold,Check
+raise 89,fold
+raise 93,fold
+check,fold
+check,fold
+call,call
+fold,Check
+fold,raise 60
+raise 80,call 18
+fold,check
+fold,check
+fold,call 11
+call,check
+fold,call
+fold,fold
+check,check
+check,call 4 chips
+fold,fold
+bet 12,Check
+fold,fold
+fold,call
+fold,check
+raise 28,bet 6
+check,fold
+check,check
+fold,call 60
+fold,call 15
+check,fold
+bet 23,Fold
+bet 27,check
+fold,raise 96
+call,Fold.
+raise 77,call 57
+check,You are a specialist in playing 6
+check,Check
+raise 88,fold
+call,Call
+raise 32,check
+call,check
+fold,Call.
+fold,check
+check,fold
+check,You can't play.
+call,fold
+check,check
+raise 25,fold
+fold,call 17
+check,Bet.
+raise 81,call
+fold,Check
+check,fold
+check,call
+call,call 51
+fold,Call
+check,check
+fold,check
+fold,check
+call,call
+raise 10,check
+raise 11,call
+fold,call 58
+bet 34,check
+raise 11,bet 9 chips
+call,fold
+call,call 7
+call,Call
+raise 82,call 35
+fold,Your optimal action is: call 110
+check,check
+raise 90,fold
+call,Call
+fold,Call
+check,check
+check,You are dealt Queen of Spade and
+call,fold
+call,call
+check,check
+fold,Bet 64
+call,call
+call,Fold.
+fold,Call
+call,fold
+raise 41,call 19
+fold,check
+fold,bet 40.
+check,check
+fold,check
+fold,bet 23
+call,bet 5
+check,fold
+raise 70,check
+check,Bet 15.
+raise 32,Call 9
+fold,call
+check,Your optimal action is: 4
+check,fold
+check,Bet 18
+raise 82,fold
+fold,Call
+raise 32,call
+call,Check
+raise 18,check
+fold,fold
+bet 29,check
+call,You need to go to the website of
+fold,call
+check,Bet 3
+raise 78,fold
+fold,call 4
+bet 29,check
+fold,call
+fold,Your optimal action is: fold
+call,call
+call,bet 14
+check,fold
+call,fold
+call,You can fold
+call,call 2.5
+call,fold
+call,call
+fold,You bet 6 chips
+call,check
+call,call 3.0
+call,call
+check,call
+call,call
+call,Your optimal action is: call.
+check,call 6
+call,fold
+fold,check.
+bet 1,check
+check,Bet 6 chips.
+fold,Check
+check,raise 31 chips
+check,check
+fold,call
+fold,Fold.
+raise 29,Check
+fold,raise
+call,bet 40 chips
+raise 87,call 42
+check,Check
+call,raise
+check,fold
+bet 7,call
+raise 92,call 29 chips
+call,fold.
+call,check
+fold,check
+call,You are a specialist in playing 6
+call,Call
+call,Bet 7 chips.
+check,fold
+raise 88,All-in 62.5
+raise 79,check
+fold,check
+check,Bet 4.
+call,fold
+raise 30,Bet
+raise 91,Your optimal action is: call
+raise 94,check
+check,call
+fold,check
+check,call
+bet 10,check
+raise 87,Your optimal action is: raise 70
+fold,call 10
+check,fold
+call,Check
+bet 12,Call.
+fold,call
+check,Fold
+check,check.
+check,Fold
+call,bet
+check,Check
+call,Fold
+raise 83,call
+check,fold
+bet 28,bet 18
+fold,Check
+call,call
+check,bet 8
+bet 11,Bet 4
+check,raise
+fold,check.
+raise 88,fold
+fold,fold.
+call,Fold
+check,Bet
+fold,raise
+call,Fold.
+fold,Fold
+fold,fold
+call,call
+check,check
+check,call 25 chips
+check,Raise 36 chips
+call,Your optimal action is: call
+fold,call
+call,check
+fold,Call
+call,call
+bet 4,bet 3
+raise 57,check
+fold,call
+call,call
+check,call
+raise 92,call
+call,bet 8
+raise 88,Raise 64.
+call,fold
+check,check
+raise 95,raise
+call,check
+call,Check
+raise 32,check
+fold,fold
+call,call for 36 chips.
+call,Bet 17
+fold,call
+fold,check
+check,check
+bet 8,bet 4.2 chips
+fold,call 57
+bet 1,Fold
+fold,fold
+bet 19,fold
+fold,call
+call,call 8
+call,fold
+fold,call
+bet 2,raise 25
+raise 35,call 6
+fold,bet 12 chips
+raise 88,call
+bet 29,check
+check,check
+fold,call 16
+fold,call
+check,check
+check,call 5
+check,check
+call,call
+fold,check
+check,call 11
+bet 13,bet 11
+fold,You continue for another 20
+fold,call 18
+call,Check.
+call,call
+call,call
+call,call 12.5
+fold,Raise
+raise 83,check
+fold,check
+bet 16,You are raising on the river with a
+bet 39,check
+call,Check
+raise 30,Your optimal action is: call
+bet 51,Check.
+call,fold
+fold,call 12
+fold,call
+check,fold
+check,call
+fold,bet 1
+raise 90,check
+raise 93,fold
+check,fold
+raise 16,check
+check,check
+bet 4,bet
+call,raise 150
+fold,Call 10
+fold,raise
+fold,fold
+raise 84,You should fold.
+raise 57,Check
+call,fold
+call,Check.
+call,check
+fold,check
+fold,bet 10
+bet 12,Fold.
+call,fold
+check,call
+call,raise
+check,check
+check,check.
+check,check
+call,You are facing UTG raise of
+call,call 20
+call,check
+check,call
+raise 25,You are a specialist in playing 6
+call,call
+call,call 18
+call,call
+check,Fold
+call,fold
+check,check
+bet 4,fold
+call,fold
+check,check
+call,Fold.
+check,fold
+call,call 9
+fold,call
+fold,raise 30
+check,bet
+check,call 23
+raise 79,fold
+raise 81,fold
+fold,bet
+check,Call
+call,call
+fold,call
+check,fold
+check,check
+fold,fold
+check,check
+call,Raise
+bet 8,Your optimal action is: fold
+raise 22,call 10
+call,call 5
+fold,bet 20
+bet 2,Fold.
+fold,call
+raise 80,fold
+bet 5,check
+check,fold
+raise 82,check
+raise 32,fold
+call,Your optimal action is: raise
+raise 13,call 6
+check,fold
+fold,call 11
+fold,call
+check,check
+check,Your optimal action is: bet 4
+call,call
+check,Check
+raise 33,call
+check,call
+call,fold.
+raise 77,fold
+check,Fold
+check,call
+bet 20,"You are facing UTG, who is"
+fold,fold
+raise 10,check
+fold,check
+raise 86,Call 18 chips
+check,check
+check,"You are facing a check, a board"
+check,You are a specialist in playing 6
+check,check
+fold,fold
+bet 10,Fold
+fold,fold
+call,bet 18 chips
+call,You are a specialist in playing 6
+call,You are facing a bet of 18
+call,call
+fold,call
+fold,The optimal action is: call 10
+check,Fold.
+raise 90,call
+bet 40,check
+raise 81,Fold.
+raise 77,Fold
+fold,Call 9
+fold,fold
+check,Fold
+fold,call
+fold,call
+call,Check
+check,call 5.
+fold,call
+check,check
+call,fold
+raise 37,Call
+call,check
+check,fold
+call,check
+raise 77,check
+check,check
+call,Fold
+raise 74,fold
+check,bet 4
+check,"You are UTG.
+
+Your holding is"
+call,check
+call,You are playing BB with [Four of
+call,Fold
+bet 18,Fold
+call,check
+fold,Check.
+fold,fold
+raise 77,fold
+fold,fold
+check,fold
+call,call 44 chips
+call,You raise 30 chips
+check,check
+fold,Check.
+check,Bet
+fold,call 10 chips.
+check,check
+call,Your optimal action is: call.
+fold,raise 30
+check,check
+call,check
+raise 13,check
+fold,Check
+call,You raise with pocket Jacks.
+fold,Call 111 chips
+fold,call
+call,fold
+fold,call 9
+check,bet 5
+fold,check
+raise 92,check
+call,bet
+call,bet 9
+call,check
+call,Fold
+raise 49,call
+fold,fold
+check,check
+check,Fold.
+check,Your optimal action is: raise.
+call,You have to call 18 chips.
+fold,call
+check,call
+raise 28,check
+check,call
+call,-fold
+raise 90,check
+fold,fold
+bet 23,You raise
+fold,check.
+call,call
+check,call
+bet 28,check
+call,Fold
+fold,fold
+call,check
+fold,You are playing with a [Jack of
+call,Check
+check,call
+fold,Call
+check,Fold.
+raise 33,check
+fold,Call
+call,fold
+fold,check
+fold,call
+fold,You raise 8.5 chips
+raise 89,-fold
+call,"You have four holdings to evaluate.
+-"
+call,call 22
+raise 77,call
+check,Your optimal action is: check
+call,call 9
+call,Your optimal action is: call
+raise 77,check
+bet 29,call 8
+check,call
+call,check
+raise 14,call
+call,fold
+fold,fold
+check,raise
+fold,check
+fold,fold
+fold,check
+raise 90,Bet
+call,bet 8.
+fold,fold
+check,check
+fold,call
+check,fold
+check,Bet 9
+fold,fold
+check,Bet 2 chips.
+raise 93,bet 42
+check,fold
+call,check
+check,Check
+call,fold
+bet 7,check
+call,fold
+check,You continue with check.
+call,Your optimal action is: fold
+call,Since the optimal action for the first game
+fold,check
+fold,call.
+check,fold
+raise 89,Call
+raise 74,call 39
+call,Fold
+call,check
+fold,call
+check,Fold
+call,call
+raise 83,You have raised to 11 chips.
+call,Three
+raise 93,fold
+fold,fold
+bet 20,bet 10
+raise 83,Call
+raise 92,call
+call,call
+bet 22,bet 24
+fold,fold
+bet 27,check
+check,check
+fold,call 2
+call,fold
+check,check
+call,check
+fold,fold
+raise 74,check
+fold,Call
+call,"You're bluffing.
+
+Your optimal action"
+check,fold
+fold,fold
+bet 29,call
+fold,check
+fold,fold
+call,check
+bet 31,fold.
+raise 86,check
+call,call 10
+fold,check
+check,Check.
+fold,call
+fold,call
+call,You are 50 chips deep in the
+raise 27,check
+call,call 35
+fold,Fold.
+fold,fold
+call,fold
+fold,check
+check,check
+fold,bet
+check,check
+check,check
+raise 89,You have two possible answers. I'll
+call,fold
+call,fold
+bet 8,Fold
+fold,call 20
+bet 17,bet 20
+raise 18,You should call.
+fold,fold
+raise 80,call
+check,Fold
+check,check
+bet 5,check
+check,check
+call,call 17
+call,fold
+call,call 15
+call,call 10
+call,Call 7 chips
+fold,check
+call,Call
+check,bet 16 chips
+check,bet
+raise 84,call 39 chips
+check,Bet
+raise 85,fold
+call,check
+bet 23,bet
+raise 41,You're UTG and holding A[
+raise 84,bet 26
+check,fold
+fold,Call
+check,call
+call,fold
+check,bet 8
+call,check
+fold,fold
+check,Fold
+bet 7,call
+check,call 11
+check,call
+call,Check.
+check,Your optimal action is: raise.
+fold,check
+check,fold
+fold,Check
+bet 18,check
+check,check
+fold,fold
+check,call 6
+check,Raise to 31 chips
+raise 81,check
+fold,fold
+call,call
+check,Fold
+fold,check.
+raise 16,call
+call,call
+check,Check.
+check,Your optimal action is: bet 18
+bet 7,You check.
+fold,check
+fold,Fold
+fold,check
+fold,fold
+raise 80,fold
+raise 93,check
+fold,fold
+check,Fold
+bet 12,check
+fold,check
+fold,call
+check,check
+check,bet 17 chips
+fold,check
+call,raise
+call,You are playing on a draw with Two
+fold,check
+fold,Bet 14
+bet 2,call 2 chips
+bet 4,fold
+fold,fold
+call,call
+bet 8,Bet
+check,check
+fold,call
+fold,You are bluffing with a very weak
+fold,call
+bet 31,Check
+fold,check
+call,bet
+check,Bet 8 chips.
+call,Check.
+fold,fold
+fold,fold
+call,call
+call,raise 8.0
+check,call
+call,fold
+call,You are a specialist in playing 6
+check,fold
+check,You are playing HJ. You choose
+check,Fold.
+fold,call 19
+check,Check
+raise 84,call
+fold,You are facing a bet from the CO
+call,bet 8 chips
+call,fold
+call,Fold
+fold,fold
+bet 8,fold
+bet 29,check
+check,fold
+fold,call
+call,call
+raise 27,Call 16.0 chips
+check,check
+fold,fold
+call,call
+check,check 19
+raise 33,check
+bet 15,call 2
+raise 90,call
+call,call
+fold,The optimal action is: call
+check,fold
+check,raise
+fold,call
+fold,call 24
+raise 77,check
+call,call
+bet 17,Bet 1.5 chips
+raise 72,Call
+raise 54,check
+call,call 89 chips
+raise 89,check
+call,fold
+fold,call 70
+call,Check
+check,check
+fold,You are being attacked on multiple sides by
+bet 22,bet 4
+call,fold
+raise 38,call 14
+call,raise 52
+fold,fold
+call,check
+raise 77,call
+bet 29,"You have three options:
+Your optimal action"
+check,Check
+fold,fold
+bet 17,check
+bet 16,"fold
+
+check
+raise"
+fold,call
+fold,check
+check,raise 5
+call,raise 6
+bet 23,raise
+bet 28,call 2
+call,check
+check,check
+bet 5,fold
+fold,Check
+fold,fold
+fold,call
+check,bet
+fold,fold
+fold,call 7
+raise 48,Your optimal action is: re-raise
+raise 16,check
+call,check
+check,check
+call,You don't need to provide the optimal
+bet 13,Bet 30 chips.
+raise 27,check
+check,fold
+check,check
+call,check
+call,call
+raise 10,You're being dealt another hand in a
+raise 65,check
+check,fold
+fold,fold
+fold,call.
+fold,check
+check,check.
+check,Your optimal action is: bet.
+raise 93,fold
+check,call 13
+check,fold
+fold,fold
+raise 64,call
+raise 79,fold
+raise 25,call
+call,check
+check,call 1.5
+fold,call 12.
+fold,You are not specified to hold cards on
+check,Bet
+fold,check.
+fold,fold
+call,Raise 20
+check,check
+call,call
+check,call 3 chips
+fold,call
+call,call
+check,raise 10
+raise 43,check
+bet 23,You are in 3rd position with
+raise 16,call
+raise 64,check
+check,check.
+check,fold
+bet 5,fold
+call,fold
+fold,call 7
+call,bet 18
+call,call 35 chips
+fold,Fold
+check,call
+check,Check.
+fold,"You are now the BB, holding ["
+call,bet 9
+raise 70,fold
+raise 25,call 10
+bet 17,call 16
+check,bet 12
+call,call 32
+check,check.
+call,call
+bet 3,fold
+check,call
+fold,You need to fold your hand because you
+call,Fold
+call,You are in CO. Your hand is
+check,check
+raise 82,fold
+fold,fold
+bet 23,Fold
+check,Check
+check,fold
+call,fold
+raise 58,Call
+fold,bet 8
+fold,check
+raise 7,call
+check,bet 5 chips
+check,call
+check,check
+raise 61,fold
+raise 89,call
+check,check
+call,Fold
+bet 23,raise
+check,check
+call,Check
+call,"You are atBTN, facing 43"
+check,fold
+call,call
+call,call
+raise 32,Bet 6
+call,Call 17 chips.
+call,Call
+bet 29,Fold.
+bet 28,check
+raise 31,Bet.
+check,check
+check,call 8
+call,call 9
+raise 10,Your holding is Ace of Diamond and Jack
+fold,Bet 14
+check,fold
+call,bet 31 chips
+fold,Call
+call,call
+call,call 16
+check,check
+check,check
+fold,check
+check,Your optimal action is: check.
+fold,"check
+
+raise 9"
+call,Fold
+fold,check
+call,Call
+raise 82,Call
+check,Your optimal action is: raise
+call,call
+raise 47,call
+check,check
+bet 12,bet
+raise 74,check
+call,fold
+call,Call
+check,call 5
+call,check
+check,call
+check,raise
+fold,fold
+check,check
+check,fold
+check,fold
+call,call
+raise 95,fold
+raise 90,raise
+fold,check
+raise 58,bet 30 chips
+raise 16,bet 2.5 chips
+check,check
+check,Your optimal action is: bet 15
+call,fold
+check,fold.
+check,fold
+call,call
+check,raise
+check,check
+call,Bet 63.
+fold,check
+raise 41,Call
+check,bet
+bet 13,fold
+check,check
+call,fold
+check,Fold.
+call,call
+raise 88,fold
+raise 86,call
+call,fold
+check,Bet 8
+bet 17,bet
+call,check.
+fold,check
+call,call
+raise 32,check
+call,check
+check,Bet 2 chips.
+fold,bet 14 chips
+call,check
+raise 73,bet 10 chips
+check,bet 8
+call,call 9
+check,check
+check,fold
+call,raise 73
+fold,check
+check,You raise
+check,call
+check,bet
+call,call
+call,bet 12
+bet 3,fold
+bet 11,call
+raise 13,fold
+bet 17,bet 8.5
+bet 11,check
+raise 94,raise 53.
+call,check
+call,Check.
+call,check
+fold,Call.
+call,bet 2.75 chips
+check,check
+check,call 1
+check,check
+raise 41,call
+bet 5,check
+check,raise
+call,Call.
+call,Check.
+fold,fold
+call,Fold.
+fold,Call
+check,Your optimal action is: check
+call,call 5
+raise 26,Raise
+raise 80,Call 25.
+check,check
+fold,fold
+check,check
+fold,fold
+fold,Fold
+fold,bet 10
+fold,call
+raise 32,Bet.
+check,raise 18.
+call,fold
+fold,Bet 19 chips
+check,bet 1
+check,Call
+check,Raise 17.
+fold,call 8
+check,fold
+check,fold
+bet 12,check
+fold,check
+check,check
+bet 29,Check
+call,You're weak and at risk of losing
+call,fold
+raise 74,check.
+raise 90,fold
+call,call
+fold,check
+fold,check
+raise 88,raise 16
+check,check
+fold,call 90
+check,bet 6
+fold,"fold
+
+call
+
+call"
+check,check
+fold,Your optimal action is: raise
+raise 38,bet
+call,check
+fold,Your optimal action is: call 23
+call,fold
+fold,check
+call,check
+check,bet
+call,call
+check,Your optimal action is: raise
+check,check.
+check,check
+check,Bet 3 chips
+bet 13,call
+check,You raise 8
+check,check
+call,fold
+check,call
+call,call
+raise 41,raise 15
+call,"fold
+
+call
+Call
+
+fold"
+call,call
+call,check
+check,bet 4 chips
+call,call
+call,fold
+check,call 4
+bet 29,raise 11.0 chips
+raise 86,check.
+fold,call 15
+fold,fold
+fold,fold
+call,call 26
+fold,Fold
+call,check.
+fold,Fold
+fold,call
+fold,Fold.
+fold,fold
+check,raise 25
+call,You need to raise 7.
+call,fold.
+check,call
+check,call
+check,You are a specialist in playing 6
+fold,call 32
+fold,call 84
+check,You are dealt [Four of Spade
+fold,fold
+check,fold
+call,You are a specialist in playing 6
+fold,check
+check,call
+fold,call 10
+check,call
+fold,raise 2
+fold,call
+check,call
+fold,check
+check,Your holding is [Ace of Diamond and
+fold,check
+fold,fold
+raise 46,Bet 16
+call,call
+check,call
+raise 32,You are playing in a No Limit Texas
+fold,raise 51.
+call,Fold.
+fold,bet 28.5 chips.
+check,Check
+raise 31,call 11
+fold,fold
+bet 23,check
+call,check
+fold,fold
+call,fold
+check,Fold
+check,fold
+check,bet
+fold,fold
+raise 58,call
+check,call
+check,Fold
+raise 11,call
+raise 13,call
+fold,Call 42
+raise 87,You bet 20 chips
+fold,You decide to raise
+call,call
+fold,bet 66.
+check,check
+raise 25,call 8
+check,bet 19
+fold,fold
+raise 16,check
+fold,bet 29
+fold,Your optimal action is: check
+check,You bet.
+raise 74,check
+fold,Fold.
+fold,Fold
+raise 28,fold
+check,bet 8.
+check,Check
+bet 13,check
+raise 32,check
+call,Call 13
+fold,Check.
+call,You choose to re-raise.
+bet 13,bet 18
+call,check
+check,call 2.5
+check,bet 8
+fold,check
+check,fold
+check,You don't have enough information to answer
+call,check
+call,raise 30
+check,raise 16
+call,fold
+call,Call
+fold,fold.
+fold,fold
+bet 17,call
+check,bet 40
+check,fold
+call,call
+fold,Fold
+bet 3,check
+check,call 15.5
+check,You have decided to go all-in for
+fold,Call
+check,fold
+check,bet 11
+call,You are bluffing since the current board
+bet 29,check
+call,fold
+bet 24,Check.
+call,check
+check,Bet 17
+check,check
+bet 13,check
+raise 37,You bet.
+raise 90,You call 88 chips
+fold,check
+fold,fold
+call,fold
+call,fold
+raise 18,check
+raise 83,call
+raise 58,check.
+call,call
+call,fold
+fold,check.
+check,The optimal action is: bet 2
+fold,call
+bet 23,bet 5
+fold,fold
+check,Bet
+fold,check
+call,call
+fold,check
+check,Check.
+call,Check
+fold,raise
+raise 48,raise 60
+fold,fold
+fold,Your optimal action is: raise 56
+bet 13,check
+check,You're at the BB position with a
+bet 17,check
+fold,raise
+raise 31,call 12 chips
+call,call
+call,fold
+call,call
+check,Check.
+raise 38,fold.
+raise 27,bet 20
+fold,check
+fold,check
+call,Check
+call,Your optimal action is: fold
+call,call 18 chips
+check,Call
+bet 24,"You raise 10 chips.
+
+And if"
+check,Bet 7
+check,"check
+
+check"
+bet 10,Bet 3
+check,Fold
+fold,call
+call,You bet 5
+check,Check.
+fold,fold
+check,call
+check,check
+raise 86,fold
+check,raise
+bet 29,call 20
+call,Your optimal action is: call 29
+check,check
+fold,Check
+call,fold
+check,bet 6
+bet 13,call
+check,fold
+check,call
+bet 23,bet 8
+check,check
+check,check.
+check,call 2
+fold,call
+call,call
+fold,fold
+call,call
+bet 12,check
+check,Fold
+fold,fold
+fold,Call
+fold,Fold
+check,Call
+call,check
+fold,check
+raise 38,bet 3
+check,check
+raise 91,Bet 23 chips
+bet 23,check
+check,check
+call,Bet 10
+check,You don't specify which game scenario.
+bet 34,check
+call,Call
+check,call
+raise 31,fold
+raise 81,fold
+call,Check
+bet 22,Check.
+raise 32,Call 8.0
+raise 83,call
+fold,check
+fold,You are in position with a made hand
+check,Check
+check,call
+raise 41,raise 42
+fold,check
+check,call
+call,check
+fold,fold
+bet 17,bet
+call,Your optimal action is: call 6
+check,check
+fold,call
+raise 13,fold
+fold,Bet
+raise 83,fold.
+call,fold
+check,raise 23
+call,check
+check,call
+call,You raised to 3.65 chips
+fold,Fold
+fold,Check.
+fold,Check
+call,fold.
+fold,Call 10 chips
+check,check
+call,call
+check,check
+raise 83,call
+check,check
+call,Bet 14 chips
+bet 20,Call 4 chips
+bet 17,bet 10
+check,fold
+fold,fold
+call,Fold
+check,You fold.
+raise 87,call
+check,call
+call,call
+call,You are dealt a King of Spade
+fold,fold
+bet 17,fold
+raise 29,check
+check,fold
+fold,check
+raise 83,check
+call,fold
+raise 45,fold
+fold,call
+call,fold
+check,bet
+call,call
+bet 13,check
+fold,fold
+call,Check
+call,Call
+call,call
+fold,fold
+call,Bet 5.
+call,You are UTG with [King of
+bet 16,call
+check,fold
+fold,call 25 chips
+check,Fold
+raise 83,call
+fold,raise
+bet 17,Bet 14 chips
+call,raise
+fold,call 84
+fold,Your optimal action is: call.
+fold,fold
+fold,Fold
+check,call
+check,Check.
+fold,check.
+call,Call 3 chips
+check,check.
+fold,raise 117 chips
+check,bet 7.0
+check,Your optimal action is: call
+check,check
+call,bet 18
+check,Bet.
+check,bet.
+fold,fold
+check,check
+raise 73,Your optimal action is: call
+fold,fold
+fold,Check
+check,bet 8
+fold,Call
+check,call 10
+call,call 12
+fold,Call
+check,call
+fold,Call
+raise 89,call
+raise 25,call
+bet 2,Bet 1
+check,call
+check,call
+fold,fold
+bet 12,check
+check,check
+check,bet 10
+raise 70,fold
+raise 38,call
+check,call
+raise 32,fold
+bet 2,check
+bet 12,Bet 3 chips.
+fold,fold
+call,check
+call,raise 131 chips
+bet 12,check
+bet 18,raise
+call,Bet
+call,You have pushed UTG all-in for
+call,Call
+call,bet 19
+raise 27,fold
+raise 16,fold
+raise 75,Check.
+call,Bet 28.
+check,call
+raise 86,fold
+fold,call
+fold,check
+call,You are required to fold.
+fold,call
+bet 27,bet 16
+check,Call 1
+raise 61,check
+fold,call
+raise 58,bet
+check,You are dealing 6-handed No Limit
+call,fold
+raise 89,check
+call,"fold
+
+The current board doesn't seem"
+raise 83,check
+bet 3,check.
+fold,Fold
+fold,You decide to raise.
+check,bet 10
+check,check
+bet 4,bet
+fold,fold
+raise 84,check
+call,check
+check,Fold
+check,Your optimal action is: fold
+raise 57,call
+bet 23,fold
+check,call
+call,You're 3-betting into turn
+raise 81,check
+bet 11,bet 10
+call,check
+fold,fold
+check,fold
+fold,Fold
+call,check
+check,check
+check,check
+call,Call 26
+check,call
+check,Check
+raise 43,You are a specialist in playing 6
+check,check
+call,call 25 chips
+check,call
+fold,Your optimal action is: call
+fold,fold
+check,call 4
+check,call 6
+bet 13,check
+call,fold
+fold,call 32 chips
+check,check
+check,bet
+call,check
+check,fold
+call,check
+call,fold
+call,raise
+bet 29,check
+call,River
+fold,bet 15
+fold,call 43
+call,fold
+check,fold
+raise 81,You check
+fold,call
+check,check
+call,call
+fold,check
+fold,You are out of chips.
+call,call
+call,call 19
+check,check
+fold,Check
+raise 32,check
+fold,Check
+fold,raise
+check,You are a specialist in playing 6
+check,You are a specialist in playing 6
+check,bet
+check,fold
+bet 29,raise 15
+raise 93,You choose to fold
+bet 2,call 3
+call,Call 5
+raise 81,raise 37
+fold,call
+raise 81,call
+fold,call 5 chips
+call,Check
+bet 11,call 10
+check,You continue by checking.
+call,fold
+raise 10,fold
+raise 38,call
+bet 10,bet 6
+fold,fold
+fold,fold
+fold,fold
+check,You are the UTG player with the
+bet 24,bet 4 chips
+call,"You are in HJ, holding ["
+bet 34,call
+bet 12,check
+check,call
+check,check
+raise 19,check
+call,call
+call,call
+call,check
+call,call
+check,Check.
+bet 29,call
+check,Check
+fold,raise 20
+call,fold
+fold,fold
+fold,fold
+call,You are in the CO position and have
+call,raise
+call,fold
+bet 29,check
+raise 46,check
+raise 84,call
+fold,fold
+call,Three
+raise 10,call
+check,check
+fold,check
+fold,call 17
+fold,call
+check,check
+check,call 24
+fold,call 25
+fold,call
+raise 35,fold
+bet 13,bet 17
+bet 24,check
+fold,check
+call,fold
+fold,check
+fold,raise 89 chips
+call,call
+raise 18,call 7.5
+call,fold
+fold,Check
+bet 13,call 10
+bet 4,fold
+check,Fold.
+raise 40,call
+raise 25,check
+check,call
+bet 10,bet 6
+check,check
+fold,Your optimal action is: check.
+call,raise
+check,check
+fold,You are not provided enough information for the
+call,fold
+fold,Your holding is [King of Diamond and
+fold,Fold
+fold,bet 22 chips
+raise 29,fold
+fold,call
+fold,check
+call,Check.
+call,fold
+check,call
+raise 86,Fold.
+fold,fold
+bet 16,Check
+fold,call
+check,fold
+raise 41,Fold.
+fold,fold
+check,Fold
+check,bet
+call,bet 2
+call,call 5
+call,fold.
+check,Check
+raise 32,check
+call,call 3
+check,call
+fold,call
+call,fold
+call,fold
+call,Call
+bet 29,fold
+check,Check
+fold,Fold
+raise 82,call
+check,Fold
+call,raise
+raise 16,Your optimal action is: call 10
+call,fold
+fold,raise
+bet 23,call 16
+call,call 55
+call,call 7 chips.
+check,Check
+raise 84,fold
+bet 3,Call 0.6
+fold,bet 30 chips
+call,Check
+check,check
+check,Check
+call,You decide to raise 12 chips.
+check,Raise 7.
+raise 86,Raise to 100 chips.
+fold,fold
+raise 92,fold
+raise 18,check
+check,check
+call,Call 44
+raise 85,check
+fold,Call.
+check,fold
+raise 31,call 10
+check,call
+bet 17,bet
+fold,Check.
+check,Your optimal action is: bet 35
+bet 10,Fold
+call,check
+fold,check
+raise 83,fold
+fold,You need more information on BB's hand
+bet 4,Check
+fold,bet 40
+call,Raise
+check,check
+fold,check
+call,check
+check,You bet 12.0
+call,check.
+call,Fold
+raise 36,Your optimal action is: bet 16
+call,Call.
+fold,fold
+bet 29,check
+check,fold
+call,Call
+raise 18,call
+check,Check.
+check,check
+fold,check
+call,check
+call,check
+fold,call 38
+bet 13,You are faced with a tricky hand at
+bet 23,fold
+call,check.
+raise 84,check
+fold,You are holding [King of Diamond and
+check,check
+bet 28,You are in a heads-up situation.
+check,check
+fold,call
+call,check
+check,call 10
+check,fold
+bet 23,check
+call,call
+check,You are dealing 3 of a kind
+call,call 7
+call,check
+fold,check
+fold,call
+call,call
+call,call
+fold,You're at a crucial point in your
+bet 10,check
+fold,call
+bet 10,check
+call,fold
+check,fold
+check,check
+call,check
+call,call
+raise 90,Check
+fold,fold.
+check,check.
+call,fold
+call,Call 25
+check,check
+check,check
+call,Bet 5
+bet 10,call
+call,Fold
+fold,check
+call,fold
+call,Call 27.5
+check,Fold
+raise 70,Check.
+bet 29,check
+check,check
+bet 15,Raise
+call,Call 1
+fold,call
+fold,fold
+call,call 7
+call,call
+call,bet 16
+check,call
+raise 89,check
+raise 83,call 44
+bet 17,bet 10 chips.
+call,call
+fold,check
+check,Check
+check,check
+bet 11,check
+fold,check
+fold,Your optimal action is: call
+raise 92,call 67.
+fold,check
+call,Fold
+check,fold
+bet 8,Your optimal action is: call.
+call,call
+check,bet 8.5 chips
+fold,raise 60.
+check,call
+call,call 100
+call,Your optimal action is: fold
+bet 10,Your optimal action is: check
+check,call
+check,check
+raise 41,check
+fold,Check
+fold,Fold
+fold,Raise 32
+call,check
+fold,Call
+check,fold
+fold,check
+fold,Call
+check,check
+check,fold
+check,call 4
+call,fold
+raise 65,check
+call,check
+check,check
+bet 29,Check
+call,fold.
+bet 29,check
+fold,Fold
+bet 23,check
+raise 89,call
+fold,check
+raise 92,check
+raise 95,call 37
+fold,check
+call,check
+call,call 5
+call,call 5.
+fold,call
+call,check
+fold,Fold
+call,call
+call,fold
+check,fold
+call,Your optimal action is: call 18
+bet 12,call
+check,check
+check,Bet 6.0
+bet 28,fold
+raise 93,Call 42
+fold,call
+fold,Fold.
+fold,call
+fold,fold
+fold,call 22
+fold,fold
+fold,call
+check,bet 12
+check,call
+check,You are holding [Ten of Spade
+check,fold
+call,fold
+raise 85,check
+check,bet
+fold,fold
+fold,fold
+fold,fold
+fold,fold
+fold,check
+fold,Check
+check,fold
+fold,Fold
+check,Fold
+fold,fold
+check,bet
+fold,call
+bet 29,fold
+check,fold
+call,check
+check,check
+call,check
+fold,Raise 120
+check,bet 10
+raise 10,bet
+call,bet 62
+call,raise
+check,check
+check,check
+fold,call
+call,check.
+fold,fold
+fold,call
+raise 61,You're holding [Ace of Club and
+bet 17,fold
+bet 7,Check
+check,check
+raise 64,check.
+fold,call
+call,Call
+fold,You're a specialist in playing 6
+fold,call
+check,Call 5
+raise 74,check.
+call,Your optimal action is: fold
+check,Fold.
+call,bet 11
+fold,check
+raise 44,fold
+call,check
+fold,raise 57 chips
+fold,call 8
+check,call
+call,check
+fold,call 11
+fold,You have to fold
+check,Check
+check,bet
+raise 86,check
+fold,Check.
+call,bet 18 chips
+check,Fold
+check,check
+call,check
+check,check
+raise 16,Fold.
+fold,fold
+call,fold
+raise 74,call
+raise 35,Call 11
+raise 93,raise 55
+check,check.
+raise 81,check.
+fold,call
+raise 16,call
+fold,fold
+raise 10,Fold
+call,check
+fold,Fold
+fold,call
+check,Check
+raise 10,check
+fold,call
+raise 27,bet 15
+raise 38,call 6
+fold,fold
+fold,You bet 75
+raise 86,raise 63
+raise 11,call
+check,check
+fold,fold
+bet 17,check 7
+check,call
+check,Your optimal action is: call
+check,check
+call,check
+fold,check
+raise 81,check
+call,check
+check,check
+check,fold
+fold,Call
+bet 13,check
+call,You continue to bet.
+check,You are the BB and have A Sp
+fold,fold
+raise 86,Fold
+call,call 4 chips.
+call,bet 10 chips
+fold,Check
+raise 10,Call 3 chips
+fold,Raise 88
+call,Fold
+fold,call
+check,check
+fold,Fold
+bet 11,bet 6.67 chips
+check,fold
+raise 77,fold
+bet 29,check
+call,Fold
+raise 86,fold
+fold,raise 25
+call,check.
+call,call
+fold,call
+raise 19,fold
+call,Bet
+raise 32,fold
+call,fold
+fold,call
+raise 89,Call 23
+check,Call.
+check,Call 4 chips.
+raise 43,call
+check,check
+call,call 20
+fold,call
+bet 23,Check
+fold,check
+bet 3,fold
+check,check
+fold,call
+check,check
+raise 10,check
+check,check
+call,fold
+bet 20,Bet 5 chips
+raise 76,check.
+call,fold.
+check,call
+check,bet 16
+check,check
+fold,You bet 50
+check,"fold
+
+raise"
+fold,call
+check,check.
+check,call
+call,call
+raise 86,check
+fold,check
+bet 29,Fold.
+check,call 11
+fold,fold
+check,check.
+fold,call
+call,call
+fold,raise 21
+call,check
+call,call
+call,call
+call,check.
+raise 85,check
+call,You raise.
+check,Bet.
+raise 85,call
+raise 16,call 10
+call,call
+bet 11,check
+raise 77,Fold
+fold,bet 10
+raise 85,Bet.
+check,Fold
+call,call
+check,check
+bet 17,check
+fold,fold
+raise 58,call 3
+call,fold
+fold,call
+raise 32,call
+raise 11,call 3
+check,call
+check,fold
+call,call
+raise 13,fold
+check,raise 35
+raise 89,call
+bet 25,check
+fold,fold
+call,Call.
+fold,raise
+fold,fold
+call,call
+raise 86,fold
+check,check
+check,fold
+check,call 15
+check,bet 5.5
+fold,check
+fold,check
+check,call
+call,check
+check,check
+check,call
+check,bet 14
+call,call 10
+fold,check
+call,call
+bet 23,call
+call,check
+fold,fold
+call,call 6.5
+call,check
+raise 79,check
+check,Your optimal action is: Check
+fold,check
+check,call
+fold,fold
+call,check
+check,check
+call,check
+bet 24,call
+call,fold
+bet 5,bet
+bet 7,bet 12
+check,Bet 14
+call,raise
+raise 16,check
+raise 81,check
+fold,call
+check,Fold
+call,fold
+check,call 23
+check,bet 19 chips
+check,Your optimal action is: call 26
+raise 89,bet 18
+raise 17,bet 14
+fold,fold
+call,raise
+fold,fold
+bet 24,bet 14
+fold,call
+call,"You are being challenged, you will have"
+call,check
+fold,fold
+check,fold
+raise 58,bet
+call,call
+raise 92,call
+fold,check
+fold,fold
+raise 92,check
+check,call
+call,check 4
+bet 10,Fold
+check,call 6
+fold,check
+check,Check
+fold,check.
+fold,check
+raise 82,Fold
+call,check
+bet 24,Your optimal action is: check
+check,fold
+call,fold
+fold,call
+check,You are required to call.
+fold,call
+fold,call
+call,Fold.
+check,call
+raise 32,Fold
+check,check
+call,Fold.
+check,bet 4.25
+fold,Call
+call,check.
+check,Check
+fold,call
+bet 10,bet
+call,check
+call,check
+call,call
+raise 85,check
+check,check
+bet 3,bet 4
+check,You are a specialist in playing 6
+raise 80,raise 37
+check,Bet 10 chips
+check,You have four different scenarios. I will
+fold,call
+raise 83,check.
+call,check
+fold,"You are not specifying your hand.
+You"
+call,check
+fold,Fold
+check,check
+raise 10,fold
+call,check
+fold,call 5
+fold,call
+bet 29,check
+check,call
+call,check
+check,Your holding is Ace of Club and Ten
+check,call 13
+fold,Call
+check,check
+call,fold
+fold,call 12
+call,fold
+check,Your optimal action is: bet
+call,call
+check,call
+fold,Raise 70
+check,Check
+raise 86,Bet.
+fold,You continue to raise.
+call,fold
+fold,fold
+fold,Fold
+check,check
+bet 2,check
+call,check
+check,call 6
+call,call
+check,bet 5
+fold,check
+call,bet
+check,Call
+bet 3,Fold
+fold,check
+check,Your holding is [King of Spade
+call,call 3
+raise 10,fold
+check,check
+fold,raise 57
+check,fold
+check,bet 6
+bet 17,call
+fold,fold
+bet 8,check
+fold,fold
+check,check
+fold,check
+fold,Your optimal action is: call
+raise 92,Call 38 chips
+fold,Fold
+call,call 19
+raise 25,You check.
+bet 16,call 8
+call,Fold
+raise 22,check
+fold,"You are BB, holding [King of"
+raise 85,Call
+call,fold
+raise 61,check.
+check,raise 11
+fold,Fold
+raise 93,call
+check,Bet 7
+call,check
+call,fold
+raise 89,call
+fold,fold
+raise 7,fold
+call,Check
+check,check
+check,check
+check,call
+check,Check
+check,bet 1.8 chips
+call,Check.
+check,fold
+check,fold
+call,Fold
+fold,fold
+call,raise
+bet 18,raise 11
+fold,bet 15
+raise 74,check
+fold,check
+fold,Check.
+check,check
+fold,fold
+call,call
+raise 74,check
+check,check
+call,call 6.5
+fold,call.
+bet 10,call 6
+call,fold
+fold,call
+call,Call
+bet 3,You bet.
+raise 77,call
+raise 84,fold
+check,bet 14 chips
+fold,check
+raise 57,call 19
+call,call
+check,call
+check,Your optimal action is: bet 15
+check,call 25
+call,call 120
+call,call
+check,Check.
+call,call
+call,call 85
+check,check
+raise 86,check
+call,Fold
+call,fold
+raise 88,fold
+call,Bet 5
+check,bet 15
+fold,fold
+fold,raise
+check,check
+check,call
+call,Bet 23
+fold,You didn't specify a game scenario for
+call,raise
+fold,check
+call,call
+call,check
+bet 5,Call 1
+call,Fold
+fold,check
+check,check
+call,Call
+check,check
+fold,fold
+check,check
+check,You raise 26.
+bet 11,check
+fold,bet
+fold,Call
+fold,You can call 5.
+fold,call
+fold,Call
+call,call
+call,raise
+call,check
+call,call 8
+fold,raise 77
+check,check
+call,Your optimal action is: call 60
+check,bet 10.0 chips
+call,fold
+check,fold.
+fold,check.
+fold,check
+check,Check
+call,fold
+call,call 150
+call,fold
+call,call 25
+fold,Call
+bet 10,fold
+call,check
+call,check
+fold,"You are at BTN, with a pair"
+fold,Call
+call,call
+fold,check
+raise 55,You are now in the BB position.
+check,check
+call,fold
+check,fold
+call,fold
+call,call 15
+fold,Raise 72
+call,fold
+check,fold
+raise 89,call
+check,fold
+bet 23,check
+check,check
+bet 27,Check.
+fold,call
+check,check
+fold,You raise 16.
+check,You bet 22 chips
+bet 40,check
+fold,raise to 135 chips
+check,bet 7.5 chips.
+check,call
+check,call
+bet 16,call
+fold,fold
+call,call
+fold,call 82
+check,Call 8
+bet 12,call 5
+call,check
+call,call 6
+check,fold
+check,check
+bet 4,fold
+fold,Check
+fold,fold
+raise 48,call
+fold,fold.
+raise 32,Call
+check,check
+bet 20,bet 8 chips
+call,Call
+raise 88,call
+raise 41,check.
+raise 32,call
+fold,fold
+check,bet 19
+fold,call 32.
+fold,-fold
+fold,Fold
+check,check.
+raise 10,check
+call,raise
+check,call
+raise 81,Check.
+raise 41,check
+fold,fold
+raise 80,fold
+bet 29,call
+fold,check.
+bet 24,bet
+check,Bet 11
+bet 8,You choose to bet.
+fold,check
+check,Check.
+fold,call
+call,call
+call,bet 26
+fold,check
+call,check
+call,call
+fold,check
+raise 88,raise to 45.5 chips
+fold,You bet 42 chips
+call,You bet 50
+raise 64,bet 42 chips
+check,check
+fold,check
+check,bet 6
+check,Fold
+fold,check
+bet 29,check
+call,fold
+raise 92,call 20
+call,fold
+call,fold
+fold,Fold.
+check,The optimal action is: bet 26
+fold,Call 16.
+raise 64,Check.
+check,check
+call,call
+call,Call 13
+check,call
+check,call 25.
+call,call 3
+raise 61,Fold
+check,Check.
+call,call 8
+call,check
+check,check
+raise 54,Check
+check,check
+raise 92,check
+raise 77,check
+check,fold
+call,check
+check,check
+check,call
+check,You are a specialist in playing 6
+fold,fold
+call,call
+bet 23,check
+call,call
+call,Fold.
+call,raise
+fold,call 8
+check,fold
+check,Bet 13
+call,Call
+check,bet 6.5 chips
+fold,call
+raise 93,call
+check,Call 13 chips.
+check,"You are playing in late position, the"
+fold,fold
+check,check
+fold,check
+raise 83,call 71
+raise 92,check
+raise 81,fold
+raise 89,Raise
+call,call
+raise 62,fold
+call,call
+check,Check
+call,fold
+bet 23,bet 18.75
+check,Call 31
+fold,check
+check,check
+raise 32,call
+raise 4,Check
+raise 82,Call 60 chips
+check,check
+call,call
+raise 25,call
+check,check
+fold,call 30 chips
+call,call 15
+raise 83,call
+call,bet
+raise 36,call
+check,check
+check,check
+check,bet
+fold,call
+fold,call
+check,check
+call,Check
+call,Your optimal action is: call
+check,Check.
+fold,call
+call,Call
+check,check
+check,call
+call,fold
+fold,call
+raise 92,check
+bet 13,check
+call,Call 18
+call,call
+bet 29,check
+raise 84,fold
+call,call 20
+check,check
+check,check
+raise 88,call
+check,check
+raise 10,Your optimal action is: check
+bet 23,bet
+raise 16,You raise 10
+raise 46,check
+check,check
+check,Fold.
+raise 84,fold
+check,check
+check,fold
+fold,fold
+call,fold
+check,fold
+raise 74,check
+check,check
+check,fold.
+bet 4,fold
+raise 82,bet 17 chips
+fold,You are folding.
+call,call 45 chips
+bet 10,Call 4.5
+raise 96,call
+check,fold
+raise 46,fold
+check,bet 1.5 chips
+raise 16,check
+fold,call
+fold,fold
+check,fold
+check,bet 10.0 chips
+check,bet 2
+check,bet
+check,bet 15
+check,check
+call,check
+check,fold
+check,Call 8
+check,call
+raise 92,check
+check,fold
+bet 24,bet
+call,fold
+raise 41,bet 13
+call,call
+call,check
+check,raise 19
+check,fold
+check,Call
+call,Call
+bet 8,Call
+bet 4,You are facing an action from UTG
+call,call
+fold,call 3
+call,Call
+check,check.
+call,fold
+check,check
+call,check
+call,check
+bet 11,fold
+fold,call
+call,check
+call,Fold
+check,check
+call,call
+call,call
+fold,fold
+call,check
+call,call
+bet 18,Bet
+fold,Call 52
+fold,check
+raise 19,You raise
+fold,You have a hand of [King of
+call,check
+bet 10,call
+fold,Fold
+raise 74,bet 40 chips
+raise 58,check
+bet 39,bet 25
+raise 26,call 20
+fold,bet 12
+bet 8,check
+call,Call
+check,check
+check,check.
+check,fold
+fold,check
+bet 13,bet 6
+fold,Call
+check,check
+check,You fold.
+fold,raise 10
+check,check
+check,fold.
+fold,You have [Ace of Spade and
+fold,Your optimal action is: call.
+fold,check
+fold,Fold
+check,check
+check,You are given 9 options. Here
+call,check.
+fold,fold
+raise 31,raise
+raise 88,fold
+bet 13,call
+call,You are a specialist in playing 6
+bet 10,bet 7 chips.
+call,fold
+bet 29,Fold
+raise 93,fold
+fold,Fold
+bet 22,call 6
+fold,call 8
+call,fold
+bet 10,call
+check,check
+check,Bet 11.0
+bet 17,call 9
+call,"fold
+
+The board reads:  Jack"
+fold,fold.
+call,fold.
+fold,call
+call,Call 5
+call,fold
+call,call
+fold,fold
+bet 34,fold
+fold,Your optimal action is: call
+raise 86,call
+check,fold
+call,raise
+fold,call
+check,You can't fold
+check,check
+check,bet
+call,call 3.5
+fold,You don't say what your optimal action
+fold,raise 120
+raise 70,check
+fold,fold.
+check,call
+check,check
+call,Check
+fold,call
+raise 7,fold
+check,check
+check,fold
+call,call
+call,You are dealing with multiple scenarios at once
+fold,fold
+call,You continue to check
+check,check
+fold,fold
+call,fold
+check,Raise 27
+check,You continue to check
+raise 83,You are trying to bluff and control the
+call,call
+bet 20,You are given a new hand with the
+check,check
+check,call
+check,check
+raise 41,fold
+check,fold
+check,check
+call,check.
+raise 72,You can push all chips
+check,Bet 10 chips.
+check,Call
+raise 86,raise
+raise 36,Call
+check,Check
+call,call
+check,Check
+fold,Check
+check,call
+bet 4,call
+check,call
+raise 84,call 25
+call,raise
+raise 25,check
+fold,check
+fold,Call
+check,fold
+fold,check
+check,check
+bet 3,check.
+raise 86,call 31
+call,fold
+call,check
+call,check
+call,call 6
+call,fold
+check,You chose to raise.
+fold,Check
+fold,check
+bet 7,check
+check,check
+raise 41,check
+call,Call
+fold,check
+fold,fold
+raise 11,call
+bet 13,Bet 6 chips.
+fold,check
+fold,Check
+check,check
+call,Call
+call,call
+call,check.
+raise 36,call
+bet 2,Bet 0.2
+fold,raise
+bet 18,check
+check,Check
+raise 88,Call
+fold,fold
+call,fold
+call,Check
+fold,Fold
+fold,Check.
+call,call
+call,Fold
+check,bet 34
+bet 18,check
+call,bet 20
+call,You are holding [Ace of Diamond and
+call,You are a specialist in playing 6
+fold,call
+fold,call
+raise 63,check
+check,check
+check,Fold
+fold,fold
+fold,check
+call,bet 5.0 chips.
+fold,call 15
+fold,You don't seem to have provided enough
+raise 35,call
+call,check
+check,Check
+call,call
+raise 25,check.
+check,call 5
+call,Check
+fold,call 62 chips
+raise 90,fold
+fold,call
+fold,Your optimal action is: call 15
+fold,fold.
+call,raise 13
+raise 22,check
+check,fold
+check,call
+raise 86,call
+call,call
+bet 4,You continue to bet 5 chips
+fold,Fold
+fold,"You don't specify an action, Your"
+fold,fold
+raise 85,check
+call,call 87 chips
+call,Check
+check,You are a specialist in playing 6
+raise 81,Call 22
+check,fold
+check,check
+fold,raise
+bet 3,check
+raise 38,fold
+raise 84,Bet.
+check,Fold
+check,bet 10 chips
+fold,check
+fold,check
+check,check
+raise 64,You are playing 6-handed No Limit
+bet 24,bet 7.5 chips
+call,Fold
+raise 90,call
+call,check
+fold,fold
+fold,Check
+call,call 88
+fold,Check
+call,fold
+raise 86,check
+call,call
+check,call
+fold,raise
+call,call
+fold,call
+raise 81,call
+fold,fold
+check,check
+fold,fold
+call,Fold
+fold,bet 8.75 chips
+call,check
+bet 39,The optimal action is: fold
+raise 25,check
+fold,Call
+check,Check.
+raise 46,call
+fold,call 20
+fold,fold
+check,bet 11
+fold,call
+fold,check
+raise 74,bet 40
+check,Fold
+check,You raise
+check,check
+raise 88,call
+fold,call 4
+call,Call
+fold,fold
+raise 37,bet 15
+fold,check
+check,check
+fold,Bet 40 chips.
+call,Your optimal action is: call
+fold,check
+call,call
+fold,Call
+bet 26,check
+check,check
+fold,You bet 10.
+bet 16,raise 4 chips
+call,check
+fold,check
+raise 80,call
+check,check
+fold,Fold.
+check,fold
+raise 82,call
+call,call
+call,"You are in UTG position, and"
+check,fold
+check,fold
+check,check
+fold,call 16
+fold,check.
+check,fold
+raise 90,call
+fold,fold
+fold,check
+check,Bet.
+call,Your optimal action is: check
+raise 16,Call
+call,bet
+check,call 4
+raise 10,Call 1.8
+call,fold
+raise 81,check
+check,call
+call,bet 30 chips.
+call,call
+raise 85,Call
+raise 95,call
+check,fold
+call,fold
+call,Bet
+raise 33,call 10
+call,fold
+raise 93,check.
+check,check
+fold,call
+check,check
+raise 13,call
+raise 84,call
+check,check
+fold,call
+bet 11,bet 10
+call,check
+call,fold
+fold,Call
+call,check.
+call,raise 16
+fold,call 5
+check,bet 10
+fold,You have to decide on an optimal action
+raise 86,Bet 70
+fold,call
+raise 4,Fold
+call,call
+call,call
+call,fold
+fold,Check
+raise 43,call
+call,call
+fold,raise
+call,raise 30
+fold,fold
+fold,call
+fold,fold
+call,call
+call,fold
+call,raise 60
+fold,Fold
+fold,You raise 13 chips.
+raise 93,call
+bet 5,bet 1.5
+call,check
+call,Check.
+check,fold
+raise 22,call 17
+call,bet
+raise 77,check
+call,check
+check,raise 40
+check,check
+check,Bet
+bet 13,check.
+call,call 37 chips
+raise 80,check
+call,check
+check,bet 10
+check,check
+call,check
+raise 13,Fold
+raise 38,Check
+fold,Call 65 chips
+bet 22,bet 15
+call,call
+fold,fold
+fold,call 5
+fold,"You are HJ, and your holding"
+check,Bet
+call,fold
+check,bet 21
+raise 61,check
+raise 13,fold
+check,fold
+call,call
+check,fold
+call,fold
+raise 30,fold
+call,call
+raise 48,check
+raise 61,bet 60
+call,call 70
+raise 10,call
+fold,Your optimal action is: fold
+fold,You fold.
+call,check
+call,call 1.5
+bet 29,call
+fold,The current board: King Of Spade
+fold,call 94
+fold,fold
+check,check
+call,Your optimal action is: call
+raise 10,call
+raise 81,check.
+bet 18,You raise.
+bet 30,call
+call,Since your holding is [King of Club
+fold,check
+check,check
+check,bet 7
+fold,Call
+raise 10,check
+raise 90,call
+check,call
+fold,fold
+call,fold
+call,call
+call,call
+fold,call.
+fold,fold
+fold,check.
+call,check
+call,Fold
+raise 84,check
+call,call 40
+fold,You bet 2 chips
+fold,fold
+raise 38,"You are in BB position, and the"
+call,check
+fold,fold
+raise 78,call 1
+check,check
+call,check
+call,Check
+check,call 13
+raise 77,You are going to call.
+check,call
+check,fold
+fold,raise 7.0
+call,Your optimal action is: fold
+check,Your optimal action is: check
+fold,fold
+check,check
+call,call
+check,call 1.75
+raise 27,call
+bet 17,check
+call,check
+fold,fold
+raise 72,check
+check,check
+fold,Fold
+call,check
+raise 90,call 31
+call,Fold.
+check,You are going all-in for 20
+check,fold
+check,call
+check,raise
+check,fold
+check,bets
+check,Check
+call,fold
+fold,fold
+fold,bet 18
+call,Check
+check,You choose to fold.
+raise 25,fold
+bet 7,You can bet 3.
+fold,check
+fold,call 84
+fold,You are a specialist in playing 6
+call,call
+call,check.
+bet 4,raise 8
+fold,raise
+call,fold
+fold,Raise
+call,fold
+call,fold
+fold,call
+raise 27,call 15
+raise 83,call
+fold,check
+check,fold
+call,fold
+fold,Check
+check,Bet
+call,fold
+raise 90,check
+call,call
+raise 35,You check and HJ call.
+check,check
+fold,fold
+call,"fold
+
+Threefold is too weak and"
+check,bet
+check,call
+call,fold
+call,check
+call,fold
+fold,Fold
+raise 61,Fold
+fold,call
+raise 82,Call
+fold,Call 33
+fold,The optimal action is: fold
+fold,You're holding [Ace of Spade
+call,check
+call,Fold.
+bet 10,check
+raise 86,call
+raise 92,call
+check,fold
+check,Raise
+raise 18,call
+check,check
+check,check
+raise 77,call 10
+call,fold
+call,fold
+call,check
+fold,fold
+check,fold
+fold,fold
+fold,call 15
+fold,fold
+fold,fold
+call,check.
+fold,check
+check,call.
+call,Check
+call,call
+check,call
+raise 13,fold
+call,Bet 7 chips.
+raise 18,Check
+call,Call.
+call,fold
+fold,raise 12
+check,Call
+call,call
+call,check.
+check,call
+fold,raise
+bet 7,check
+call,fold
+call,Check
+raise 13,fold
+check,fold
+call,Call 25
+check,fold
+raise 82,Check
+call,check.
+fold,fold
+raise 22,call
+check,call
+call,check
+raise 88,call
+call,check
+fold,Fold.
+call,check
+call,check
+call,Check
+raise 37,fold
+raise 82,call 18
+check,check
+check,fold
+fold,call 18.
+fold,fold
+check,fold
+fold,call
+fold,call 1
+fold,raise 125 chips
+fold,call
+bet 16,bet 7.75
+check,check
+check,check
+check,check
+check,check
+fold,fold
+fold,check
+call,check
+raise 77,You decide to call
+check,check
+call,check
+call,call
+fold,bet 10
+raise 7,bet 10
+check,fold
+call,fold
+call,call
+call,raise
+check,"You should raise, but you can only"
+check,call 3.
+call,"You are not even playing, You need"
+fold,check
+bet 24,check
+call,Fold
+check,call
+fold,call 35
+fold,call
+raise 35,fold
+call,fold
+bet 13,bet
+call,check
+bet 4,call
+raise 70,Fold.
+fold,call
+bet 3,Given the information that you are a specialist
+call,fold
+bet 11,call
+check,bet 5.
+call,call
+check,fold
+call,call
+fold,fold
+check,check.
+bet 29,Call.
+fold,Call
+call,call
+raise 81,check.
+call,fold
+fold,fold
+fold,fold
+fold,call
+call,call
+bet 7,Fold.
+raise 83,check
+check,call
+raise 89,call
+check,call 5
+raise 26,call 7
+raise 13,fold
+raise 91,call
+call,You bet 15 chips
+fold,Fold
+call,Check.
+check,check
+call,fold
+fold,fold
+call,check
+call,Call 4 chips.
+fold,fold
+check,You check on the river with a strong
+raise 22,bet 15 chips
+raise 70,Your holding is [Seven of Spade
+check,You fold.
+call,fold
+check,fold
+fold,call
+raise 75,fold
+fold,fold
+check,check
+bet 29,fold
+raise 38,call
+fold,fold
+call,call
+raise 84,bet 19
+call,Your optimal action is: raise
+fold,check
+fold,call
+bet 17,bet 6 chips
+call,fold
+check,You choose to call
+bet 5,check
+fold,call
+check,check
+call,check
+call,call
+check,bet 16
+check,check
+fold,call
+fold,call
+fold,Call 50
+raise 74,call 22
+fold,check
+fold,Your optimal action is: fold
+call,call
+check,Fold
+call,check
+bet 29,Check
+bet 29,All-in
+fold,Fold
+fold,check
+check,check
+fold,Fold.
+fold,call
+fold,Bet 50.
+bet 10,bet
+check,bet 7
+fold,fold.
+check,check
+bet 3,check
+check,fold
+check,fold.
+fold,fold
+check,check
+fold,You are facing an opponent who checks on
+check,call
+fold,check
+raise 90,call
+call,Check.
+check,Check.
+raise 48,Fold
+call,You are playing with a [Seven of
+fold,fold
+check,check.
+fold,raise
+raise 25,Call
+call,call
+check,check
+call,fold
+bet 5,check
+check,You bet 1 chip
+bet 18,check
+check,check
+check,check
+check,check
+check,You bet 20
+raise 25,Your optimal action is: call
+call,Call 21 chips
+fold,call
+check,Check
+fold,Call
+check,The current board shows Nine Of Spade
+call,call 8
+bet 25,fold
+call,raise
+check,You are holding [King of Diamond and
+check,bet 6
+check,Check
+raise 64,check
+check,fold
+call,call 10 chips
+check,fold
+raise 87,check
+raise 95,bet 26
+call,check
+check,call
+fold,Your optimal action is: call
+call,Fold
+call,check
+check,check.
+call,call 3
+check,bet 7
+check,call
+check,check
+call,check
+raise 83,call 41
+call,Fold
+fold,Fold
+call,call
+call,fold
+check,raise 9.
+check,bet 30
+check,You should call 5.0 chips
+raise 72,call
+check,Call
+fold,fold
+call,call
+check,check
+raise 82,check
+fold,You are going all-in for 60
+call,fold
+bet 13,check
+fold,check
+check,check
+bet 4,"fold
+
+freeze"
+fold,fold
+call,check
+call,check
+bet 39,call
+call,call
+fold,fold
+fold,Check
+raise 54,Check
+bet 1,check
+call,call
+check,bet 20
+bet 13,call
+call,fold
+fold,You're now at the river with a
+raise 77,fold
+check,call 5.
+bet 11,Check
+call,You don't need to provide an action
+raise 84,check
+raise 83,Call
+call,check
+call,fold
+call,call 11
+fold,Raise 75
+check,check
+check,Your optimal action is: fold
+check,raise 5
+fold,call
+fold,Raise
+raise 18,check
+call,fold
+check,check.
+check,check
+raise 70,check.
+check,check
+fold,check.
+check,check
+check,check
+call,call 5
+check,Your optimal action is: call
+bet 13,call
+check,fold
+raise 77,Check
+check,Bet 7.5
+raise 84,You're playing [Jack of Club and
+check,bet
+check,call
+fold,Check
+raise 77,call
+fold,Call
+fold,check
+check,fold
+check,Check
+call,fold
+fold,raise 29
+bet 7,You check
+call,fold
+check,bet
+bet 12,check
+bet 16,check
+bet 18,fold
+bet 39,bet 7 chips
+fold,check
+raise 74,raise 7
+fold,check
+fold,call 14
+call,call
+fold,fold
+check,Bet
+check,bet 2.5 chips
+check,check.
+raise 61,fold
+check,Check
+call,Call
+fold,check
+fold,Check
+check,bet 7
+check,Check.
+fold,call
+raise 83,check
+call,fold
+bet 2,call 1
+bet 13,check
+raise 77,Bet 9
+fold,call
+check,fold
+call,fold
+fold,raise 135 chips
+check,check
+fold,call
+raise 90,fold
+call,check
+check,fold
+check,You are folding.
+call,check
+bet 29,fold
+bet 29,call
+check,Your holding is [Ace of Club and
+check,Fold
+raise 54,check
+bet 18,call
+fold,check
+fold,Bet 5 chips.
+fold,Your optimal action is: call
+fold,Call
+bet 8,You are in BB position and the hand
+call,You are not mentioned to have made any
+raise 85,check
+raise 10,Fold.
+fold,"fold
+
+BB, 9c-"
+check,raise 16
+raise 90,fold
+check,bet 5.5
+check,check
+fold,Fold.
+bet 10,bet 4.25 chips
+fold,fold
+check,Fold
+check,call 23.
+bet 2,You have [Ace of Club and Ten
+raise 86,call 31
+check,call
+call,check.
+fold,call
+check,bet 2
+fold,fold
+fold,check
+fold,call
+raise 89,check
+call,bet 11 chips
+fold,fold
+call,You raise 90.
+check,call
+call,check
+raise 88,call 57
+fold,call
+fold,raise 75
+check,call
+call,call
+fold,You choose to raise.
+call,call
+call,fold
+raise 23,call
+bet 21,check
+fold,check
+fold,check
+bet 8,fold
+check,Check
+fold,call
+fold,Raise
+call,Check
+check,call
+fold,call 11
+call,Fold.
+fold,call 21
+raise 35,Call 7.7 chips
+fold,call
+fold,call 6
+bet 20,call
+check,bet 2.0
+check,call
+fold,call
+check,raise
+fold,call
+raise 90,call
+call,call 15
+call,call
+fold,Check
+fold,Fold.
+check,check
+call,call 10
+raise 32,You call
+bet 34,check
+call,check
+bet 32,check
+raise 30,fold
+check,check
+fold,"You are playing the river.
+
+Fold"
+call,check
+fold,fold
+check,Check
+fold,call
+call,call
+call,check
+raise 13,call 4
+call,call
+check,Check
+fold,Call.
+raise 38,check
+check,bet
+bet 11,Your optimal action is: check.
+check,Fold
+call,call
+check,Fold
+raise 77,call
+raise 89,check
+raise 95,Call
+call,"fold
+
+raise"
+fold,check
+check,You raise.
+call,call
+check,fold
+raise 92,call
+raise 96,fold
+check,Bet
+call,Call 52
+check,check
+check,bet 5.5
+call,fold
+fold,check
+check,call
+call,fold
+check,check
+raise 88,bet 20
+check,check
+check,fold
+call,fold
+raise 89,bet 14
+call,check
+bet 29,Fold
+check,check
+call,call
+fold,call
+fold,fold
+call,fold
+check,Check
+raise 25,call
+call,Your optimal action is: raise
+call,check
+fold,check
+call,fold
+check,check
+call,Fold.
+check,Check
+check,call
+fold,"Fold
+
+Fold"
+check,check
+fold,Fold
+check,Your optimal action is: bet
+fold,Your optimal action is: fold
+check,call 15
+check,You raise 4.0 chips
+fold,Check
+call,check
+bet 23,check
+fold,check
+call,raise 22
+fold,fold
+check,check
+call,call 9
+call,check
+check,check
+call,check
+call,You decide to bet 55 chips
+fold,You fold.
+fold,fold
+raise 25,call.
+call,call
+fold,call
+fold,You are going to call.
+check,fold
+call,check
+fold,call
+raise 16,fold
+raise 64,check
+fold,call
+call,check
+fold,call 16 chips
+bet 23,call 16.
+fold,raise 80
+call,bet 92
+check,check
+fold,Check.
+fold,fold
+call,fold
+call,check
+check,call 10
+call,call
+check,"check
+
+ check"
+raise 75,fold
+raise 88,Your optimal action is: fold
+raise 22,Call 7 chips
+bet 12,check
+check,check
+raise 88,You need to fold
+call,fold
+fold,check
+call,call 69
+call,check.
+fold,call
+check,Fold
+bet 18,fold
+fold,Fold.
+call,Fold.
+fold,Bet 36
+fold,call
+call,call
+raise 11,call 3 chips.
+call,call 30
+check,raise
+fold,call
+check,fold
+fold,call
+fold,check
+call,check
+raise 38,check
+raise 10,Check
+check,Fold.
+fold,fold
+bet 23,check
+call,fold
+fold,call
+raise 90,fold
+fold,You are a specialist in playing 6
+fold,call 88
+call,bet 10.0
+check,Fold.
+check,check
+fold,fold
+check,fold
+call,Check.
+call,check.
+call,call
+check,You're going all-in on the river
+check,Check
+bet 4,bet
+check,Your optimal action is: bet
+fold,raise 63
+fold,call 40
+bet 2,Call
+fold,call
+fold,You are the player with the BB holding
+call,call.
+call,fold
+fold,Check
+check,bet
+bet 25,"You are required to make a move,"
+check,call
+fold,raise 89
+fold,fold
+fold,Fold
+raise 83,Check
+call,Fold
+check,Fold.
+fold,Your optimal action is: call
+raise 72,Your optimal action is: check
+bet 24,call
+check,check
+bet 8,fold
+fold,Check.
+fold,check
+bet 10,check
+check,bet 8 chips
+raise 74,Bet 23 chips.
+call,check
+raise 41,fold
+check,bet 10
+raise 29,Your optimal action is: raise
+check,Bet.
+call,call
+fold,raise
+fold,call
+fold,call
+fold,Fold.
+check,check
+raise 44,fold.
+check,fold
+check,raise 21
+fold,bet 43 chips
+check,check
+fold,Call 61 chips
+fold,check
+check,check
+check,Bet 6 chips
+call,check
+check,Check
+call,fold
+call,fold
+call,call 5
+check,check
+check,call
+call,check
+fold,fold
+raise 13,call
+fold,Fold
+check,check
+check,call
+call,check
+call,Call
+check,check
+call,call 88
+call,call 9
+call,fold
+fold,fold
+call,raise
+raise 92,check
+call,Bet 7.
+bet 8,Bet 8
+check,bet 3 chips
+check,check
+call,check
+call,check
+check,check
+raise 38,check
+call,call 109
+fold,call
+check,Check
+check,bet 50 chips.
+call,fold
+raise 31,Call 11 chips
+fold,fold
+raise 80,call
+check,You can bet 2.8 chips
+bet 4,check
+raise 80,fold
+raise 86,call
+fold,call
+check,Call
+bet 40,check
+check,Your optimal action is: raise
+call,call 3
+fold,Call 32
+fold,Fold
+call,check
+check,raise 10 chips
+call,bet 10
+bet 23,fold
+fold,fold
+check,check
+fold,call
+raise 84,Your optimal action is: call
+check,check
+fold,Call.
+check,check
+fold,Call
+bet 3,check
+check,bet 10.5 chips.
+check,"You are facing HJ, UTG"
+fold,fold
+call,fold
+check,fold
+raise 83,fold
+check,Fold
+fold,Call.
+fold,check
+call,call 10
+fold,fold
+fold,call
+call,call 10 chips
+raise 16,check.
+call,You are holding [King of Spade
+call,fold
+call,check
+check,fold
+call,check
+bet 5,call
+check,check
+raise 80,bet
+check,fold
+check,check
+check,bet 10
+check,call
+check,check
+fold,check
+raise 35,call
+check,bet
+fold,Fold
+raise 89,fold
+fold,call
+raise 30,check
+check,Call
+fold,call
+call,call
+call,call 20 chips
+call,Call 14 chips.
+check,bet
+fold,check
+raise 29,Fold.
+fold,fold
+check,You are a specialist in playing 6
+check,You raise 15 chips.
+call,call 29
+call,call
+fold,call
+bet 16,bet 6
+call,check
+call,call 9
+fold,bet 5
+raise 57,call
+check,fold
+check,bet 7
+raise 91,check.
+call,call
+call,check
+call,raise 66
+call,fold
+check,Your optimal action is: 3-b
+fold,call 13
+check,check
+call,check.
+fold,fold
+call,Fold
+call,fold
+call,"You're at the BB.
+Your optimal"
+bet 27,Fold
+raise 89,"You are being asked to call.
+Bet"
+check,bet 10 chips
+check,Fold.
+call,check
+fold,Fold
+check,check
+fold,check
+fold,fold
+call,fold
+fold,call
+bet 17,check
+call,Your optimal action is: call
+raise 83,Call
+bet 12,call
+fold,check
+check,Your optimal action is: raise
+raise 70,fold
+fold,raise 100
+call,Call
+check,check
+check,You are bluffing. You bet
+fold,fold
+check,check
+check,fold
+check,bet 50 chips
+call,Fold
+check,Fold.
+fold,Call
+bet 5,check
+raise 64,Check.
+bet 10,call 11
+call,call
+fold,fold
+bet 7,check
+bet 3,bet 7
+fold,Call
+check,bet 10
+fold,call 9
+fold,fold
+check,Check
+bet 4,check
+fold,check
+raise 48,call
+fold,check
+raise 77,call
+call,call
+raise 23,fold
+fold,raise
+check,fold
+bet 7,You are playing with the Queen of Sp
+call,You fold
+fold,fold
+fold,check
+check,call
+raise 92,Call
+check,raise
+fold,raise 25
+bet 3,"You have 6 options:
+
+1."
+fold,call
+call,call 13
+check,call
+bet 3,Fold
+call,fold
+call,Fold
+check,call 8.0
+fold,fold
+call,check
+check,check
+bet 4,Call
+bet 11,fold
+call,fold
+bet 3,bet 1.2 chips
+check,check
+check,check
+check,fold
+raise 93,Your optimal action is: call.
+fold,raise 19
+raise 10,call
+fold,fold
+raise 27,bet
+raise 86,check
+raise 95,Call 24 chips
+raise 16,You are holding [Ace of Spade
+check,call
+fold,fold
+fold,fold
+call,check
+bet 24,check
+raise 44,call
+call,check
+call,Check
+check,bet 3
+check,Check
+fold,call 15.0 chips
+check,check
+check,check
+call,check
+fold,check
+call,call
+call,fold
+check,check
+fold,call
+fold,Call
+raise 22,You don't have a good enough hand
+raise 16,call
+call,fold
+fold,Check
+call,call 11
+raise 25,Call
+call,check
+fold,fold
+call,Call
+call,fold
+check,bet 4
+raise 72,check
+fold,Call.
+raise 38,call 5
+call,fold
+fold,raise 135 chips
+call,check
+check,You should call the HJ bet.
+fold,check
+fold,Call
+raise 25,fold
+fold,check
+fold,check.
+bet 8,Your optimal action is: bet.
+fold,fold
+check,check
+raise 32,You are now at the table with [
+fold,You bet 5 chips
+fold,fold
+fold,call 7
+check,Your optimal action is: fold
+fold,check
+call,Call 9.5 chips
+check,bet
+fold,Call
+check,bet
+fold,fold
+call,raise 12
+call,You continue to bet 25 chips
+call,call 80
+call,fold
+raise 83,check
+fold,You are in early position with pocket pairs
+fold,check
+fold,fold
+bet 10,Fold
+call,fold
+fold,fold
+check,fold
+raise 25,check
+check,bet 10
+bet 25,check
+raise 30,Call 10 chips
+call,call
+check,Fold
+check,check
+call,fold
+check,call 7
+fold,The optimal action is: call 49
+check,check
+bet 16,check
+fold,fold
+fold,You are playing in a late position.
+call,Check.
+fold,check
+fold,call 67.8 chips
+fold,"You continue to raise aggressively, which you"
+raise 13,"fold
+
+call"
+raise 93,You are outdrawn on the river
+call,check
+call,fold
+check,You are a specialist in playing 6
+raise 96,fold
+bet 29,-fold
+check,You raise 33
+fold,raise 80
+fold,check
+raise 27,"Fold.
+
+Call 11 
+
+Check"
+check,You are a specialist in playing 6
+check,check 2
+check,Your optimal action is: check
+call,bet
+call,check
+fold,Call 39 chips
+fold,check
+raise 81,Check
+call,Call 5
+check,Fold.
+bet 29,raise 21
+fold,fold
+raise 86,fold
+fold,Call
+call,call 17
+fold,Check
+raise 10,fold
+fold,fold
+call,call
+raise 13,Bet 3
+raise 84,call
+fold,Check
+call,check
+call,call 7 chips
+fold,Call 26 chips
+fold,check
+check,check
+raise 38,check
+fold,fold
+call,call
+fold,bet 31
+raise 72,raise
+fold,check
+fold,raise 55
+fold,Call
+call,call 20
+fold,Your optimal action is: call 73
+call,Call 28
+call,call
+check,check
+bet 17,fold
+call,check
+fold,check
+raise 86,fold
+fold,call 68
+raise 35,call
+call,fold
+fold,raise 63 chips
+bet 10,You are a specialist in playing 6
+fold,fold
+fold,check
+check,call
+call,check.
+check,You are being asked to fold on all
+bet 5,check
+check,bet
+raise 65,call
+check,Check
+bet 23,call
+call,bet 25 chips
+fold,Call 60
+fold,fold
+fold,Your optimal action is: call 67
+raise 92,call 42
+raise 13,call 5
+check,You bet 0.5 chips
+check,fold
+fold,call 7
+call,bet
+check,bet 4
+call,check
+fold,call
+fold,call
+call,fold
+check,bet
+fold,check
+check,bet 1
+check,call 10 chips
+call,Call
+fold,You raise
+check,call
+raise 29,fold
+call,call 2
+fold,Fold
+bet 13,fold
+fold,check.
+call,check
+call,call
+fold,check
+raise 86,You are going all-in for 60
+bet 7,Check
+bet 13,fold
+call,You are 3x the blinds and
+raise 93,call
+check,check
+check,fold
+fold,check
+check,call 4
+fold,Check.
+raise 30,Fold
+fold,call
+check,check
+bet 4,call
+raise 85,check
+bet 29,Call
+call,call 30 chips
+raise 10,check
+call,Your optimal action is: raise 30
+check,"fold
+
+check
+
+call
+
+fold"
+call,fold
+fold,fold
+fold,check
+check,You raise 22
+raise 16,call
+bet 4,check.
+check,call 5
+call,call
+call,You are dealt Three of Spade and
+call,fold
+raise 92,call
+call,check
+check,raise
+check,check
+fold,Bet
+check,Call
+bet 29,call
+check,call
+call,check
+call,call 88
+check,Fold
+raise 77,"check
+
+check
+
+raise"
+raise 83,Call
+fold,check
+bet 29,fold
+raise 11,Your optimal action is: check
+fold,call
+fold,fold
+call,fold
+bet 18,Fold.
+check,check
+call,call
+fold,call
+check,check
+raise 88,check
+check,Fold.
+bet 16,You are given the optimal actions to
+fold,fold
+check,Bet
+call,check
+check,Your optimal action is: raise
+raise 17,call
+call,raise 64
+call,fold
+check,check
+bet 51,Bet 10
+call,You are required to answer 2 separate
+fold,call
+check,call
+check,fold
+raise 10,Call
+check,call
+call,check.
+call,fold
+call,call 12
+call,call 13
+fold,You fold
+raise 27,Call
+fold,call
+fold,call
+fold,bet
+fold,raise
+fold,check
+fold,"You are given three game scenarios, and"
+check,"The board: Seven Of Diamond, Six"
+check,bet 7
+check,check
+check,fold
+call,call 32
+raise 35,call 10
+call,check
+raise 81,Check
+fold,You fold
+raise 89,Fold
+check,check
+raise 92,fold
+check,check
+bet 23,Your optimal action is: call
+check,bet 6
+fold,Call 3 chips
+fold,fold
+fold,call 32 chips.
+call,check
+fold,call
+call,call
+call,bet
+fold,Call
+call,fold
+fold,fold
+fold,Call
+fold,fold
+call,fold
+fold,raise 63 chips
+bet 23,bet 6
+check,call
+call,fold
+fold,"You are facing UTG, who bet"
+check,check
+check,call.
+fold,call
+bet 18,check
+call,check
+check,check
+fold,1. raise 4 chips
+check,bet
+fold,call
+fold,call
+fold,call 54
+call,fold
+raise 17,check
+fold,check
+raise 16,fold
+fold,check
+call,Check
+fold,fold
+raise 89,check
+fold,fold
+check,bet 15.0 chips
+fold,check
+fold,Call
+bet 22,The optimal action is: check
+check,check
+check,call 12
+raise 74,call
+check,Fold.
+check,bet 6
+raise 32,check
+fold,check
+raise 10,Fold
+call,check
+call,fold
+fold,Your optimal action is: call
+check,Fold
+bet 7,bet
+fold,fold.
+call,Check
+raise 38,fold
+fold,call 22
+raise 81,You are the BB and have been raised
+call,fold.
+fold,fold
+call,Call 10 chips
+fold,bet 84 chips
+check,check
+raise 44,fold
+check,bet
+check,check
+fold,check
+call,check
+fold,call
+call,call 8
+check,check
+fold,Check.
+call,fold
+fold,raise 55
+fold,Check.
+check,check
+raise 41,"fold
+
+check
+
+ bet 13 chips"
+raise 11,call
+call,call
+check,check
+call,You're back in the BB position with
+bet 18,Call.
+call,Check
+call,fold
+check,You are holding [Jack of Club and
+raise 16,call
+check,bet 1
+bet 17,Check
+raise 85,Fold.
+check,check
+bet 32,bet 32
+fold,You raise.
+check,Check
+raise 18,fold
+raise 19,call
+call,call 10
+call,Check
+check,fold
+fold,fold
+check,bet
+check,fold
+check,check
+check,check.
+bet 24,check
+call,fold
+check,Bet.
+check,bet
+bet 8,check
+check,Call
+raise 92,Fold
+raise 93,Your optimal action is: call
+bet 29,raise 23 chips
+call,fold
+fold,Fold
+bet 13,check
+call,fold
+fold,check
+call,You are faced with a decision on the
+check,check.
+call,fold
+check,call
+check,check
+fold,check
+raise 88,call 62
+check,call 2
+fold,fold
+raise 43,"fold
+
+fold
+fold
+call"
+fold,Since the optimal action is not explicitly mentioned
+fold,fold
+call,fold
+fold,check.
+call,fold
+call,fold
+fold,Call
+raise 89,call.
+bet 29,check
+check,bet 8
+fold,call 32
+call,check
+check,fold
+call,Call 12
+raise 10,fold
+fold,raise
+check,bet 5 chips
+fold,fold
+check,check
+raise 17,call
+call,check
+fold,call
+fold,call
+fold,fold
+fold,check.
+call,You bet 65
+fold,You are going to fold
+fold,fold
+call,fold
+call,You are given to choose the best response
+fold,fold
+fold,Check
+raise 67,check
+raise 27,check
+bet 23,call 13 chips
+fold,Fold
+bet 3,bets
+call,You are not given a specific game scenario
+fold,call
+call,Your optimal action is: call
+fold,Fold
+call,call
+raise 10,check.
+raise 83,bet 15
+raise 25,fold
+fold,fold
+check,check
+call,fold
+check,You continue with 4 chips.
+check,check
+check,call
+bet 17,fold
+fold,Check
+call,Call 23
+raise 58,Fold
+check,You check
+call,fold
+call,raise
+fold,check
+fold,call
+check,Check
+fold,call
+raise 25,Call
+call,call
+fold,call
+raise 81,check
+raise 77,You continue with a bet of 22
+fold,fold
+fold,fold
+call,check
+check,check
+check,check
+bet 18,check
+fold,Your optimal action is: fold
+call,Fold
+bet 8,call
+fold,Check
+check,You raise 27 chips
+bet 17,Your optimal action is: call
+call,fold
+raise 7,check
+check,bet
+fold,fold
+check,call
+bet 10,check
+call,fold
+check,fold
+call,raise to 61 chips
+fold,Call 13
+fold,fold
+fold,fold
+call,call 20
+call,fold
+bet 3,fold
+fold,check
+check,fold
+fold,Call 29
+call,fold
+fold,raise 56
+call,check
+call,fold
+raise 92,fold
+call,Check
+bet 12,check
+bet 13,check
+call,call
+fold,call
+raise 88,Your optimal action is: check.
+check,call 23
+check,bet
+call,call 103
+check,Fold.
+fold,fold
+fold,fold
+call,You raised 82.
+check,Check
+fold,check.
+check,fold
+call,You don't have a clear decision based
+check,check
+check,fold
+call,Fold.
+check,Fold
+check,check
+call,check
+call,call
+fold,fold
+raise 92,fold
+fold,call
+bet 12,check
+call,check
+check,check
+call,check
+fold,raise
+raise 22,fold.
+bet 12,bet 10
+bet 24,Your optimal action is: check
+check,check
+fold,fold
+call,check
+raise 82,check
+check,check
+call,check
+check,raise
+check,Fold.
+fold,check
+check,bet 5
+check,bet 5
+raise 64,Check
+bet 7,check
+check,Fold
+call,fold
+check,call
+check,check
+check,check
+call,You fold
+raise 40,bet 13 chips.
+fold,check
+check,check
+check,Your optimal action is: check
+fold,fold
+check,check
+check,bet 3
+fold,fold
+fold,Check.
+raise 46,fold
+fold,Bet 23
+call,check
+check,call
+call,check
+call,You fold
+fold,Bet 9.
+fold,raise
+call,fold
+call,You continue and bet 57.
+bet 6,check
+fold,call
+fold,fold
+check,Fold.
+fold,fold
+bet 18,Your optimal action is: call
+check,check
+call,call
+check,Raise.
+call,call
+call,fold
+check,call
+check,bet 6
+check,check
+fold,Check
+check,fold
+fold,raise 125
+check,fold
+check,check
+check,bet 9
+check,check
+raise 10,Fold
+fold,bet
+fold,check
+call,Fold
+call,fold
+call,check.
+raise 80,call
+fold,Bet
+fold,check
+call,check
+fold,fold
+call,Check
+fold,call
+raise 13,call
+call,check
+raise 92,call
+check,bet
+fold,call
+call,Call 43
+raise 90,Call
+fold,fold
+check,call
+fold,fold
+raise 74,Call 39.0 chips
+bet 4,Check
+check,call
+fold,check
+fold,fold
+fold,raise
+fold,check
+check,raise 18
+call,check
+call,fold
+fold,raise 57
+check,check
+check,raise
+call,check
+fold,call
+fold,call 58
+check,Check
+check,check
+check,check
+call,Check.
+fold,call
+bet 24,call
+raise 62,check
+check,fold
+call,Fold.
+call,raise 36
+check,check
+raise 13,fold
+call,check
+fold,fold
+bet 23,Fold
+fold,bet 7
+fold,"You are bluffing, and your optimal"
+check,check.
+call,fold
+check,Check
+fold,call
+fold,call
+check,Your optimal action is: call
+call,raise 75
+check,bet 1
+fold,Check.
+check,call
+bet 24,bet 24
+fold,fold
+check,fold
+call,You have a hand that has been dealt
+call,Check
+call,Fold
+call,check
+fold,check
+call,call
+raise 86,Call
+check,fold
+call,check
+check,call
+raise 25,check
+check,Fold
+call,bet 3
+fold,All-in
+bet 16,You bet 1.0 chip
+check,fold
+check,call
+check,bet
+call,call
+call,call
+bet 32,call 25
+raise 29,check
+raise 95,raise
+check,check
+raise 28,bet 17
+raise 88,fold
+raise 84,bet 7
+fold,check
+check,check
+call,check
+call,raise 30
+call,Call 20
+call,check.
+raise 84,bet 22
+check,You bet.
+check,bet 0.3
+fold,Raise
+fold,bet
+call,call
+check,call
+raise 86,check
+fold,fold
+fold,Call
+check,bet 8 chips
+call,fold
+raise 33,Fold
+check,Fold
+call,fold
+call,fold
+call,fold
+check,Bet 11
+raise 25,call 7
+raise 92,call
+check,call
+raise 86,Fold
+call,check
+call,call
+call,fold
+raise 31,fold
+fold,fold
+bet 2,Bet 3 chips
+check,bet 1
+fold,fold
+check,check
+fold,fold
+call,check
+bet 29,You need to call
+check,check
+fold,fold.
+check,check
+bet 4,check
+call,call
+check,call
+fold,check
+check,fold
+fold,You are facing a bet of 22
+call,call
+raise 83,call
+fold,fold
+check,raise
+call,call
+fold,bet 12
+fold,fold
+check,raise 40
+fold,Bet
+check,raise 40
+call,bet
+check,Call
+call,call
+bet 15,check
+check,call
+fold,raise
+call,call
+call,Call 22
+check,bet
+fold,Fold
+fold,check
+raise 80,check
+fold,fold
+fold,call
+bet 8,Check
+fold,check.
+bet 29,Check.
+call,Fold.
+bet 11,check
+call,call 19.4
+raise 89,Call.
+call,call
+raise 85,call 60
+fold,check
+fold,raise 8
+fold,Call 3.
+check,bet 8
+check,check
+fold,check
+fold,check
+check,Call 10.
+call,raise 27 chips
+raise 18,Call 10
+fold,fold
+raise 81,call
+check,bet 8
+check,Fold
+check,check
+call,fold
+call,call
+check,Your optimal action is: bet 18
+call,fold
+call,fold
+check,Call 8
+call,Check
+raise 32,call
+call,call
+raise 89,Call
+fold,fold
+raise 82,fold
+fold,check
+fold,Fold
+raise 54,fold
+call,check
+call,Fold
+raise 48,call 18
+fold,Fold
+call,check
+call,call
+call,Bet 2
+fold,call
+call,call
+check,bet 10 chips
+raise 16,call 8
+fold,Fold
+fold,check
+fold,call 37.0 chips
+fold,call
+raise 83,call 30
+check,check
+fold,fold
+raise 93,call
+check,check
+call,check
+call,check
+call,check
+fold,check
+bet 34,call 16.
+bet 12,check
+call,check
+check,check
+raise 77,fold
+call,call
+raise 74,raise
+call,fold.
+call,call 6.
+check,fold
+fold,fold.
+raise 86,raise 57
+call,check
+fold,call
+fold,check.
+bet 5,Call 3
+call,Your optimal action is: fold
+check,bet 19 chips
+check,fold
+raise 84,check
+call,fold
+raise 7,bet 1.5
+call,call
+bet 11,check
+fold,Your holding is [Two of Club and
+call,fold
+call,fold
+check,call
+call,fold
+raise 81,Your optimal action is: check.
+bet 5,check
+fold,raise
+raise 13,call
+fold,check
+raise 88,fold
+check,bet 52
+call,Fold.
+fold,fold
+check,check
+raise 10,check.
+check,check
+call,raise
+call,raise 10
+fold,check
+call,check
+check,fold
+fold,Call.
+check,Check
+call,fold
+fold,fold
+raise 38,call
+check,check
+check,You bet 4 chips
+call,Check
+call,check
+raise 89,Three chips.
+fold,"You don't call, instead. You"
+check,check
+fold,call
+call,Check.
+call,Bet 5
+raise 38,call
+fold,check
+call,call
+check,Check.
+check,check
+call,raise 114
+bet 12,fold
+bet 17,bet 6 chips
+check,fold
+fold,call
+fold,Call
+call,bet 9
+call,fold
+call,call
+call,check.
+raise 95,Call
+check,Fold.
+bet 4,check.
+raise 22,bet
+call,call 83
+raise 92,call 15
+raise 89,fold
+fold,check
+call,call
+check,check
+call,call
+fold,Check
+fold,call 26
+bet 4,check
+check,fold
+check,check
+call,Your optimal action is: fold
+fold,Your optimal action is: fold
+raise 64,check
+fold,call
+raise 80,"fold
+
+Note: The hand with ["
+fold,fold.
+call,call
+call,call
+raise 58,check
+bet 17,fold
+fold,call 12
+raise 32,call
+check,check
+fold,call
+fold,check
+raise 32,call
+check,fold
+call,raise
+raise 84,You continue to bet
+call,fold
+fold,Bet 10
+raise 41,fold
+call,fold
+call,call
+bet 13,call 8
+bet 32,bet 12
+call,You have a King of Diamond and Queen
+check,bet 1 chip
+check,check
+check,check
+call,Call
+fold,"Fold
+
+For this scenario, your Ace"
+raise 13,fold
+bet 20,check
+check,call
+fold,fold
+call,You raise 12 chips
+call,raise 91
+check,check
+raise 16,call
+call,check
+fold,raise 53 chips
+check,call
+call,fold
+bet 3,check
+check,Raise 5
+check,check
+fold,fold
+call,fold
+raise 81,raise 54
+call,You fold
+fold,call
+call,bet
+call,check
+call,The optimal action is: raise
+fold,check
+check,Fold
+call,call
+fold,call
+check,fold
+check,call
+call,check
+bet 8,Check
+check,fold
+bet 7,call
+check,call 11
+fold,call
+call,fold
+call,call 10.
+call,bet 39
+call,call
+raise 90,call
+check,call
+call,Call 23
+check,call
+raise 87,Check
+check,call
+call,check
+call,check
+check,Fold
+fold,Your optimal action is: call.
+call,call
+raise 89,call
+fold,check
+check,fold
+call,call
+call,Your optimal action is: bet.
+raise 84,call 62
+call,bet 30
+call,check
+fold,raise 36
+check,Your holding [King of Club and Six
+call,call
+check,bet
+raise 25,Your optimal action is: raise
+bet 12,check
+raise 29,call 16
+check,bet 8 chips
+fold,check
+call,fold
+raise 23,call
+check,call
+fold,call
+raise 92,call
+raise 16,check
+raise 25,fold
+check,check
+raise 33,fold
+fold,call 16
+call,Bet 10 chips
+call,call
+fold,call 16 chips
+call,fold
+fold,Your optimal action is: fold
+call,call
+fold,call
+check,You are 5-handed on the river
+raise 22,call
+fold,call
+raise 84,check
+fold,You are holding [Queen of Spade
+call,bet 14
+raise 83,call
+check,fold
+check,fold
+check,check
+bet 32,check
+bet 3,call
+check,check
+raise 29,call
+call,call
+check,call
+call,fold
+check,call 3
+call,bet 7 chips
+fold,fold
+fold,check
+check,fold
+check,bet 8.
+call,You are holding [Ace of Heart and
+call,call 60
+call,call
+fold,check.
+fold,check
+bet 8,check.
+fold,check
+fold,fold
+fold,call 13
+raise 16,call
+check,Check
+bet 8,call
+bet 17,Your optimal action is: call.
+fold,call
+call,Check.
+fold,fold
+raise 80,fold
+raise 77,call 40
+check,fold
+raise 35,fold
+bet 20,bet 7
+check,call
+fold,bet 52.
+raise 86,call 121
+check,raise 24
+bet 10,bet 3.2 chips
+raise 28,check
+check,fold
+call,fold
+call,call 8
+check,check
+fold,fold
+call,raise
+call,call
+bet 5,call
+fold,call 60 chips
+bet 4,bet
+fold,check
+fold,check
+bet 4,Check
+call,bet
+check,check
+call,call
+fold,fold
+raise 87,call
+bet 13,bet 6
+check,check.
+raise 80,Fold
+check,check
+raise 92,check
+check,check
+fold,call
+check,Bet
+fold,call
+fold,check
+fold,fold
+bet 23,call
+check,call
+fold,Raise 80.
+raise 70,fold
+raise 57,You're playing against a BB who is
+call,raise 26 chips
+check,You are not in the hand.
+fold,fold
+raise 77,fold
+call,Fold
+call,bet 3 chips.
+fold,You raise 16
+call,call
+fold,call
+check,check
+call,Call
+call,check
+check,check
+call,check
+check,fold
+call,bet
+call,call
+fold,call 36
+call,call 32
+fold,Fold
+raise 14,call
+raise 25,fold
+call,You need to fold.
+check,bet 8
+call,bet
+fold,check
+raise 16,call
+call,check
+check,fold
+check,call
+bet 5,Fold.
+bet 23,Check
+fold,call
+raise 74,fold
+check,fold
+raise 93,fold
+check,You call.
+call,raise
+call,You fold
+fold,call
+fold,call 10
+fold,fold
+fold,check
+raise 25,fold
+check,check
+fold,raise 57
+check,Call
+fold,You should fold
+check,bet 5
+call,fold
+call,fold
+bet 4,check
+call,check
+call,bet 21
+raise 93,Bet 20 chips
+call,check
+check,check
+call,call 4
+check,call
+call,call
+fold,check
+raise 16,check
+call,fold
+check,Bet 10 chips
+fold,check
+check,fold
+bet 29,call
+call,check
+fold,call 16
+check,check
+bet 5,Fold.
+fold,fold
+fold,bet
+fold,fold
+call,check.
+call,Check
+check,bet
+check,call
+raise 93,bet 22 chips
+call,call
+check,call
+fold,Fold
+bet 10,bet 2
+bet 24,call
+check,check
+raise 86,bet 37
+fold,call 15
+fold,fold
+raise 86,call
+fold,Check
+fold,check
+fold,Your optimal action is: raise
+fold,bet
+call,fold
+call,call
+check,call 5
+fold,check
+check,bet 7
+check,You bet 4.5
+fold,call
+call,call 5
+call,check
+raise 84,Fold
+fold,bet 73 chips
+call,call
+check,check
+check,check
+check,call
+bet 8,call
+call,fold
+check,fold
+fold,You are holding [Six of Heart and
+fold,fold
+fold,fold
+call,Bet 15.
+fold,Your optimal action is: call 75
+raise 13,call 5 chips
+check,check
+fold,call 19
+raise 83,fold
+call,Raise 40
+bet 22,Your holding is [King of Diamond and
+check,Check
+raise 81,You are dealt [Ten of Spades
+call,call 20
+fold,fold
+raise 74,check
+raise 89,You have an Ace high with a Ten
+fold,call
+call,Call
+fold,Call
+check,call
+fold,call
+raise 13,fold
+check,check
+check,bet 5 chips
+fold,fold
+raise 90,call
+call,raise 60
+raise 75,Raise 25
+check,bet
+raise 93,check
+fold,Your optimal action is: check
+fold,Fold
+fold,call 16
+fold,check
+call,raise to 78
+fold,Your optimal action is: call.
+check,call 5
+check,check
+fold,Call
+fold,Call
+fold,fold
+call,Your optimal action is: fold
+fold,fold
+raise 73,check
+fold,fold
+raise 35,call
+raise 84,You should bet 15.0 chips
+fold,check
+fold,Call 24 chips
+bet 45,Your holding is [Five of Spade
+bet 23,bet
+call,bet 15
+raise 70,fold
+check,call
+call,Call 72 chips
+call,call
+fold,Check
+raise 89,Call
+raise 18,fold
+raise 87,You are a specialist in playing 6
+fold,fold
+call,call
+fold,Fold
+call,call
+check,fold
+raise 32,call 10
+call,call
+call,raise 50
+call,check
+call,check
+check,bet
+bet 22,call
+check,check
+fold,check
+call,check
+check,fold
+call,call
+bet 39,check
+fold,call
+fold,check
+fold,Fold
+call,Call
+fold,call 62 chips
+bet 10,bet
+fold,call
+call,call
+check,check
+call,fold
+raise 16,call
+call,Fold
+fold,Call 40
+bet 4,check
+call,call
+call,Fold.
+check,check
+call,raise 176 chips.
+raise 22,fold
+bet 29,check
+bet 17,bet 14
+bet 29,You are facing a board of Jack Of
+check,check
+call,Call 15 chips.
+raise 81,Your optimal action is: bet 49
+check,Check
+fold,Fold
+fold,call
+raise 31,check
+check,bet
+fold,You bet.
+fold,fold
+check,check
+check,check.
+check,check
+bet 19,bet
+check,Call
+fold,Your optimal action is: call
+raise 10,check
+fold,check
+fold,call 20
+fold,You are bluffing to try to make
+fold,call
+call,call 2
+fold,call 37
+check,call
+call,raise 16
+call,bet 8
+check,bet 14 chips
+raise 25,check
+fold,fold
+fold,Call
+call,fold
+fold,raise
+bet 8,Check.
+check,fold
+check,fold
+call,You bet 7
+check,check
+fold,fold
+call,Your optimal action is: raise
+fold,fold
+call,fold
+bet 20,bet 3 chips
+raise 27,call 4
+fold,Raise 46
+check,fold
+check,Check
+call,call
+check,call
+raise 22,call
+fold,Fold.
+raise 83,fold
+check,You are holding [Eight Of Clubs and
+call,call 74
+check,The optimal action is: fold
+fold,Fold
+raise 25,check.
+check,Call 5 chips
+fold,fold
+call,fold
+check,call 5
+fold,check
+fold,Check
+fold,Fold
+fold,Fold
+fold,Call 46
+raise 94,Bet 10 chips
+bet 8,fold
+check,fold
+call,call
+raise 87,raise
+call,call 10
+fold,fold
+check,check
+raise 93,call 35
+check,check
+fold,Call
+call,check
+fold,fold
+call,fold
+call,Call 50
+raise 56,fold
+call,You should fold to BTN's raise of
+raise 58,call
+raise 17,Bet 2.5 chips
+check,bet 4.5
+check,You're holding [Ten of Spade
+fold,Fold
+raise 25,fold
+call,call 16
+bet 5,call 8
+bet 18,check
+raise 27,call
+raise 59,fold
+fold,call
+check,You don't need to answer the last
+check,fold
+check,Call
+raise 92,check
+check,Bet 11
+call,check
+call,bet 3 chips
+raise 81,fold
+raise 44,check
+check,check
+fold,bet 26
+call,fold
+check,check
+call,bet 10.
+fold,fold
+fold,call
+call,call
+fold,fold
+raise 22,check
+fold,bet
+fold,bet
+raise 54,check
+check,fold
+call,call
+fold,fold
+check,Your optimal action is: call
+check,Bet 31
+raise 10,fold
+fold,check
+check,Bet.
+fold,fold
+fold,check.
+fold,call
+fold,call
+check,Fold.
+check,check
+raise 77,check
+raise 44,check
+fold,call
+bet 12,Check.
+check,fold
+call,"fold
+
+ fold
+call
+call"
+call,Fold.
+fold,check
+bet 23,fold
+call,raise 11
+call,Call
+check,fold
+fold,fold
+fold,check.
+check,check
+raise 81,check
+fold,fold
+call,fold
+call,You have already answered for one game.
+check,check
+check,check
+call,Check
+raise 11,"You are raising, bet 6."
+fold,The optimal action is: call
+bet 17,check.
+call,call
+fold,check
+call,call
+check,check
+check,bet
+fold,check
+fold,You are a specialist in playing 6
+call,call
+fold,Call
+check,Fold.
+check,fold
+call,Raise 95
+call,fold
+check,Fold
+check,call
+fold,call
+fold,call
+check,Bet
+fold,Your optimal action is: fold
+raise 86,call
+check,check
+fold,fold
+check,You continue to check.
+raise 77,check
+check,Check
+check,You are facing a decision on the river
+bet 5,call
+call,"fold
+
+check"
+fold,call
+call,bet 34 chips
+fold,check
+call,raise
+bet 8,fold
+call,call
+raise 89,Call
+check,Check
+call,You raise to 8.
+bet 3,fold
+fold,check
+call,Fold
+bet 17,You're facing a check on the river
+check,call
+raise 44,check
+call,call 3
+fold,Fold.
+fold,raise 11
+bet 3,check
+bet 22,check.
+check,check
+check,Fold
+raise 37,You don't want to continue playing as
+fold,call
+fold,call 139
+call,check
+bet 2,Bet 8
+call,fold.
+call,call
+raise 89,call 27.0
+bet 23,Bet.
+check,call 6 chips.
+check,Fold
+call,raise 57
+fold,fold
+bet 5,You are dealt the Two of Hearts and
+fold,call
+bet 10,fold
+call,call
+call,check
+raise 35,fold
+call,bet 13 chips
+call,call
+bet 23,"The board reads Nine Of Spade,"
+call,fold
+fold,call 20
+check,fold
+fold,check
+call,fold
+check,check
+call,call
+call,bet 4 chips.
+call,call
+call,You need to call.
+raise 77,check.
+call,call
+call,raise
+check,call 10
+check,check.
+raise 25,Call.
+call,call
+call,call
+check,check
+fold,call
+check,fold
+fold,Call 60 chips.
+raise 41,Call
+call,Fold
+check,check
+fold,call 130
+fold,check
+fold,call
+call,call
+bet 29,call
+call,fold
+check,You bet 10 chips.
+raise 90,fold
+fold,bet 17
+fold,call
+check,call 5
+check,Check
+call,Your optimal action is: check
+bet 18,raise 27
+call,You are facing an opponent's bet of
+fold,Fold
+fold,raise 75
+bet 29,Your optimal action is: 16
+call,call
+raise 25,call.
+fold,You choose to fold.
+call,check
+raise 58,call
+check,call
+bet 13,check
+check,bet 10
+bet 10,fold
+raise 54,Check
+call,fold
+check,check
+check,call 5
+raise 89,call
+call,call 50
+fold,You raise 85 chips
+raise 84,check
+fold,Fold.
+call,Bet 0.75
+fold,fold
+call,call
+raise 84,call
+bet 3,call
+fold,check
+check,check
+check,bet 6
+call,check
+check,Bet 7
+fold,fold
+call,Call 92
+check,check
+call,check
+fold,raise 16
+fold,fold
+raise 16,fold
+call,Bet.
+raise 80,Given the board of Four Of Spade
+raise 58,check
+raise 92,call 36
+call,call 32
+fold,Your holding is [Ten of Spade
+check,raise
+bet 4,bet 5.
+check,You are not given the final board read
+fold,call
+check,bet 12
+check,check
+check,check
+raise 86,call
+raise 88,Fold
+call,You are not provided with the optimal action
+check,raise 20
+fold,Fold.
+check,Bet 2.5 chips
+fold,call
+check,check
+bet 10,check
+check,check
+fold,call 80
+fold,check
+raise 46,check
+fold,Call
+check,call
+fold,Call
+check,Check
+call,check
+raise 37,check
+raise 84,check
+fold,check
+fold,check
+check,bet 7
+fold,Call 17.
+check,check
+fold,Call
+check,Check
+bet 8,fold
+bet 29,Check.
+check,call
+call,fold
+call,fold
+call,call
+fold,call 23
+call,call
+fold,Call
+raise 90,call
+check,bet 7
+bet 29,check
+bet 17,Check
+check,raise 25
+raise 82,bet 20
+fold,Check
+raise 88,check
+call,check
+bet 17,call 8
+bet 17,check
+call,call 6.0
+check,You bet
+check,Check
+call,fold
+check,bet
+check,check
+fold,check
+fold,check
+raise 88,fold
+fold,"You are bluffing, bet 20"
+call,call
+raise 88,check
+raise 38,Check
+check,check
+bet 23,fold
+fold,check
+fold,fold
+check,check
+call,fold
+fold,call
+raise 82,call 15 chips
+call,raise
+fold,check
+raise 16,call 10
+fold,check
+call,Your optimal action is: call
+raise 85,check
+bet 5,check
+check,Check
+fold,check
+raise 7,check
+fold,fold
+fold,check
+check,Your optimal action is: check
+check,bet
+call,check
+fold,Call
+check,check
+call,raise 60
+raise 83,check
+call,Bet 19
+raise 89,fold
+call,call
+raise 8,check
+bet 4,check
+fold,raise 127
+check,call
+fold,call
+raise 23,bet 4
+bet 39,check
+fold,call 31 chips.
+fold,fold
+raise 64,fold
+fold,raise 12
+call,Raise 18
+call,call
+call,fold
+check,check
+bet 29,bet 10
+call,Your optimal action is: fold
+check,check
+raise 86,check
+call,You are the one who raised with a
+fold,Call.
+check,check
+call,call
+fold,fold
+bet 4,bet
+fold,call
+raise 22,call
+check,check
+bet 11,bet
+check,bet 15 chips
+check,check
+check,call
+fold,Fold.
+call,check
+bet 3,check.
+fold,fold
+check,bet 4.5
+call,Call
+fold,call
+call,call 6.75
+check,"You're still atBTN.
+
+Your optimal"
+fold,call
+check,Call
+bet 27,check
+bet 29,fold
+check,check
+bet 31,check
+call,call 122
+bet 18,fold
+fold,call 44
+fold,Bet
+check,check
+call,check
+check,bet 7.
+check,bet 1
+call,bet 8
+fold,fold
+check,check
+fold,Your optimal action is: call
+raise 55,call
+check,check
+fold,fold
+raise 90,call 20
+bet 25,check
+raise 89,call
+fold,You raise with your  A
+raise 82,raise 55
+raise 87,"fold
+
+BB raise 36.0"
+check,call
+call,call
+bet 29,check
+fold,call
+call,raise
+fold,Call
+call,raise
+raise 30,check
+check,fold
+check,You raise
+check,You raise
+check,check
+check,check
+raise 88,Fold
+call,raise
+check,check
+raise 31,fold
+check,call
+check,call
+fold,Check.
+raise 18,Check
+check,fold.
+fold,fold
+bet 23,Your optimal action is: call
+call,Call
+call,Bet
+check,Call
+fold,check
+raise 30,call
+check,check
+bet 20,You are a specialist in playing 6
+raise 54,fold
+check,Call 6.5
+call,check
+call,call
+call,Call.
+raise 81,You raise 24 chips.
+raise 80,raise
+fold,Fold
+fold,Call
+fold,check
+bet 4,check
+bet 18,Fold
+check,Your optimal action is: bet 10
+fold,call 10
+call,fold
+check,check
+check,bet
+check,check
+fold,check
+call,fold
+check,call
+fold,call
+check,Check
+check,fold
+bet 19,check.
+fold,fold
+fold,check.
+fold,Raise 68
+check,check
+fold,call
+call,Your optimal action is: raise
+call,call
+check,fold
+check,check
+raise 32,fold
+check,check
+fold,Call.
+fold,"fold
+
+call"
+fold,call
+raise 41,call 11
+bet 31,bet 30
+fold,fold
+fold,call
+bet 4,fold
+check,fold
+check,You are holding [Ace of Spade
+fold,call
+bet 7,check
+check,fold
+check,check
+check,fold
+fold,Fold.
+raise 54,check.
+call,Fold
+fold,check
+check,bet 5
+fold,fold
+call,call 8
+call,Call
+check,fold
+bet 3,check
+check,call 10
+call,call
+call,fold
+bet 12,Bet 5 chips
+fold,call
+check,Check
+fold,check
+raise 35,fold
+fold,call
+call,bet
+check,check.
+call,check
+fold,fold
+bet 24,check
+call,call
+check,call
+call,Your holding is [Ace of Spade
+fold,call
+call,fold
+fold,fold
+raise 86,Bet.
+fold,call
+fold,check
+bet 2,check
+raise 93,check
+call,call 61
+bet 5,call
+fold,fold
+call,Call 1
+call,call
+call,fold
+check,check
+bet 5,fold
+call,check
+bet 23,check
+fold,call
+check,fold
+fold,Fold
+bet 15,call 12
+call,bet 16
+check,raise 14
+call,call
+call,Raise
+call,check
+call,check
+call,call 17
+call,fold
+fold,call
+fold,Check
+raise 16,call 3.75
+fold,You raised 4 chips
+fold,call
+call,call 113
+fold,bet 12.
+bet 17,check
+raise 38,check
+raise 35,check
+bet 16,Check
+check,"check
+
+check
+
+call"
+call,fold
+check,check
+call,Check
+fold,Check
+fold,fold
+check,check
+fold,check
+bet 17,Fold
+call,fold
+check,fold.
+call,call
+call,Call
+call,raise
+bet 34,bet
+raise 27,Bet 7
+raise 77,bet
+check,call 14
+bet 39,check.
+check,fold
+raise 88,bet 60 chips
+fold,fold
+fold,fold
+bet 10,fold
+call,call.
+check,check
+fold,fold
+raise 84,fold
+call,fold
+call,check
+fold,Call
+fold,The optimal action is: call
+check,check.
+check,check
+check,call
+fold,Fold.
+call,Fold
+fold,raise 72
+check,check
+fold,raise 123
+fold,call 79
+raise 80,You are being asked to bet. You
+raise 80,check
+call,bet 13
+call,raise 67
+fold,fold
+fold,call
+call,call
+call,Call
+check,call
+call,bet 9
+bet 40,You are dealt [Six Of Spade
+call,check
+fold,check
+check,fold
+call,call
+call,call
+check,Your optimal action is: call
+fold,Fold
+check,call
+check,Check
+call,Fold.
+fold,check
+check,bet 22
+bet 17,check
+call,call
+fold,fold
+call,check
+fold,raise 45.0
+call,call
+fold,Fold
+bet 11,bet 2.5 chips
+call,bet 14.
+call,call 10
+check,call
+check,bet 6
+call,raise
+bet 3,You are holding [Ace of Club and
+call,check
+check,call
+call,Your optimal action is: check.
+call,Fold
+raise 77,Your optimal action is: raise
+raise 93,call
+raise 41,fold
+bet 4,check
+fold,check
+raise 17,Call
+bet 4,Your optimal action is: call
+check,call 12
+raise 82,check
+call,call
+fold,call
+fold,fold
+fold,check
+check,Check.
+fold,Fold
+raise 89,fold
+call,call
+bet 10,call
+check,check
+fold,fold
+bet 4,Check
+call,Call
+check,check
+call,call
+call,call 12.
+raise 81,check
+fold,bet 7
+raise 32,bet 10
+call,raise 17
+call,call 35
+check,call
+raise 38,You are being dealt [Ten of Sp
+fold,fold
+check,check
+check,call
+fold,call
+call,Fold
+bet 5,check.
+check,fold
+fold,check
+fold,check
+fold,fold
+call,call 28
+call,Your optimal action is: fold
+raise 48,raise
+fold,check
+raise 25,fold
+call,You raise 25.
+raise 58,fold
+bet 10,You don't mention your action for this
+call,fold.
+fold,Fold.
+check,call
+call,check
+check,check
+check,bet 32
+raise 93,check
+raise 89,Fold
+call,call
+check,fold
+check,call
+raise 84,check
+fold,fold
+check,check
+check,check
+fold,fold
+fold,call
+fold,call 5
+check,bet 2 chips
+fold,fold
+fold,call 6
+call,fold
+call,check
+check,You can not decide on an action based
+bet 10,Fold
+fold,check
+call,Call
+raise 25,call
+call,call
+call,Call 7
+call,fold
+check,bet 3.
+check,Your optimal action is: call 5
+bet 13,call
+raise 44,fold
+call,fold
+check,"You are playing BB, your holding is"
+check,Fold.
+check,fold
+raise 89,call
+bet 17,Call
+fold,call 25
+bet 4,fold
+fold,raise 80 chips
+call,raise 30
+fold,Call 29.0 chips
+raise 41,bet 11
+fold,bet 15
+fold,Fold
+raise 37,check
+call,check
+call,Check
+check,call
+call,check
+raise 86,Fold.
+raise 76,check
+check,call
+raise 86,-fold
+call,Fold
+fold,check
+fold,fold.
+check,check
+fold,fold
+fold,call
+raise 82,Your optimal action is: bet 42
+raise 93,check
+call,call 12
+check,Your holding [Ace of Spade and
+check,fold
+check,call
+fold,check
+bet 12,call
+fold,Your holding is Ace of Club and Jack
+fold,check
+check,call
+fold,Fold
+call,raise
+fold,call
+fold,Fold
+fold,Fold
+fold,fold
+fold,fold
+check,call
+bet 24,call 10
+call,Check
+check,raise 35
+call,bet.
+raise 18,check.
+call,check.
+raise 13,check
+call,call 10
+call,fold
+check,fold
+fold,raise 128
+bet 29,check.
+bet 13,check
+raise 83,check
+raise 38,bet 2
+raise 4,check
+call,Raise 90
+call,Call.
+call,bet 15
+call,raise 22
+check,check
+call,check
+fold,call 26
+check,raise to 4 chips
+call,fold
+call,check.
+check,check
+call,raise 36
+call,call 5 chips
+bet 3,check.
+fold,call 72
+fold,fold
+check,fold
+call,Fold.
+bet 30,check
+check,fold
+raise 16,call
+bet 23,Fold.
+call,call 18
+check,bet
+check,bet
+call,check
+bet 24,fold
+call,You are now presented with your decision on
+check,call 6
+call,check
+check,check
+bet 29,check
+fold,fold
+check,call
+bet 17,check
+raise 25,fold
+bet 29,call
+call,fold
+check,call
+raise 58,Check
+raise 85,fold
+fold,check
+raise 88,All-in.
+raise 22,You raised 4 chips.
+call,call
+call,call 82
+fold,Bet 6.5
+check,check
+call,Bet 13 chips.
+check,raise 43
+bet 7,check
+check,fold
+fold,Fold
+fold,call
+fold,Raise
+raise 27,fold
+check,bet 3
+check,bet 3.0 chips
+raise 87,Call
+raise 11,Check
+call,raise 10
+bet 23,Bet 7.5
+check,call 17
+fold,Call
+check,fold
+call,check.
+bet 11,check
+fold,Fold
+call,call
+call,bet 5
+call,Fold.
+call,raise 28
+call,call 4
+check,check
+fold,fold
+fold,fold
+check,You choose to bet
+call,Bet 4.5
+check,fold
+raise 29,You're showing the strength of your hand
+raise 77,call
+call,fold
+fold,Your optimal action is: check
+raise 23,check
+raise 85,fold
+check,You are bluffing on the turn.
+bet 29,check
+call,call 79
+check,check
+call,bet 12.
+check,bet 10 chips
+raise 92,Raise
+call,Fold
+bet 23,fold
+fold,call
+bet 29,Fold
+fold,call
+raise 86,call
+fold,fold
+call,Fold
+fold,raise 30
+raise 58,call
+raise 41,check
+check,fold
+fold,fold
+call,Raise 49
+check,Bet 4.
+bet 23,Check
+check,call
+check,check
+check,Your optimal action is: bet 2
+check,call
+check,bet
+check,check
+check,fold
+check,check
+raise 84,"You are dealt Two pair: King,"
+bet 12,You are a specialist in playing 6
+call,Your optimal action is: fold
+fold,call 13 chips
+raise 11,check
+raise 10,check
+bet 23,fold
+bet 7,check
+fold,Call.
+call,fold
+check,call
+raise 13,call
+check,fold
+raise 90,fold
+call,check
+fold,call
+bet 5,call
+bet 20,check
+check,Fold
+call,call
+fold,check
+fold,raise 43
+call,call
+raise 86,check
+fold,call
+bet 3,check
+check,call
+bet 31,call
+raise 89,raise 30
+check,You are holding [Ten of Spade
+fold,Your optimal action is: call
+check,check
+call,Call.
+fold,call
+check,Bet 1 chip
+check,raise 19
+bet 18,check
+check,You are folding.
+fold,check
+check,Check
+fold,call 130 chips
+raise 38,fold
+call,fold
+call,raise
+fold,Check.
+bet 34,check
+check,Check
+check,check
+raise 77,fold
+bet 16,fold
+fold,call
+call,raise
+check,bet
+call,fold
+check,call
+fold,raise 15
+call,check
+call,Check
+call,Your optimal action is: fold
+call,call 7 chips
+bet 29,check
+fold,Fold
+call,fold
+check,call
+check,fold
+call,Call 10
+check,fold
+check,check
+check,check
+call,Your optimal action is: bet 16
+fold,check
+fold,call
+call,Fold
+fold,fold
+check,Check
+check,check
+check,check
+check,You bet 4 chips
+raise 41,check
+check,call 10
+fold,fold
+raise 41,call
+bet 28,fold
+raise 90,call 44 chips
+check,check
+bet 13,check
+fold,raise
+fold,check
+call,call 18
+check,You're out.
+call,Check.
+check,fold
+bet 10,bet 3
+call,fold
+call,check
+raise 92,bet 40
+fold,Your optimal action is: raise
+raise 13,fold
+bet 40,check
+check,call
+raise 83,fold
+bet 29,check
+check,call
+call,call 24 chips
+raise 82,call
+check,Fold
+fold,call
+check,Fold.
+call,call
+call,check
+call,check.
+call,call 6
+call,call
+fold,fold
+fold,call
+fold,call
+raise 92,fold
+fold,fold
+fold,call 82
+call,Fold
+fold,fold
+call,check.
+check,Call
+fold,bet 23
+call,check
+call,fold
+fold,check
+call,call
+fold,call 29
+bet 18,raise 14
+check,call
+check,check
+call,check
+raise 25,check
+check,call
+call,Check
+call,"You are bluffing, and your optimal"
+call,Fold
+call,check
+call,fold
+fold,fold
+bet 13,check.
+bet 23,call
+check,check
+check,fold
+bet 17,check
+bet 39,call
+fold,Fold
+check,call
+check,check
+call,call
+fold,call
+call,check.
+fold,raise 40
+check,call 4
+call,fold
+call,check
+fold,Call
+raise 73,Check.
+check,bet
+fold,fold
+fold,fold
+check,check
+fold,fold
+call,Your optimal action is: fold
+fold,bet 36.0
+call,Your optimal action is: call 40
+fold,call
+check,raise
+raise 16,Bet 10.
+check,call 8
+fold,Raise
+call,check
+call,bet 37.5
+fold,fold
+call,check
+check,Call 3
+fold,Your optimal action is: fold
+bet 17,bet
+fold,Fold
+bet 18,You bet
+raise 86,fold
+bet 8,Bet 2 chips
+call,call
+call,bet
+raise 86,fold
+check,check.
+call,check
+call,bet 32.5
+fold,Check
+call,check
+fold,call 12.
+call,Call
+check,check
+raise 83,Fold
+call,raise
+check,Fold.
+fold,bet 70
+raise 37,call
+check,check
+call,fold
+raise 84,check
+check,check
+call,check
+check,fold
+fold,bet 15.
+check,call
+call,call
+check,bet 6
+bet 8,You raise.
+raise 48,call
+call,call
+bet 10,fold
+call,bet 20 chips
+raise 32,check
+call,fold
+raise 35,call
+check,Check
+call,check.
+bet 16,fold
+fold,check
+bet 13,check
+check,call
+raise 81,check
+call,call
+call,Bet 2.
+fold,fold
+call,call 5
+call,Call
+check,bet
+bet 11,Fold
+check,Your holding is [Five of Spade
+check,check
+bet 4,check
+check,call
+fold,fold
+check,fold
+fold,fold.
+raise 84,check
+call,raise
+fold,fold
+bet 21,bet 22.5
+raise 32,check
+fold,fold
+check,call
+check,call
+call,Call 10.0
+fold,call 10
+call,check
+bet 39,bet
+bet 12,You are a specialist in playing 6
+check,bet 3
+call,call
+check,call 8.0 chips
+raise 84,"fold
+
+ raise 37"
+fold,Check
+call,fold
+check,check
+bet 29,check
+raise 84,fold
+bet 24,Call
+call,check
+bet 25,check
+raise 87,call 33
+check,"You should check, because even with an"
+check,You are a specialist in playing 6
+call,Call
+raise 29,Check
+check,check
+bet 17,bet 8.8
+call,fold
+call,Call
+call,fold
+fold,fold
+fold,call 74
+check,Check
+fold,call 7
+check,check
+check,call
+fold,raise 16
+bet 13,check
+check,check
+check,check
+bet 13,Your optimal action is: call
+fold,You can't raise the BB.
+fold,fold
+call,call 3
+check,check
+raise 29,call 16
+bet 23,bet
+fold,raise 8
+call,check
+raise 95,raise 47 chips.
+check,Bet 13
+check,fold
+bet 16,"You are now at the river, with"
+check,check
+check,check
+check,Call
+call,call
+raise 13,check
+raise 13,check
+bet 5,check
+raise 16,check
+call,Your optimal action is: check
+fold,check
+bet 12,Call.
+call,call
+call,call
+fold,fold
+raise 25,fold
+raise 31,Your optimal action is: call
+fold,You are now at the table with:
+raise 22,call.
+call,fold
+raise 19,Call
+call,raise
+fold,check
+raise 87,fold
+call,raise 20
+check,Bet 8
+check,fold
+fold,fold
+fold,check
+fold,bet 31
+call,check
+check,fold
+fold,call 84
+call,Fold
+check,"You are HJ, with [King"
+raise 86,check
+fold,You fold.
+bet 20,You raise 22
+bet 29,call
+bet 16,check
+raise 17,You raise
+fold,call
+check,check
+check,fold
+check,check.
+call,"You have bet 5 chips, BB"
+call,check
+fold,You are required to make a call after
+fold,fold
+fold,fold
+fold,call
+fold,call
+call,call
+raise 10,bet 3
+call,call
+fold,fold.
+check,call
+check,check
+call,call
+call,fold
+check,bet
+check,check
+call,fold
+call,Call
+raise 46,fold.
+raise 13,Call
+fold,call
+check,Check
+check,call
+raise 38,fold
+fold,fold
+bet 10,bet 9
+fold,call
+call,Raise
+bet 12,bet 6
+fold,check
+call,call
+fold,Your optimal action is: call
+check,call
+raise 77,call 28 chips.
+check,check
+fold,fold
+call,Fold
+raise 93,call
+check,call
+raise 64,check
+bet 24,fold
+check,check
+raise 41,Fold.
+bet 29,check
+bet 5,Check.
+fold,Call
+call,call 10
+fold,You raise to 21 chips
+check,Your holding is [Jack of Spade
+bet 24,check
+bet 5,call
+call,call 5.0 chips
+raise 29,check
+call,call 75
+call,Call.
+call,check
+fold,check
+fold,Check.
+call,fold
+fold,call
+bet 18,check
+check,fold
+fold,call
+check,check
+call,check
+fold,check
+fold,You should raise
+check,check
+fold,call 83
+bet 29,fold
+raise 27,check
+check,check
+bet 24,Your optimal action is: check
+call,You need to call 5
+call,Three chips
+bet 10,check
+check,You're still holding [King of Club
+call,check
+call,call
+call,check
+check,bet
+fold,Fold
+fold,call
+bet 3,check.
+bet 29,bet 6
+fold,check.
+fold,Check
+call,call
+raise 13,check
+raise 41,You are holding [Ace of Spade
+call,check
+call,call
+fold,fold
+raise 89,Your optimal action is: call
+fold,call
+check,Fold
+fold,check
+call,call
+fold,fold.
+fold,check
+raise 18,check
+fold,check
+raise 84,call
+call,call 8
+fold,call
+fold,Bet 22
+bet 25,call
+bet 5,call
+call,Your optimal action is: fold.
+bet 20,call
+call,call
+call,fold
+check,check
+bet 29,check
+call,fold
+call,Check
+fold,fold
+fold,call
+check,bet 9.0
+call,check
+check,check
+call,check
+fold,check
+check,Call
+fold,call 87
+check,raise 10
+check,bet 14.5
+call,call 23
+check,check
+fold,Fold
+raise 62,bet 17
+fold,You are dealt a set of Queens with
+check,check
+raise 27,fold
+call,fold
+fold,check
+fold,call 55.
+raise 29,fold
+fold,You are holding [King of Club and
+check,check
+check,Check
+fold,bet 20
+raise 29,call
+call,raise
+check,Bet 8.0
+fold,check
+bet 4,bet 4 chips
+call,Fold.
+raise 14,check
+check,fold
+check,Fold
+raise 25,fold
+check,check
+fold,raise 82 chips
+call,call
+bet 24,call 5
+raise 29,raise 17
+fold,check
+call,Call 6 chips
+fold,fold
+raise 83,You continue to play the pot and bet
+bet 12,You are dealt 9 9.
+fold,call
+check,check
+fold,check
+fold,Call
+check,Check
+fold,call
+call,Call 5.
+raise 89,check
+check,call 10
+raise 86,check
+raise 73,Fold
+check,Bet 31
+raise 29,You don't need to explain the optimal
+call,raise
+call,You are the BB and have an AA
+call,call 7.
+call,raise 5
+bet 10,Check
+raise 41,call 10
+fold,check
+call,call 8
+check,bet 4
+fold,Raise 60
+fold,fold.
+check,Your optimal action is: check.
+call,Call
+fold,call 89
+fold,call 5
+check,check.
+check,You're out of chips. You can
+fold,Call
+raise 29,call 12
+fold,call
+fold,Raise 45
+raise 81,check
+call,You are dealt Two of Spade and
+call,Fold.
+call,check
+bet 10,call
+check,check
+check,check
+raise 86,call
+bet 32,fold
+fold,You don't need to decide anything yet
+call,fold
+check,check
+fold,Fold
+fold,Call 28 chips
+call,raise 57
+fold,call
+call,raise
+fold,call
+raise 93,fold
+call,call
+fold,call 15
+raise 88,fold
+call,call
+fold,call 32
+check,raise 20
+call,You don't have any information about a
+call,Fold
+check,raise 25
+check,bet 30
+check,bet 10
+fold,You are being challenged by BTN. Your
+fold,call
+raise 87,fold
+call,call 7
+bet 11,Check
+call,Call.
+check,Fold
+fold,check
+call,call
+check,Check
+check,fold
+call,check
+call,call
+check,call
+call,fold
+bet 24,Fold
+call,-fold
+fold,fold
+call,Check
+raise 88,check
+fold,call
+fold,fold
+fold,call
+bet 13,raise
+fold,Your holding [Ace of Club and Queen
+check,check
+call,fold.
+fold,call 31
+call,call
+call,fold
+fold,fold
+fold,call
+check,You bet.
+raise 38,check
+raise 41,check
+bet 4,fold
+fold,fold
+fold,bet 15.
+call,raise
+fold,check
+raise 85,fold
+fold,check
+check,fold
+check,fold
+bet 17,raise 60
+call,fold
+fold,call 55
+raise 86,fold
+call,check.
+fold,Check
+call,call
+check,Bet 9
+fold,call 6
+call,call 9.0 chips
+check,Fold
+raise 58,Check.
+fold,call
+check,fold
+check,check
+call,You are not specified to decide which scenario
+call,Raise.
+fold,Fold
+check,Bet
+call,call
+check,Fold
+fold,check.
+raise 37,fold
+fold,fold
+check,check
+call,Fold
+check,Fold
+fold,check
+call,"You continue to raise, bet 56"
+check,check
+check,bet 15
+raise 41,call
+call,fold
+fold,fold
+call,call 78
+raise 61,fold
+call,Fold
+raise 92,"You have three possible hands:
+
+A -"
+raise 27,You are holding [Ten of Spade
+call,call
+fold,fold
+fold,raise 82
+raise 30,fold
+raise 92,Call.
+call,call
+check,check
+raise 83,Your optimal action is: call
+fold,You continue to raise to 13 chips
+bet 22,Fold.
+raise 92,Raise
+fold,fold
+fold,Call
+check,Check
+check,fold
+bet 12,check
+check,bet
+fold,Call
+check,fold
+call,check
+check,call 4
+bet 34,check
+call,check
+check,fold
+bet 10,check
+check,Bet
+check,check
+fold,Check.
+check,check
+check,check
+fold,call
+fold,raise
+call,Raise 120 chips
+check,check
+check,fold
+call,call
+check,Call
+check,check
+bet 8,bet
+raise 17,bet 11
+check,fold
+check,check
+check,fold
+check,Check
+fold,check
+check,bet 10
+raise 48,check
+call,Your optimal action is: raise
+check,check
+call,fold
+raise 58,check.
+call,call
+check,check
+raise 92,You are being raised 32 chips.
+check,call
+fold,fold
+fold,check
+fold,check
+bet 3,call 3.
+check,"You fold.
+
+BB raise 3."
+raise 10,call
+check,The optimal action is: raise
+call,call 5
+check,Your holding is  [Ace of Diamond
+call,call
+fold,Fold
+call,call
+fold,check
+fold,fold
+fold,You bet
+check,check
+raise 75,fold
+call,bet 11
+check,Fold.
+fold,Fold
+raise 46,check
+call,check
+check,call
+fold,fold
+raise 88,Your optimal action is: fold
+fold,fold
+raise 89,fold
+call,fold
+fold,call
+call,call 15 chips
+check,bet 30 chips.
+fold,bet 10.5
+check,Fold
+raise 85,fold
+check,check
+check,raise 50
+fold,You're being dealt Four of Spade
+check,fold
+fold,fold
+call,Fold
+call,check.
+check,fold
+fold,check
+raise 86,call
+bet 12,bet 8
+raise 77,fold
+call,call
+check,call
+call,raise 79
+raise 48,raise 40
+call,check
+check,check
+check,Check
+check,You bet 32
+call,fold
+check,fold
+fold,raise
+check,fold
+call,bet 5
+fold,call
+bet 22,check
+check,check
+raise 13,call
+check,"The board is Ace Of Diamond, Eight"
+call,call 19
+check,call
+fold,check
+fold,You raise.
+call,call
+check,check
+fold,call
+call,Your optimal action is: fold
+fold,call
+raise 35,check
+check,check
+call,call
+fold,check
+raise 82,You are dealt  Two Of Spade
+call,call 4
+fold,Raise 25
+call,call 50 chips
+check,bet 5.0
+call,call
+fold,check
+raise 56,Call
+raise 58,call
+check,"You're going all-in.
+
+The current"
+check,fold
+check,bet
+check,Your optimal action is: fold
+check,call
+call,Call 3
+check,fold
+fold,check
+check,call
+check,Call
+raise 88,Check.
+check,fold
+fold,call
+bet 11,fold
+check,check
+fold,fold
+raise 81,Fold
+raise 38,check
+raise 86,Bet 60.
+call,Your optimal action is: Fold
+call,call
+raise 90,bet 20
+check,Check
+call,fold
+fold,Fold
+fold,call 16
+fold,call
+call,raise
+fold,fold
+check,fold
+call,call
+check,bet 18
+fold,Fold
+call,Call.
+call,check
+call,check
+raise 91,Call 27 chips
+call,Call
+bet 17,bet
+fold,check.
+call,call 30
+fold,You can raise 27
+call,fold
+fold,Call 27
+fold,call
+fold,call 88 chips
+raise 19,Check.
+call,Since there is no provided optimal action in
+fold,call
+check,check
+fold,fold
+fold,Your optimal action is: fold
+check,call
+call,Fold
+check,fold
+check,bet 9
+fold,Fold.
+raise 86,Call
+fold,Fold
+fold,fold
+call,Fold
+fold,call
+call,call
+check,Call 16 chips
+fold,check
+call,check
+bet 29,Fold.
+check,check
+check,check
+bet 18,You are still holding [Ace of Club
+raise 70,Call
+call,Fold
+fold,raise 40
+check,Your optimal action is: call 3
+fold,fold
+call,call
+check,call
+raise 84,Call
+call,check
+check,check
+check,Fold
+call,Bet 63
+call,fold
+check,You choose to call 10 chips
+check,Check.
+fold,call 5
+raise 25,"You are trying to bluff, but your"
+call,fold.
+call,check.
+check,Fold
+raise 58,check
+fold,You raise 100
+bet 10,fold
+check,Bet 15 chips
+check,You are showing Five of Spade and
+fold,You have four different hand holdings for different
+check,call
+check,fold
+call,Call
+fold,fold
+fold,check
+fold,call 117
+fold,fold.
+check,Fold
+check,The optimal action is: call 1
+bet 17,Fold
+fold,You raise
+check,check
+call,Your optimal action is: raise
+fold,call
+call,call
+bet 17,check
+raise 86,call
+fold,call 7.5
+fold,fold
+raise 88,Since you mentioned it earlier in our previous
+fold,Call 97 chips.
+fold,bet 2 chips
+check,call
+fold,Your optimal action is: fold
+raise 74,You raise 4 chips
+raise 94,fold
+fold,check
+check,check
+call,call 17
+call,fold
+call,check
+fold,call 87 chips
+raise 35,You raise
+fold,Call 30
+raise 81,check
+bet 10,check
+call,Bet
+raise 89,Bet 46.
+check,"fold
+
+call
+
+check"
+check,bet 7
+raise 81,raise 39
+check,check
+call,bet 25
+call,call
+raise 16,Bet 2
+call,check
+fold,raise
+raise 93,call 58 chips
+raise 85,check
+call,fold
+bet 13,check
+check,call
+bet 4,check
+call,call 11
+call,call 14 chips
+call,Fold
+raise 48,check
+check,Fold
+bet 29,Your optimal action is: bet 4
+check,fold
+raise 77,check
+raise 38,check
+bet 29,bet 13
+call,fold
+raise 35,check
+check,check
+bet 29,bet 30
+check,fold
+check,bet
+raise 80,fold
+raise 90,raise 27
+fold,check
+bet 20,check
+raise 18,call
+call,check
+call,call 45
+call,check
+call,call.
+check,check
+fold,check
+check,check
+check,bet
+check,call
+fold,Call
+raise 32,fold
+check,Call
+check,All-in
+check,fold
+raise 18,Check
+check,fold
+call,check
+raise 85,Check
+check,check
+fold,check
+check,You have reached the last part of the
+bet 23,check
+check,check
+bet 5,check.
+fold,call
+raise 89,check.
+check,Check
+bet 11,check
+bet 2,bet 5
+call,Call
+fold,"fold
+
+BB"
+call,fold.
+check,call
+call,Check.
+call,fold
+fold,raise 26
+fold,call 12
+raise 25,check
+bet 5,call
+fold,call
+check,call
+call,Call 8 chips
+call,call
+fold,call
+check,fold
+fold,raise
+check,check.
+check,Bet 10
+check,call
+check,"Your holding is [Ten Of Diamond,"
+fold,raise 91 chips
+fold,call
+fold,Fold
+raise 73,fold
+fold,call
+call,call
+call,fold
+raise 22,fold
+raise 86,fold
+call,check.
+call,call
+fold,fold
+fold,call
+fold,fold
+fold,fold
+check,Call
+bet 23,bet 20
+bet 11,check
+fold,check
+check,fold
+raise 81,call
+fold,call
+call,Check
+raise 81,fold
+call,Fold
+fold,Fold.
+check,check
+raise 82,call 28 chips
+fold,check
+bet 18,check
+fold,check
+raise 80,call 22.0
+call,call 6
+call,call
+raise 85,Check.
+fold,fold
+raise 84,fold
+check,check
+bet 29,bet 17.
+call,Call.
+raise 35,check
+raise 32,Call
+bet 17,check
+check,Check
+check,call 12.
+call,fold
+check,bet
+raise 16,fold.
+raise 73,check
+call,call 2.
+check,check
+fold,check
+call,fold
+call,Check
+call,fold
+call,Your optimal action is: check
+raise 82,fold
+fold,bet.
+raise 41,fold
+check,Check
+check,bet 2.
+call,fold
+call,raise
+call,fold.
+call,fold
+bet 20,call
+raise 58,check
+bet 12,"You are A.
+
+Your optimal action is"
+check,Check
+check,check
+check,call
+bet 7,raise
+raise 88,fold
+call,check.
+raise 89,call
+fold,check
+bet 15,The optimal action is: bet
+fold,fold
+fold,fold
+fold,fold
+raise 35,call 10
+fold,You are a specialist in playing 6
+call,Call
+bet 23,check
+fold,fold
+fold,Your optimal action is: fold
+check,Your optimal action is: call
+raise 84,check
+raise 95,All-in
+raise 30,call
+fold,check
+check,bet 3
+call,fold
+fold,check
+bet 27,check
+fold,check
+call,You fold
+fold,Fold
+fold,check
+call,call
+bet 29,call
+raise 86,check
+fold,call.
+check,Check.
+fold,fold
+call,check.
+call,Call 47 chips
+call,You're facing a river bet from the
+bet 18,Fold.
+bet 16,bet
+raise 32,check
+fold,call 27
+fold,fold
+bet 31,fold
+call,fold
+call,Fold
+check,check
+bet 28,Your holding is [King of Heart and
+check,Fold
+check,Check
+call,check
+bet 8,call
+check,bet
+call,call
+fold,check
+call,raise
+check,check
+bet 16,Check
+check,You are dealt a Three of Diamond and
+call,call
+raise 13,check
+call,fold
+call,call 20
+fold,raise 100
+check,bet
+check,check
+call,fold
+check,check
+check,fold
+fold,Check
+bet 13,check
+bet 10,check
+raise 43,call 6
+fold,check
+check,fold
+fold,You raise 60 chips
+fold,fold
+fold,check
+call,Call 7 chips
+check,"Fold
+
+Fold 
+
+Check"
+check,fold
+raise 90,fold.
+fold,fold
+fold,bet 4
+raise 16,call
+call,bet 7 chips
+call,bet 4
+call,call
+check,Bet 6.
+call,call 30
+fold,fold
+call,call
+call,raise 32
+check,You are holding [Ace of Diamond and
+call,Bet 18
+fold,call
+raise 38,fold
+raise 17,check
+bet 10,call
+check,fold
+raise 61,call
+fold,check
+call,Check
+bet 23,call
+check,fold
+call,call
+fold,check
+raise 32,check
+check,call
+call,Fold.
+call,Given the situation with your hand [Jack
+fold,fold
+bet 23,Check
+call,call 7
+fold,fold
+fold,raise
+raise 16,Fold.
+check,Fold.
+fold,raise
+fold,check
+check,bet 17
+check,bets 5
+fold,bet
+call,check
+raise 89,Bet.
+call,call
+fold,call
+bet 5,call
+raise 87,fold
+call,raise 115
+raise 81,Call
+call,Your optimal action is fold
+bet 17,fold.
+fold,call
+raise 81,Bet 30
+raise 22,check
+call,fold
+fold,You can call BB raise 81 chips
+fold,fold
+raise 75,bet 22
+call,check
+raise 85,fold
+fold,raise
+check,check
+raise 86,fold
+bet 2,check
+call,fold
+check,check
+bet 34,fold
+call,call
+raise 23,check
+check,Fold
+fold,Raise 74 chips
+check,check
+raise 86,You didn't provide an optimal action.
+bet 23,Your optimal action is: call 6
+call,fold
+check,call
+raise 83,Check
+call,call
+fold,call
+check,check
+fold,fold
+call,fold
+check,Check.
+fold,call
+check,check.
+fold,fold.
+fold,check
+call,call
+check,check
+check,You should raise 15.
+call,You are faced with an action on the
+fold,Your optimal action is: call
+raise 84,Bet 7 chips
+call,Call
+raise 61,check
+call,call
+call,check
+fold,check
+call,Call
+call,fold
+check,check
+call,check
+call,bet 19 chips
+fold,fold
+fold,fold
+check,fold
+fold,fold
+check,The optimal action is fold.
+call,check
+raise 18,call 8 chips.
+check,raise
+raise 73,Fold
+fold,fold
+check,Check
+call,call 44 chips
+check,check
+check,Your optimal action is: call.
+call,Call
+check,Bet 2.0
+check,call
+bet 29,bet
+check,raise
+fold,fold
+call,call
+bet 25,check
+check,bet 5
+check,raise
+call,Check
+check,check
+call,bet
+fold,Check.
+check,You are the UTG and BB is
+check,check
+check,Call
+bet 29,fold
+check,Bet
+call,Your optimal action is: raise.
+call,call
+fold,call
+fold,call
+check,Bet.
+call,Bet 6 chips
+raise 16,fold
+bet 18,check
+call,check
+fold,call
+fold,fold
+raise 31,raise 7
+check,bet 20
+check,fold
+fold,check
+call,call 42
+raise 87,You need to decide on an action based
+raise 90,bet 16 chips
+call,check
+fold,call
+check,check
+call,call 19
+check,raise 10
+check,check
+fold,raise 55
+check,You are BTN and have the holding [
+raise 32,call
+raise 82,check
+call,call
+raise 22,check
+fold,Call
+fold,call
+check,Bet 6
+raise 32,fold
+check,bet 9
+bet 23,raise
+check,check
+call,"fold
+
+check 
+
+bet 18."
+bet 29,call
+call,fold
+check,check
+fold,call 7
+check,check
+call,call
+fold,raise
+check,Call
+call,call
+bet 18,check
+check,call
+raise 54,check
+bet 18,call
+check,check
+raise 29,check
+check,Bet
+fold,You raise 82
+raise 31,Fold
+call,raise 45
+check,check
+bet 4,bet 3
+raise 27,call
+fold,check
+raise 19,check
+raise 86,call
+fold,fold
+check,check
+call,Bet.
+check,check.
+fold,check
+bet 23,call
+call,call
+bet 5,check.
+check,check
+raise 46,bet 50
+call,raise
+raise 94,Call
+call,call
+fold,check
+raise 88,call
+call,Check
+check,Your holding is [King of Diamond and
+raise 82,fold
+fold,fold
+call,call
+call,Your holding: King of Spade and
+fold,Check.
+check,check
+bet 17,Call
+raise 32,You raise.
+raise 23,call
+call,bet 22.
+check,Bet
+call,call 5
+bet 23,check
+fold,check
+raise 74,Your holding is [Ten of Spade
+raise 14,bet 3.
+raise 13,Fold
+call,Your optimal action is: call 44
+check,"You can fold.
+
+Your optimal action is"
+check,check
+call,Your optimal action is: fold.
+check,call
+call,fold
+raise 90,You are facing a raise of 44
+check,fold
+check,call 5
+fold,You are the CO with a holding of
+check,bet 3.5
+call,Bet 22
+check,check
+fold,call
+call,fold
+check,Your optimal action is: check
+raise 67,call
+call,fold
+call,call
+call,call
+fold,Your optimal action is: raise
+check,fold
+fold,Call 89
+fold,Call
+fold,raise 50
+call,call
+raise 30,You're playing against a BB who has
+call,bet 10
+fold,fold
+fold,fold
+raise 41,Bet.
+check,Fold
+raise 83,fold
+call,fold
+check,fold
+raise 80,fold
+check,You are BTN with [King of Sp
+raise 89,call
+call,fold
+call,fold
+raise 44,check
+raise 83,fold
+call,Call
+check,Call.
+raise 80,call 82 chips
+call,check
+raise 85,raise
+check,check
+check,check
+call,Call.
+call,check
+call,check
+check,check
+fold,Fold
+bet 4,check
+fold,call
+fold,Call 54.
+bet 17,Fold
+bet 23,bet
+check,call
+call,Fold.
+fold,fold
+bet 29,Bet 13.
+fold,fold
+bet 10,bet 14
+raise 34,call
+call,You should raise.
+call,call
+bet 29,bet 11
+call,You are a specialist in playing 6
+bet 25,Call 8
+bet 23,check
+fold,raise 137.5 chips
+call,Fold
+bet 10,check
+bet 29,call
+call,call
+bet 29,check
+bet 2,check
+check,call
+check,check
+check,check
+check,call
+fold,call
+fold,You are holding [Ace of Diamond and
+fold,fold
+check,call 13
+check,check
+call,call
+fold,fold
+check,check
+fold,fold
+call,call
+call,You fold.
+check,Your holding [Nine of Spade and
+check,Bet 6 chips
+raise 89,check
+call,call
+check,check
+raise 84,call 28.0 chips
+check,fold
+bet 39,call
+fold,call
+call,call
+raise 73,fold
+check,Your optimal action is: raise
+bet 8,fold
+call,call 7
+bet 4,call
+call,fold
+call,fold
+bet 10,You bet 2.3 chips
+call,call
+call,check
+check,check
+bet 10,bet 2 chips
+fold,fold
+call,call 5
+call,fold
+bet 2,Bet 4
+call,call 17 chips
+call,check
+call,fold
+bet 29,fold
+call,fold
+call,check
+call,bet 17 chips.
+check,check
+check,You're playing with a Queen of Diamond
+fold,Check
+check,check
+check,raise 35 chips
+raise 77,fold
+fold,check
+bet 29,check.
+check,call
+raise 23,You raise 10 chips
+fold,fold
+check,"You raised 2 chips, then they"
+call,check.
+check,fold
+check,fold
+fold,call 30
+raise 82,call
+raise 29,call 16
+fold,You fold.
+call,bet 9
+bet 10,fold
+check,bet
+fold,check
+raise 38,bet 13
+check,call
+call,check
+raise 81,fold
+fold,check
+raise 57,raise
+check,bet
+fold,fold
+check,call
+raise 7,check
+call,call
+fold,bet 12
+bet 29,bet 17
+raise 70,call 45
+check,raise 7
+call,call 140 chips
+call,check
+check,bet 8
+call,check.
+fold,fold
+check,Fold.
+call,fold.
+call,fold
+call,Fold.
+fold,raise
+call,call 17
+fold,bet 19
+call,call
+call,check
+check,call
+call,Your optimal action is: call
+fold,fold
+fold,"You are showing weakness with your hand,"
+call,bet 27
+call,bet 21
+call,call
+raise 92,call 27
+call,fold
+fold,fold
+fold,check
+call,Your optimal action is: bet 32
+fold,call
+check,Call.
+fold,fold
+fold,Fold
+fold,check
+fold,check
+fold,fold
+fold,call
+fold,raise 18
+check,fold
+check,fold
+fold,Call
+raise 27,Call
+check,fold
+check,fold
+raise 91,call
+fold,You continue with the bet 10.
+call,Fold
+call,Call 19 chips
+fold,"You don't specify the optimal action,"
+check,You bet 6 chips.
+bet 6,Your optimal action is: call.
+call,check
+fold,fold
+check,Bet
+fold,call
+call,check
+check,call.
+fold,fold
+check,bet 4
+check,call
+fold,fold
+raise 17,fold
+bet 23,check
+raise 13,check
+fold,check
+check,You're in a more complicated hand.
+check,call 10
+fold,check
+fold,check
+check,check.
+raise 77,call
+fold,bet 40
+fold,fold
+fold,call
+check,bet 11
+bet 17,bet 12 chips
+call,check
+fold,Check
+check,check
+call,call
+fold,check
+check,check
+fold,You are bluffing with top two pairs
+raise 88,check
+call,call
+fold,check
+call,fold
+raise 64,Fold
+raise 90,"check
+
+ raise 33"
+raise 84,fold
+call,fold
+raise 16,check
+bet 17,Bet 12
+call,fold
+bet 13,You are short of 1 chip after
+call,check
+raise 16,Call 7.5
+fold,fold
+fold,Call 60 chips
+check,bet 12
+bet 18,check
+fold,fold
+fold,check
+check,call 5
+check,Check
+call,fold.
+bet 10,check
+call,fold
+fold,call 53
+fold,check
+bet 29,fold
+check,bet 5
+fold,Check
+check,fold
+fold,call
+check,fold
+raise 80,call
+call,check
+check,Bet 8 chips
+fold,You raise 80 chips
+call,fold.
+fold,call
+fold,check
+fold,You continue to raise 38 chips and
+bet 28,bet
+bet 3,raise 6.0
+call,call
+fold,raise 81
+raise 84,You are required to choose an action on
+raise 86,check
+fold,check
+fold,check
+raise 16,fold
+check,bet 23
+call,bet 30
+check,bet 6
+check,call
+check,bet
+call,call
+raise 70,Check
+call,Call 20
+raise 94,Call
+bet 35,check
+raise 31,call 8
+call,fold
+call,Call
+check,Fold
+check,call 4.
+fold,fold
+call,Bet 12
+fold,fold
+check,Check
+call,call
+check,check
+call,Call 27.
+check,check
+call,fold
+fold,call
+fold,fold
+check,fold
+fold,Call
+call,call 22
+fold,check
+check,fold
+check,call
+call,fold.
+fold,check.
+check,fold
+check,check
+raise 25,raise 22
+call,fold
+fold,call
+call,check
+call,fold
+raise 89,check
+check,You raise 11 chips.
+fold,fold
+raise 58,Check
+bet 10,raise 13
+bet 8,check
+raise 58,check.
+fold,fold
+check,Your optimal action is: check
+call,raise 80
+fold,fold
+call,check
+call,You continue with your raise by 25
+fold,Raise 32
+bet 29,bet 12
+fold,fold
+call,Fold.
+raise 89,call 63
+call,Call
+fold,Your optimal action is: 3-b
+call,check
+raise 80,Fold
+check,fold
+bet 24,call
+call,Bet 6
+raise 77,call
+fold,Fold
+check,bet 4.5
+check,raise 2
+check,call
+check,fold
+bet 2,fold
+raise 38,call
+check,Your optimal action is: raise
+check,Call 4
+fold,call 5
+fold,call
+check,check
+check,check
+raise 92,fold
+call,check
+fold,bet 1
+fold,call 16
+fold,Fold.
+fold,check
+check,call
+fold,fold
+check,call 4
+fold,fold
+raise 86,check
+check,check
+call,call
+check,check 10
+call,Your optimal action is: fold
+fold,check
+bet 29,check
+fold,fold
+fold,You continue to check
+check,fold
+raise 37,check
+fold,You fold
+raise 10,Call 5 chips
+call,check
+raise 64,check
+call,Fold
+call,call
+fold,call 92
+call,fold
+call,You are dealt [King of Spade
+check,raise 13.
+bet 11,bet 5
+fold,check
+call,bet
+call,call
+bet 4,fold
+call,check
+check,fold
+fold,call 80 chips
+raise 78,fold
+bet 11,check
+fold,Check
+raise 87,call
+check,You raise 28
+bet 28,check
+raise 10,call
+raise 88,call
+bet 20,fold
+bet 23,fold
+call,fold
+raise 87,Call
+bet 29,call
+call,fold
+check,check
+raise 29,Bet 16 chips
+call,check
+check,call
+call,Fold.
+fold,Fold
+call,Your optimal action is: fold
+raise 81,check
+bet 4,call
+raise 27,fold
+fold,You are being raised 3x.
+call,fold
+check,call
+check,bet 32
+check,check
+bet 10,fold
+raise 81,call 19
+raise 44,check
+check,check.
+fold,fold
+call,Your optimal action is: call
+fold,Call
+bet 29,call
+check,raise 22
+bet 17,check
+check,check
+raise 27,You raise 8.
+raise 92,check
+call,Call
+check,check
+fold,You are being pushed to call $41
+call,check
+call,Bet
+call,fold
+check,Check.
+bet 27,bet
+call,call 22 chips
+call,call
+fold,bet 16.
+fold,fold
+call,bet 29
+fold,call
+bet 32,You raise 16.
+check,raise 11
+raise 84,You need to call with 29 chips
+bet 3,Bet.
+check,Check.
+check,fold
+call,fold
+fold,check
+call,fold
+raise 74,bet 25
+call,fold
+call,You continue to check.
+raise 18,bet 7
+check,fold
+check,fold
+raise 81,check
+fold,call
+bet 12,check
+fold,call 15
+fold,check
+check,fold
+fold,raise 20
+bet 24,You are required to provide a numerical response
+fold,call
+bet 16,Bet 4.3
+check,call
+check,raise
+call,check
+check,You are playing with [Ten Of Sp
+check,check
+raise 89,Call
+check,bet 10
+check,check
+raise 13,check
+call,call
+check,check
+check,You are bluffing with a set of
+fold,call 10
+call,You have reached a critical juncture
+fold,raise
+check,check
+call,fold
+check,Fold
+fold,check
+call,call 7.5
+call,fold
+bet 10,bet 7 chips
+check,check
+check,check
+fold,call
+check,check
+raise 86,call 17 chips
+check,fold
+check,check
+raise 89,Your optimal action is: raise 17
+call,check
+raise 11,check
+check,call
+check,check
+fold,Check
+call,Bet 16 chips
+check,fold
+check,You fold.
+check,call
+fold,fold
+fold,check
+check,fold
+bet 23,Check
+raise 74,fold
+raise 35,call
+fold,raise 73
+fold,Bet 11
+check,Your optimal action is: raise
+check,check
+fold,raise
+call,call 8 chips
+raise 92,call 49.4
+fold,fold
+call,call
+bet 3,check
+check,fold
+check,check
+bet 3,raise 13
+raise 89,check
+fold,fold
+bet 16,raise
+bet 7,fold
+check,fold
+call,check
+call,check
+raise 16,Call 15
+fold,call 72
+check,raise 18
+check,check
+check,fold
+check,bet 20
+fold,Fold
+call,raise 100
+raise 41,call
+fold,check
+call,call 25 chips
+fold,call
+fold,call
+check,call
+check,Call
+check,check
+fold,fold
+call,bet
+fold,fold
+check,bet 3
+check,call
+fold,fold
+raise 88,bet 75 chips
+check,Bet 5
+raise 83,Fold
+fold,fold
+check,fold
+bet 27,check
+call,Fold.
+call,call 16
+raise 95,fold
+call,raise 67
+call,check
+bet 29,You raise 14
+raise 88,Call
+call,check
+check,check
+check,call
+bet 3,You're still holding [King of Heart
+call,call
+check,fold
+fold,call
+fold,call
+call,fold
+call,Fold
+fold,call
+fold,raise 24
+call,check
+check,check
+fold,Your optimal action is: re-raise
+call,fold
+check,check
+call,raise
+call,check.
+raise 25,"You raise to 20 chips, then"
+raise 29,Your optimal action is: call
+call,fold
+raise 58,check
+raise 37,call
+raise 37,fold
+raise 93,check
+call,Call 10
+raise 58,call 41
+call,call 3 chips.
+fold,re-raise 65
+check,Bet 5
+raise 41,check
+fold,check
+check,call
+call,Fold
+bet 17,check
+fold,"fold
+
+Fold"
+check,check
+raise 74,fold
+fold,fold
+check,"fold
+
+This board is in favour of"
+call,call 55
+call,Call 48
+raise 88,call
+fold,fold
+check,call
+fold,call
+fold,"You are at UTG.
+
+Given your"
+bet 13,"You raise 23 chips.
+
+(Note:"
+bet 34,Check
+call,Fold
+call,You should fold
+fold,call 32
+call,You're playing as BB with a [
+fold,fold
+call,Fold
+bet 5,check.
+fold,Fold
+call,call 5 chips
+call,check
+call,fold
+call,check
+fold,check
+raise 88,check
+fold,call 20
+check,You fold
+call,Fold
+fold,check.
+check,bet 3
+check,Check
+fold,check
+call,check
+check,Check
+raise 25,call
+call,call 6
+call,call
+call,Your optimal action is: raise
+raise 88,fold
+call,fold
+check,bet 2.5 chips
+call,check
+fold,call
+bet 4,bet 1
+fold,check
+raise 90,call
+raise 90,call
+check,raise 70
+call,check
+bet 29,fold
+call,check
+fold,check
+call,Your holding [Seven of Diamond and Six
+check,check
+raise 88,You are a specialist in playing 6
+call,check
+fold,Fold
+bet 24,fold.
+fold,check
+check,bet 11
+call,call
+fold,fold
+raise 41,call
+check,bet 5.0 chips.
+bet 23,check
+bet 29,check
+bet 18,call
+bet 18,raise 10
+check,fold
+bet 18,call
+check,Raise
+fold,check
+check,check
+check,raise 32
+fold,You fold.
+fold,call
+fold,Call.
+raise 26,You bet.
+raise 83,Fold
+call,check
+fold,check
+bet 2,call
+bet 51,Bet 8.
+check,bet 2.5
+check,Check
+raise 46,You raise 35 chips.
+call,Bet 13
+raise 77,call
+fold,fold
+check,Raise 10 chips.
+call,check
+raise 84,check
+check,check
+raise 89,fold
+fold,call 16
+call,check
+call,call
+fold,Fold.
+check,check
+raise 76,check
+call,Fold.
+check,bet
+raise 16,Fold
+check,check
+fold,fold
+fold,Your optimal action is: call 32
+call,call
+raise 13,check
+fold,check
+raise 36,fold
+raise 7,Bet 2
+raise 77,check
+check,check
+bet 23,call
+call,call
+fold,fold
+call,check
+call,call
+raise 16,fold
+fold,call
+fold,fold
+fold,check
+call,Your optimal action is: raise
+call,"fold
+
+call 26"
+call,Fold
+fold,check
+fold,call
+fold,Check.
+call,Call
+bet 32,Your optimal action is: bet 21
+call,Call 35
+check,check
+raise 88,bet 41
+call,check
+fold,raise 95
+raise 80,check.
+call,Your optimal action is: call
+raise 72,call
+raise 89,Your optimal action is: raise 62
+bet 4,call
+call,raise
+call,call 30
+fold,Fold
+fold,Check
+check,bet 5
+check,Check
+call,call 2
+call,Call
+raise 61,fold
+check,call
+check,check
+check,Fold.
+check,check
+check,Bet
+check,fold
+raise 16,You are bluffing by raising with a
+call,check
+fold,Call
+raise 83,fold
+fold,fold
+check,check
+fold,raise 43
+call,Bet
+fold,check
+check,check
+call,call
+raise 81,check
+fold,check
+fold,fold
+fold,call
+bet 22,fold
+check,fold
+check,check
+fold,Your optimal action is: fold
+call,call
+check,raise 32
+check,You fold
+call,Call 8
+raise 29,fold
+check,Fold
+check,fold
+raise 80,Check
+check,Your optimal action is: bet 11
+check,call
+bet 34,call
+call,Your optimal action is: raise
+raise 32,Fold
+raise 17,raise 9
+call,fold
+check,call
+fold,Fold
+call,check
+bet 29,check
+raise 84,check
+fold,Your optimal action is: fold
+raise 90,check
+check,bet 24
+fold,fold
+call,check
+check,You are playing with [Four of Clubs
+fold,Call
+fold,bet 13
+raise 84,call
+bet 23,check.
+call,Check
+check,check
+raise 83,call
+fold,fold
+check,check
+bet 8,check
+check,bet 16.
+raise 81,bet 16
+check,Check
+check,Call 4 chips.
+fold,raise 90
+call,check
+call,Fold
+call,call 55
+fold,Raise 53
+check,fold
+bet 23,You should fold
+bet 34,Fold
+call,bet 11
+fold,fold
+check,Your optimal action is: raise
+check,check
+raise 83,check
+check,"check
+
+check
+check
+bet"
+check,Bet 19
+fold,check
+call,fold
+raise 83,check
+bet 27,You are in HJ position with a
+call,call
+raise 84,fold
+fold,bet 3 chips
+fold,Fold
+check,check
+fold,Fold
+raise 32,call 7
+call,You are dealing with three different scenarios.
+check,check
+fold,check.
+fold,Call 24.
+fold,fold
+check,bet 41
+check,You are bluffing as you raise the
+call,The current pot size is 36.
+call,call 16
+check,call
+check,fold
+call,check
+bet 2,check
+check,bet 8
+fold,fold
+fold,fold
+raise 41,Fold.
+raise 38,Bet.
+raise 61,check
+bet 8,You are not specified a position at the
+check,Check.
+raise 13,fold
+fold,"fold
+
+Call"
+fold,call
+fold,Check
+raise 77,fold
+raise 38,call 4
+fold,Bet
+fold,check
+call,Your optimal action is: fold
+raise 11,Call
+fold,check.
+check,check
+bet 28,Fold
+check,check
+call,bet 7
+fold,call
+call,check
+raise 28,check
+raise 22,fold
+bet 8,bet 4.75 chips
+fold,raise 15
+call,bet 32 chips
+fold,Call
+check,call 5.0 chips
+fold,raise 60
+check,check
+check,check
+call,fold
+fold,fold
+fold,check
+raise 88,Raise
+check,bet 4 chips
+call,fold
+bet 8,Fold
+fold,fold
+bet 18,check
+call,Call 12.5
+fold,Raise 50
+raise 33,call
+raise 93,bet 20
+bet 10,check
+raise 48,Your optimal action is: raise 14
+call,bet 7.5 chips
+bet 18,Call.
+fold,call
+fold,Check.
+call,You bet 23
+fold,call
+check,Fold
+bet 4,Check
+fold,check
+fold,Fold
+raise 95,You are being challenged by 3 players
+fold,check
+fold,check
+check,check
+check,check
+call,raise
+check,fold
+bet 11,bet.
+check,call
+check,fold
+call,fold
+call,check
+call,Call
+check,call
+fold,call
+call,call
+fold,fold
+bet 8,bet 0.25
+fold,call
+fold,call
+call,call 20
+call,check
+check,Fold
+check,fold
+call,Call 23
+raise 41,Fold
+call,call
+fold,call
+raise 22,fold
+check,You call.
+fold,raise 60
+check,check
+fold,You are facing a bet of 20
+check,check
+fold,call 22
+bet 29,check
+bet 8,call
+fold,fold
+fold,Check
+check,check
+raise 28,Call.
+raise 33,raise 21
+raise 41,Bet 10
+raise 91,call 32 chips
+call,call 10
+call,Check
+fold,fold
+call,call
+fold,check.
+bet 16,check
+check,call
+fold,call
+bet 7,call 1.7
+call,call
+bet 34,call 4
+raise 10,call 3
+fold,fold
+check,Fold
+bet 40,Call
+check,fold
+call,fold
+bet 22,bet 10
+call,Check.
+bet 29,check
+check,fold
+fold,call
+call,fold
+raise 10,check
+bet 8,Check
+check,raise
+call,fold
+bet 29,check.
+raise 31,"fold
+
+check"
+bet 13,Fold
+fold,check
+raise 92,call
+call,call
+call,Call
+call,fold
+call,fold
+check,bet 5
+call,call
+call,check
+call,check
+fold,fold
+check,Check
+fold,call
+call,Your holding is [Ten of Heart and
+check,bet 1
+call,call
+fold,bet 68.
+check,fold
+call,call
+check,Check
+check,bet
+call,call
+call,fold
+fold,call
+raise 85,check
+call,fold
+call,call
+call,Fold.
+fold,fold
+bet 29,Check
+fold,Check
+call,Fold.
+raise 13,call 4
+check,check
+raise 23,call
+fold,call
+call,call 2.0
+raise 88,Call
+call,Check
+fold,raise 25
+check,check
+call,call
+raise 95,call
+raise 7,call
+call,call
+fold,call
+check,You call.
+raise 38,fold
+call,Call
+raise 93,-fold
+fold,Call
+check,check
+bet 5,Your holding is [Nine of Club and
+raise 83,check
+raise 91,check
+fold,fold
+check,Bet
+call,You have bet into an overbet of
+call,check
+raise 21,fold
+call,call
+check,call
+check,bet 9
+raise 31,check.
+call,Your optimal action is: check.
+call,call 26
+bet 3,bet 1.5 chips
+check,bet
+raise 89,Fold
+bet 11,Fold
+call,Check.
+fold,call 40 chips
+check,bet 10
+bet 10,check
+fold,check
+bet 29,call
+bet 29,call
+call,call
+call,check
+fold,check
+check,check
+fold,call
+fold,call 19
+check,Fold.
+check,Call
+check,check
+call,fold.
+call,call 21
+check,check.
+fold,Fold
+call,call
+check,bet 5
+call,Fold
+call,Check.
+call,fold
+raise 46,check
+raise 23,Fold
+fold,Your optimal action is: fold
+call,check
+raise 91,fold
+fold,call
+raise 64,Fold
+fold,call 5 chips
+call,fold
+call,You are holding [Six of Spade
+call,check
+bet 13,bet 20
+call,Fold
+bet 22,fold
+call,Fold.
+call,Check.
+call,call 45 chips
+call,raise
+fold,check
+call,bet
+fold,call
+raise 35,fold
+raise 73,fold
+fold,call
+raise 41,check
+fold,fold.
+fold,Call 10
+bet 3,Bet 13 chips
+check,check.
+call,fold
+raise 32,check.
+check,Your optimal action is: call
+check,check
+bet 4,check
+fold,fold
+fold,Your optimal action is: check.
+check,check
+raise 88,fold
+check,check
+raise 84,check
+call,Fold
+call,fold
+check,fold
+check,Fold
+raise 13,Check
+fold,raise 23
+bet 17,Bet
+call,raise 87
+check,Call 1
+fold,check
+check,check
+call,call
+bet 10,check
+raise 74,call
+check,You are in the BB position with [
+call,check
+check,"You raised with the same holding, ["
+fold,bet 5
+raise 88,call 35
+check,check
+raise 92,check
+check,Check
+fold,check
+fold,check
+fold,fold
+check,Check.
+fold,call
+call,call 85 chips
+check,bet 17.0
+fold,call
+fold,check
+call,call
+raise 35,call
+call,Fold
+bet 29,fold
+raise 21,fold
+call,call
+call,fold
+call,Call
+check,bet 10
+check,fold
+bet 38,Bet
+check,call
+bet 39,check
+fold,check
+check,check
+raise 38,Bet 10.0 chips
+check,raise 7.
+bet 13,check
+bet 8,check.
+call,check
+fold,fold.
+call,The optimal action is: raise.
+raise 32,You're dealing with multiple hands from UT
+raise 83,call 55
+check,call 50 chips
+fold,call
+check,call
+fold,call
+fold,fold
+check,Check
+fold,fold
+raise 95,fold
+check,call 4
+fold,fold
+raise 77,check
+fold,Fold
+raise 46,call
+fold,raise 12
+fold,check
+check,check
+call,check
+raise 92,check
+check,check
+check,check
+check,check
+raise 93,Your optimal action is: fold
+raise 54,bet
+bet 22,check
+raise 83,Your optimal action is: check
+call,call
+fold,fold
+check,call 1
+call,Fold.
+fold,Your optimal action is: call 44
+bet 17,bet 7
+fold,call
+call,fold
+call,call 10
+check,check
+call,call 3
+call,call
+fold,call
+fold,bet
+check,call
+call,call 10
+call,fold
+call,Your optimal action is: fold
+bet 13,call
+fold,check
+check,check
+raise 32,fold
+call,call
+fold,bet 6
+raise 32,bet
+call,call
+raise 89,check
+fold,You are playing with [Nine of Sp
+bet 28,Fold
+check,fold
+bet 23,check
+raise 18,Fold
+fold,call
+fold,Check.
+check,call.
+call,Your optimal action is: call 20
+raise 95,check
+call,call
+call,check
+fold,Your holding is [Seven of Spade
+fold,bet 32
+call,fold
+fold,Your optimal action is: call.
+check,call
+fold,fold
+fold,Raise 73
+fold,fold
+check,fold
+raise 33,Bet 10 chips
+call,raise
+raise 38,fold
+fold,Shove
+call,You are playing [Queen of Club and
+fold,call 10
+check,Fold
+check,bet 10
+call,Your holding: [Five of Spade
+bet 13,check
+raise 25,fold
+check,call 10
+call,check
+check,"You. Your position is BB, and"
+fold,You are a specialist in playing 6
+fold,call
+raise 89,Call 15.
+call,Call
+bet 22,call
+raise 83,You raise by 14.
+fold,fold
+fold,fold
+call,Check
+raise 11,call 5
+fold,raise 28
+fold,call
+check,check.
+fold,call
+fold,Call
+call,call
+check,bet 10
+fold,Call
+raise 38,check
+bet 29,check
+call,fold
+check,Your optimal action is: fold
+call,bet.
+raise 77,fold
+call,Check
+raise 91,check.
+check,call 2 chips.
+call,Check
+fold,Check.
+check,"You are already at the river, with"
+fold,check
