@@ -22,12 +22,12 @@ python -m mlx_lm.lora \
     --data $data_path \
     --iters 5000 \
     --num-layers 16 \
-    --batch-size 2 \
+    --batch-size 1 \
     --val-batches 25 \
     --test-batches 100 \
     --steps-per-report 100 \
     --steps-per-eval 100 \
-    --learning-rate 0.000001 \
+    --learning-rate 0.00001 \
     2>&1 | tee -a "$log_file"
     # --resume-adapter-file $adapter_file\
     # --config "./config.yaml" \
