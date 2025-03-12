@@ -1,6 +1,8 @@
 Start time: Fri  7 Mar 2025 08:54:01 GMT
 Loading pretrained model
-Fetching 16 files:   0%|                                                                                             | 0/16 [00:00<?, ?it/s]Fetching 16 files: 100%|█████████████████████████████████████████████████████████████████████████████████| 16/16 [00:00<00:00, 27313.33it/s]
+
+Fetching 16 files:   0%|                                                                                             | 0/16 [00:00<?, ?it/s]
+Fetching 16 files: 100%|█████████████████████████████████████████████████████████████████████████████████| 16/16 [00:00<00:00, 27313.33it/s]
 Loading datasets
 Training
 Trainable parameters: 0.043% (6.291M/14770.034M)
@@ -99,3 +101,10 @@ Iter 3000: Saved adapter weights to ../adapters/lora-Qwen2.5-14B-Instruct-1M/ada
 Iter 3100: Val loss 0.090, Val took 2238.526s
 Iter 3100: Train loss 0.090, Learning Rate 1.000e-05, It/sec 0.806, Tokens/sec 244.722, Trained Tokens 951603, Peak mem 34.581 GB
 Iter 3100: Saved adapter weights to ../adapters/lora-Qwen2.5-14B-Instruct-1M/adapters.safetensors and ../adapters/lora-Qwen2.5-14B-Instruct-1M/0003100_adapters.safetensors.
+Iter 3200: Val loss 0.090, Val took 2246.026s
+Iter 3200: Train loss 0.086, Learning Rate 1.000e-05, It/sec 0.836, Tokens/sec 256.209, Trained Tokens 982260, Peak mem 34.581 GB
+Iter 3200: Saved adapter weights to ../adapters/lora-Qwen2.5-14B-Instruct-1M/adapters.safetensors and ../adapters/lora-Qwen2.5-14B-Instruct-1M/0003200_adapters.safetensors.
+Iter 3300: Val loss 0.085, Val took 2338.396s
+Iter 3300: Train loss 0.085, Learning Rate 1.000e-05, It/sec 0.791, Tokens/sec 241.968, Trained Tokens 1012849, Peak mem 34.581 GB
+Iter 3300: Saved adapter weights to ../adapters/lora-Qwen2.5-14B-Instruct-1M/adapters.safetensors and ../adapters/lora-Qwen2.5-14B-Instruct-1M/0003300_adapters.safetensors.
+End time: Fri  12 Mar 2025 00:54:00 GMT

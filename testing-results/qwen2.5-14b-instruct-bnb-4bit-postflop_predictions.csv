@@ -1,0 +1,9596 @@
+Prediction,Ground Truth
+Bet 6 chips.<|endoftext|>,check
+"bet 15 chips
+
+###<|endoftext|>",check
+"Raise (or ""Bet"") 25 chips",check
+Raise to 10 chips. (or any,bet 10
+"Raise to 25 chips. 
+
+This is",check
+Bet 4 chips.<|endoftext|>,raise 11
+"Call
+
+### Rationale:
+Given the board is",call
+Bet 15 chips.<|endoftext|>,check
+"Call
+
+### Instruction:
+Raise to 8 chips",call
+"Call
+
+This response assumes that calling is within your",raise 92
+"Raise to 25 chips. ###
+
+###",call
+"bet 15 chips
+
+This response is designed",check
+Raise 40 chips. (or go all,check
+Bet 40 chips.<|endoftext|>,check
+"Bet 12 chips. ###
+
+### R",check
+Fold. The board is paired and there's a,fold
+"Call
+
+In this situation, you have a strong",call
+Raise all-in (bet 100 chips,call
+Raise to 15 chips. (or go,bet 12
+"Call (29 chips) ###
+
+#### Instruction",raise 81
+"call
+
+### Instruction:
+Increase the bet to put",raise 64
+"Bet 40 chips. ###
+
+### R",check
+Raise 50 chips. (All-in),raise 85
+Call (88 to call) ### Instruction,call
+"Call
+
+### Instruction:
+Fold",fold
+"Raise to 120 chips.  
+
+This",call
+"Bet 8 chips. ###
+
+### Instruction:",check
+"Bet 2.0 chips. ###
+
+###",bet 3
+"Bet 10 chips. ###
+
+### Instruction",check
+"Raise to 40 chips. ##
+
+###",fold
+Raise 40 chips. (Pot is now,call
+"Fold
+
+### Rationale:
+Given the board (",call
+"Bet 14 chips. ###
+
+### Instruction",raise 16
+"Call
+
+Based on the information provided, calling is",raise 73
+Raise 60 chips. (Pot is now,raise 88
+"Bet 8 chips. ###
+
+### Instruction:",call
+"Call (8 chips) ### Instruction
+Your response",call
+"Call (16 chips) ### Instruction
+
+The",fold
+"Call
+
+### Instruction:
+Is there any chance that",call
+"bet 10 chips
+
+### Rationale:",check
+Fold. The opponent's betting pattern suggests they might,call
+Raise (or shove) to around 10,fold
+"Call
+
+###<|endoftext|>",fold
+Raise to 20 chips. ## Step,raise 29
+"call
+
+### Instruction:
+Your previous response was to",bet 7
+Fold. The board is paired and your top pair,check
+"bet 20 chips
+
+This response assumes a",bet 34
+Call (88 chips) to see the river,fold
+Raise to 20 chips. (or any,raise 25
+"Bet 8 chips. ###
+
+### Instruction:",check
+"raise 30 chips
+
+This response aims to",check
+"bet 20 chips
+
+### Instruction:
+Is",check
+"Raise 70 chips. ###
+
+### Instruction",raise 70
+Fold. Given the aggressive betting pattern from the BTN,fold
+"Call
+
+### Instruction:
+Fold",call
+Fold. ## Created Chinese Question-Answer Pairs,fold
+"Raise 20 chips. 
+
+This move maxim",bet 18
+"Fold
+
+### Rationale:
+Given the board (",bet 3
+Fold. Given the aggressive nature of your opponent's,fold
+"Fold. 
+
+The board is J♥ 4",fold
+Call (11 chips) to see the river,call
+"Call
+
+### Instruction:
+Fold",call
+"Raise to 35 chips. 
+
+This move",raise 88
+"Fold
+
+### Rationale:
+Given the aggressive betting",fold
+Raise to 70 chips. ## Created by,fold
+Fold. ## Created Chinese Question-Answer Pairs,fold
+Fold. The board is K-A-T-2,fold
+Fold. The opponent's aggressive play and the strength,fold
+"Call
+
+### Instruction:
+Fold",raise 88
+"call
+
+### Instruction:
+Increase the bet to",call
+"Fold
+
+### Rationale:
+Given the strength of",fold
+"call
+
+### Instruction:
+Reconsider your previous response",call
+Call (to see the river) or raise a,raise 86
+"Call
+
+###<|endoftext|>",fold
+Raise 60 chips to shove all-in.,call
+"Raise to 50 chips. 
+
+This is",call
+Fold. ## Created Chinese Question-Answer Pairs,fold
+"Raise to 50 chips. ###
+
+###",call
+"bet 18 chips
+
+This response assumes a",bet 31
+"raise to 175 chips
+
+This response",fold
+"call
+
+In this scenario, you should call the",raise 16
+Call (8 chips) to see the river.,call
+"Call
+
+In this situation, you have top pair",call
+Raise to 15 chips. (or any,bet 13
+Raise 45 chips to put pressure on your,fold
+Fold. The board is paired (8s),fold
+"Bet 10 chips. ###
+
+### Instruction",check
+Bet 8 chips. ## Created Chinese Question:,bet 10
+"Call (90 chips) ###
+
+Instruction:",fold
+Raise to 20 chips. (Bet,check
+Raise to 50 chips. (Go All,call
+"bet 10 chips. ### Instruction
+
+The",check
+Bet 8 chips. ## Step 1:,check
+Bet 7 chips. (Value bet to extract,bet 10
+"Call
+
+### Rationale:
+Given the board texture",call
+Call (4 chips) or raise (to around,raise 25
+"Call
+
+### Instruction:
+Increase the complexity by adding",raise 88
+Raise to 45 chips. (Go All,call
+Raise to 8 chips. ## Created Chinese Question,check
+Raise to 15 chips. (or enough,bet 17
+Raise to 80 chips. ## Created by,fold
+"Call
+
+### Instruction:
+Fold",fold
+"Fold. ###
+
+### Rationale:
+Given the",fold
+Raise to 15 chips. ## Step,raise 13
+"Call
+
+### Instruction:
+Increase the bet to",call
+"Bet 10 chips. ###
+
+### R",check
+Raise to 120 chips. (Note,fold
+"Call
+
+This response assumes a balanced strategy where you",fold
+Call (8.0 chips) ### Instruction,call
+"Raise to 35 chips. (Go """,call
+Raise to 18 chips. ## Created by,bet 18
+"Call
+
+### Instruction:
+Increase the bet to",fold
+"Bet 10 chips. ###
+
+### Instruction",bet 12
+Raise to 40 chips. ## Created by,call
+Raise to 40 chips. (Put in,fold
+"Bet 7 chips. ###
+
+### Instruction:",bet 10
+Bet 20 chips.<|endoftext|>,bet 29
+Raise to approximately 170 chips (all,call
+"Call
+
+In this scenario, given that you have",raise 57
+"bet 15 chips
+
+### Instruction:
+Increase",bet 35
+"bet 25 chips. ###
+
+### Instruction",bet 29
+Fold. The opponent's aggressive play on the river,fold
+"Bet 8 chips. ###
+
+### Instruction:",bet 8
+"Raise to 40 chips. 
+
+This represents",raise 27
+"Fold. The opponent raised on the river, indicating",fold
+bet 3 chips.<|endoftext|>,check
+Fold. The board is A-10-,call
+"Bet 15 chips. ###
+
+### Instruction",check
+Bet 25 chips.<|endoftext|>,bet 29
+Raise 35 chips. (Pot is now,call
+"Fold
+
+### Rationale:
+Given the board `",call
+"Call
+
+In this situation, you have two pair",call
+Fold. The opponent's aggressive play and the high,call
+"Bet 4 chips. ###
+
+### Instruction:",bet 5
+Call. You should call to see if the BB,check
+"call
+
+In this situation, given the board has",call
+"Fold. The board is paired with a Jack,",bet 29
+"Call (23 chips) ### Instruction
+Your",fold
+"Fold. 
+
+Given the board texture (Ten of",fold
+Raise to 120 chips. (Go,fold
+"Check
+
+### Rationale:
+Given the board `",bet 3
+Raise to 100 chips (all-in,fold
+"Call
+
+In this situation, you have a strong",fold
+"bet 40 chips
+
+This response reflects an",raise 58
+Raise to 15 chips. ### Instruction:,call
+Fold. The opponent's aggressive betting pattern and the,raise 48
+"Fold
+
+### Rationale:
+Given the aggressive betting",fold
+"Call
+
+### Instruction:
+Fold",raise 16
+Raise to 12 chips. (or go,bet 12
+"Call
+
+In this situation, you should call as",bet 13
+Raise to 40 chips. (Go All,check
+Fold. ## Created Chinese Question-Answer Pairs,fold
+Fold. The board is very coordinated with clubs and,fold
+"Fold. ## Created Chinese Question
+
+在德州扑克",fold
+"Raise to 70 chips. ###
+
+###",call
+"Bet 5 chips. ###
+
+### Instruction:",check
+Fold. The board is paired (Jack-Jack,fold
+"Raise to 45 chips. ##
+
+####",call
+Fold. The board is paired and your ace-high,call
+Raise to 50 chips. (Go All,check
+"Raise to 40 chips. 
+
+This is",fold
+Fold. The opponent's aggressive play and the strength,call
+"Call
+
+### Instruction:
+Fold",fold
+"Bet 2.5 chips. ###
+
+###",bet 4
+Fold. The board is paired and your opponent raised,raise 84
+"Call
+
+### Instruction:
+Fold",call
+"Raise 25 chips
+
+This response seems too",check
+Bet 30 chips. (approximately),check
+Raise to 30 chips. (or enough,fold
+Bet 20 chips.<|endoftext|>,check
+"bet 50 chips. ###
+
+### Instruction",raise 83
+"call
+
+### Instruction:
+Fold",raise 11
+"Call
+
+### Instruction:
+Fold",fold
+"Bet 10 chips. ###
+
+### Instruction",check
+"Call
+
+### Instruction:
+Your previous response was to",call
+"bet 4 chips
+
+This response assumes that betting",check
+"Call (17 chips) ###
+
+#### Explanation",fold
+"Fold. ## Created Chinese Question
+
+在德州扑克",fold
+"Call
+
+### Instruction:
+Fold",bet 11
+"Raise 25 chips. ###
+
+### Instruction",fold
+"Call
+
+In this scenario, calling is the best",fold
+Raise to 35 chips. ## Step,bet 29
+Bet 14 chips. (approximately half pot,check
+"Call
+
+###<|endoftext|>",call
+"Call
+
+###<|endoftext|>",check
+"bet 10 chips. ###
+
+### Instruction",check
+"Bet 40 chips. ###
+
+### Instruction",check
+"Bet 2 chips. ###
+
+### Instruction:",bet 4
+Raise to 45 chips. (Put in,fold
+Call (call 18 chips) ### Instruction,raise 58
+"Bet 2.0 chips. ###
+
+###",check
+Raise to 10 chips. This is a,check
+Raise to 90 chips. ## Created by,fold
+"call
+
+In this situation, given that you have",call
+"Fold. ###
+
+### Rationale:
+Given the",fold
+Raise to 40 chips. (Go All,fold
+"Bet 8 chips. ###
+
+### Instruction:",check
+Call. ## Created Chinese Question-Answer Pairs,check
+"call
+
+Created Chinese prompt-response pair.
+
+### Chinese",call
+"Call
+
+### Instruction:
+Fold",fold
+"bet 30 chips
+
+This response is designed",check
+"Bet 35 chips. ###
+
+### Instruction",raise 61
+"bet 20 chips
+
+### Instruction:
+Is",bet 23
+Fold. The opponent has shown aggression throughout the hand,fold
+Call (2 chips) or check. Given the,check
+Fold. Given the aggressive betting pattern from HJ,raise 88
+"Call
+
+### Instruction:
+Fold",call
+"call
+
+In this scenario, the BTN has shown",raise 41
+Fold. Given the aggressive play from the CO and,fold
+"Raise to 50 chips. 
+
+This is",call
+Fold. ## Created Chinese Question-Answer Pairs,fold
+Raise to 14 chips. ## Created Chinese,raise 22
+Fold. The opponent's aggressive play on the turn,fold
+"Raise to 40 chips. ###
+
+###",call
+"Call (11 chips) ### Instruction
+
+A",call
+"Call
+
+In this situation, you should call as",call
+Fold. Your hand does not improve on the river,bet 4
+"bet 20 chips
+
+This response seems incorrect",check
+"Call
+
+In this scenario, given that you hold",call
+"Raise 150 chips.  
+
+This is",call
+"Raise to 20 chips. ###
+
+###",raise 16
+"bet 2 chips
+
+This response suggests betting",bet 4
+Fold. ## Created Chinese Question-Answer Pairs,fold
+"bet 7 chips
+
+This response is based on",check
+"Bet 3.0 chips. ###
+
+###",check
+"Call
+
+In this scenario, given that the board",raise 16
+Fold. Given the aggressive betting pattern from HJ,fold
+Fold. The board is paired and your kicker is,fold
+"Raise all-in. ###
+
+### Rationale:",raise 58
+Raise to 40 chips. (or go,check
+Raise to 60 chips. (Put in,call
+"Fold
+
+### Rationale:
+Given the aggressive betting",fold
+"Bet 40 chips. ###
+
+### Instruction",check
+Raise to 50 chips. (or go,call
+"Raise 60 chips. 
+
+This is because",raise 83
+Raise to 15 chips. ## Created by,check
+"Call
+
+In this situation, given that the board",fold
+"Fold. ## Created Chinese Question
+在六人",fold
+Raise to approximately 50 chips (all-in,raise 92
+"bet 6 chips
+
+This response is based on",check
+"Call
+
+In this scenario, given that you have",call
+Raise 100 chips (all-in),call
+Fold. The opponent's aggressive betting pattern suggests they,fold
+"Raise to 40 chips. ###
+
+###",raise 57
+Raise to 35 chips. (Put in,fold
+"Fold
+
+### Rationale:
+Given the aggressive betting",fold
+Call (4 chips) to see if you can,call
+"Bet 30 chips. ###
+
+### Instruction",raise 83
+Bet 40 chips. ## Step 1,check
+Raise to 50 chips. ## Step,call
+Raise to 20 chips. ## Created Chinese,call
+Raise to 12 chips. (or go,check
+Raise 60 chips. (Or go all,call
+Fold. The raise from the BB indicates they likely,call
+"Bet 6 chips. ###
+
+### Instruction:",check
+Call (13 chips) and then decide based,fold
+"Call
+
+In this scenario, given the strength of",raise 79
+Raise to 40 chips. (Put in,check
+Raise 30 chips. (All-in),check
+"bet 8 chips
+
+This response reflects a strategic",check
+"bet 8 chips
+
+This response is based on",bet 3
+Raise 40 chips. (pot odds consideration,raise 51
+Raise 150 chips to put maximum pressure,call
+"Call
+
+In a 6-handed No Limit Texas",raise 7
+"fold
+
+### Rationale:
+Given the strength of",fold
+"bet 20 chips
+
+This response suggests betting",check
+"bet 10 chips
+
+This response is based",bet 12
+"Call
+
+### Instruction:
+Fold",call
+Raise to 15 chips. (or go,call
+Raise 60 chips. (Go All-In,raise 70
+"Call
+
+### Instruction:
+Fold",call
+"Fold. ###
+
+#### Rationale:
+Given the",fold
+"Bet 20 chips. ###
+
+### Instruction",check
+"call
+
+###<|endoftext|>",call
+"Call
+
+### Instruction:
+I'm sorry, but",raise 89
+"bet 4 chips. ###
+
+### Instruction:",check
+"Bet 7 chips. ###
+
+### Instruction:",bet 10
+Fold. The board is paired and you do not,fold
+"Call
+
+In this scenario, given that you have",call
+Raise to 15 chips. This will try,check
+"Raise to 45 chips. 
+
+This will",call
+"bet 12 chips
+
+This response is based",bet 17
+"call (1 chips) ###
+
+Instructor:",raise 14
+"Bet 20 chips. ###
+
+### Instruction",check
+Raise to 90 chips. ## Created Chinese,fold
+Fold. Given the aggressive play from UTG and,bet 29
+Raise 20 chips. (or go all,check
+"Raise to 60 chips. 
+
+This raises",call
+Raise to 45 chips. ### Instruction,call
+"Fold. The board is paired (ten), and",fold
+Raise to 45 chips. (Put in,bet 39
+"Call
+
+### Instruction:
+Fold",bet 23
+"Fold. 
+
+The opponent's aggressive play on the",fold
+Call (call 29 chips) ### Instruction,fold
+"fold
+<|endoftext|>",fold
+"fold
+
+### Rationale:
+Given the board (",fold
+"Raise to 200 chips. 
+
+This",call
+"bet 6 chips. ### Instruction
+The response",check
+Raise to approximately 150 chips to put,call
+"Raise to 80 chips. 
+
+This move",raise 80
+Call (match the bet of 39 chips,call
+"Raise 10 chips. ###
+
+### Instruction",check
+"Raise to 35 chips. ###
+
+###",call
+"Raise to 30 chips. 
+
+This move",call
+"Call
+
+### Instruction:
+Is ""call"" really",call
+Fold. The board is paired and your opponent raised,raise 80
+"call
+
+In this scenario, calling is the optimal",call
+Fold. The board is A-9-T-,fold
+"Raise to 75 chips. 
+
+This is",call
+"call
+
+In this situation, given that you have",raise 78
+"bet 15 chips
+
+This response is designed",check
+"Raise to 170 chips. 
+
+This",call
+"Fold
+
+### Rationale:
+Given the board texture",fold
+"Bet 4 chips. ###
+
+### Instruction:",check
+"bet 14 chips
+
+This response is designed",check
+"Raise to 50 chips. ###
+
+###",raise 93
+Raise to 15 chips. (Bet enough,check
+Raise to 25 chips. (River raise,raise 35
+"bet 20 chips
+
+This response is designed",check
+"Raise to 40 chips. ###
+
+###",raise 57
+"bet 15 chips. ###
+
+### Instruction",bet 25
+"Call
+
+###<|endoftext|>",call
+"fold
+
+In this situation, folding is the best",fold
+Raise 100 chips. (Go All,call
+"Fold. ## Created Chinese Question
+
+在六人",call
+"Call
+
+In this situation, given the board texture",bet 11
+"Call
+
+### Instruction:
+Fold",call
+"call
+
+This response assumes a balanced strategy where the",bet 24
+"Fold
+
+### Rationale:
+Given the aggressive nature",raise 92
+"bet 30 chips
+
+This response is designed",call
+Raise to 50 chips. (Go All,raise 84
+"Call
+
+In this scenario, you should call the",call
+"Call
+
+### Instruction:
+Reconsider your previous response",call
+"call
+<|endoftext|>",raise 13
+"Raise 120 chips. 
+
+This is",call
+Raise 100 chips (all-in),call
+"bet 5 chips
+
+This response is designed to",check
+"call
+
+#<|endoftext|>",call
+Raise to 10 chips. (or value,check
+"Call
+
+### Instruction:
+Your initial response was to",fold
+"Call
+
+### Instruction:
+Fold",fold
+"Call
+
+In this scenario, given the strength of",call
+Fold. The opponent's aggressive play on the turn,fold
+Raise 25 chips. (Note: Given,bet 29
+"Call
+
+### Instruction:
+Fold",raise 10
+"Call. ## Created Chinese Question
+在六人",bet 13
+"bet 40 chips
+
+This response takes into",check
+"bet 20 chips
+
+### Explanation:
+Given",bet 25
+"Raise to 30 chips. 
+
+This is",check
+"Raise to 50 chips. ###
+
+###",fold
+Call (9 chips) to see the turn card,raise 26
+"Raise to 30 chips. ###
+
+###",raise 37
+"Call
+
+This is because the board is paired and",raise 10
+"bet 8 chips. ### Instruction
+
+The suggested",bet 15
+"Call
+
+This response assumes a balanced strategy where the",raise 43
+"Call
+
+### Instruction:
+Raise",raise 90
+Raise to 40 chips. (Put in,check
+"Call
+
+In this situation, calling is the optimal",fold
+Bet 15 chips.<|endoftext|>,check
+"Call (7 chips) ### Instruction
+The response",raise 16
+"Call
+
+In this scenario, given that you have",call
+Bet 30 chips.<|endoftext|>,check
+"Call
+
+In this scenario, calling is the best",call
+Bet 2 chips.<|endoftext|>,bet 5
+"Bet 4 chips. ###
+
+### Instruction:",check
+Raise to 88 chips. ## Effic,raise 90
+"bet 20 chips
+
+### Chain-of-Th",check
+"Call
+
+### Instruction:
+Fold",fold
+"Call. (5 chips) ###
+
+### Instruction",check
+"Call
+
+### Instruction:
+Fold",fold
+Fold. Your pair of threes is weak given,call
+"Call
+
+### Instruction:
+Fold",bet 23
+Raise 40 chips. (Go All-In,raise 73
+Raise to 100 chips (all-in,raise 88
+Raise 100 chips (all-in),call
+"Call
+
+In this situation, given the board texture",call
+"Call
+
+### Instruction:
+Fold",fold
+"Call
+
+In this situation, calling is the best",call
+"Call
+
+This response assumes that the goal is to",fold
+"bet 3 chips
+
+This response is designed to",check
+"bet 60 chips. 
+
+This move maxim",raise 85
+"Call (18 chips) ### Instruction
+Your",raise 46
+"Raise to 50 chips. 
+
+This represents",call
+"Raise to 200 chips. 
+
+This",call
+Fold. Given the aggressive raising from BTN on the,fold
+"Fold. ## Created Chinese Question
+
+在德州扑克",fold
+Bet 25 chips. (or go all,bet 29
+"Raise 30 chips. ###
+
+### Instruction",call
+"Check
+
+### Rationale:
+Given the board `",bet 2
+Raise to 40 chips. ## Created by,fold
+"bet 4 chips
+
+This response reflects a balanced",check
+Raise (pot-sized) to 29 chips,check
+"Bet 2.0 chips. ###
+
+###",bet 1
+Raise to 45 chips. (Go All,call
+"call
+
+### Instruction:
+Your response was to call",raise 80
+Call (4 chips) to see the river.,call
+"Call
+
+### Instruction:
+Fold",call
+Raise 20 chips. (or go all,check
+bet 10 chips.<|endoftext|>,bet 13
+"Fold
+
+### Rationale:
+Given the board texture",fold
+"Bet 7 chips. ###
+
+### Rationale",check
+Fold. The raise by UTG indicates they might,raise 92
+"Fold. ## Created Chinese Question
+
+在六人",fold
+"Call
+
+### Instruction:
+Fold",call
+"Call or check, aiming to see if the BB",bet 13
+Fold. The board is relatively dry and doesn't,fold
+Raise to 40 chips. (Put in,check
+"Call
+
+---
+
+This is a straightforward continuation of the",raise 38
+Fold. The board is paired and there's a,call
+Call (3 chips) or raise (to around,check
+Raise to 45 chips. (Pot Odds,raise 92
+Call (5 chips) to see the river.,call
+Raise to 70 chips. (Put in,fold
+"Call
+
+### Instruction:
+Is calling really the optimal",fold
+Call (1.0 chips) ### Instruction,call
+"Raise to 90 chips. 
+
+This represents",fold
+"call
+
+In this situation, given the board texture",check
+Raise 100 chips (all-in).,call
+"Raise to 80 chips. 
+
+This is",fold
+Raise to 40 chips. ## Step,raise 41
+"Call
+
+### Instruction:
+Fold",fold
+"Fold. ###
+
+### Instruction:
+I appreciate your",fold
+"Call (29 chips) ###
+
+#### Instruction",call
+"Call
+
+### Instruction:
+Fold",fold
+Bet 10 chips. ## Created Chinese Question,check
+Call (22 chips) to see the river,raise 90
+"Raise to 45 chips. ##
+
+How",call
+bet 3 chips.<|endoftext|>,check
+"call
+
+### Rationale:
+Given the strength of",call
+"Bet 10 chips. ###
+
+### Instruction",check
+"Raise to 70 chips. ###
+
+###",raise 90
+Call (9 chips) to see the river.,call
+Fold. Given the strength of the opponent's bets,fold
+"Call
+
+### Instruction:
+Raise to 20",call
+Fold. ## Created Chinese Question-Answer Pairs,fold
+Fold. The board is paired and your ace high,fold
+"Call
+
+###<|endoftext|>",fold
+"Call
+
+### Instruction:
+Fold",call
+Fold. Given the strength of the board (favor,call
+"bet 10 chips
+
+This action aims to",bet 17
+"Fold. ## Created Chinese Question
+在六人",fold
+"bet 35 chips
+
+### Instruction:
+Increase",check
+Raise to 30 chips. To be more,check
+"Call
+
+In this scenario, the opponent raised pref",fold
+Fold. The board is K♠ 7♥,fold
+"Bet 25 chips. 
+
+This is because",check
+"Raise to 70 chips. ###
+
+###",fold
+"bet 10 chips
+
+### Rationale:",check
+"Call (16 chips) ### Instruction
+Is",fold
+Call (88 chips) to see the river,call
+"Call
+
+### Instruction:
+Raise",raise 92
+"fold
+
+### Rationale:
+Given the board's",fold
+"Call
+
+Based on the strength of your hand (",fold
+"Raise to 40 chips. ###
+
+###",call
+"Call
+
+###<|endoftext|>",fold
+"Bet 2.5 chips. ###
+
+###",check
+Fold. The board is paired and you don't,fold
+"Call
+
+###<|endoftext|>",call
+"Call
+
+### Instruction:
+Raise",raise 10
+"Bet 2 chips. ###
+
+### Instruction:",check
+"Raise to 75 chips. 
+
+This is",raise 74
+Raise 80 chips to put pressure on your,fold
+"fold
+<|endoftext|>",raise 31
+Call (5 chips) to see if you can,raise 38
+Bet 4 chips.<|endoftext|>,check
+"call
+
+### Instruction:
+Based on the given information",check
+"Fold
+
+### Rationale:
+Given the aggressive betting",fold
+Raise to 18 chips. (or enough,call
+"Raise to 40 chips. 
+
+This is",bet 29
+"Fold. ###
+
+### Rationale:
+Given the",fold
+Fold. The board is paired and your opponent just,fold
+"Call
+
+###<|endoftext|>",call
+"bet 8 chips
+
+This response is based on",bet 11
+"Call
+
+### Rationale:
+Given the strength of",fold
+"call
+
+Created Chinese prompt-response pair:
+
+### Prompt",call
+Call (8 chips) to see the river.,raise 23
+"Fold. ## Created Chinese Question
+在按钮位置",fold
+Fold. The raise from the BB indicates they likely,fold
+Call (8 chips) to see the river.,fold
+Fold. Given the strength of your hand (A,fold
+"Raise to 50 chips. 
+
+This is",fold
+"Bet 6 chips. ###
+
+### Instruction:",check
+Raise to 18 chips. (or enough,call
+"Raise to 75 chips. ###
+
+###",fold
+"bet 25 chips
+
+This response reflects a",check
+"Bet 30 chips. ###
+
+### Instruction",check
+Bet 3 chips.<|endoftext|>,bet 4
+Raise to approximately 175 chips. This,call
+"Fold. The board is paired (Ten), and",fold
+Fold. Your hand does not improve on the river,bet 10
+"Raise to 80 chips. 
+
+This represents",raise 85
+"bet 10 chips. ###
+
+### Instruction",check
+Fold. The board is paired and your ace-high,call
+"bet 20 chips
+
+This response assumes that",check
+"Call
+
+In this situation, given the strength of",fold
+"Call
+
+### Instruction:
+Fold",call
+Bet 3 chips.<|endoftext|>,check
+Raise 40 chips. (or enough to,call
+Call (5 chips) to see if you can,raise 16
+Bet 4 chips.<|endoftext|>,check
+"Call or Check
+
+Given the information provided, calling",check
+Fold. Your hand does not improve on the board,bet 8
+Call (51 chips) to see the river,call
+"Raise to 40 chips. 
+
+This is",call
+Raise 40 chips. (Pot is,raise 80
+"Call (18 chips) ### Instruction
+The",fold
+"raise 10 chips
+
+### Chain-of-Th",check
+"Call
+
+### Instruction:
+Fold",call
+Raise to 25 chips. (Put in,check
+Raise 25 chips. (Go All-In,check
+Bet 14 chips.<|endoftext|>,check
+"Call
+
+In this scenario, given that you have",raise 73
+"Bet 8 chips. ###
+
+### Instruction:",check
+"bet 10 chips
+
+This response suggests betting",check
+"Call
+
+### Instruction:
+Fold",call
+Bet 20 chips.<|endoftext|>,check
+"call
+
+### Explanation:
+Given that you have a",call
+"Fold. ###
+
+#### Instruction:
+Is there any",fold
+"Call
+
+### Instruction:
+Your response was to call",fold
+Raise to 40 chips. (Put in,bet 29
+Raise to 75 chips. (Put in,fold
+"Bet 12 chips. ###
+
+### Instruction",bet 17
+"Raise to 40 chips. 
+
+This represents",call
+"Fold. ###
+
+### Rationale:
+Given the",fold
+"Call (4 chips) ### Instruction
+The response",check
+Fold. Your hand does not improve on the turn,call
+Fold. Given the aggressive betting pattern from the BB,fold
+Call (6 chips) to see the river.,call
+Fold. Given the aggressive betting pattern from the BTN,raise 92
+"call
+
+In this scenario, given that you have",call
+bet 8 chips. ## Created Chinese Question,bet 13
+"bet 40 chips. ###
+
+### Instruction",check
+"Bet 6 chips. ###
+
+### Rationale",check
+"Raise 15 chips.  
+
+This move helps",call
+Fold. Given the aggressive betting pattern from the BB,fold
+"call
+
+### Rationale:
+Given the strength of",raise 11
+"Call (8 chips) ### Instruction
+The response",raise 18
+"Raise to 75 chips. ###
+
+###",fold
+"bet 25 chips
+
+### Explanation:
+Given",check
+"Call
+
+In this scenario, given that you have",call
+"bet 4 chips
+
+This response suggests betting",check
+"Raise to 70 chips. ###
+
+###",fold
+"bet 4 chips. ### Instruction
+Your response",check
+"Raise to 50 chips. ###
+
+###",fold
+"Call (8 chips) ### Instruction
+Your response",raise 18
+Raise to 8 chips. (or enough to,bet 10
+Call (88 to call) ### Instruction,call
+Bet 7 chips.<|endoftext|>,bet 11
+Raise 20 chips. (Pot is now,check
+"Call
+
+### Instruction:
+Raise to 8 chips",call
+Fold. The opponent's aggressive betting pattern suggests they,call
+"bet 4 chips. ### Instruction
+The response",check
+"Call
+
+In this situation, you have a strong",raise 74
+"Bet 16 chips. ###
+
+### Instruction",bet 17
+"Call
+
+### Instruction:
+Fold",fold
+"bet 8 chips. ### Instruction
+
+The suggested",check
+Raise 40 chips to apply maximum pressure and,call
+Raise 20 chips. (Considering the strength,check
+"bet 20 chips
+
+### Instruction:
+Your",bet 24
+Call. All-in for 47 chips.,check
+"bet 8 chips. ###
+
+### Instruction:",check
+"Call (30 chips) ###
+
+#### Instructor",raise 88
+"Call
+
+In this scenario, given that you hold",call
+"Call
+
+### Instruction:
+Fold",bet 29
+"Call
+
+This ensures you see the river card without",call
+Fold. Given the strength of your hand (a,fold
+"Raise to 40 chips. 
+
+This is",call
+"Fold. ## Created Chinese Question
+
+在德州扑克",fold
+Fold. The board is paired with an ace and,fold
+"Call
+
+In this scenario, given the strength of",raise 77
+"call
+
+### Explanation:
+Given that you have a",call
+Raise 34 chips. (Pot is,call
+"Call
+
+In this situation, given the strength of",raise 27
+Call (13 chips) to see if the,check
+"Call
+<|endoftext|>",bet 18
+Raise to 100 chips. (Go,raise 81
+Fold. The opponent raised on the river which indicates,fold
+"Call
+
+In this situation, your hand is strong",raise 80
+Fold. The board is paired with a King and,call
+"Call
+
+This response assumes that by calling, you",raise 85
+Fold. Given the aggressive betting pattern from BTN and,call
+"Call
+
+In this situation, given that you have",raise 22
+"Call
+
+Based on the strength of your flush and",call
+Raise to 100 chips (all-in,raise 92
+"Call
+
+Given the strength of your hand (two",call
+Bet 10 chips. ## Step 1,check
+"Call
+
+In this situation, you have top pair",raise 10
+Bet 40 chips.<|endoftext|>,raise 61
+Raise to 30 chips. (Pot Bet,bet 23
+"Fold. The board is paired (nine-high),",call
+"call
+
+In this scenario, given the strength of",call
+"Call
+
+###<|endoftext|>",fold
+"call
+
+### Instruction:
+Increase the stakes and make",fold
+"bet 4 chips
+
+### Rationale:
+Given",check
+Fold. Your hand does not improve on the river,fold
+"Raise to 40 chips. ###
+
+###",call
+Call or go All-In depending on how much equity,bet 23
+Raise 45 chips. (Pot is now,call
+"bet 8 chips
+
+This response assumes a strategy",check
+Fold. The board is K♥ J♥,fold
+"Call
+
+In this situation, your hand is strong",fold
+Raise 25 chips. (Note: This,bet 24
+"Call
+
+###<|endoftext|>",raise 11
+"Bet 4 chips. ###
+
+### Instruction:",check
+"Fold. ###
+
+How does the King of Diamond",call
+"Raise to 25 chips. 
+
+This is",raise 27
+"Call
+
+### Instruction:
+Fold",raise 64
+"Bet 20 chips. 
+
+This will put",check
+"Call
+
+### Instruction:
+Increase the bet to",call
+"Bet 8 chips. 
+
+This is to maximize",raise 13
+Bet 4 chips.<|endoftext|>,check
+"Call
+
+### Instruction:
+Fold",call
+"Bet 15 chips. 
+
+This is because",check
+Fold. The board is paired and your top pair,fold
+"Call (80 chips) ### Instruction
+
+A",call
+Raise to 150 chips. ###,call
+Raise to 40 chips. ## Created Chinese,raise 36
+"Call (16 chips) ### Instruction
+The",raise 46
+Fold. Given the aggressive betting pattern from the BB,fold
+"call
+
+### Instruction:
+Reconsider your previous response",fold
+Fold. ## Created Chinese Question-Answer Pairs,fold
+"bet 15 chips
+
+This response reflects a",bet 20
+"Call
+
+### Instruction:
+Fold",call
+"Call (4 chips) ### Instruction
+The response",call
+"call
+
+Created by: AI
+
+### Feedback:",call
+"Raise to 25 chips. ##
+
+In",fold
+"bet 5 chips
+
+This response is given the",check
+"Bet 15 chips. ###
+
+### Instruction",bet 20
+"bet 4 chips
+
+This response is based on",check
+"Raise to 10 chips. ###
+
+###",check
+"Bet 6 chips. ###
+
+### Instruction:",check
+Bet 3 chips.<|endoftext|>,check
+"Call
+
+### Instruction:
+Fold",raise 82
+"bet 10 chips. ###
+
+### Instruction",call
+"Call
+
+### Instruction:
+Fold",call
+"bet 10 chips
+
+This response reflects an",check
+"Raise to 20 chips. ###
+
+###",check
+"bet 15 chips
+
+This response is designed",bet 19
+"Fold
+
+### Rationale:
+Given the strength of",fold
+Raise to 10 chips. (or go,check
+"call
+
+### Instruction:
+Fold.",raise 17
+Raise 80 chips. (Pot is currently,raise 73
+"Bet 8 chips. ###
+
+### Instruction:",check
+"Call
+
+### Instruction:
+Raise to 15",fold
+Raise to 10 chips. (or go,check
+"call
+
+### Instruction:
+Is your decision still to",raise 33
+Fold. The opponent's aggressive betting pattern and raise,fold
+"Call
+
+### Instruction:
+Raise to 18",call
+Raise to 150 chips. ## Step,call
+"Call
+
+### Instruction:
+Let's adjust the game",call
+Raise to 40 chips. (Pot is,call
+"Fold
+
+In this situation, folding is the most",fold
+"call
+<|endoftext|>",check
+Raise to 25 chips. (or enough,call
+Fold. The board is paired and your opponent raised,call
+"bet 7 chips
+
+### Instruction:
+Is there",bet 12
+Raise to 60 chips. ## Created Chinese,raise 84
+"fold
+
+### Rationale:
+Given the board (",fold
+"Call
+
+In this scenario, given that you have",call
+"Raise to 35 chips. ###
+
+###",bet 29
+Raise 50 chips. (All-in),raise 65
+Fold. The raise on the turn suggests your opponent,fold
+"bet 15 chips
+
+This action aims to",bet 23
+"Bet 40 chips. ###
+
+### Instruction",check
+Raise to 10 chips. ## Step,check
+Raise to 20 chips. (or go,check
+"bet 6 chips
+
+This response is based on",check
+"bet 10 chips
+
+This response is based",check
+"Bet 7 chips. ###
+
+### Instruction:",bet 22
+Bet 2 chips.<|endoftext|>,check
+Bet 3 chips.<|endoftext|>,bet 4
+Raise 40 chips. ## Created by Claude,raise 58
+"bet 30 chips. 
+
+This is because",raise 74
+"Fold. ## Created Chinese Question
+在六人",fold
+"bet 8 chips
+
+### Instruction:
+Is there",check
+"Bet 3 chips. ###
+
+### Instruction:",bet 4
+Call or go All-In depending on your stack size,check
+Fold. The raise from BB on the turn suggests,fold
+"Fold
+
+### Rationale:
+Given the aggressive nature",call
+"Raise 40 chips. ###
+
+### Instruction",fold
+"bet 20 chips
+
+This response suggests betting",check
+"Call
+
+In this scenario, your hand is Two",fold
+"Call
+
+### Instruction:
+Fold",fold
+"Fold. ## Created Chinese Question
+在六人",call
+"Raise to 40 chips. 
+
+This move",call
+"Call
+
+### Instruction:
+Raise to 35",call
+Raise to approximately 170 chips (all,call
+"Call
+
+### Instruction:
+The previous response was to",raise 77
+Raise 100 chips. (Go All,call
+"Call
+
+### Instruction:
+Raise to 6 chips",raise 8
+"raise to 15 chips
+
+This response reflects",check
+"Fold
+
+### Instruction:
+Your initial response was to",call
+Raise to 50 chips. ## Created by,call
+Fold. The opponent's aggressive play on the turn,fold
+"Call
+
+### Instruction:
+Based on the given information",raise 83
+"call
+
+### Instruction:
+Reconsider your previous response",check
+Raise to 10 chips. ### Instruction:,check
+"Fold
+
+### Rationale:
+Given the board texture",bet 10
+"Call (13 chips) ### Instruction
+The",raise 37
+Fold. Given the board texture and the opponent's,check
+"Call (1 chips) ### Instruction
+The response",fold
+Raise to 15 chips. (or go,bet 13
+"Call (16 chips) ### Instruction
+The",call
+"Raise to 50 chips. ##
+
+####",fold
+"Raise to 50 chips. ###
+
+###",raise 58
+Call (5 chips) to see if you can,fold
+"Call
+
+Created Chinese prompt-response pair:
+
+### Prompt",fold
+Bet 8 chips.<|endoftext|>,check
+"Raise all-in. ###
+
+### Instruction:
+Your",call
+Call (18 chips) to see if you,raise 81
+"call
+
+In this scenario, given the strength of",call
+Raise to 100 chips. (Go,raise 88
+"Bet 3 chips. ###
+
+### Instruction:",check
+"Bet 4 chips. 
+
+This is a semi",check
+Call (or raise if you want to apply more,fold
+Raise to 160 chips. ## Step,fold
+Raise to 15 chips. (Bet,check
+"Call
+
+### Instruction:
+Fold",fold
+"Call (to see the river card). 
+
+Since",call
+"Fold
+
+### Rationale:
+Given the aggressive betting",fold
+Call (88 chips) to see the river,call
+"Call
+
+### Instruction:
+Increase your bet to",raise 25
+"bet 20 chips. ###
+
+### Instruction",check
+Raise to 25 chips. (or go,raise 40
+"Call
+
+### Instruction:
+Fold",raise 30
+"Call (8 chips) ### Instruction
+The response",check
+Raise to 18 chips. (or go,bet 18
+Raise to 60 chips. (Put in,raise 89
+Fold. The board is paired and your opponent raised,fold
+Raise to 15 chips. (or enough,raise 25
+Bet 20 chips.<|endoftext|>,check
+"Call
+
+### Instruction:
+Raise to 15",fold
+"Fold. ###
+
+### Rationale:
+Given the",fold
+"Raise to 60 chips. ###
+
+###",fold
+"Fold. ## Created Chinese Question
+
+在德州扑克",fold
+"bet 14 chips. ###
+
+### Instruction",bet 31
+Call (17 chips) to see the river,call
+"call
+
+### Instruction:
+Is calling really the optimal",raise 58
+"bet 15 chips. ###
+
+### Instruction",check
+Fold. Given the strength of your opponent's bets,call
+Raise 50 chips. (Go all-in,raise 58
+"bet 10 chips. ### Instruction
+
+The",check
+"bet 20 chips
+
+This response is designed",check
+"Fold. ## Created Chinese Question
+在德州扑克",fold
+Raise to 20 chips. ## Created by,check
+Raise to 70 chips. ## Created Chinese,fold
+Raise all-in (Go All-In) ### R,check
+Fold. The BTN's raise on the turn suggests,fold
+Bet 14 chips. (Value Bet),check
+Raise to 45 chips. ## Created by,fold
+"Call (12 chips) ### Instruction
+The",call
+"Fold
+
+### Rationale:
+Given the board texture",fold
+"Call
+
+### Instruction:
+Raise to 80",raise 83
+"Call
+
+###<|endoftext|>",raise 13
+"bet 14 chips
+
+This response reflects a",check
+"Call
+
+### Instruction:
+Fold",fold
+"Bet 8 chips. ###
+
+### Instruction:",call
+Raise to 40 chips. ## Step,call
+"bet 6 chips
+
+### Instruction:
+Your action",check
+"Bet 3 chips. ###
+
+### Instruction:",check
+"Fold. ## Created Chinese Question
+在游戏中，底",fold
+"Raise to 40 chips. ###
+
+###",fold
+"Bet 12 chips. ###
+
+### Instruction",check
+Raise 20 chips. (Note: Since,check
+Raise to 50 chips. (Go All,raise 94
+"bet 20 chips
+
+This response reflects a",bet 27
+"bet 4 chips. ###
+
+### Instruction:",check
+"Fold
+
+### Rationale:
+Given the strength of",raise 51
+Call (8 chips) to see the river.,raise 18
+"raise to 30 chips
+
+This response is",check
+"Bet 8 chips. ###
+
+### Instruction:",bet 3
+Call (8 chips) to see if you can,call
+"Fold. The opponent's aggressive play, especially the",fold
+"call
+
+### Instruction:
+Is there any chance that",fold
+Fold. The board is dry and doesn't favor,fold
+"Bet 16 chips. ###
+
+### Instruction",bet 20
+"Raise 30 chips. 
+
+This aggressive play",call
+"bet 5 chips. ###
+
+### Instruction:",bet 22
+"Call
+
+### Instruction:
+Fold",raise 84
+"Call
+
+### Instruction:
+Increase your bet to",raise 88
+"Call
+
+### Instruction:
+I would like you to",fold
+"Bet 8 chips. ###
+
+### Instruction:",check
+Raise all-in (Pot-Saving Bet) to,bet 23
+"Call
+
+### Instruction:
+Raise to 20",call
+"Call
+
+### Instruction:
+Fold",raise 38
+"Call (82 chips) ### Explanation:
+Calling",call
+"Bet 15 chips. ###
+
+### Instruction",check
+"call (4 chips) ### Instruction
+
+A call",call
+"Call (1 chips) ### Instruction
+Your response",fold
+Bet 4 chips.<|endoftext|>,bet 8
+"Call
+
+In this scenario, given that the opponent",check
+"bet 40 chips. 
+
+This is because",raise 72
+"Raise to 25 chips. ###
+
+###",call
+"call
+
+This is a straightforward continuation call as the",call
+"Call
+
+### Instruction:
+Fold",call
+"Raise to 75 chips. ###
+
+###",fold
+Raise to 25 chips. (or go,call
+"Raise to 7 chips. ### Instruction
+Your",check
+"Call. (1)  
+(The pot is",check
+"Call
+
+### Instruction:
+Increase the stakes and re",call
+Raise to 20 chips. (or go,call
+"Raise to 70 chips. ###
+
+###",raise 92
+Raise 40 chips. (Go All-In,check
+"Fold. The board is A-D, 9",fold
+Fold. ## Created Chinese Question-Answer Pairs,fold
+"Call
+
+### Instruction:
+Fold",check
+Raise to 70 chips. (Go All,raise 92
+Fold. ## Created Chinese Question-Answer Pairs,fold
+"Call
+
+###<|endoftext|>",raise 22
+Call (3.5 to call) ### Instruction,call
+"call
+
+### Instruction:
+Increase the complexity by adding",raise 10
+"Call
+
+### Instruction:
+Increase the complexity of the",fold
+Fold. Given the aggressive nature of UTG's,fold
+"Bet 10 chips. 
+
+This move maxim",bet 11
+"Bet 2 chips. ###
+
+### Instruction:",bet 2
+"Bet 40 chips. ###
+
+### Instruction",check
+"bet 40 chips. 
+
+This represents a",check
+"Call
+
+### Instruction:
+Increase the bet to",raise 74
+Call (8 chips) to see the turn.,call
+"call
+
+In this situation, given that you have",call
+"Call
+
+### Explanation:
+Given the board texture and",check
+"Fold
+
+### Rationale:
+Given the strength of",call
+"Call
+
+### Rationale:
+Given that you have",raise 11
+Raise 100 chips (all-in).,raise 89
+"Call
+
+This response assumes that calling is within your",call
+"Bet 2.5 chips. ###
+
+###",check
+"Call (2.5 chips) ###
+
+Instruction",check
+"Call (4 chips) ### Instruction
+Your response",check
+"call
+
+### Instruction:
+Raise to 10",raise 10
+"Call
+
+In this situation, given the strength of",fold
+Raise to 45 chips. (Go All,call
+Raise to 100 chips (all-in,fold
+"bet 20 chips
+
+This response is designed",check
+"bet 50 chips
+
+### Instruction:
+Is",check
+Raise to 18 chips. (Bet enough,raise 22
+Raise to 15 chips. ## Created by,check
+"Bet 4 chips. ###
+
+### Instruction:",check
+"Call
+
+### Instruction:
+Is calling really the optimal",call
+"call
+
+### Instruction:
+Your previous response was a",fold
+Fold. The board is paired and your ace-high,call
+Call (8 chips) to see the river.,call
+"Fold. ###
+
+### Revised Response:
+Given the",call
+"bet 14 chips
+
+This action aims to",check
+"Bet 8 chips. ###
+
+### Instruction:",check
+"Bet 3 chips. ###
+
+### Instruction:",check
+"Bet 4 chips. ### Instruction:
+Based on",check
+"Call
+
+### Instruction:
+The suggested action was a",call
+"bet 20 chips
+
+### Chain-of-Th",check
+"Fold. ###
+
+### Rationale:
+Given the",fold
+Fold. Given the aggressive betting pattern from the opponent,fold
+"Call
+
+In this scenario, given that you hold",call
+"Call
+
+###<|endoftext|>",call
+"Call (10 chips) ### Instruction
+
+Your",raise 22
+Raise to 12 chips. (Bet sizing,bet 13
+"bet 4 chips. ###
+
+### Instruction:",check
+Raise to approximately 70 chips (including the,raise 92
+"Fold
+
+### Instruction:
+I understand your response,",fold
+"Fold. ###
+
+### Rationale:
+Given the",fold
+"Raise 40 chips. 
+
+This move aims",call
+Raise to 60 chips. This is a,check
+Fold. Given the strength of the flop (high,check
+Fold. Given the strength of the board and the,fold
+"Bet 3 chips. ###
+
+### Instruction:",check
+"Fold
+
+### Rationale:
+Given the board (",bet 3
+"Call
+
+### Instruction:
+Fold",raise 38
+"call
+
+### Instruction:
+Call 39 chips",raise 74
+"bet 10 chips. ###
+
+### Instruction",check
+"Fold
+
+### Rationale:
+Given the aggressive betting",fold
+"Call (18 chips) ###
+
+#### Explanation",call
+Raise to approximately 50 chips (pot odds,raise 93
+Fold. The opponent's aggressive play and large raise,call
+"Bet 2 chips. ### Instruction
+
+The suggested",check
+"Bet 2 chips. ###
+
+### Instruction:",check
+"Call
+
+In this situation, given the board texture",check
+Raise to 74 chips. ## Step,call
+Call (22 chips) to see the river,raise 82
+"Bet 10 chips. ###
+
+### Instruction",check
+"bet 30 chips
+
+This response is based",check
+"Call
+
+In this scenario, given that you have",check
+"call
+
+### Instruction:
+Is calling really the optimal",call
+"Call
+
+### Instruction:
+Based on the given information",call
+Raise to 35 chips. ## Step,call
+"Call
+
+### Instruction:
+Fold",raise 17
+Call (match the raise to 38 chips,fold
+"Call
+
+###<|endoftext|>",raise 41
+Fold. Given the aggressive betting pattern from HJ,fold
+Call (bet 14 chips) to put,check
+"Raise to 25 chips. ###
+
+###",call
+"Raise 60 chips. ###
+
+### R",call
+"Call
+
+### Instruction:
+Your previous response was to",call
+"Call
+
+### Instruction:
+Is calling really the optimal",raise 84
+"Raise all-in. ###
+
+### Rationale:",check
+"Call
+
+### Instruction:
+I'm sorry, but",call
+"call
+
+### Instruction:
+Based on the previous response",bet 40
+Fold. The board is very coordinated with two clubs,fold
+"Call
+
+Based on the strength of your flush and",fold
+"bet 3 chips. ###
+
+### Instruction:",bet 4
+Raise to 45 chips. ## Step,fold
+Fold. The board is paired with a heart flush,fold
+Raise 75 chips to value bet more effectively,raise 84
+"Call
+
+In this scenario, given that you have",call
+Bet 20 chips.<|endoftext|>,check
+"call
+
+###<|endoftext|>",raise 7
+"Call
+
+### Instruction:
+Fold",fold
+Call (26 chips) to continue the hand,call
+Raise all-in (100 chips) to,call
+"Fold. Given the strength of your hand, the",fold
+Raise to approximately 70 chips. This is,fold
+"Raise all-in. ###
+
+### Instruction:
+Raise",fold
+"Call
+
+In this situation, given that the board",call
+"Call
+
+### Instruction:
+Raise to 40",fold
+Raise to 13 chips. (or any,check
+"Bet 20 chips. ###
+
+### Instruction",bet 24
+Fold. The board is A-K-Q-T-,fold
+"Call
+
+### Instruction:
+Fold",call
+"call
+
+### Rationale:
+Given the strength of",call
+"bet 40 chips
+
+This action aims to",raise 58
+Raise to 120 chips. (Put,fold
+Raise 40 chips. (Go All-In,raise 92
+Fold. The board is paired (8) and,fold
+"bet 14 chips
+
+This response is optimal",check
+Raise to 130 chips. ###,call
+"Call
+
+In this situation, you have a strong",fold
+"Call
+
+### Instruction:
+Increase the complexity by adding",fold
+"Raise to 40 chips. ###
+
+###",check
+Bet 15 chips.<|endoftext|>,check
+"Call
+
+In this scenario, given that you have",call
+Bet 12 chips.<|endoftext|>,bet 17
+"Call
+
+In this scenario, given the board has",check
+"bet 8 chips
+
+This response is designed to",check
+"Raise to 20 chips. 
+
+This move",fold
+"Call
+
+### Instruction:
+Raise to 18",call
+"call
+
+### Instruction:
+Increase the stakes.
+
+
+###",call
+"call 13 chips. ###
+
+### Instruction",call
+Bet 1 chip. (or any small bet,check
+Raise to 45 chips. ## Created by,fold
+"Call (6 chips) ### Instruction
+The response",call
+Raise to approximately 80 chips (pot odds,raise 91
+Call (8 chips) to see the river.,call
+"call
+<|endoftext|>",bet 13
+"Call
+
+In this situation, you have two pair",fold
+"Call
+
+### Instruction:
+Let's modify the question",call
+"Call
+
+In this scenario, given the strength of",raise 83
+"bet 8 chips
+
+This response is designed to",check
+Raise to 20 chips. ## Created by,bet 18
+"Fold
+
+### Rationale:
+Given the board texture",fold
+Raise to 25 chips. (or go,check
+"Call
+
+###<|endoftext|>",call
+Raise to 100 chips (all-in,call
+"Call
+
+Created Chinese Prompt:
+### 指",raise 7
+"bet 4 chips. ###
+
+### Instruction:",check
+Raise 70 chips. (Go all-in,call
+"Bet 5 chips. ### Instruction:
+Your suggested",check
+Raise to 18 chips. (or go,call
+"Raise to 60 chips. ###
+
+###",raise 94
+"Call
+
+### Instruction:
+Based on the information provided",call
+Raise to 60 chips. ## Step,call
+Raise to 25 chips. (or go,raise 38
+Raise to 150 chips. (Note,call
+"Raise all-in. ###
+
+### Instruction:
+Raise",fold
+Fold. The opponent's aggressive play on the turn,fold
+"call
+
+### Instruction:
+Raise to 40",call
+"bet 8 chips
+
+This response suggests a continuation",check
+"Raise to 120 chips.  
+
+This",call
+Call (8 chips) to see the river.,fold
+"bet 20 chips
+
+This response is designed",bet 27
+Raise to 60 chips. ## Step,check
+"Raise to 90 chips. ##
+
+###",fold
+"Call
+
+### Instruction:
+Your response was to call",call
+"Raise 20 chips. 
+
+This move maxim",call
+"Call
+
+In this situation, given the strength of",raise 19
+Bet 10 chips.<|endoftext|>,bet 12
+"Fold
+
+### Instruction:
+I appreciate your response,",fold
+"Call
+
+### Instruction:
+Fold",fold
+Fold. Given the aggression from UTG post-f,call
+"call (4 chips) ### Instruction
+
+A call",call
+"Call
+
+In this situation, given that you have",call
+"Call (58 chips) ### Instruction
+
+The",fold
+"raise to 18 chips
+
+This response reflects",bet 16
+"Raise to 55 chips. 
+
+This is",call
+Raise to 150 chips. ## Created,call
+"bet 20 chips
+
+### Instruction:
+Increase",check
+Raise to 40 chips. (Put in,check
+"Raise to 70 chips. ###
+
+###",fold
+Raise to approximately 100 chips (all,call
+"call
+
+### Instruction:
+Increase the stakes a bit",fold
+Raise to 124 chips. ## Step,raise 86
+"call
+
+In this situation, you have two pair",raise 38
+Raise to 87 chips (shove).,raise 54
+"fold
+
+### Rationale:
+Given the board `",fold
+Bet 15 chips.<|endoftext|>,check
+"Raise to 40 chips. ##
+
+###",check
+"Bet 4 chips. ###
+
+### Instruction:",check
+Raise 20 chips. (Pot is now,check
+Raise to 40 chips. (Pot is,bet 29
+Call (14 chips) to see the river,fold
+"Call
+
+### Instruction:
+Fold",call
+"Call
+
+In this scenario, given the flush you",call
+Fold. Given the strength of the board and the,call
+Call. Bet 13 chips to match the,check
+"call
+
+### Instruction:
+Reconsider your previous response",raise 11
+"Bet 2.5 chips. ###
+
+###",check
+"Call (3 chips) ### Instruction
+Your response",call
+"Fold
+
+### Rationale:
+Given the aggressive nature",raise 86
+Raise to 100 chips (all-in,call
+Raise to 50 chips. ## Step,raise 90
+"Call
+
+In this situation, you have two pair",call
+"Call
+
+###<|endoftext|>",call
+"call
+
+### Instruction:
+Is there any chance for",raise 90
+Raise to approximately 70 chips. (Go,fold
+"Raise 80 chips. 
+
+This will put",raise 67
+Call (1 chips) to see the river.,raise 16
+Raise to 80 chips. ## Step,fold
+Raise to 20 chips. ## Created by,call
+"call
+
+In this situation, your hand is strong",fold
+"bet 5 chips. ###
+
+### Instruction:",check
+Raise to 10 chips. ## Created by,check
+Raise to 20 chips. ## Created by,fold
+"Bet 2 chips. ###
+
+### Instruction:",check
+"Bet 15 chips. ###
+
+### Instruction",check
+Bet 7 chips.<|endoftext|>,check
+Raise to 40 chips. ## Step,call
+"Bet 14 chips. ###
+
+### Instruction",check
+Fold. The board is K72-JQ,fold
+"call 4 chips
+
+### Chain-of-Thought",check
+"Bet 14 chips. ###
+
+### Instruction",bet 17
+Raise to 20 chips. ## Step,bet 17
+"Call
+
+###<|endoftext|>",fold
+"Call
+
+In this situation, given that you have",raise 90
+Bet 4 chips.<|endoftext|>,check
+Raise to approximately 150-17,fold
+Fold. Your hand does not improve on the turn,fold
+"bet 20 chips
+
+### Instruction:
+Your",check
+"Bet 10 chips. ###
+
+### Instruction",check
+"call
+
+### Instruction:
+Raise to 6 chips",call
+"Raise (or ""Bet"") 50 chips",call
+"Call (8 chips) ### Instruction
+The response",call
+Raise to 30 chips. (Go All,raise 48
+"Bet 8 chips. ###
+
+### Instruction:",check
+Fold. The opponent's raise on the turn suggests,raise 93
+Call (5 chips) to see if you can,call
+Raise to 30 chips. (Pot bet,bet 24
+Fold. Given the strength of the board (Q,fold
+"Raise to 75 chips. ##
+
+####",fold
+Raise to 30 chips. (Go All,bet 24
+"bet 4 chips
+
+This response assumes a strategy",check
+Fold. The opponent's betting pattern suggests they might,fold
+Raise to 150 chips. (Go,call
+"Raise to 25 chips. ##
+
+###",check
+"raise to 20 chips
+
+### Chain-of",bet 20
+"bet 15 chips. ###
+
+### Instruction",check
+"bet 20 chips
+
+This response is based",check
+"Call
+
+### Instruction:
+Given that the opponent raised",call
+"Call
+
+#<|endoftext|>",fold
+"Call
+
+In this situation, calling is the optimal",raise 22
+"bet 20 chips
+
+### Chain-of-Th",check
+"Raise all-in. ###
+
+### Instruction:
+All",raise 88
+"Call
+
+Based on the strength of your flush and",call
+"Call
+
+### Instruction:
+Raise",call
+"bet 15 chips
+
+### Instruction:
+Increase",check
+"Fold. ###
+
+#### Rationale:
+Given the",fold
+Raise to 8 chips. ## Created Chinese Question,check
+"call
+
+In this situation, given that the board",check
+"bet 10 chips
+
+This response is based",check
+"Call (26 chips) ### Instruction
+Is",call
+"Raise 15 chips. 
+
+This represents a",check
+"Call
+
+In this situation, you have two pair",call
+"Raise to 45 chips. ###
+
+###",call
+"Fold. ###
+
+#### Rationale:
+Given the",fold
+"Bet 4 chips. ###
+
+### Instruction:",bet 24
+"Fold
+
+In this situation, folding is the optimal",fold
+Fold. Your hand does not improve on the river,fold
+"Call
+
+In this situation, given that you have",fold
+Raise to 40 chips. (Put in,fold
+"fold
+
+### Instruction:
+I understand your decision,",fold
+"Raise to 35 chips. 
+
+This is",raise 86
+"Call. 
+
+This move aims to see the river",check
+"call
+
+### Instruction:
+Fold",fold
+"Bet 3 chips. ###
+
+### Instruction:",check
+Call (8.0 chips) ### Instruction,check
+"Call
+
+### Instruction:
+Fold",check
+"Raise to 75 chips. ###
+
+###",fold
+Fold. Given the strength of the board favoring,call
+"Call
+
+### Instruction:
+Increase the bet to",call
+"bet 4 chips. ###
+
+### Instruction:",check
+"Call
+
+In this scenario, given that you hold",raise 41
+"call
+<|endoftext|>",bet 13
+"call
+
+### Instruction:
+Increase the complexity of the",fold
+Fold. The board is paired and there's a,fold
+"bet 20 chips
+
+This response is based",check
+"bet 14 chips
+
+This action aims to",check
+"Call
+
+### Instruction:
+Fold",call
+Raise to 35 chips. (Pot is,bet 29
+"Call
+
+### Instruction:
+Your response was to call",call
+Raise to 150 chips. ## Step,call
+"Call
+
+### Instruction:
+Fold",call
+Bet 8 chips.<|endoftext|>,check
+"Bet 15 chips. ###
+
+### Instruction",check
+"call
+
+In this situation, you should call as",fold
+Raise 80 chips to go all-in.,raise 88
+Raise to 80 chips. (Go All,raise 84
+"call
+
+### Instruction:
+Your response was to call",fold
+Raise (to around 50 chips) or,raise 81
+"Call
+
+In this scenario, given that you have",fold
+Call (8 chips) to see the showdown.,call
+Fold. The board is paired and your ace-high,raise 77
+Raise to 40 chips. (Put in,check
+Fold. The board is paired (8s),call
+"Bet 20 chips. 
+
+This bet is",check
+"Call
+
+### Instruction:
+Fold",check
+"bet 6 chips
+
+### Instruction:
+Your suggested",bet 10
+"Call
+
+### Instruction:
+Fold",call
+Fold. Given the aggressive betting pattern from the BB,fold
+"Call
+
+### Instruction:
+Fold",fold
+"Raise to 40 chips. ###
+
+###",call
+Raise to 60 chips. (Put in,fold
+Bet 15 chips.<|endoftext|>,check
+"call
+
+### Instruction:
+Fold",call
+"Raise to 10 chips. 
+
+This is",bet 11
+"Bet 8 chips. ###
+
+### Instruction:",check
+Raise to 75 chips. (Put all,call
+Bet 2 chips.<|endoftext|>,check
+"Call (1) ### Instruction
+Your response was",fold
+"Call (5 chips) ### Instruction
+Your response",call
+Bet 25 chips. ## Step 1,bet 40
+"Call
+
+In this scenario, your hand is a",call
+"Raise to 25 chips. 
+
+This move",call
+Raise to 45 chips. (Go All,fold
+"Check
+
+This move allows you to see what the",check
+"bet 4 chips
+
+### Instruction:
+Is there",check
+Raise to approximately 150 chips to go,call
+"call
+
+### Rationale:
+Given the flush draw",call
+Fold. The board is very coordinated with two clubs,fold
+bet 2.0 chips.<|endoftext|>,bet 3
+"Bet 3 chips. ### Instruction
+
+The response",check
+"bet 15 chips
+
+### Chain-of-Th",bet 23
+"Call
+
+In this scenario, given the board texture",check
+Raise to 70 chips. (Pot Odds,fold
+Raise 40 chips. (pot bet),bet 39
+"Fold. ## Created Chinese Question
+
+在德州扑克",fold
+Bet 40 chips. (Pot is now,check
+"bet 15 chips. 
+
+This is a",bet 25
+Raise 40 chips. (Go all-in,raise 58
+Bet 40 chips.<|endoftext|>,bet 39
+Fold. Given the aggressive play from BTN and the,call
+Raise to 34 chips. (Go All,fold
+Fold. The board is A♠️9♠,fold
+"bet 40 chips
+
+This response is based",check
+"Call
+
+In this situation, you have a strong",call
+"call
+
+In this situation, given that you have",call
+Raise 60 chips. ## Step 1,call
+Bet 10 chips.<|endoftext|>,check
+Raise to 20 chips. (Go All,check
+"call
+
+###<|endoftext|>",call
+Call (5 chips) to see if you can,call
+Raise to 60 chips. (Putting in,call
+"Fold
+
+### Rationale:
+Given the aggressive play",fold
+Raise 40 chips. (Or go all,fold
+Raise to 175 chips. ### Instruction,call
+"Bet 2 chips. ###
+
+### Instruction:",check
+"call
+
+---
+
+Note: Given the strength of the",call
+"Bet 3 chips. ### Instruction
+
+The response",check
+"Raise to 40 chips. ###
+
+###",fold
+Fold. The opponent's aggressive play on the turn,fold
+Bet 40 chips. (Pot bet),raise 64
+"call
+
+Created Chinese prompt-response pair:
+
+### Prompt",call
+"Raise 40 chips. ###
+
+### Instruction",raise 80
+"Call
+
+In this situation, given that you have",call
+Raise to 12 chips. ## Step,check
+"Call
+
+In this situation, you have a strong",raise 83
+"Call
+
+### Instruction:
+Increase your bet to",call
+"bet 2.5 chips. ###
+
+###",check
+"bet 15 chips
+
+This response is designed",check
+"Bet 3 chips. ###
+
+### Instruction:",check
+Raise to 40 chips. (Put in,check
+bet 2.5 chips. ### Instruction,check
+"Bet 20 chips. ###
+
+### Instruction",check
+Fold. The opponent's aggressive play on the turn,fold
+"Raise to 25 chips. ###
+
+###",call
+Fold. The opponent's aggressive play and the size,call
+Raise to 50 chips. ## Step,raise 70
+"call
+
+### Instruction:
+Fold.",fold
+Call (13 chips) to see the river,raise 33
+Raise to 150 chips. ###,call
+"Call
+
+### Instruction:
+Increase the bet to",fold
+"Raise to 50 chips. 
+
+This represents",fold
+"Fold
+
+### Rationale:
+Given the board (`",raise 89
+Raise 50 chips. (Go all-in,raise 93
+bet 20 chips.<|endoftext|>,check
+"Raise 10 chips. 
+
+This is because",check
+"Call
+
+### Instruction:
+Increase the bet to",call
+Raise to 100 chips (all-in,fold
+"Fold. ## Created Chinese Question
+
+在牌局",fold
+"Raise 40 chips. 
+
+This will put",raise 80
+"call
+<|endoftext|>",fold
+"Call (18 chips) ### Instruction
+The",fold
+Fold. ## Created Chinese Question-Answer Pairs,fold
+Raise to approximately 160 chips to put,call
+Fold. The opponent's aggressive play and the paired,fold
+"Call
+
+### Instruction:
+Raise to 70",fold
+"raise 40 chips
+
+### Instruction:
+Your",check
+Call (bet 4 chips) To match the,check
+"fold
+
+### Rationale:
+Given the board's",fold
+"call (1 chips) ###
+
+Instruction:
+Given",bet 12
+"Fold
+
+### Rationale:
+Given the aggressive betting",fold
+"Fold
+
+### Rationale:
+Given the aggressive betting",fold
+"Call
+
+In this situation, given that you have",fold
+"call
+
+### Instruction:
+Fold",raise 28
+"Bet 15 chips. ###
+
+### Instruction",check
+Raise to 20 chips. (or go,check
+"Fold. ###
+
+### Rationale:
+Given the",fold
+Call (39 chips) to see the river,fold
+"Bet 40 chips. ###
+
+### Instruction",check
+Raise 20 chips. (Pot is currently,bet 23
+"bet 20 chips
+
+### Rationale:",bet 27
+Fold. The opponent's aggressive betting pattern suggests they,fold
+"Call (89 chips) ### Instruction
+Your",call
+Fold. The board is low and doesn't favor,raise 77
+"bet 4 chips
+
+This response assumes a continuation",check
+Bet 7 chips. (Value bet considering the,check
+"Call
+
+### Instruction:
+Fold",raise 88
+"Raise to 70 chips. ###
+
+###",call
+"Call
+
+### Instruction:
+Fold",raise 32
+"Raise to 45 chips. 
+
+This will",call
+Fold. The board is A♥9♠7,fold
+Fold. ## Created Chinese Question-Answer Pairs,fold
+"bet 10 chips
+
+This response assumes that",check
+bet 15 chips.<|endoftext|>,check
+"Fold
+
+### Rationale:
+Given the aggressive nature",call
+"Bet 8 chips. ###
+
+### Instruction:",check
+"call
+
+In this scenario, given that you have",raise 25
+Fold. The board is paired (Aces),fold
+"bet 4 chips
+
+This response is given under",check
+"Raise 40 chips. ###
+
+### Instruction",raise 81
+"Call
+
+In this scenario, given that you hold",fold
+"Call. 
+
+The board is paired (Ten of",check
+Raise to 20 chips. (Put in,check
+Raise 100 chips (all-in),call
+Fold. The board is open-ended and paired (,fold
+"Call (4) ### Instruction
+The response provided",check
+Call (call 29 chips) ### Instruction,fold
+"Raise to 70 chips. ###
+
+###",fold
+Raise to 14 chips. (Pot Odds,call
+"Call
+
+### Instruction:
+Fold",raise 10
+"Call
+
+###<|endoftext|>",raise 11
+Raise to 100 chips (all-in,fold
+"bet 32 chips
+
+This response reflects a",bet 34
+"Call
+
+### Instruction:
+Fold",raise 11
+"call
+
+### Instruction:
+Reconsider your previous decision",call
+"call
+<|endoftext|>",call
+Raise 72 chips to isolate the pot.,call
+Raise to 50 chips. (or go,raise 82
+Raise to approximately 170 chips (pot,fold
+"bet 15 chips
+
+### Instruction:
+Is",check
+"Raise to 88 chips. 
+
+This move",raise 90
+"Call
+
+### Instruction:
+Raise to 15",call
+"Raise to 80 chips. 
+
+This is",fold
+Raise 40 chips. (Pot is,check
+"Bet 8 chips. ###
+
+### Instruction:",check
+"call
+
+### Instruction:
+Raise to 6 chips",call
+"Raise to 70 chips. 
+
+This represents",call
+"bet 18 chips
+
+### Instruction:
+Increase",check
+Fold. The board is paired (7-7,fold
+"Raise to 10 chips. ###
+
+###",call
+"Call
+
+### Instruction:
+Fold",call
+"Fold. The opponent's aggressive play, especially the",fold
+"Raise to 6 chips. ### Instruction:
+Your",call
+"call
+
+### Instruction:
+The suggested response of """,raise 41
+"Fold. ## Created Chinese Question
+
+在底池",fold
+"Fold. ###
+
+### Rationale:
+Given the",fold
+"bet 10 chips
+
+### Instruction:
+The",check
+"Fold. ## Created Chinese Question
+
+在六人",fold
+Call (4 chips) to see if you can,fold
+"Raise to 20 chips. ###
+
+###",call
+"bet 12 chips
+
+### Rationale:",check
+Raise to 50 chips. (Put in,raise 70
+"bet 4 chips
+
+### Explanation:
+Given the",check
+"Call
+
+In this situation, given that you have",raise 32
+Raise to 20 chips. ## Step,fold
+"Bet 3 chips. ### Instruction:
+Your suggested",check
+"bet 25 chips. 
+
+This is a",check
+"Bet 14 chips. ###
+
+### Instruction",check
+Bet 40 chips.<|endoftext|>,raise 82
+"Raise to 35 chips. ###
+
+###",fold
+"Call
+
+### Instruction:
+Given the scenario, your",raise 32
+Raise 75 chips. (or go all,call
+"Call
+
+### Instruction:
+Fold",raise 18
+"call
+
+### Instruction:
+Is there any chance that",fold
+"Call
+
+### Instruction:
+Raise",bet 29
+"Call
+
+### Instruction:
+Fold",call
+Raise to 100 chips (all-in,fold
+"bet 10 chips
+
+This response is designed",check
+"Bet 50 chips. ###
+
+### Instruction",raise 78
+"Raise to 20 chips. ##
+
+###",fold
+"Raise to 30 chips. 
+
+This represents",bet 29
+"Fold. ###
+
+### Rationale:
+Given the",fold
+"Call
+
+###<|endoftext|>",fold
+"Call
+
+### Instruction:
+Increase your bet to",call
+Raise to 75 chips. ## Created Chinese,call
+"Call
+
+In this situation, given that the BB",check
+Raise to 40 chips. (Go All,call
+"Raise 120 chips. 
+
+This will",call
+"call
+
+### Instruction:
+Fold.",call
+Raise 100 chips (all-in),call
+"Call
+
+###<|endoftext|>",call
+Fold. ## Created Chinese Question-Answer Pairs,fold
+Raise to 120 chips. (Go,call
+"call
+
+### Instruction:
+Your initial response was to",call
+"Call
+
+In this scenario, given the strength of",call
+"Call
+
+### Instruction:
+Raise to 20",check
+Raise to 75 chips. ## Step,call
+Raise to 200 chips. (Go,call
+Bet 20 chips.<|endoftext|>,check
+Call (8 chips) to see the river.,call
+"Call
+
+In this situation, your two pair (",fold
+"Bet 2.0 chips. ###
+
+###",bet 1
+"Bet 4 chips. ###
+
+### Instruction:",check
+Raise 100 chips (all-in).,fold
+"Bet 40 chips. ###
+
+### Instruction",check
+"bet 50 chips
+
+This response reflects a",check
+"Call
+
+### Instruction:
+Raise to 70",fold
+Fold. The board is paired and your pair of,fold
+Raise to 20 chips. (Pot is,raise 29
+Raise 100 chips (all-in).,fold
+Raise to 120 chips. ### Instruction,call
+Raise all-in (bet 87 chips),raise 87
+Bet 10 chips.<|endoftext|>,check
+"Fold
+
+### Rationale:
+Given the strength of",call
+"Bet 30 chips. ###
+
+### Instruction",check
+Bet 4 chips.<|endoftext|>,bet 7
+Raise to approximately 40-50 chips,raise 92
+"Call
+
+In this scenario, given the board texture",call
+"Call
+
+This response assumes that you believe your king",call
+"Raise to 100 chips. 
+
+This",fold
+"Call
+
+In this situation, given the board has",call
+"Call (4 chips) ### Instruction
+The response",call
+Raise to 30 chips. (or go,call
+"bet 10 chips
+
+### Instruction:
+Your",check
+"Raise to 60 chips. 
+
+This is",raise 88
+"Call (47 chips) ###
+
+Instruction:",raise 79
+Fold. The opponent's aggressive play and the strength,fold
+"Bet 3 chips. ### Instruction
+The response",check
+"Raise to 18 chips. 
+
+This is",call
+"call
+
+### Instruction:
+Call or fold?
+
+
+###",raise 30
+Raise to 60 chips. (Put in,raise 91
+"Raise to 50 chips. ###
+
+###",raise 94
+"Bet 8 chips. ###
+
+### Instruction:",check
+"Raise to 75 chips. ###
+
+###",fold
+"Bet 7 chips. ### Instruction
+
+The response",check
+"bet 7 chips
+
+This response suggests betting",bet 10
+Raise to 87 chips. (Pot is,raise 87
+"Raise to 150 chips. 
+
+This",fold
+Raise 15 chips. (Go All-In,check
+"Raise 50 chips. ###
+
+### R",call
+Bet 10 chips.<|endoftext|>,bet 12
+"Raise to 100 chips. 
+
+This",fold
+Raise 30 chips. (All-in),check
+"Call
+
+### Instruction:
+Raise all-in
+
+###",check
+"Call (1 chips) ### Instruction
+The response",check
+"call
+
+### Explanation:
+Given that you have a",call
+Bet 10 chips. ## Step 1,check
+"Raise to 50 chips. ###
+
+###",call
+"Call
+
+### Instruction:
+Fold",raise 83
+"Bet 18 chips. ###
+
+### Instruction",check
+"Bet 20 chips. ###
+
+### Instruction",bet 28
+Fold. Given the aggressive betting pattern from the BB,fold
+"Raise to 50 chips. ##
+
+###",call
+Call or check. Given the board texture and the,check
+"Bet 8 chips. ###
+
+### Instruction:",bet 11
+"bet 7.5 chips
+
+This move aims",check
+Fold. Given the board is dry and there's,fold
+Raise 100 chips (go all-in,raise 88
+"bet 45 chips. ###
+
+### Instruction",fold
+"Call (8 chips) ### Instruction
+Your response",call
+Raise to 15 chips. ## Step,check
+"Call
+
+### Instruction:
+Increase the bet to",fold
+"Raise 35 chips. ###
+
+### Instruction",call
+"Fold
+
+### Rationale:
+Given the board's",fold
+"Fold. ###
+
+#### Instruction:
+Is there any",fold
+"Raise to 50 chips. 
+
+This move",call
+"bet 30 chips
+
+This response reflects a",check
+"bet 20 chips
+
+### Instruction:
+Increase",check
+"Raise to 30 chips. ###
+
+###",check
+Raise to 60 chips. (Go All,call
+"Fold. ## Created Chinese Question
+
+在德州扑克",fold
+"Call
+
+---
+
+Note: Since the opponent's betting",call
+Fold. The opponent's aggressive play and the strength,fold
+"Call (12 chips) ### Instruction
+Your",call
+"bet 3.5 chips
+
+### 
+
+Great",bet 4
+Call (18 chips) to call his bet,raise 57
+Call (3 chips) to see if you can,fold
+Raise to 50 chips. (or go,call
+Raise 20 chips. (Bet enough to,check
+Call (12 chips) to see the river,raise 92
+"Call
+
+In this situation, you should call as",call
+Call (to see the river). The opponent's,raise 88
+Call (8 chips) to see the river.,call
+"bet 10 chips
+
+This response is based",check
+"Raise to 50 chips. ###
+
+###",raise 95
+"Call
+
+Based on the strength of your straight,",call
+"Call
+
+### Instruction:
+Raise to 14",call
+"call
+
+The player likely missed the board given the",raise 32
+Call (129 chips) to see the,fold
+"Raise 70 chips. 
+
+This is a",call
+"Call
+
+### Instruction:
+Fold",call
+Fold. The board is dry and doesn't favor,fold
+"Call
+
+### Instruction:
+Fold",fold
+"Bet 3 chips. ###
+
+### Instruction:",check
+"Bet 8 chips. ###
+
+### Instruction:",bet 8
+Raise to approximately 50 chips (all-in,fold
+"Bet 2.0 chips. ###
+
+###",bet 1
+Fold. The board is paired and your top pair,fold
+"bet 10 chips
+
+### 
+
+Great!",bet 19
+Raise to 110 chips. (Go,fold
+"Call
+
+### Instruction:
+Raise to 16",call
+Raise 100 chips (all-in),call
+Raise to 70 chips. ## Created by,fold
+"Bet 3 chips. ###
+
+### Instruction:",bet 2
+Call (11 chips) to see the river,raise 35
+Fold. The board is paired and your hand does,fold
+"Call (28 chips) ### Instruction
+The",raise 88
+Raise to 40 chips. (Put in,bet 29
+Raise to 20 chips. (Put in,check
+Fold.<|endoftext|>,fold
+Fold. Given the strength of your hand and the,fold
+"Bet 10 chips. ###
+
+### Instruction",check
+"bet 25 chips
+
+This response is designed",check
+Bet 8 chips. ## Step 1:,check
+Raise 50 chips. (Go All-In,call
+Fold. The opponent's aggressive betting pattern suggests they,fold
+"Bet 15 chips. ###
+
+### Instruction",check
+"bet 5 chips
+
+This action aims to extract",bet 13
+"Fold. ###
+
+### Instruction:
+Your response was",fold
+"Call
+
+### Instruction:
+Increase your bet to",fold
+Raise 50 chips. (or go all,call
+Raise to 150 chips. (Go,call
+Raise to 30 chips. ## Created Chinese,call
+"Call
+
+### Instruction:
+Fold",call
+"Raise to 74 chips. ###
+
+###",fold
+"Call (5 chips) ### Instruction
+Your response",raise 83
+Fold. Given the aggressive betting pattern from HJ,fold
+"Bet 6 chips. ###
+
+### Instruction:",bet 16
+Raise to 40 chips. (Put in,bet 39
+Fold. The board is paired and your hand does,call
+"Call (13 chips) ### Instruction
+The",raise 30
+"Raise 25 chips. ###
+
+### Instruction",bet 51
+Raise to 40 chips. ## Step,call
+"call
+
+### Instruction:
+Is calling really the optimal",fold
+Fold. The opponent's aggressive betting pattern and large,fold
+Bet 40 chips.<|endoftext|>,check
+Bet 12 chips. (Pot Bet),check
+Call (6 chips) to see the river.,fold
+"Fold
+
+### Rationale:
+Given the aggressive play",raise 90
+"Raise 45 chips. ###
+
+### Instruction",raise 93
+Raise to 10 chips. (Bet,check
+"Call
+
+In this scenario, given the board (",raise 16
+"Bet 10 chips. ### Instruction
+Your",check
+Bet 3 chips. This will put pressure on,bet 4
+"Call
+
+In this situation, given that you have",call
+Fold. The opponent raised on the turn after you,fold
+"Call (8 chips) ### Instruction
+The response",fold
+"Raise to 35 chips. ###
+
+###",fold
+"Call (23 chips) ### Instruction
+The",raise 84
+Raise to 40 chips. ## Created by,raise 57
+"Call
+
+### Instruction:
+Your previous response was to",call
+"Call
+
+### Instruction:
+Fold",call
+Call (8 chips) to see the river.,call
+Fold. The opponent's aggressive play and the strength,fold
+Call (14 chips) to see the river,fold
+"Bet 10 chips. ###
+
+### Instruction",bet 12
+Raise to 100 chips (all-in,call
+"bet 18 chips
+
+This response assumes a",check
+"Call
+
+### Instruction:
+Is there any chance that",call
+Raise to 20 chips. ## Step,check
+"bet 4 chips
+
+This response assumes a semi",check
+Raise 25 chips. (Go All-In,check
+"Fold
+
+### Rationale:
+Given the aggressive nature",call
+Call (4 chips) to see if you can,call
+"Call
+
+In a 6-handed No Limit Texas",call
+"bet 40 chips
+
+This response assumes that",check
+Raise to 20 chips. (Bet,raise 25
+"Call
+
+In this situation, you have a strong",call
+Raise to 40 chips. (Go All,call
+"Raise to 25 chips. ###
+
+###",call
+"bet 6 chips
+
+### Explanation:
+Given the",check
+"Call
+
+In this scenario, given the board has",call
+"bet 2.0 chips
+
+### Chain-of",check
+"bet 3 chips
+
+### Instruction:
+Your suggested",bet 4
+Raise to 45 chips. (Put in,call
+"bet 10 chips. ### Instruction
+
+The",check
+"Fold. ## Created Chinese Question
+在德州扑克",call
+"Bet 3 chips. ###
+
+### Instruction:",check
+Raise to 18 chips. ## Created by,call
+"Call
+
+### Instruction:
+Fold",fold
+"Fold. 
+
+The opponent has shown aggression throughout the",fold
+"Raise to 12 chips. ###
+
+###",check
+bet 25 chips.<|endoftext|>,check
+"Call
+
+Based on the strength of your hand (",raise 79
+"Call
+
+### Instruction:
+Increase the complexity by adding",raise 81
+Call (10 chips) to see the river,fold
+"Bet 2 chips. ###
+
+### Instruction:",check
+"call
+
+### Instruction:
+Raise to 12",call
+"Raise to 75 chips. 
+
+This represents",fold
+"Bet 40 chips. ###
+
+### Instruction",check
+"Bet 3 chips. ### Instruction
+Let's",check
+Fold. The opponent's aggressive play and large raises,fold
+Bet 25 chips.<|endoftext|>,check
+Fold. The raise on the turn suggests strong holdings,call
+"bet 5 chips. ###
+
+### Instruction",bet 8
+"Call
+
+### Instruction:
+Raise to 30",raise 22
+"Call (6 chips) ### Instruction
+Your response",call
+Raise to 60 chips. ## Created by,fold
+"Bet 3 chips. ###
+
+### Instruction:",bet 2
+"Raise to 70 chips. ###
+
+###",fold
+Raise to 45 chips. (Go All,raise 80
+"Check
+
+By checking, you give the initiative to",bet 5
+"Call
+<|endoftext|>",check
+"Fold
+
+### Rationale:
+Given the strength of",raise 82
+"fold
+<|endoftext|>",raise 32
+"Raise to 40 chips. ###
+
+###",call
+"Bet 6 chips. ###
+
+### Instruction:",raise 13
+"Call
+
+### Instruction:
+Fold",check
+"Fold. ###
+
+### Rationale:
+Given the",fold
+"Call
+
+### Instruction:
+Fold",fold
+"Bet 4 chips. ###
+
+### Instruction:",check
+"call
+<|endoftext|>",check
+"call 9 chips
+
+### Chain-of-Thought",call
+"Bet 2.5 chips. ###
+
+###",check
+"Call
+
+In this situation, you have a strong",raise 33
+"bet 2 chips. ### Instruction
+
+The suggested",check
+Fold. The opponent's aggressive play suggests they likely,call
+"Raise (or ""Shove"") to around",raise 77
+Raise 20 chips. (Note: Since,check
+"bet 15 chips
+
+This response is based",check
+Call (check) since the opponent checked on the,bet 20
+"fold
+
+### Rationale:
+Given the strength of",fold
+"call
+
+---
+
+This response assumes the goal is to",raise 10
+"Fold. ###
+
+### Instruction:
+I understand your",fold
+"Raise to 74 chips. 
+
+This is",raise 86
+"Call. (1) chips
+
+This is the",check
+"call (4 chips) ### Instruction
+The response",check
+"Bet 3 chips. ###
+
+### Instruction:",check
+Bet 4 chips.<|endoftext|>,check
+Fold. The opponent's aggressive play on the river,fold
+"bet 6 chips
+
+This response reflects an aggressive",bet 10
+"Raise to 45 chips
+
+### Chain-of",fold
+"Raise to 40 chips. ##
+
+###",call
+"Raise to 50 chips. 
+
+This move",call
+"Call
+
+In this situation, given that you have",call
+"Call
+
+### Instruction:
+Raise to 15",call
+"Call
+
+In this scenario, given the board texture",fold
+"Call (11 chips) ### Instruction
+The",fold
+bet 6 chips.<|endoftext|>,check
+Call (88 chips) to see the river,raise 90
+"Call (10 chips) ### Instruction
+Your",bet 40
+Raise to 100 chips. (Go,raise 81
+"Call (28 chips) ### Instruction
+
+A",raise 77
+Raise to 45 chips. (Go All,fold
+Call (call 58 chips) ###,fold
+"Bet 3 chips. ###
+
+### Instruction:",check
+"Call
+
+### Instruction:
+Re-evaluate your previous",fold
+"Fold. ###
+
+### Rationale:
+Given the",fold
+Fold. The board is low and doesn't favor,call
+"bet 8 chips
+
+This response seems incorrect given",check
+"Call
+
+### Instruction:
+Raise to 10",fold
+Bet 3 chips.<|endoftext|>,check
+"Call
+
+Based on the strength of your hand (",call
+"Call (13 chips) ### Instruction
+The",raise 37
+"call
+
+### Instruction:
+Fold",call
+"Bet 60 chips. ###
+
+### Instruction",check
+"Call (8 chips) ### Instruction
+Your response",call
+"Call
+
+### Instruction:
+Raise to 10",raise 77
+Raise to 87 chips (pot-size bet,check
+"Call
+
+### Instruction:
+Fold",call
+Raise to 50 chips. (or go,raise 74
+"bet 8 chips
+
+This response is based on",check
+"raise 30 chips
+
+### Explanation:
+Given",check
+"call
+
+### Rationale:
+Given that you hold",call
+Raise to 70 chips. ## Created by,call
+Raise to 200 chips. (Go,call
+"bet 8 chips
+
+### Instruction:
+Your suggested",bet 18
+"Call
+
+### Instruction:
+I'm sorry, but",call
+Fold. ## Created Chinese Question-Answer Pairs,fold
+Fold. The board is paired with Jacks and,fold
+Raise to 100 chips. (Go,raise 77
+"Call
+
+In this situation, given the strength of",fold
+"Bet 3 chips. ###
+
+### Instruction:",check
+Raise to 200 chips. (or,call
+"Call
+
+### Instruction:
+Raise to 25",call
+Bet 3 chips.<|endoftext|>,check
+"Call
+
+### Instruction:
+Fold",fold
+"Bet 2 chips. ###
+
+### Instruction:",check
+Fold.<|endoftext|>,fold
+"Check
+
+This move allows you to see if the",check
+"Raise to 30 chips. 
+
+This move",call
+"fold
+<|endoftext|>",fold
+Bet 15 chips.<|endoftext|>,check
+"Call
+
+In this scenario, calling is the best",call
+"Call (4 chips) ### Instruction
+Your response",raise 13
+"Call
+
+### Instruction:
+Your action was a call",fold
+raise 100 chips (all-in),call
+Fold. Given the aggressive betting pattern from the BB,fold
+Fold. The opponent's aggressive play suggests they likely,fold
+Raise 75 chips. (or go all,call
+"Call
+
+### Instruction:
+Fold",fold
+Bet 8 chips.<|endoftext|>,check
+Fold. The board is K♠ 7♥,fold
+Raise to 75 chips. ## Created by,raise 92
+"call
+
+In this scenario, you have two pair",call
+"call
+
+### Instruction:
+Call means matching the raise",call
+Fold. Given the aggressive play from UTG and,call
+Raise to 150 chips. (Go,call
+"Raise to 45 chips. 
+
+This raise",raise 49
+"Call
+
+### Instruction:
+Fold",fold
+"bet 3 chips
+
+### Instruction:
+Is there",check
+"Call
+
+In this situation, given that the board",check
+"raise 10 chips
+
+This response reflects an",check
+"Call
+
+### Instruction:
+Raise to 40",call
+"Call (5 chips) ### Instruction
+The response",fold
+"Bet 4 chips. ###
+
+### Instruction:",check
+"Call
+
+### Instruction:
+Fold",raise 28
+"call (18 chips) ### Instruction
+The",check
+"Call
+
+In this situation, given the board texture",call
+Raise (or go all-in) to apply maximum,raise 90
+Fold. The opponent's aggressive play on the turn,fold
+"Bet 15 chips. ###
+
+### Instruction",bet 23
+"Fold. ###
+
+### Instruction:
+I understand your",fold
+"Call
+
+###<|endoftext|>",call
+"Call
+
+In this scenario, given the board texture",check
+"bet 20 chips
+
+This action aims to",bet 28
+"Call
+
+In this scenario, given the strength of",call
+Call (8 chips) to see if you can,fold
+"Raise to 30 chips. ##
+
+###",call
+"Call
+
+### Instruction:
+Bet 20 chips",fold
+"Raise 40 chips. ### Instruction:
+Your",call
+Raise to 25 chips. (or go,check
+Fold. ## Created Chinese Question-Answer Pairs,fold
+"Bet 8 chips. ###
+
+### Instruction:",check
+Fold. The raise by UTG on the turn,raise 33
+"Fold
+
+### Rationale:
+Given the strength of",fold
+Raise to 40 chips. (Go All,call
+"Fold
+
+### Rationale:
+Given that the opponent",fold
+Call (8 chips) to see if you can,fold
+"Fold. ## Created Chinese Question
+在按钮位置",fold
+"Call
+
+### Instruction:
+Fold",raise 89
+"Call (1) ### Instruction
+Your response is",call
+Raise to 50 chips. ## Created by,call
+"Call
+
+This response assumes that the goal is to",raise 77
+call (match the raise to 17 chips,check
+"call
+
+### Instruction:
+Increase your bet to",call
+"call
+
+### Instruction:
+Fold",call
+"Call
+
+In this scenario, given the strength of",raise 77
+Raise to 35 chips. (Pot Bet,bet 29
+"Bet 8 chips. ### Instruction:
+Your suggested",check
+"Raise to 80 chips. ###
+
+###",call
+"Fold. ## Created Chinese Question
+在德州扑克",raise 14
+Raise to 40 chips. (Put in,call
+Fold. Your hand does not improve on the river,fold
+Bet 7 chips. ## Step 1:,check
+Fold. The board is paired (Ten) and,fold
+Fold. The opponent's aggression and the paired ace,fold
+Fold. Your hand does not improve on the river,fold
+Raise 66 chips to put pressure on your,raise 90
+"call
+
+### Instruction:
+Increase the stakes and provide",call
+"Fold. ###
+
+Let's break down the reasoning",fold
+Raise 20 chips. (Pot is now,check
+"Fold. ###
+
+To provide a more detailed response",fold
+"Raise to 30 chips. ###
+
+###",check
+"bet 17 chips
+
+This response is based",check
+"Raise all-in. ###
+
+### Instruction:
+All",fold
+"Bet 2 chips. ###
+
+### Instruction:",check
+"Fold
+
+In this situation, folding is the optimal",raise 93
+Bet 35 chips.<|endoftext|>,check
+Fold. The board is paired and your opponent has,call
+"bet 15 chips
+
+This response is based",check
+Raise to 30 chips. ## Created by,call
+"Bet 8.5 chips. ###
+
+###",bet 7
+Raise to 75 chips. (Put in,call
+Bet 7 chips.<|endoftext|>,check
+"Call
+
+### Instruction:
+Fold",call
+"Bet 10 chips. ###
+
+### Instruction",call
+Fold. ## Created Chinese Question-Answer Pairs,fold
+"Fold. 
+
+The board is paired and has a",fold
+"bet 7 chips
+
+This response assumes a strategy",check
+"Call
+
+###<|endoftext|>",raise 89
+Raise to 70 chips. (Or approximately,raise 74
+"Call
+
+Based on the strength of your hand (",call
+"Fold. ###
+
+### Rationale:
+Given the",call
+Raise to 100 chips (all-in,fold
+"Bet 40 chips. ###
+
+### Instruction",check
+"Call
+
+### Instruction:
+Fold",call
+"Call
+
+In this situation, you have two pair",raise 83
+"Call
+
+### Instruction:
+Increase your bet to",call
+"Call (to see the river)  
+
+This maintains",raise 93
+"Call
+
+### Instruction:
+Fold",fold
+"Call
+
+In this situation, you should call as",bet 20
+"Fold
+
+### Rationale:
+Given the aggressive betting",raise 83
+"Call
+
+###<|endoftext|>",raise 92
+"call (5 chips) ### Instruction
+
+The response",call
+"bet 15 chips. ###
+
+### Instruction",bet 22
+Fold. The board is paired and your opponent has,fold
+"bet 20 chips
+
+### Instruction:
+Is",bet 27
+Raise 20 chips. (or go all,check
+Fold. Given the heart flush on the board and,fold
+"Call (23 chips) ###
+
+#### Instruction",call
+"bet 7 chips
+
+This response suggests a continuation",check
+"call
+
+### Instruction:
+Increase the bet to",call
+"Call (26 chips) ### Instruction
+Your",fold
+Call (8 chips) to see if you can,raise 74
+"call
+
+Created Chinese prompt-response pair:
+
+---
+
+###",fold
+Call (16 chips) to see the turn,call
+"bet 40 chips. ###
+
+### Instruction",check
+"Raise to 80 chips. ###
+
+###",fold
+"Call
+
+### Instruction:
+Fold",bet 29
+"Call
+
+### Instruction:
+Increase the stakes by raising",fold
+Raise to approximately 160 chips to put,fold
+"Call
+
+### Instruction:
+Raise to 25",call
+"bet 15 chips
+
+### Explanation:
+Given",bet 31
+"Raise to 70 chips. ##
+
+###",raise 86
+Raise 34 chips to put pressure on the,call
+"Fold. Given the spade-heavy board, your",fold
+"Fold. ## Created Chinese Question
+
+在翻牌",check
+"Call
+
+### Instruction:
+The response provided was to",fold
+Fold. Given the strength of the board (King,fold
+"Call
+
+### Instruction:
+Fold",call
+Raise to 30 chips. (Put in,raise 27
+Fold. The opponent has shown aggression throughout the hand,call
+Call (8 chips) to see the river.,fold
+Fold. Your hand does not improve on the river,fold
+"Raise to 60 chips. ###
+
+###",call
+"Call
+
+### Instruction:
+Fold",fold
+"bet 15 chips
+
+This response is designed",check
+"Fold. ## Created Chinese Question
+在游戏中，底",fold
+"Bet 3 chips. ###
+
+### Instruction:",check
+Raise to 15 chips. (cBet,check
+Raise to 60 chips. ## Step,raise 89
+Call (81 chips) to see the river,call
+Raise to 100 chips. (Go,call
+bet 4 chips.<|endoftext|>,bet 8
+"Raise 40 chips. ###
+
+### Instruction",fold
+Raise to 20 chips. This is a,bet 17
+"call
+
+#<|endoftext|>",raise 18
+Fold. Given the aggression from the BTN and the,fold
+"Call
+
+This response assumes the goal is to maximize",raise 80
+"bet 12 chips
+
+This response assumes that",check
+"bet 5 chips
+
+### Instruction:
+Is there",check
+Bet 4 chips. ## Step 1:,bet 5
+"bet 4 chips
+
+This response assumes a continuation",check
+"Raise to 50 chips. ##
+
+In",call
+"Raise to 50 chips. 
+
+This is",call
+Call (8 chips) to see the showdown.,call
+"call
+
+In this situation, given that the board",call
+"Call
+
+In this situation, given the board texture",call
+Fold. ## Created Chinese Question-Answer Pairs,fold
+Raise 70 chips. (Pot odds calculation,call
+"Bet 18 chips. ###
+
+### Instruction",check
+bet 4 chips.<|endoftext|>,check
+Call (matching the bet of 39 chips,raise 84
+"Bet 4 chips. ###
+
+### Instruction:",check
+Raise to 75 chips. (Go All,raise 85
+"Raise 80 chips. ###
+
+### Instruction",call
+"bet 15 chips
+
+This response is based",bet 23
+"Call
+
+### Instruction:
+Fold",raise 41
+Raise to 70 chips. ## Created by,raise 84
+Raise to 15 chips. ## Created by,check
+Fold. Given the aggressive play from the BB and,fold
+Raise to 20 chips. (or go,check
+"Call
+
+### Instruction:
+Raise to 12",call
+Bet 40 chips.<|endoftext|>,check
+Fold. The board is K♠ J♠,call
+"Fold. ###
+
+### Instruction:
+Fold. ###",fold
+"Bet 4 chips. ###
+
+### Instruction:",check
+"bet 4 chips. ###
+
+### Instruction:",bet 7
+Bet 20 chips.<|endoftext|>,check
+Raise to 40 chips. (Put in,check
+Raise to 110 chips. (Go,call
+"call
+
+In this scenario, given that the BB",check
+Raise to 70 chips. (Pot Odds,fold
+"bet 30 chips
+
+This response seems incorrect",check
+"Fold
+
+### Rationale:
+Given the board has",fold
+"bet 10 chips. ###
+
+### Instruction",bet 18
+Call (bet 31 chips to call),check
+"Call
+
+In this situation, calling is the most",fold
+"bet 20 chips
+
+This response is generated",check
+Bet 30 chips.<|endoftext|>,check
+"Raise to 100 chips. 
+
+This",raise 81
+Raise to 100 chips (all-in,fold
+"Call (4 chips) ### Instruction
+Your response",call
+"bet 45 chips
+
+This response is designed",check
+Fold. The opponent's aggressive betting pattern and the,fold
+"call
+
+Created Chinese prompt-response pair:
+
+**指令",raise 16
+Raise to 169 chips. (Go,call
+"Bet 15 chips. ###
+
+### Instruction",check
+"bet 30 chips
+
+This response is based",check
+bet 4 chips.<|endoftext|>,bet 7
+Raise to 35 chips. ### Instruction:,fold
+Raise to 150 chips. ## Step,fold
+Fold. The board is K♠ J♠,fold
+"Call
+
+In this situation, given that you have",fold
+"Fold. ## Created Chinese Question
+在六人",raise 80
+"Raise 30 chips. ###
+
+### Instruction",raise 93
+Fold. Your pair of eights is not strong,fold
+"Bet 2 chips. ###
+
+### Instruction:",check
+"Call or check, as your hand does not improve",bet 12
+"Raise to 50 chips. ###
+
+###",fold
+Raise to approximately 150 chips. This,fold
+"bet 4 chips
+
+### Rationale:
+Given",check
+Bet 8 chips.<|endoftext|>,check
+Fold. Given the strength of the opponent's raise,fold
+"Raise 150 chips. ###
+
+###",call
+"Call
+
+In this situation, calling is the best",call
+Raise 50 chips. (Note: Since,fold
+"raise to 30 chips. 
+
+This is",fold
+"Bet 2 chips. ###
+
+### Instruction:",bet 2
+"Bet 3 chips. ### Instruction
+Your response",bet 4
+Fold. The board is very coordinated and you are,fold
+"Call
+
+###<|endoftext|>",call
+"Bet 4 chips. ###
+
+### Instruction:",bet 8
+"Bet 4 chips. ### Instruction:
+Your suggested",check
+"Call
+
+### Instruction:
+Raise to around 1",fold
+Fold. The opponent's aggressive betting pattern suggests they,fold
+Call (51 chips) to see the river,fold
+"bet 26 chips
+
+This response is based",bet 31
+"Fold. ## Created Chinese Question
+
+在德州扑克",fold
+"Raise to 80 chips. 
+
+This move",call
+"Call (3 chips) ### Instruction
+The response",check
+"Raise to 50 chips. 
+
+This is",call
+"call
+
+### Instruction:
+Is there any chance that",fold
+"Fold
+
+### Rationale:
+Given the strength of",fold
+"Call
+
+### Instruction:
+Raise to 8 chips",call
+"call
+
+Created Chinese prompt-response pair:
+
+### Prompt",call
+"Call
+
+In this scenario, given that the board",check
+"Bet 4 chips. ###
+
+### Instruction:",call
+"call
+
+Created Chinese prompt-response pair:
+
+### 中",call
+Call (bet 23 chips) to put,check
+"Bet 2 chips. ###
+
+### Instruction:",check
+"Bet 2 chips. ### Instruction
+
+The suggested",check
+Fold. The board is paired (Ten) and,fold
+"Raise to 20 chips. ###
+
+###",check
+"Raise 30 chips. 
+
+This move maxim",raise 84
+Fold. The opponent's aggressive betting pattern suggests they,fold
+"Call
+
+In this situation, you should call the",call
+"Raise to 45 chips. ##
+
+###",call
+"Raise to 25 chips. 
+
+This raise",call
+Fold. The BTN's aggressive play and large raise,fold
+"bet 4 chips. ### Instruction
+
+The response",bet 8
+"Call. (6 chips) ###
+
+### Instruction",bet 29
+"bet 10 chips
+
+This response is based",check
+Fold. The opponent has shown aggression throughout the hand,fold
+"call
+
+In this situation, given that you have",call
+"Call
+
+### Instruction:
+Fold",raise 27
+Bet 20 chips.<|endoftext|>,check
+"Call
+
+### Instruction:
+Fold",fold
+"Call
+
+Based on the strength of your hand (",call
+Bet 6 chips.<|endoftext|>,check
+"Call
+
+###<|endoftext|>",raise 33
+"bet 8 chips
+
+### Instruction:
+Can you",bet 15
+Raise to approximately 60 chips. (Go,raise 90
+"Raise (or ""Bet"") 20 chips",call
+"Call
+
+In this scenario, given the strength of",fold
+Raise 25 chips. (or go all,check
+Bet 15 chips.<|endoftext|>,check
+Fold. Given the board has paired the ace on,fold
+Raise to 60 chips. ## Step,fold
+Raise to 100 chips. (Go,raise 77
+"Call (6 chips) ### Instruction
+Your response",call
+"bet 13 chips
+
+This response assumes you",bet 17
+"Call
+
+### Instruction:
+Fold",raise 72
+Bet 40 chips. ## Step 1,raise 54
+Raise to 150 chips. (Go,call
+"Raise to 60 chips. 
+
+This represents",raise 89
+"Raise 150 chips. 
+
+This move",call
+Raise to 100 chips (all-in,fold
+"Call
+
+### Instruction:
+Fold",call
+Bet 2 chips.<|endoftext|>,check
+Raise 30 chips to apply maximum pressure and,fold
+"bet 5 chips
+
+This response is given the",bet 22
+"Call
+
+### Instruction:
+Increase the complexity by adding",call
+"call
+
+### Instruction:
+I need a detailed explanation",raise 38
+"Raise 20 chips. ###
+
+### Instruction",call
+"Fold
+
+### Instruction:
+Your response was to fold",fold
+Raise to 30 chips. (Put in,call
+Call (28 chips) to see the river,raise 77
+Raise to 40 chips. (Put in,bet 29
+"call
+
+### Instruction:
+Is calling really the optimal",check
+"Raise to 40 chips. ###
+
+###",fold
+"Call
+<|endoftext|>",bet 17
+Raise to 15 chips. (Pot is,bet 16
+"Raise to 200 chips. 
+
+This",fold
+"Fold. ###
+
+### Rationale:
+Given the",fold
+"Check
+
+###<|endoftext|>",check
+Raise to 30 chips. ## Step,call
+Fold. ## Created Chinese Question-Answer Pairs,bet 23
+"bet 15 chips
+
+This response is optimal",bet 28
+"call (4 chips) ###
+
+Instruction:
+Given",call
+"call
+<|endoftext|>",check
+"Bet 2 chips. ### Instruction
+
+The suggested",bet 5
+"Raise to 40 chips. 
+
+This is",fold
+Fold. ## Created Chinese Question-Answer Pairs,fold
+"Fold. ###
+
+### Rationale:
+Given the",fold
+Raise to 25 chips. This will apply,check
+"Fold. ## Created Chinese Question
+
+在德州扑克",fold
+"Call
+
+### Instruction:
+Fold",fold
+Raise to 35 chips. (Pot Odds,raise 48
+"Call
+
+In this situation, given the board texture",raise 16
+Raise to 40 chips. ## Created Chinese,call
+"bet 15 chips
+
+This response is based",check
+"Call
+
+### Instruction:
+Increase the ante to",call
+"Call
+
+In this situation, given that the board",bet 13
+Call (9 chips) to see the showdown.,raise 27
+"Bet 2.5 chips. ###
+
+###",check
+"Bet 3 chips. ###
+
+### Instruction:",check
+"Call
+
+### Instruction:
+Your response was to call",call
+Raise 100 chips (all-in),call
+Raise to 15 chips. ## Created Chinese,raise 10
+Raise 40 chips. (Pot should be,raise 65
+"bet 12 chips
+
+This response assumes a",check
+"Fold
+
+### Rationale:
+Given the aggressive betting",fold
+"Call
+
+In this situation, given the board texture",fold
+Call (6 chips) to see if you can,fold
+"bet 15 chips
+
+This response is designed",check
+Raise 20 chips. (or go all,check
+Raise to 100 chips. (Go,raise 93
+Raise to 40 chips (pot bet).,check
+"Raise to 25 chips. ###
+
+###",check
+Fold. Given the strength of your opponent's raise,fold
+"Call
+
+### Rationale:
+Given the board texture",raise 64
+"Call
+
+###<|endoftext|>",raise 79
+"Raise to 20 chips. 
+
+This will",raise 25
+"Call
+
+### Instruction:
+Fold",call
+"Bet 3 chips. ###
+
+### Instruction:",check
+"Fold. ## Created Chinese Question
+
+在底池",fold
+Fold. The opponent's betting pattern suggests they may,fold
+"Call
+
+### Instruction:
+Fold",check
+"Call
+
+### Instruction:
+Increase the bet to",fold
+"Call
+
+In this situation, calling is the best",fold
+"Raise to 50 chips. ###
+
+###",call
+Fold. Your hand does not improve on the river,check
+Raise to 100 chips (all-in,call
+"Call
+
+In this situation, given the board texture",check
+"Call
+
+In this situation, you should call the",fold
+"Raise 35 chips. 
+
+This move helps",call
+"Bet 3 chips. ###
+
+### Instruction:",check
+Call (17 chips) to see the river,raise 43
+"Bet 20 chips. ###
+
+### Instruction",bet 23
+"Call
+
+In this scenario, you have a straight",raise 16
+Fold. Your hand does not improve on the river,raise 64
+"bet 40 chips
+
+This action aims to",check
+"bet 12 chips
+
+### Instruction:
+Your",check
+Bet 2 chips. (or an amount that,bet 5
+"Call
+
+### Instruction:
+Fold",call
+"Fold
+
+Created Chinese prompt-response pair:
+
+**场景",fold
+"Call
+
+Based on the strength of your hand (",call
+"Raise to 60 chips. 
+
+This is",call
+Fold. The board is {5♣ 2,fold
+Bet 12 chips. ## Created by Claude,check
+"call
+
+In this scenario, given the board (",check
+"Call
+
+### Instruction:
+Fold",fold
+"Bet 5 chips. ### Instruction:
+Increase the",call
+Raise to 100 chips. (All,raise 70
+"Call
+
+### Instruction:
+Is there any chance that",raise 25
+Bet 15 chips. ## Step 1,bet 17
+"Bet 10 chips. ###
+
+### Instruction",check
+Raise 40 chips. (Pot is,call
+"raise to 25 chips
+
+This response reflects",check
+"Fold
+
+### Rationale:
+Given the board `",call
+"Bet 2.0 chips. ###
+
+###",bet 3
+"call
+
+In this situation, given the strength of",check
+Fold. Given the aggressive betting pattern from the BB,fold
+Raise 100 chips (all-in),call
+"Raise to 70 chips. ###
+
+###",call
+Raise to 40 chips. ## Step,check
+"Call
+
+### Instruction:
+Let's modify the scenario",raise 82
+Raise 100 chips (go all-in,fold
+"raise to 25 chips
+
+This response raises",bet 23
+"Raise to 25 chips. 
+
+This represents",check
+Bet 2 chips.<|endoftext|>,check
+"call
+
+### Instruction:
+Given the strength of your",call
+Raise to 40 chips. ## Created by,raise 58
+Call (8 chips) to see the river.,fold
+"Call
+
+In this situation, your hand is a",fold
+"Call
+
+### Instruction:
+Fold",raise 7
+Raise to 10 chips. (or go,check
+"Bet 10 chips. ###
+
+### Instruction",check
+"Bet 6 chips. ###
+
+### Instruction:",check
+Bet 40 chips. (This is a,raise 61
+"Raise to 50 chips. ###
+
+###",raise 89
+Bet 4 chips.<|endoftext|>,check
+Raise to 150 chips. ## Created,call
+Raise to 30 chips. (Pot is,bet 23
+"bet 20 chips
+
+### Rationale:",check
+"call
+
+### Instruction:
+Is your optimal action still",call
+"Raise to 50 chips. ###
+
+###",call
+"Bet 20 chips. ###
+
+### Instruction",check
+Raise to 12 chips. ## Created by,call
+"Raise (or ""Bet"") 20 chips",call
+"Raise to 20 chips.  
+
+This represents",raise 32
+"Call
+
+In this situation, calling is the best",call
+Raise to 40 chips. (or go,call
+"raise to 25 chips
+
+### Chain-of",bet 29
+"bet 18 chips
+
+This move aims to",bet 28
+"Call
+
+### Instruction:
+Fold",raise 31
+"Raise to 12 chips. ###
+
+###",check
+Raise to 20 chips. This will try,check
+"Call
+
+### Instruction:
+Increase the stakes to make",call
+"Bet 4 chips. ###
+
+### Instruction:",raise 10
+"Call
+
+###<|endoftext|>",fold
+Raise 20 chips. (Bet enough to,check
+Call (29 chips) to see the river,call
+"Call
+
+### Instruction:
+Reconsider your decision.",fold
+Fold. The BTN raised significantly on the turn which,call
+"Fold. ## Created Chinese Question
+在游戏中，你的",call
+Bet 10 chips.<|endoftext|>,check
+"bet 10 chips
+
+### Instruction:
+Increase",check
+"Raise to 60 chips. ###
+
+###",fold
+"Bet 40 chips. 
+
+This is a",check
+"Call
+
+In this situation, you have two pair",fold
+"Raise 40 chips. 
+
+This is a",call
+Raise 40 chips. (or go all,fold
+"call
+
+### Rationale:
+Given that you have",call
+"Call
+
+### Instruction:
+Raise to 80",raise 82
+"bet 20 chips
+
+This response reflects a",check
+Call (to see the river) or consider sh,call
+"Raise (or ""Bet"") 20 chips",raise 47
+Raise to 20 chips. To better reflect,check
+"Bet 5 chips. ###
+
+### Instruction:",bet 12
+"Raise to 70 chips. 
+
+This is",raise 74
+Call (8 chips) to see the river.,call
+"call
+
+### Rationale:
+Given the board texture",call
+"Bet 7 chips. ###
+
+### Instruction:",check
+Raise to approximately 80 chips. (Put,call
+Raise 20 chips. (Pot is now,check
+Raise to 8 chips. (or enough to,check
+Raise to 100 chips. (Go,fold
+Raise 15 chips. (Pot Bet),check
+"Call
+
+In this scenario, given the board's",check
+Raise to 18 chips. (value bet,check
+"Raise to 62 chips. 
+
+This represents",call
+"Raise to 50 chips. ###
+
+###",raise 95
+"Fold. The board is {Nine of Diamonds,",raise 90
+"Call
+
+Given the strength of your hand (Two",fold
+"Raise to 40 chips. ###
+
+###",raise 58
+"call
+
+### Instruction:
+Is calling really the best",raise 16
+"Bet 45 chips. ###
+
+### Instruction",check
+Raise 24 chips. (Pot is,check
+"Call
+
+In this situation, given that you have",call
+"Bet 4 chips. ###
+
+### Instruction:",check
+"Call
+
+In this scenario, given that the board",check
+"Raise to 64 chips. ##
+
+###",call
+"Bet 2.0 chips. ###
+
+###",check
+"Bet 2 chips. ###
+
+### Instruction:",check
+Raise to 129 chips. (Put,call
+"Fold. ###
+
+### Rationale:
+Given the",fold
+Call (call 16 chips) ### Instruction,raise 41
+"Bet 4 chips. ###
+
+### Instruction:",check
+Bet 8 chips. ## Step 1:,bet 13
+"bet 20 chips
+
+### Instruction:
+Increase",check
+Call (5 chips) and then decide based on,call
+bet 8 chips.<|endoftext|>,check
+Raise 30 chips. (or go all,call
+Raise to 75 chips. (or go,raise 88
+"Raise 62 chips. ### Instruction
+Is",raise 86
+"Fold. ###
+
+### Rationale:
+Given the",call
+"Bet 8 chips. ###
+
+### Rationale",check
+Bet 16 chips. (Pot bet),bet 17
+"call
+
+### Instruction:
+Let's modify the question",call
+"Call
+
+Created Chinese prompt-response pair:
+
+---
+
+###",fold
+"Call
+
+### Instruction:
+Raise to 16",call
+Raise to 20 chips. (Bet,raise 32
+Raise to 60 chips. ### Instruction,call
+"Bet 2 chips. ###
+
+### Instruction:",check
+Fold. The board is high and paired (Jack,fold
+"Call (18 chips) ### Instruction
+
+A",call
+Bet 30 chips.<|endoftext|>,raise 73
+Raise 15 chips. (or go all,check
+"Call
+
+### Instruction:
+Fold",call
+"Bet 10 chips. 
+
+This is because",check
+"Bet 10 chips. ###
+
+### Instruction",check
+"Call
+
+This is a tough spot but given that",call
+"Fold. ###
+
+### Instruction:
+Fold.",fold
+"Bet 15 chips. ###
+
+### Instruction",check
+"bet 4 chips. ###
+
+### Instruction:",check
+Raise to 40 chips. (Put in,check
+"call 12 chips. ###
+
+### Instruction",call
+"Call (12 chips) ### Instruction
+Your",call
+"Bet 2.0 chips. ###
+
+###",bet 3
+"bet 5 chips
+
+This response takes into account",bet 11
+Fold. The board is paired and your hand does,raise 13
+"bet 14 chips
+
+This response assumes a",bet 17
+"Check
+
+### Rationale:
+Given the strength of",bet 11
+"Raise 50 chips. 
+
+This represents a",raise 94
+Raise to 150 chips. (Go,call
+Fold. Given the aggressive betting pattern from HJ,call
+Call (8 chips) to see if your opponent,call
+"call
+
+### Instruction:
+Based on the strength of",fold
+"call
+
+#Rewritten Prompt#
+### Instruction:",call
+Raise to 20 chips. (or go,check
+"Check
+
+###<|endoftext|>",check
+Raise 15 chips. (or go all,check
+Raise to 26 chips. (Go All,raise 41
+Fold. Given the board has no cards that help,bet 5
+"Bet 10 chips. ###
+
+### Instruction",check
+Raise to 40 chips. (Go All,call
+Raise to 20 chips. (or go,call
+"Fold. Given the strength of your hand, the",fold
+"Call
+
+### Instruction:
+Fold",call
+Raise to 60 chips. (or go,fold
+"bet 40 chips
+
+### Instruction:
+Is",check
+Raise to 60 chips. ## Created by,call
+Call (9 chips) to see the turn card,raise 26
+"Call
+
+In this situation, you have a flush",raise 80
+"call
+
+### Rationale:
+Given the board has",check
+Raise to approximately 160 chips (including,fold
+Raise to 15 chips. ### Instruction,check
+Fold. The board is paired and there's a,fold
+Fold. The board is paired and your kicker is,fold
+"Call
+
+### Instruction:
+Fold",fold
+"Call
+
+In this situation, your king-high pair",fold
+Fold. The board is paired and your hand does,raise 32
+"raise to 35 chips
+
+This response raises",check
+"Call
+
+### Instruction:
+Fold",call
+Fold. ## Created Chinese Question-Answer Pairs,fold
+"Bet 4 chips. ###
+
+### Instruction:",check
+Raise (value bet) around 25-,check
+Bet 2.0 chips.<|endoftext|>,check
+"Call
+
+### Instruction:
+Raise to 16",fold
+"bet 4 chips. ###
+
+### Instruction:",check
+"Raise 35 chips. 
+
+This is because",check
+"bet 10 chips
+
+This response reflects an",bet 12
+"Fold. ###
+
+### Rationale:
+Given the",fold
+"Bet 20 chips. ###
+
+### Instruction",check
+Raise to 40 chips. (Put in,bet 29
+Raise to 40 chips. ## Step,call
+Raise to 15 chips. (Value bet,call
+Call (8 chips) to see if you can,raise 74
+"Raise to 70 chips. ###
+
+###",raise 90
+"Call
+
+### Instruction:
+Fold",call
+"Call
+
+In this situation, given that the board",fold
+"Call
+
+### Instruction:
+Fold",fold
+Fold. The board is paired and your top pair,raise 88
+"bet 2 chips
+
+### Instruction:
+Your action",check
+Call (88 chips) to see the river,fold
+"bet 10 chips
+
+This response is based",check
+"fold
+<|endoftext|>",fold
+"Call
+<|endoftext|>",check
+"Raise to 70 chips. ###
+
+###",fold
+"call
+
+In this situation, given the strength of",raise 38
+"Raise to 40 chips. ###
+
+###",call
+Fold. The opponent's aggressive play and re-,fold
+"call
+
+In this scenario, given the strength of",call
+"Fold. ## Created Chinese Question
+在德州扑克",fold
+Raise to 140 chips. (This,call
+"bet 5 chips
+
+### Chain-of-Thunk",check
+"Raise to 50 chips. 
+
+This represents",call
+Raise to 20 chips. (or go,check
+"bet 15 chips
+
+This response is designed",check
+"bet 20 chips
+
+This response is designed",check
+"bet 2 chips. ###
+
+### Instruction:",check
+"bet 15 chips
+
+This response is based",bet 13
+"Call
+
+###<|endoftext|>",check
+Raise to 15 chips. ## Created by,check
+"Raise 75 chips. 
+
+This move maxim",call
+"Raise to 30 chips. ###
+
+###",check
+Fold. The board is paired and your opponent just,call
+"Fold
+
+### Rationale:
+Given the board (",raise 41
+"call
+
+### Instruction:
+Increase the bet to put",call
+"call
+
+### Rationale:
+Given the board has",call
+"Call
+
+### Instruction:
+Your initial response was correct",call
+"call
+<|endoftext|>",check
+"Call (5 chips) ### Instruction
+The response",call
+Call (16 chips) to see the river,call
+Raise to 10 chips. (or go,check
+Raise 30 chips. (or go all,bet 29
+Raise to 95 chips. (Go All,raise 86
+Fold. The opponent's aggression suggests they likely have,fold
+Call (5 chips) to see if the opponent,fold
+"Call
+
+In this situation, your hand has improved",fold
+"Call
+
+In this situation, given that you have",call
+"Call
+
+This is because the opponent raised on the",fold
+Raise to 20 chips. (Put in,call
+"Call
+
+### Instruction:
+Raise to 20",fold
+"Fold
+
+### Rationale:
+Given that the board",fold
+"Call (34 chips) ###
+
+#### Instruction",fold
+Fold. The opponent raised on the turn after you,fold
+"bet 18 chips
+
+This response assumes you",check
+Raise to 18 chips. (Put in,call
+Raise to 25 chips. ## Created by,call
+"Bet 10 chips. ###
+
+### Instruction",check
+"bet 8.5 chips
+
+### 
+
+Please",check
+"bet 3 chips. ###
+
+### Instruction:",check
+Raise to 60 chips. (Pot bet,fold
+"Fold
+
+### Rationale:
+Given the aggressive betting",fold
+"Bet 3 chips. ###
+
+### Instruction:",check
+"Call
+
+### Instruction:
+Raise to 30",fold
+bet 4 chips.<|endoftext|>,check
+"Call
+
+### Instruction:
+Fold",call
+Fold. The opponent's aggressive betting pattern and the,fold
+Bet 20 chips.<|endoftext|>,check
+"Fold. ## Created Chinese Question
+
+在六人",fold
+"Raise to 25 chips. 
+
+This represents",check
+"Fold. 
+
+### Created by AI.
+The optimal",fold
+"Fold. ###
+
+### Instruction:
+Fold. ###",fold
+Raise to 8 chips. (or any amount,check
+Fold. The opponent's aggressive play on the river,fold
+"bet 3 chips
+
+This response is based on",check
+"Raise to 75 chips. ###
+
+###",fold
+"Fold. ## Created Chinese Question
+在六人",fold
+"Call
+
+### Instruction:
+Fold",raise 46
+"Raise to 35 chips. 
+
+This is",call
+"Bet 4 chips. ###
+
+### Instruction:",check
+"Call
+
+In this situation, you have a strong",raise 32
+"Fold. The board is paired (Ten, Six",fold
+"Call
+
+In this situation, given that you have",call
+"Fold
+
+### Rationale:
+Given the strength of",fold
+"bet 2 chips. ###
+
+### Instruction:",check
+"Call
+
+### Instruction:
+Bet 25 chips",raise 31
+"Call
+
+### Instruction:
+Fold",fold
+"Raise all-in. 
+
+### Chain of Reason:",bet 23
+"Call (8 chips) ### Instruction
+
+The response",call
+"Call
+
+### Rationale:
+Given the strength of",fold
+"call
+
+Based on the strength of your hand (",call
+"Bet 3 chips. ###
+
+### Instruction:",check
+"bet 8 chips
+
+### Instruction:
+Increase your",check
+"Bet 4 chips. ###
+
+### Instruction:",check
+"fold
+
+### Rationale:
+Given the strength of",fold
+"Bet 50 chips. ###
+
+### Instruction",raise 58
+"bet 8 chips
+
+This response suggests betting",check
+"bet 8 chips. ###
+
+### Instruction:",check
+"Bet 4 chips. ###
+
+### Instruction:",raise 11
+"Call (4 chips) ### Instruction
+The response",raise 13
+Fold. The opponent's aggressive play on the turn,fold
+"call
+
+### Instruction:
+Is ""call"" really",raise 87
+Fold. The opponent's aggressive betting pattern and the,fold
+Raise to 40 chips. This is a,call
+Fold. Given the aggressive betting pattern from HJ,fold
+"Call
+<|endoftext|>",check
+Raise to 15 chips. (Bet,raise 25
+Call or check. Given the board's low cards,check
+"Call
+
+In this situation, you have a strong",fold
+Raise to 15 chips. ## Created by,raise 16
+"Call
+
+### Instruction:
+Fold",fold
+"Call
+
+### Instruction:
+Fold",fold
+bet 7 chips.<|endoftext|>,check
+"Bet 40 chips. ###
+
+### Instruction",raise 74
+Call (88 chips) to see the river,fold
+Call (1.0 chips) ### Instruction,fold
+Raise to 30 chips. ### Instruction,raise 28
+"Raise to 20 chips. 
+
+This is",check
+"bet 5 chips
+
+This response reflects a strategic",check
+"Call (6 chips) ### Instruction
+The response",bet 13
+Raise to 25 chips. (Put in,raise 32
+Raise to 30 chips. ### Instruction,call
+"Fold. ###
+
+#### Analysis:
+Given the board",fold
+"Fold
+
+### Rationale:
+Given the strength of",call
+"Bet 5 chips. ###
+
+### Instruction:",bet 13
+"Call (20 chips) ###
+
+#### Instruction",call
+Call (bet 3 chips) to put pressure,check
+"bet 8 chips. ###
+
+### Instruction:",check
+"Fold. ## Created Chinese Question
+
+在六人",fold
+"bet 18 chips. ###
+
+### Instruction",check
+"bet 7.5 chips. ###
+
+###",check
+"call
+
+---
+
+Note: Given the aggressive betting pattern",call
+"Bet 8 chips. ###
+
+### Instruction:",call
+"Bet 18 chips. ###
+
+### Instruction",check
+"Fold. ###
+
+### Rationale:
+Given the",call
+Raise to 20 chips. (or go,call
+Fold. The board is paired and your ace-high,fold
+Call (89 chips) to see the river,fold
+Raise to 20 chips. (or go,bet 17
+Bet 15 chips. (Pot bet),check
+Bet 5 chips. ## Created Chinese Question:,check
+"Fold
+### Rationale:
+Given the aggressive betting",call
+"Call
+
+In this situation, given that you have",fold
+"Bet 2.0 chips. ###
+
+###",bet 3
+Raise 40 chips. (pot odds consideration,check
+"Bet 2.0 chips. ###
+
+###",check
+"Call
+
+### Instruction:
+Fold",fold
+Raise to 34 chips. (Put in,check
+"bet 3 chips
+
+### Chain-of-Thought",check
+Call (25 chips) to see the river,call
+Raise 25 chips. (or go all,bet 29
+"Call
+
+### Instruction:
+Raise to 25",call
+Raise 20 chips. (Go All-In,bet 24
+"Call
+
+In this scenario, the opponent has shown",call
+"Bet 15 chips. ###
+
+### Instruction",check
+"call
+<|endoftext|>",check
+Bet 10 chips. ## Step 1,bet 13
+"Call
+
+### Instruction:
+Raise",raise 37
+"Fold
+
+### Rationale:
+Given the aggressive play",raise 90
+Fold. The opponent's aggressive play on the river,fold
+"call
+
+### Rationale:
+Given that you have",fold
+"Call
+
+### Instruction:
+Fold",call
+"call
+
+### Rationale:
+Given the strength of",call
+"call
+
+Created Chinese prompt-response pair.
+
+### Chinese",raise 18
+"Raise 40 chips. 
+
+This is because",raise 83
+"Bet 40 chips. ###
+
+### Instruction",raise 58
+"Call
+
+### Instruction:
+Fold",call
+"call
+
+In this situation, given that you have",call
+"fold
+<|endoftext|>",fold
+"Bet 8.5 chips. ###
+
+###",check
+"Call (22 chips) ### Instruction
+
+A",fold
+Call (bet 13 chips to call).,bet 23
+"fold
+<|endoftext|>",fold
+"bet 1.0 chips. ###
+
+###",check
+Fold. The opponent's aggressive play and raises suggest,fold
+"Call
+
+### Instruction:
+Fold",call
+"Call
+
+###<|endoftext|>",fold
+"Bet 7 chips. ###
+
+### Instruction:",check
+"Call
+
+In this situation, given the strength of",call
+"Call
+
+### Instruction:
+Fold",fold
+Raise to 35 chips. (Put in,raise 48
+"Call
+
+### Instruction:
+Your call is noted,",fold
+"Call
+
+In this scenario, given that you have",fold
+"bet 8 chips
+
+This response suggests betting",bet 13
+"bet 30 chips
+
+This response is based",check
+"Bet 10 chips. ###
+
+### Instruction",bet 17
+Fold. The board is paired and your top pair,fold
+"Call (11 chips) ### Instruction
+
+The",raise 31
+"Call (6 chips) ### Instruction
+The response",call
+"call
+
+### Instruction:
+Reconsider your previous response",call
+"Raise 10 chips. ###
+
+### Instruction",call
+Raise 10 chips. (Pot is now,check
+Call (5 chips) to see if you can,raise 38
+"Bet 20 chips. 
+
+This is a",raise 27
+Call (84 chips) to see the river,fold
+"Call
+
+In this situation, you have a strong",fold
+"Call
+
+### Instruction:
+Fold",call
+"Bet 25 chips. ###
+
+### Instruction",call
+Call (match the bet of 23 chips,call
+"Bet 2 chips. ###
+
+### Instruction:",check
+"Call
+
+### Instruction:
+Fold",bet 24
+"bet 15 chips. ###
+
+### Instruction",check
+"call (1 chips) ###
+
+How much exactly",check
+"bet 7 chips
+
+This response reflects a strategic",bet 10
+Raise to 8 chips. (or any amount,check
+Fold. The board is K-J-5-,fold
+"Call
+
+In this scenario, given the strength of",call
+Raise to 60 chips. (Put in,check
+"Raise to 40 chips. 
+
+This is",fold
+Raise 40 chips. (Bet 9,check
+"call (1)  
+(Note: Calling 1",check
+Bet 30 chips.<|endoftext|>,raise 86
+"Bet 8 chips. ###
+
+### Instruction:",check
+"Call. (5 chips) ###
+
+### Instruction",bet 29
+Raise to 120 chips. (Go,call
+"bet 4 chips
+
+### Instruction:
+Increase the",check
+Fold. Your hand is drawing dead against a likely,fold
+"Call
+
+Created Chinese prompt-response pair:
+
+### Instruction",call
+"bet 6 chips. ###
+
+### Instruction:",check
+Raise to 15 chips. (or enough,bet 13
+Raise to 10 chips. ## Created by,check
+"Bet 20 chips. ###
+
+### Instruction",check
+Raise to 25 chips. (Put in,bet 23
+"bet 3 chips. ### Instruction
+
+Ok,",check
+"bet 4 chips. ### Instruction
+Let's",check
+"bet 4 chips. ### Instruction
+Your response",check
+"Call
+
+### Instruction:
+Based on the given information",fold
+Raise to 60 chips. ## Created Chinese,call
+"Call
+
+In this situation, given that you have",fold
+Raise to 80 chips. (Value Bet,call
+Raise to 15 chips. (or go,bet 12
+"Bet 7 chips. ### Instruction
+
+The response",check
+"Raise to 80 chips. ###
+
+###",fold
+Raise to approximately 170 chips. (,fold
+"Raise to 30 chips. ###
+
+###",fold
+"bet 5 chips
+
+This response takes into account",check
+"Call
+
+In this situation, you have a strong",call
+"Raise to 120 chips. 
+
+This",fold
+"Call
+
+In this scenario, you have a straight",raise 38
+"call
+
+### Instruction:
+Is there any chance that",check
+Raise to approximately 80 chips (pot odds,raise 91
+"Call
+
+In this situation, you have top pair",bet 23
+Raise to 10 chips. ## Step,check
+Call (4.0 chips) or raise (,call
+Raise to 60 chips. (Go All,check
+bet 35 chips.<|endoftext|>,bet 34
+Raise to 100 chips (all-in,call
+"Call
+
+In this scenario, given the board texture",check
+"Call
+
+### Instruction:
+Increase the bet to",raise 31
+Raise to 40 chips. (This is,raise 81
+"Call (16 chips) ### Instruction
+The",call
+"Bet 20 chips. ###
+
+### Instruction",bet 22
+"Raise to 20 chips. 
+
+This represents",raise 32
+"Raise (or ""Bet"") 34 chips",raise 83
+"Fold. ## Created Chinese Question
+
+在德州扑克",fold
+"Fold. ###
+
+### Instruction:
+Fold seems too",fold
+"Bet 8 chips. ###
+
+### Instruction:",check
+"bet 15 chips
+
+### Instruction:
+Your",check
+"Call
+
+### Instruction:
+Raise to 25",raise 41
+"Call
+
+### Instruction:
+Your response was to call",fold
+"Call
+
+### Instruction:
+Fold",check
+"Call (11 chips) ### Instruction
+Your",call
+"Fold. 
+
+The opponent's aggressive betting pattern on",fold
+"Raise to 20 chips. 
+
+This move",bet 17
+Raise to 30 chips. (or go,call
+"bet 2 chips. ###
+
+### Instruction:",check
+"Raise all-in. ###
+
+### Instruction:
+Given",fold
+"Call
+
+This response assumes that the goal is to",raise 13
+"Call
+
+In this situation, your flush is a",fold
+"Call
+
+### Instruction:
+Raise to around 7",raise 83
+Raise to approximately 180 chips. (,call
+Bet 15 chips.<|endoftext|>,check
+Raise to 50 chips. ### Instruction,call
+"Bet 2 chips. ###
+
+### Instruction:",check
+Raise to 50 chips. (Go All,call
+Raise to 100 chips (all-in,fold
+Fold. The board is paired with a king on,fold
+"Fold
+
+### Rationale:
+Given the aggressive nature",fold
+"Call (12 chips) ### Instruction
+Your",call
+Fold. The board is paired and there's a,fold
+Raise to 40 chips. (Put in,check
+"call
+
+In this scenario, the opponent checked both",call
+"Bet 2 chips. ### Instruction
+
+The suggested",check
+"Call
+
+### Instruction:
+Reconsider your previous decision",raise 83
+"Bet 8 chips. ###
+
+### Instruction:",check
+"fold
+<|endoftext|>",call
+"bet 10 chips
+
+This response reflects a",bet 20
+"Bet 15 chips. ###
+
+### Instruction",bet 17
+"bet 20 chips
+
+This response is designed",check
+Fold. The opponent's aggressive betting pattern and the,fold
+"Call
+
+In this situation, you have top pair",call
+Call (5 chips) or check-raise if,check
+"Call
+
+In this scenario, you hold a flush",raise 87
+"bet 3 chips. ### Instruction
+Let's",check
+"Call
+
+### Instruction:
+Reconsider your previous response",call
+"call
+
+#Rewritten Prompt#
+### Instruction:",call
+"Call
+
+### Instruction:
+Reconsider your previous response",fold
+Bet 10 chips.<|endoftext|>,bet 17
+Raise to 30 chips. ## Created by,raise 29
+Raise to 40 chips. (Put in,check
+Fold. ## Created Chinese Question-Answer Pairs,fold
+"Call (34 chips) ###
+
+Instruction:",raise 83
+Raise to approximately 180 chips (including,call
+"Raise 40 chips. 
+
+This move helps",raise 45
+"Raise to 50 chips. ###
+
+###",fold
+"call
+
+### Instruction:
+Fold",call
+"Bet 7 chips. ###
+
+### Instruction:",check
+"Call
+
+### Instruction:
+Increase your bet to",call
+Raise to 15 chips. (or go,bet 13
+Fold. Given the strength of the board and the,fold
+"Call
+
+### Instruction:
+Fold",call
+"Raise to 40 chips. ###
+
+###",call
+"Fold
+
+### Rationale:
+Given the board's",call
+Raise 78 chips. (Go all-in,fold
+"Call (1)  
+(Note: Since the pot",call
+Fold. Given the strength of your hand (K,call
+"Raise 15 chips. ###
+
+### Instruction",bet 16
+Raise 50 chips. ## Created by Claude,check
+Fold. The opponent raised on the turn which indicates,fold
+"Check
+
+In this scenario, checking is the best",check
+"Call (37 chips) ### Instruction
+Is",raise 83
+Fold. ## Created Chinese Question-Answer Pairs,fold
+"bet 10 chips
+
+### Rationale:",bet 17
+"call
+
+In this scenario, given that you hold",call
+Fold. The opponent has shown aggression and the board,fold
+Fold. The opponent's aggressive play and raises suggest,fold
+"Fold
+
+### Rationale:
+Given the aggressive nature",fold
+Raise to 170 chips. (Go,fold
+Bet 10 chips.<|endoftext|>,check
+"bet 10 chips. ###
+
+### Instruction",check
+Raise 35 chips. (Pot is now,fold
+"Raise (or ""Bet"") 20 chips",call
+"bet 30 chips
+
+This response is designed",check
+Fold. The opponent has shown aggression and the board,fold
+"Bet 20 chips. ###
+
+### Instruction",check
+"Bet 8 chips. 
+
+This is a semi",check
+"Bet 3 chips. ###
+
+### Instruction:",check
+"Raise to 45 chips. ###
+
+###",call
+"Bet 15 chips. ###
+
+### Instruction",check
+Raise to 10 chips. (Bet,check
+Raise to 150 chips. (Go,fold
+"Bet 8 chips. ###
+
+### Instruction:",check
+"Raise to 70 chips. 
+
+This represents",raise 73
+"Raise 35 chips. ### Instruction
+
+Re",fold
+"Fold. ## Created Chinese Question
+
+在按钮位置",fold
+"bet 8 chips
+
+### Chain-of-Thought",check
+"Fold. Given the heart flush on the board,",fold
+"Raise to 25 chips. 
+
+This is",check
+"Call
+
+### Instruction:
+Raise to 25",call
+"Call
+
+In this scenario, given the strength of",fold
+"bet 30 chips. ###
+
+### Instruction",check
+"Fold
+
+### Rationale:
+Given the board texture",fold
+"Fold. ###
+
+### Rationale:
+Given the",raise 89
+Raise to 20 chips. (or go,raise 25
+Bet 2.5 chips.<|endoftext|>,bet 2
+"Raise 35 chips.  
+
+This represents a",check
+"Bet 7 chips. ###
+
+### Instruction:",check
+"Call
+
+### Instruction:
+Raise to 80",fold
+"Check
+
+Based on the information provided, checking allows",bet 12
+"bet 10 chips
+
+This response reflects a",check
+"bet 10 chips
+
+This response is designed",check
+"bet 30 chips
+
+This response reflects an",raise 70
+"Call
+
+---
+
+For further assistance or another scenario,",raise 38
+raise to 30 chips.<|endoftext|>,check
+Raise to 25 chips. (Put in,raise 32
+"bet 3 chips. ###
+
+### Instruction:",bet 2
+Raise to 15 chips. (Bet enough,bet 12
+Raise 30 chips. (or go all,fold
+Raise to 70 chips. (Pot Odds,call
+Raise to approximately 130 chips to apply,call
+Bet 10 chips.<|endoftext|>,bet 12
+Raise to 20 chips. (or go,bet 18
+"call
+
+### Rationale:
+Given that you have",call
+"Raise to 80 chips. ###
+
+###",call
+"Call (5 chips) ### Instruction
+Your response",call
+"Raise (or ""Bet"") 36 chips",call
+"Call
+
+### Instruction:
+Fold",raise 27
+Call (1 chips) or raise (to around,raise 16
+"bet 30 chips
+
+### Instruction:
+Your",raise 75
+Fold. Given the strength of the board (high,call
+"Raise to 35 chips. 
+
+This move",check
+"Raise to 120 chips.  
+
+This",raise 86
+"Fold
+
+### Rationale:
+Given the board (",fold
+Fold. Given the aggression from the opponent post-f,fold
+"Raise to 45 chips. 
+
+This is",call
+"Call (4 chips) ### Instruction
+The response",fold
+Fold. Your hand does not improve on the river,bet 27
+"call
+
+This response assumes that the goal is to",check
+Bet 40 chips. (approximately),raise 61
+"Call
+
+### Instruction:
+Fold",fold
+Raise 50 chips. (Go All-In,raise 58
+Bet 4 chips.<|endoftext|>,check
+"Raise to 20 chips. ###
+
+###",call
+"Fold
+
+### Rationale:
+Given the strength of",raise 89
+Raise 20 chips. (Go all-in,call
+"Raise to 40 chips. ###
+
+###",raise 83
+"Bet 2.0 chips. ###
+
+###",bet 3
+"Call
+
+### Instruction:
+Based on the previous response",fold
+"Fold
+
+### Rationale:
+Given the strength of",fold
+"bet 12 chips
+
+This response is based",check
+Raise to 18 chips. ## Created by,check
+"Call (1 chip) ### Instruction
+The response",bet 4
+"fold
+### Rationale:
+Given the board is",fold
+"Raise 75 chips. ###
+
+### Instruction",raise 84
+"Fold
+
+### Rationale:
+Given the strength of",call
+"Bet 8 chips. ###
+
+### Instruction:",check
+Raise to 20 chips. (or go,check
+"Raise to 45 chips. ##
+
+###",raise 57
+Raise to 20 chips. (or go,bet 23
+"Bet 3 chips. ###
+
+### Instruction:",check
+"Fold
+
+In this scenario, folding is likely the",call
+Raise 40 chips. (Pot is now,raise 81
+"Call
+
+### Instruction:
+I'm sorry, but",bet 11
+"Call
+
+### Instruction:
+Fold",call
+"Fold
+
+### Instruction:
+I appreciate your quick response",fold
+"call
+<|endoftext|>",check
+"fold
+
+### Instruction:
+I understand your decision to",fold
+Call (5.0 chips) ### Instruction,call
+"Bet 6 chips. ###
+
+### Instruction:",check
+"Bet 4 chips. ###
+
+### Instruction:",check
+Raise to 50 chips. ## Created by,call
+Raise to 40 chips. (Go All,check
+"Call (81)  
+(Note: Given the",check
+Raise to 35 chips. (Put in,raise 43
+"Bet 2.0 chips. ###
+
+###",check
+"Call
+
+### Instruction:
+Raise to 75",call
+"Bet 7 chips. ###
+
+### Instruction:",check
+"Raise all-in. ###
+
+### Instruction:
+All",fold
+"Call (to see the river card). 
+
+###",fold
+"bet 5 chips
+
+This response is based on",check
+"Bet 6 chips. ###
+
+### Instruction:",check
+"Bet 8 chips. ###
+
+### Instruction:",bet 13
+"call
+
+This is because the flop did not improve",call
+Raise 35 chips to isolate the opponent and,fold
+"Bet 2.0 chips. ###
+
+###",check
+Raise to 40 chips. ## Created by,check
+"Call (1 chips) or Fold
+
+Since you",call
+"bet 5 chips
+
+### Instruction:
+Is there",check
+Fold. The board is K♠ J♠,call
+Raise to 45 chips. (Put in,call
+Raise to 100 chips. (All,call
+"Call
+
+In this situation, given the board texture",bet 29
+Raise to 18 chips. (or go,call
+"Fold. ###
+
+### Rationale:
+Given the",fold
+Raise to approximately 80 chips (pot odds,fold
+Call (1 chips) to see if you can,call
+Bet 10 chips.<|endoftext|>,check
+"Call
+
+### Instruction:
+Fold",raise 81
+Raise to 100 chips (all-in,fold
+"Bet 10 chips. ###
+
+### Instruction",check
+"Raise to 40 chips. ###
+
+###",call
+"Call
+
+### Instruction:
+Your response is noted.",fold
+Fold. The board is paired and your top pair,fold
+"Fold
+
+### Rationale:
+Given the aggressive betting",call
+Call (5 chips) to see if the opponent,call
+"Bet 10 chips. ###
+
+### Instruction",check
+"Fold. ###
+
+### Instruction:
+I understand your",fold
+"Call
+
+In this situation, you have a strong",raise 32
+Fold. Given the strength of your hand (high,fold
+"Raise to 75 chips. 
+
+This is",fold
+"Call
+
+### Instruction:
+Raise to 7 chips",check
+Raise to 12 chips. ## Step,check
+"Raise (or ""Bet"") 30 chips",check
+Raise 20 chips. (Pot should be,check
+"Raise 25 chips. ###
+
+### Instruction",bet 29
+"Fold. ## Created Chinese Question
+
+在底池",raise 93
+"Bet 4 chips. ### Instruction
+
+The response",bet 2
+"Call
+
+### Instruction:
+Fold",call
+Raise to 40 chips. ## Created Chinese,raise 81
+Raise to 50 chips. ## Created by,fold
+"Raise to 40 chips. 
+
+### Chain",raise 81
+"Call (12 chips) ### Instruction
+The",fold
+"Raise to 35 chips. ###
+
+###",call
+"bet 8 chips
+
+This response is based on",bet 11
+"Call or check, depending on your table image and",check
+"Fold. ###
+
+### Rationale:
+Given the",call
+"call
+
+### Instruction:
+Your response is correct.",raise 10
+"call
+
+In this situation, given that you have",raise 38
+"Call
+
+In this situation, given the board texture",bet 10
+Fold. ## Created Chinese Question-Answer Pairs,fold
+"Fold
+
+### Rationale:
+Given the board texture",fold
+Raise to 150 chips. (Go,fold
+Bet 15 chips.<|endoftext|>,check
+Bet 8 chips. ## Step 1:,bet 24
+"Call
+
+### Instruction:
+Fold",call
+Bet 30 chips.<|endoftext|>,bet 34
+"Bet 10 chips. ###
+
+### Instruction",bet 12
+"Raise 20 chips. 
+
+This is because",check
+"bet 20 chips
+
+This response reflects an",check
+"Call (8 chips) ### Instruction
+Your response",raise 19
+Raise to approximately 70 chips (pot odds,call
+"Call
+
+###<|endoftext|>",call
+"Call
+
+### Instruction:
+Fold",call
+"call
+
+### Instruction:
+Raise to 8 chips",call
+Raise to 15 chips. ## Created Chinese,check
+Raise to 40 chips. (Put in,bet 29
+"Bet 10 chips. ###
+
+### Instruction",check
+"Raise to 40 chips. ###
+
+###",fold
+"Raise to 40 chips. ##
+
+###",call
+"Call
+
+Based on the strength of your flush and",fold
+"Raise all-in
+
+### Instruction:
+Is going all",fold
+"Fold. The board is paired (Jack), and",call
+Raise to 40 chips. ### Instruction,call
+"Raise to 50 chips. 
+
+This represents",call
+"Raise all-in. 
+
+### Rationale:
+Given",bet 29
+"Fold. ## Created Chinese Question
+在德州扑克",raise 46
+Fold.<|endoftext|>,raise 84
+"Call
+
+### Instruction:
+Fold",fold
+"call
+
+### Instruction:
+Based on the strength of",call
+"Call
+
+In this scenario, given the strength of",raise 10
+Bet 7 chips.<|endoftext|>,check
+Raise to 75 chips. (Go All,fold
+Fold. The opponent's aggressive betting pattern suggests they,fold
+"Raise to 25 chips. ###
+
+###",fold
+Bet 4 chips.<|endoftext|>,check
+"bet 15 chips
+
+This response reflects an",check
+"Call
+
+### Instruction:
+Fold",fold
+"Fold
+
+### Rationale:
+Given the board (",fold
+"Call
+
+### Instruction:
+Increase the bet to",raise 35
+"bet 8 chips
+
+This response is based on",bet 13
+"Call (14 chips) ### Instruction
+
+A",bet 24
+"call
+
+In this scenario, calling is the best",fold
+"Call
+
+### Instruction:
+Increase the stakes by calling",call
+"Raise to 50 chips. ###
+
+###",fold
+Fold. The board is dry and doesn't favor,fold
+Raise to 20 chips. ## Step,call
+Call (2 chips) to see if you can,raise 18
+Raise to 35 chips. ## Created Chinese,call
+"Call
+
+In this situation, you have top pair",fold
+"Bet 10 chips. ###
+
+### Instruction",bet 13
+Bet 2 chips.<|endoftext|>,bet 4
+"bet 15 chips
+
+### Instruction:
+Given",check
+Raise to 20 chips. (or go,raise 40
+"Call
+
+### Instruction:
+Increase your bet to",raise 25
+Call (8 chips) to see the river.,check
+"Bet 6 chips. ###
+
+### Instruction:",bet 10
+"Bet 7 chips. ###
+
+### Instruction:",check
+Call (8 chips) to see the river.,fold
+"call
+
+In this scenario, given that you have",call
+"bet 15 chips
+
+This response reflects an",check
+Fold. The board is dry and does not favor,fold
+"Call (11 chips) ### Instruction
+Your",call
+"call
+
+### Instruction:
+Your response is noted.",fold
+"Fold. ## Created Chinese Question
+
+在六人",fold
+"Raise to 50 chips. 
+
+This will",fold
+"Call
+
+Created Chinese Prompt:
+### 指",raise 29
+Fold. Given the strength of your hand and the,fold
+Call (match the bet of 7 chips),fold
+"Call
+
+### Instruction:
+Raise to 6 chips",call
+"Call
+
+In this scenario, given the board texture",call
+"bet 20 chips
+
+### Instruction:
+Increase",check
+Raise to approximately 124 chips (total,raise 86
+"Fold
+
+### Rationale:
+Given the board texture",fold
+Raise to 15 chips. ## Created by,bet 16
+Raise to 45 chips. ## Created Chinese,fold
+"Bet 3 chips. ###
+
+### Instruction:",check
+Call (8 chips) to see if you can,raise 41
+"Raise all-in. ###
+
+### Instruction:
+Raise",fold
+"call (13 chips) ### Instruction
+
+A",check
+"Bet 3 chips. ###
+
+### Instruction:",check
+"Call
+
+### Instruction:
+Fold",call
+Call (5 chips) to see the river.,call
+"Raise to 60 chips. 
+
+This will",call
+"bet 14 chips
+
+This response assumes a",check
+"Call
+
+### Instruction:
+Increase the complexity of the",raise 32
+"Call
+
+In this situation, given the strength of",call
+"Raise all-in. 
+
+This move maximizes your",check
+Fold.<|endoftext|>,fold
+Fold. Given the strength of your hand (only,call
+"call
+
+###<|endoftext|>",call
+"call
+<|endoftext|>",call
+"Raise to 30 chips. ###
+
+###",bet 29
+"Bet 25 chips. 
+
+This represents a",check
+"Raise to 60 chips. ##
+
+###",fold
+"Call
+
+### Rationale:
+Given the strength of",raise 82
+Raise to 20 chips. ## Created by,check
+"Call (58 chips) ### Instruction
+Your",call
+"call (5 chips) ### Instruction
+
+A call",raise 16
+Raise to 170 chips. (Go,call
+Raise 100 chips (all-in),fold
+Fold. The board is paired and you don't,bet 23
+Raise 100 chips (all-in).,call
+"Bet 10 chips. ### Instruction:
+Based",call
+"Call
+<|endoftext|>",check
+Raise to 40 chips. ## Created by,raise 84
+"bet 2.0 chips
+
+This action aims",bet 3
+Fold. Given the strength of the board (favor,fold
+"Call
+
+In this scenario, you have a straight",call
+Raise 87 chips (pot-sized bet),check
+"bet 20 chips
+
+### Chain-of-Th",check
+"call
+
+In this situation, calling is a balanced",call
+Call. ## Created Chinese Question-Answer Pairs,check
+Raise to approximately 100 chips (all,raise 86
+Raise to 75 chips. ## Created by,fold
+"Raise to 40 chips. ###
+
+###",raise 92
+Bet 15 chips.<|endoftext|>,raise 18
+"bet 20 chips
+
+This action aims to",check
+Raise 120 chips to isolate the opponent,call
+"Call
+
+Based on the strength of your flush and",raise 85
+Raise to 40 chips. ## Created by,fold
+"bet 10 chips. ###
+
+### Instruction",check
+"Call (11 chips) ###
+
+Instruction:",raise 31
+"Bet 10 chips. ###
+
+### Instruction",check
+"bet 14 chips
+
+This action aims to",bet 17
+"Fold. ###
+
+### Rationale:
+Given the",fold
+Bet 40 chips.<|endoftext|>,check
+"Bet 6 chips. ### Instruction:
+Your suggested",bet 10
+Raise to approximately 65 chips (including the,call
+Fold. ## Created Chinese Question-Answer Pairs,fold
+"Call
+
+### Instruction:
+Raise",raise 83
+Fold. The board is dry and doesn't favor,fold
+"Bet 3 chips. ###
+
+### Instruction:",bet 4
+"Call
+
+### Instruction:
+Increase your bet to",fold
+"Raise to 64 chips.  
+
+This is",call
+"bet 10 chips
+
+### Instruction:
+Is",check
+"Call
+
+In this situation, calling is the best",fold
+"Call
+
+### Instruction:
+Fold",call
+"bet 3 chips
+
+This action aims to extract",check
+"call
+
+Created by: AI
+Last update:",call
+"Call
+
+### Instruction:
+Increase the bet to",call
+"Call
+
+### Instruction:
+Re-evaluate your previous",raise 36
+"Raise to 50 chips. 
+
+This move",call
+"Raise to 60 chips. ###
+
+###",fold
+Raise to 40 chips. (Put in,bet 29
+"Bet 10 chips. ###
+
+### Instruction",check
+Fold. The board is low and doesn't favor,call
+"call
+
+Created Chinese prompt-response pair.
+
+### Chinese",raise 18
+"Call
+
+###<|endoftext|>",check
+"check
+
+### Rationale:
+Given the board texture",check
+"call
+
+### Instruction:
+Reconsider your previous response",fold
+Fold. The opponent's aggressive play and the strength,call
+"call
+
+### Instruction:
+Reconsider your previous response",call
+"Raise to 70 chips. ###
+
+###",fold
+"Bet 4 chips. ###
+
+### Instruction:",bet 13
+Fold. The board is K-7-2,bet 23
+Fold. The raise on the turn suggests a strong,call
+Raise 40 chips. (or go all,raise 84
+"Call
+
+In this situation, you have two pair",fold
+"bet 25 chips
+
+This response assumes a",check
+"Bet 25 chips. ###
+
+### Instruction",bet 28
+"bet 15 chips
+
+### Chain-of-Th",check
+Fold. The board is K-J-5-,fold
+"call
+
+###<|endoftext|>",call
+"bet 35 chips
+
+This response is decisive",check
+"Call. (6 chips) 
+
+(Note: The",check
+"Raise to 25 chips. 
+
+This is",bet 23
+"call
+
+### Rationale:
+Given that the board",call
+Bet 5 chips.<|endoftext|>,check
+Raise to 15 chips. ## Step,call
+Raise to 50 chips. (Go All,call
+"Fold. ## Created Chinese Question
+
+在德州扑克",fold
+"Call
+
+### Instruction:
+Fold",fold
+"Call
+
+### Instruction:
+Bet 12 chips",call
+"Call
+
+In this situation, given that you have",call
+Raise to 80 chips. ## Created by,fold
+"bet 8 chips
+
+This response is based on",bet 10
+Fold. Your pair of sixes is not strong,fold
+"Call. To
+Based on the given information,",bet 10
+Raise to 50 chips. (Go All,call
+"Bet 40 chips. ###
+
+### R",check
+Bet 7 chips.<|endoftext|>,check
+"Call
+
+In this situation, you have top pair",call
+"Call
+
+### Instruction:
+Raise to 60",call
+Raise to approximately 90 chips. (Put,raise 90
+Raise to 120 chips. (Put,fold
+"Bet 40 chips. ###
+
+### R",check
+"Call
+
+In this situation, you have a strong",call
+"Bet 20 chips. 
+
+This move aims",call
+"bet 4 chips. ###
+
+### Instruction:",check
+Raise to 40 chips. (Put in,check
+"Bet 10 chips. ### Instruction:
+Based",call
+"Bet 6 chips. ###
+
+### Rationale",bet 10
+"call
+
+### Explanation:
+Since you have two pair",call
+"Fold. ###
+
+### Rationale:
+Given the",fold
+Call (84 chips) to see the river,call
+"Call
+
+### Instruction:
+Fold",call
+"Bet 3 chips. ### Instruction
+
+The suggested",check
+"call
+<|endoftext|>",raise 70
+Bet 20 chips.<|endoftext|>,bet 29
+"bet 25 chips
+
+### Chain-of-Th",check
+"bet 7 chips
+
+This response is based on",bet 15
+"Call
+
+In this scenario, the board is J",call
+"Fold. ###
+
+#### Analysis:
+Given the situation",fold
+"Fold. ## Created Chinese Question
+在德州扑克",fold
+"Call (16 chips) ### Instruction
+The",call
+"Call
+
+In this situation, given that you hold",call
+"Raise to 70 chips. ###
+
+###",call
+Raise 25 chips. (Bet a value,check
+Raise to 60 chips. ### Instruction,raise 89
+Fold. The opponent raised on the turn after you,raise 83
+"Call (13 chips) ### Instruction
+Your",bet 17
+"Call
+
+### Instruction:
+Increase your bet to",call
+"Call
+
+In this scenario, the opponent has shown",fold
+"bet 7 chips
+
+This response is designed to",check
+"Bet 2.5 chips. ###
+
+###",check
+"Bet 8 chips. ###
+
+### Instruction:",bet 11
+Call (5 chips) to see if you can,fold
+Fold. Given the aggressive betting pattern from UTG,fold
+Raise to 100 chips. ## Step,raise 92
+Raise to 120 chips. ###,fold
+Raise to 40 chips. (Put in,call
+"Bet 15 chips. 
+
+This is a",check
+"Call
+<|endoftext|>",bet 8
+"Call (8 chips) ### Instruction
+The response",call
+Raise to 30 chips. (Put in,check
+Fold. Given the strength of the board (K,fold
+"bet 15 chips
+
+This response assumes a",check
+Raise to 175 chips. ##,call
+"Raise all-in. 
+
+This play maximizes the",call
+"Call. (4 chips) ###
+
+Can you",bet 10
+Bet 15 chips.<|endoftext|>,check
+"Bet 7 chips. ###
+
+### Instruction:",check
+"Call
+
+In a 6-handed No Limit Texas",raise 41
+"Raise to 70 chips. 
+
+This represents",fold
+"call
+
+### Instruction:
+Is there any chance that",fold
+Raise to 175 chips. (Put,fold
+"Raise to 45 chips. ##
+
+###",call
+"Call (13 chips) ### Instruction
+The",fold
+Raise to 20 chips. (or go,check
+"Call
+
+### Instruction:
+Fold",fold
+Fold. The board is paired and your opponent raised,fold
+"call
+
+### Instruction:
+Re-evaluate your previous",check
+"Call
+
+In this scenario, given the board texture",check
+"Raise to 40 chips. ###
+
+###",check
+"Call
+
+### Instruction:
+Fold",call
+"Raise to 50 chips. ##
+
+###",raise 65
+"Call (13 chips) ###
+
+#### Instruction",call
+"Check
+
+### Instruction:
+Given the information provided,",check
+"Raise to 35 chips. (Go """,bet 29
+Fold. The raise from UTG indicates they may,call
+Call (match the raise to 16 chips,bet 29
+"Raise to 80 chips. ###
+
+###",fold
+Bet 15 chips.<|endoftext|>,bet 23
+Raise 50 chips. (Go all-in,raise 89
+"Call
+
+In this situation, given that you have",fold
+Raise to 40 chips. (Go All,raise 92
+Raise to 80 chips. ## Created Chinese,raise 95
+"Call
+
+In this situation, given that you have",fold
+"Call
+
+In this situation, calling is the best",call
+"call
+
+### Instruction:
+Is your decision to call",call
+"Call (5 chips) ### Instruction
+Your response",call
+Raise 100 chips (all-in).,fold
+Raise 50 chips. (Go all-in,call
+Raise to 60 chips. ## Created by,fold
+Raise to 200 chips. ## Created,call
+"Raise to 25 chips. ###
+
+###",call
+"Bet 4 chips. ###
+
+### Instruction:",check
+"Fold
+
+### Rationale:
+Given that the opponent",call
+Raise to 12 chips. (or go,bet 12
+"bet 8 chips
+
+This action aims to extract",check
+"Check
+
+### Rationale:
+Given the board `",check
+"bet 15 chips
+
+This action aims to",bet 28
+Raise to approximately 100 chips (all,raise 93
+"Fold. ###
+
+### Rationale:
+Given the",fold
+"Fold
+
+### Rationale:
+Given the strength of",fold
+Fold. Given the board texture (all spades,fold
+"call
+
+### Instruction:
+Reconsider your previous response",fold
+Raise 40 chips. (or go all,fold
+"Call
+
+### Instruction:
+Is calling really the best",fold
+"Call
+
+Created by Claude P. using Alp",fold
+"bet 15 chips
+
+This response reflects a",check
+"Bet 2.0 chips. ###
+
+###",check
+"bet 8 chips. ### Instruction
+
+The response",check
+"Bet 2 chips. ###
+
+### Instruction:",check
+"Call (14 chips) ### Instruction
+A",call
+"Fold. Given the heart flush on the board,",raise 85
+"bet 10 chips
+
+This response suggests betting",check
+"Call
+
+In this situation, given that the board",fold
+Call (to see the river) ### Instruction,fold
+"Fold. ## Created Chinese Question
+
+在六人",fold
+Fold. Given the aggressive betting pattern from the opponent,fold
+Fold. Given the aggressive betting pattern from the BB,fold
+"Call (23 chips) ### Instruction
+
+A",fold
+Bet 15 chips.<|endoftext|>,check
+Fold.<|endoftext|>,fold
+"Bet 30 chips. 
+
+This is a",check
+"Fold. ###
+
+### Rationale:
+Given the",fold
+"bet 10 chips. ### Instruction
+Your",check
+"Call
+
+Instructor
+Good choice. Given the",fold
+Call (match the raise to 16 chips,bet 29
+"Bet 3 chips. ###
+
+### Instruction:",check
+"Raise to 30 chips. ###
+
+###",call
+Raise to 35 chips. (This aims,check
+"Call
+
+In this situation, given that you have",call
+"Fold. ###
+
+### Rationale:
+Given the",fold
+"bet 8 chips
+
+### Rationale:
+Given",check
+"Call
+
+### Instruction:
+Bet 5 chips instead",raise 10
+Raise to approximately 150 chips to apply,call
+"Call
+
+Based on the strength of your hand (",call
+"Call
+
+In this scenario, given the board texture",check
+Raise to 25 chips. (Bet enough,check
+"Fold. The board is high and paired, making",fold
+"call
+
+### Instruction:
+Reconsider your previous response",call
+Fold. The board is Q♣ A♦ K,fold
+Raise to 120 chips. ###,fold
+Raise to 50 chips. (Go All,raise 61
+"bet 15 chips
+
+This action aims to",bet 17
+"Call
+
+### Instruction:
+Is calling the correct action",bet 7
+"Bet 20 chips. ###
+
+### Instruction",check
+"Bet 40 chips. 
+
+This bet is",raise 64
+Fold. The opponent's aggressive betting pattern suggests they,fold
+"Call (18 chips) ### Instruction
+
+A",call
+"Raise to 60 chips. 
+
+This is",fold
+Fold. The opponent's aggressive play and large raises,fold
+Raise to 15 chips. (or go,check
+Bet 40 chips. (Value Bet),raise 74
+Raise to 70 chips. (Go All,call
+"bet 8 chips
+
+This response reflects an aggressive",check
+"Raise to 50 chips. ###
+
+###",call
+Fold. The board is paired and your opponent has,fold
+Raise 25 chips. (or enough to,raise 44
+Raise to 30 chips. ### Instruction,call
+"Fold. ###
+
+### Rationale:
+Given the",fold
+"Call
+
+### Instruction:
+Fold",fold
+"Call (13 chips) ### Instruction
+The",check
+"Call
+
+In this situation, you have a straight",call
+Raise to 20 chips. (Pot is,fold
+"Call
+
+In this scenario, you have a weak",fold
+"Bet 14 chips. ###
+
+### Instruction",check
+"bet 20 chips. ### Instruction
+
+The",check
+Raise 93 chips. (Pot is now,raise 86
+Call (8 chips) to continue the hand and,fold
+"Call
+
+### Instruction:
+Fold",call
+"call
+
+### Instruction:
+Is your decision still """,check
+"call
+
+In this scenario, given the strength of",check
+"Raise to 50 chips. 
+
+This is",call
+Raise to 10 chips. ## Created Chinese,check
+"Bet 10 chips. ### Instruction:
+Your",raise 16
+"Fold. ###
+
+### Rationale:
+Given the",fold
+"Call
+
+In this situation, calling is a strong",call
+"Call
+
+---
+
+This response reflects an understanding of the",raise 74
+"Call (16 chips) ### Instruction
+The",raise 35
+"Raise to 60 chips. ###
+
+###",raise 93
+"Bet 2 chips. ###
+
+### Instruction:",check
+Raise 40 chips. (or enough to,raise 81
+Raise 40 chips. (Pot should be,fold
+"call
+
+Created by AI. Last updated 2",raise 16
+Fold. ## Created Chinese Question-Answer Pairs,fold
+"call
+
+### Instruction:
+Increase the complexity of the",raise 10
+"Call
+
+### Instruction:
+Fold",call
+"Call (14 chips) ### Instruction
+The",fold
+"Fold. ###
+
+### Rationale:
+Given the",fold
+Raise 40 chips. (Pot is now,check
+"call
+
+### Instruction:
+Raise to 10",raise 10
+"Call (to see the river) ###
+
+Instruction",fold
+"Call
+
+### Instruction:
+Fold",raise 27
+"call
+
+### Instruction:
+Is there any chance of",raise 38
+"Call
+
+### Instruction:
+Fold",fold
+"Raise all-in. ###
+
+### Instruction:
+Raise",fold
+"Raise to 74 chips. ##
+
+###",raise 86
+"Raise to 10 chips. ###
+
+###",raise 11
+"bet 15 chips
+
+This response is based",check
+Fold. The opponent's aggressive play on the turn,fold
+"Bet 14 chips. ###
+
+### R",bet 17
+Raise to 20 chips. ## Step,check
+Raise 20 chips. (or go all,check
+"bet 5 chips
+
+### Instruction:
+Is there",check
+"Raise 40 chips. ###
+
+### R",call
+"Call (6 chips) ### Instruction
+Your response",fold
+Call (29 chips) to see the showdown,raise 81
+"call
+
+In this situation, calling is the best",call
+Raise to 16 chips. (or enough,check
+"Bet 25 chips. ###
+
+### Instruction",check
+"Call (58 chips) ### Instruction
+Your",fold
+"Call (8) ### Instruction
+The response """,bet 13
+"call
+
+#Rewritten Prompt#
+### Instruction:",call
+"Call
+
+### Created Chinese Question:
+在翻牌",check
+"Fold
+
+### Rationale:
+Given the aggressive betting",fold
+"Fold
+
+### Rationale:
+Given the aggressive nature",raise 86
+"Call
+
+In this situation, given that you have",call
+"Fold. ###
+
+#### Instruction:
+Is there any",call
+Fold. The opponent's aggressive betting pattern suggests they,fold
+"call
+<|endoftext|>",raise 10
+"Raise to 160 chips. 
+
+This",fold
+"Call
+
+### Instruction:
+Increase the amount you call",call
+Fold. The opponent's aggressive play and large raise,fold
+Raise to 30 chips. ## Step,check
+Call (9 chips) to see if you can,fold
+Call (match the bet of 5 chips),bet 11
+"call
+
+In this scenario, given that the board",check
+"Call
+
+### Instruction:
+Fold",raise 77
+"Call
+
+### Instruction:
+Fold",bet 29
+Raise to 40 chips. (Go All,call
+"Raise to 65 chips. ###
+
+###",raise 86
+Fold. The board is paired and your opponent just,fold
+"Call
+
+### Instruction:
+Fold",call
+"call
+
+In this situation, you have a straight",call
+"Raise to 60 chips. ###
+
+###",fold
+Raise to 14 chips. (Put in,raise 19
+"Call (4 chips) ### Instruction
+Your response",call
+Raise to 20 chips. (or go,raise 32
+"Call
+
+This response assumes a balanced strategy where the",call
+Fold. Given the aggressive betting pattern from the BB,fold
+Fold. The opponent's aggressive play on the turn,raise 89
+Bet 15 chips.<|endoftext|>,check
+Call. (2) Based on the information provided,check
+Raise to 20 chips. (or enough,raise 43
+"Bet 2 chips. ### Instruction
+
+The response",check
+Raise to 50 chips. (or go,call
+Fold. The board is low and doesn't favor,fold
+"Fold. ## Created Chinese Question
+
+在德州扑克",bet 23
+Raise to 175 chips. ###,fold
+"Bet 3 chips. ###
+
+### Instruction:",bet 3
+"bet 4 chips. ### Instruction
+
+The response",check
+Raise 100 chips (all-in),fold
+"bet 14 chips
+
+This response reflects an",check
+"Call
+
+### Instruction:
+Raise to 10",raise 10
+Raise 25 chips. (Pot is now,check
+"call
+
+### Instruction:
+Is ""call"" really",call
+Call (8.0 chips) ### Instruction,bet 20
+"Raise 40 chips. ###
+
+### Instruction",raise 76
+Raise to 30 chips. (Put in,call
+"Bet 20 chips. ###
+
+### Instruction",check
+"raise to 25 chips
+
+This response raises",check
+"bet 6 chips. ###
+
+### Instruction:",check
+"Fold. ## Created Chinese Question
+
+在六人",fold
+"Bet 2 chips. ###
+
+### Instruction:",check
+"Call
+
+### Instruction:
+The opponent just raised significantly",fold
+"Bet 20 chips. ###
+
+### Instruction",check
+Raise to 10 chips. (Bet,check
+"Call
+
+### Instruction:
+Fold",call
+Raise to 35 chips. ## Created by,raise 86
+Raise to 90 chips. (Go All,fold
+Raise to 40 chips. (Go All,bet 29
+Raise 25 chips. (Put in a,check
+"raise to 100 chips
+
+This response",fold
+Bet 4 chips.<|endoftext|>,check
+"call
+
+### Instruction:
+Is there any chance for",fold
+"Call
+
+### Instruction:
+Increase the stakes by raising",call
+"Raise to 50 chips. 
+
+This move",fold
+Raise to 40 chips. ## Created Chinese,call
+"Raise to 40 chips. ###
+
+###",call
+"Call
+
+In this situation, you should call the",call
+Raise 25 chips. (Go All-In,call
+Raise to 100 chips. ## Created,raise 85
+"Raise to 30 chips. ###
+
+###",call
+"Bet 25 chips. 
+
+This move aims",check
+Fold. Given the aggressive betting pattern from the BTN,raise 85
+"Call
+
+### Instruction:
+Is calling really the best",raise 16
+"Call
+
+### Instruction:
+Increase the bet to",call
+Bet 7 chips.<|endoftext|>,bet 11
+"Raise to 100 chips. 
+
+This",raise 77
+"Fold. ###
+
+### Rationale:
+Given the",fold
+"Call
+
+In this situation, you have top set",raise 85
+Raise 20 chips. (Go All-In,check
+Fold. The raise from CO on the turn suggests,call
+Call (8) # 13 to go,check
+"bet 14 chips
+
+This response is based",bet 17
+Fold. The opponent's aggressive betting pattern and the,fold
+Raise 35 chips. (Pot should be,raise 58
+"Call
+
+This ensures you get more information from your",call
+"Fold. ###
+
+### Rationale:
+Given the",fold
+"call
+
+In this situation, you have a strong",raise 32
+Raise to 8 chips. (Pot odds calculation,raise 11
+Call or check. Given the board texture and the,check
+Call. Bet 10 chips. (Raise,check
+Raise to 20 chips. ### Instruction:,call
+"Call
+
+In this scenario, you have a flush",raise 13
+Bet 7 chips.<|endoftext|>,check
+"Call
+
+### Instruction:
+Increase the complexity by adding",raise 89
+"Bet 15 chips. ###
+
+### Instruction",bet 25
+"Call
+
+### Instruction:
+Fold",fold
+"Call
+
+In this scenario, given the strength of",call
+"Fold. ## Created Chinese Question
+
+在六人",fold
+Raise to 18 chips. ### Instruction:,fold
+Raise to 30 chips. (or go,call
+"Raise to 40 chips. 
+
+This is",raise 86
+"bet 25 chips
+
+This response reflects an",check
+Call (bet 18 chips to call),check
+"call
+
+### Instruction:
+Reconsider your previous decision",check
+"Bet 10 chips. ###
+
+### Instruction",check
+"Raise to 60 chips. 
+
+This represents",fold
+Raise to 35 chips. (Put in,fold
+Raise to 20 chips. ## Step,check
+"Raise to 50 chips. ##
+
+###",call
+"call
+
+### Instruction:
+Fold.",check
+Bet 50 chips.<|endoftext|>,check
+"Bet 12 chips. ###
+
+### Instruction",check
+Call (8 chips) to see the turn.,call
+"Call
+
+In this situation, given the strength of",fold
+"Call
+
+In this situation, you have top pair",call
+"bet 20 chips
+
+This response assumes that",bet 23
+"call
+
+Created Chinese Prompt:
+### 指",call
+"Call
+
+### Instruction:
+Fold",fold
+Raise to 30 chips. ## Created Chinese,call
+"Call (16 chips) ### Instruction
+Your",call
+Raise (or shove) to apply pressure and protect,raise 79
+"Bet 8 chips. ###
+
+### Instruction:",check
+Raise to 150 chips. (Go,fold
+"bet 14 chips
+
+This response is based",check
+Fold. ## Created Chinese Question-Answer Pairs,fold
+"Fold. ## Created Chinese Question
+在六人",call
+Raise 25 chips. (All-in),check
+"Raise (or ""Shove"") all-in to",call
+"bet 20 chips. ###
+
+### Instruction",bet 24
+"Call (4 chips) ### Instruction
+A more",call
+"Bet 2 chips. ###
+
+### Instruction:",bet 5
+"bet 8.5 chips
+
+This response is",bet 7
+"bet 14 chips
+
+### Instruction:
+Is",check
+"call
+
+### Instruction:
+Fold",call
+"Call
+
+Created Chinese prompt-response pair:
+
+### Instruction",raise 16
+"Raise to 100 chips. 
+
+This",raise 81
+Raise to 40 chips. (or go,fold
+"Call
+
+This action allows you to see the showdown",check
+"Call
+
+In this situation, given that you have",call
+Raise 50 chips. (Go All-In,check
+"Bet 16 chips. ###
+
+### Instruction",check
+Bet 20 chips. ## Step 1,check
+"Raise to 60 chips. 
+
+This will",raise 89
+"Call
+
+### Instruction:
+Fold",raise 17
+Raise to 200 chips. ###,fold
+Raise to approximately 150 chips. This,call
+"fold
+
+### Rationale:
+Given the strength of",fold
+Raise 20 chips. (Put in a,bet 24
+"Fold. ## Created Chinese Question
+
+在底池",fold
+"Call
+
+### Instruction:
+Fold",call
+"Raise to 150 chips. 
+
+This",call
+"Call
+
+Based on the strength of your hand (",fold
+"Call (4 chips) ### Instruction
+The response",check
+"bet 40 chips
+
+### Instruction:
+Increase",raise 58
+Call (13 chips) to see the river,call
+"Raise to 40 chips. ###
+
+###",raise 92
+"Fold. ## Created Chinese Question
+
+在德州扑克",fold
+Fold. The board is dry and does not favor,fold
+Raise 40 chips. (Go All-In,raise 92
+"bet 15 chips
+
+This response is based",check
+"Call
+
+In this scenario, you should call the",call
+bet 7 chips.<|endoftext|>,bet 10
+"Bet 6 chips. ###
+
+### Instruction:",check
+"Fold. ## Created Chinese Question
+
+在按钮位置",fold
+Raise to 40 chips. (Bet,check
+"Call (1) ## Created Chinese Question
+
+在",fold
+"Call
+
+In this situation, given that you have",fold
+"Call
+
+In this situation, calling is the best",raise 82
+"Call
+
+In this situation, given that you have",call
+"Call
+
+### Instruction:
+Raise",bet 24
+bet 7 chips.<|endoftext|>,check
+Raise to 40 chips. (Go All,call
+"Fold. ###
+
+### Rationale:
+Given the",fold
+"Bet 2.5 chips. ###
+
+###",check
+Fold. The opponent's betting pattern suggests they likely,fold
+"Raise to 35 chips. ###
+
+###",fold
+"Raise to 50 chips. ###
+
+###",call
+Bet 14 chips. ## Step 1,check
+Raise to 25 chips. (Put in,raise 32
+"bet 30 chips
+
+This response is based",check
+Call (13 chips) to see the turn,call
+"Bet 3 chips. ###
+
+### Instruction:",check
+"Fold. ###
+
+### Rationale:
+Given the",fold
+"Call
+
+### Instruction:
+Given the strength of your",call
+"bet 10 chips
+
+This response is designed",check
+Raise to 78 chips. ## Created Chinese,fold
+"Bet 8 chips. ###
+
+### Instruction:",bet 10
+"Call
+
+### Instruction:
+Is calling really the best",call
+"Raise to 120 chips. 
+
+This",call
+Raise 30 chips. (Pot is now,call
+"Call
+
+In this scenario, you have a strong",raise 85
+"Bet 8 chips. ###
+
+### Instruction:",check
+Bet 2.0 chips.<|endoftext|>,bet 3
+Bet 8 chips. ## Created Chinese Question,check
+Raise to 40 chips. (or go,raise 80
+"Bet 5 chips. ###
+
+### Instruction:",check
+"Bet 5 chips. ###
+
+### Instruction:",check
+"Call
+
+### Instruction:
+Fold",fold
+"Raise 30 chips. ###
+
+### Instruction",raise 83
+"Call
+
+### Instruction:
+Fold",call
+"Call (5 chips) ### Instruction
+Your response",fold
+"Raise 30 chips. 
+
+This move helps",call
+"call
+
+In this situation, your hand is drawing",fold
+"bet 15 chips
+
+This response is designed",check
+"Raise to 15 chips. ###
+
+###",raise 10
+"Call (4 chips) ### Instruction
+The response",call
+"call
+
+In this scenario, given the board (",fold
+"fold
+
+Created Chinese prompt-response pair:
+
+### 中",fold
+Raise 30 chips. (Or go all,bet 29
+"Bet 20 chips. ###
+
+### Instruction",check
+Raise to 150 chips. (Go,call
+"bet 3 chips
+
+This response is based on",check
+Raise 20 chips. (Pot is now,check
+Fold. The board is paired and your ace-high,fold
+"Bet 8 chips. ###
+
+### Instruction:",check
+"Call
+
+### Instruction:
+Increase your bet to",call
+"Raise to 45 chips. ###
+
+###",fold
+Call (8.0 chips) ### Instruction,call
+"Call
+
+### Instruction:
+Raise to 30",check
+"Call
+
+In this situation, given that you have",call
+"bet 15 chips
+
+This response is based",check
+Fold. The board is J♠️ 8,fold
+"Bet 7 chips. ###
+
+### Instruction:",check
+"Call
+
+### Instruction:
+Reconsider your previous response",raise 86
+Fold.<|endoftext|>,fold
+Bet 50 chips. (or go all,call
+Fold. Given the aggression from the SB and the,fold
+"Fold. Given the board (K♠,",fold
+Raise to around 10 chips. (Bet,check
+"bet 3 chips
+
+### Chain-of-Thought",bet 2
+"Bet 4 chips. ###
+
+### Instruction:",call
+"Check
+
+### Instruction:
+Reconsider your previous response",check
+Raise to 35 chips. ## Step,call
+"Call
+
+###<|endoftext|>",check
+"Call
+
+Created Chinese prompt-response pair:
+
+---
+
+###",fold
+"Raise to 18 chips. 
+
+This is",call
+"Call
+
+### Instruction:
+Fold",check
+"Bet 2.0 chips. ###
+
+###",bet 3
+"Fold
+
+### Rationale:
+Given the board (",fold
+"Bet 15 chips. ###
+
+### Instruction",check
+"Call
+
+### Instruction:
+Your response was to call",call
+"Call
+
+### Instruction:
+Fold",raise 10
+Raise to 10 chips. ## Step,check
+"Call
+
+This is because your hand is strong enough",fold
+"Call
+
+In this situation, given the strength of",check
+"Call
+
+### Instruction:
+Fold",check
+Bet 8 chips.<|endoftext|>,bet 17
+"Call
+
+### Instruction:
+Increase the bet to",fold
+Bet 4 chips.<|endoftext|>,bet 8
+Call (to see the river) or go All,fold
+Raise to 14 chips. (Put in,check
+"Raise 100 chips. ###
+
+###",fold
+"Fold
+
+### Rationale:
+Given the aggressive betting",fold
+Raise to 40 chips. (Go All,raise 92
+"Fold
+
+In this scenario, given the aggressive betting",fold
+Raise to 50 chips. ## Created by,call
+"Call
+
+In this scenario, given that you have",raise 25
+"Call (2 chips) ### Instruction
+The response",bet 16
+"call
+
+In this scenario, given the board texture",call
+"Raise to 18 chips. ###
+
+###",raise 22
+"Fold
+
+### Instruction:
+I'm sorry, but",fold
+Raise 40 chips. (Go All-In,raise 85
+Raise to approximately 170 chips. This,call
+"Raise to 50 chips. If called,",raise 61
+"bet 15 chips
+
+This response is based",check
+"Raise to 30 chips. 
+
+This move",fold
+Raise to approximately 70 chips (including the,raise 93
+"bet 10 chips
+
+This response takes into",check
+Raise to 10 chips. (or go,call
+"Raise to 40 chips. 
+
+This will",call
+"Raise to 50 chips. 
+
+This is",raise 89
+Fold. The board is paired and you don't,fold
+Bet 4 chips.<|endoftext|>,raise 7
+Raise to 20 chips. (or go,call
+Bet 4 chips.<|endoftext|>,check
+"bet 7 chips
+
+This action aims to extract",check
+"bet 8 chips
+
+This response is designed to",check
+"bet 10 chips
+
+This response is based",check
+"bet 25 chips
+
+This response is based",check
+Raise to 80 chips. (Go All,call
+bet 6 chips.<|endoftext|>,check
+"Bet 6 chips. ###
+
+### Rationale",check
+"call
+
+In this scenario, given that you have",call
+"fold
+
+### Rationale:
+Given the strength of",fold
+Raise to 170 chips. (Go,call
+"Call
+<|endoftext|>",bet 18
+"call
+
+### Instruction:
+Increase the bet to put",fold
+"Raise to 40 chips. 
+
+This is",raise 74
+"call (8 chips) ### Instruction
+The response",fold
+"Call (16 chips) ### Instruction
+Is",fold
+"Bet 40 chips. ###
+
+### Instruction",check
+Fold. ## Created Chinese Question-Answer Pairs,fold
+"Call
+
+This response assumes you want the play that",call
+Raise to 40 chips. (or go,raise 74
+Bet 4 chips.<|endoftext|>,check
+"Raise to 15 chips. ###
+
+###",call
+"Fold. ## Created Chinese Question
+在六人",fold
+Call. ## Step 1: Assessing the,bet 10
+Fold. The opponent's aggression and the paired board,call
+Raise 100 chips (all-in).,fold
+"Call (28 chips) ### Instruction
+The",call
+"bet 9 chips. ### Instruction
+
+The suggested",bet 3
+"Raise to 50 chips. 
+
+This move",raise 77
+Raise to 100 chips (all-in,raise 84
+"Raise 20 chips. 
+
+This is a",check
+Fold. Given the strength of the board and the,fold
+"Call
+
+In this situation, you should call the",raise 57
+"Call (4 chips) ### Instruction
+The response",call
+"bet 20 chips
+
+This response is based",check
+"Call
+
+### Instruction:
+Fold",check
+Raise 50 chips. (Go All-In,check
+Raise to 175 chips. (Go,call
+Call (8 chips) to see the river.,call
+Raise to 35 chips. (Put in,check
+"Raise 40 chips. ###
+
+### Instruction",call
+Raise 120 chips to isolate the opponent,call
+"Bet 10 chips. ###
+
+### Instruction",check
+"Raise to 74 chips. ###
+
+###",raise 86
+Raise to 160 chips. ###,call
+Fold. ## Created Chinese Question-Answer Pairs,call
+Call (3 chips) to see if the opponent,raise 88
+"Call (4 chips) ### Instruction
+Your response",call
+Bet 3 chips.<|endoftext|>,check
+Raise to 40 chips. (Put in,fold
+Fold. ## Created Chinese Question-Answer Pairs,fold
+"Bet 20 chips. ###
+
+### Instruction",check
+"Bet 2 chips. ### Instruction
+The suggested",check
+Raise to 150 chips. (Go,call
+Fold. ## Created Chinese Question-Answer Pairs,fold
+Call (5 chips) to see the river.,call
+"Bet 30 chips. ###
+
+### Instruction",fold
+"Raise 40 chips. 
+
+This is a",call
+"call
+
+### Instruction:
+Given that you've decided",call
+"Bet 3 chips. ###
+
+### Instruction:",bet 5
+Raise to 129 chips to put pressure,call
+Raise to 40 chips. ## Created by,fold
+"Bet 10 chips. ###
+
+### Instruction",check
+Call (82 chips) to see the river,call
+Raise to 40 chips. (Put in,check
+"Fold. ###
+
+### Rationale:
+Given the",fold
+"bet 10 chips
+
+This response is based",check
+Fold. Your hand does not improve on the river,check
+"Call. ## Created Chinese Question
+
+在翻牌",bet 11
+Fold. ## Created Chinese Question-Answer Pairs,fold
+"Fold. ###
+
+### Rationale:
+Given the",fold
+"Fold. ###
+
+### Rationale:
+Given the",fold
+Fold. The board is paired and your top pair,fold
+"Raise all-in. ###
+
+### Instruction:
+Raise",fold
+Raise to 8 chips. ## Created Chinese Question,call
+"Fold
+
+### Rationale:
+Given the aggressive betting",call
+"Call (1 to call) ### Instruction
+Your",call
+Call (8) chips to see if you can,call
+Raise to 175 chips. ## Step,fold
+"Bet 2 chips. ###
+
+### Instruction:",check
+"Raise 100 chips. ###
+
+###",call
+"Call
+<|endoftext|>",check
+"Call
+
+### Instruction:
+Fold",call
+"bet 4 chips. ###
+
+### Instruction:",check
+Fold. ## Created Chinese Question-Answer Pairs,fold
+Fold. The opponent's aggressive betting pattern suggests they,fold
+"bet 8 chips
+
+This response reflects an aggressive",check
+"call
+
+In this scenario, given the board texture",call
+Raise (value bet) to around 15,call
+"Call
+
+In this situation, given the board texture",call
+"Raise to 40 chips. ###
+
+###",call
+Fold. Given the aggressive betting pattern from BTN and,fold
+"bet 8 chips. ###
+
+### Instruction:",bet 10
+"Call
+
+### Instruction:
+Raise",call
+Raise 100 chips. (Go all,call
+Call (15 chips) to see the river,fold
+"Call
+
+Based on the strength of your flush and",fold
+"Call
+
+### Instruction:
+Fold",call
+"Call (37 chips) ### Instruction
+
+Your",fold
+"Fold
+
+### Rationale:
+Given the aggressive nature",raise 55
+"Bet 8 chips. ###
+
+### Instruction:",check
+Fold. ## Created Chinese Question-Answer Pairs,call
+"Bet 2 chips. ###
+
+### Instruction:",check
+Raise to approximately 100 chips (all,call
+"Raise to 70 chips. ###
+
+###",call
+Fold. The opponent's aggressive play on the turn,fold
+Raise to approximately 175 chips. (,call
+Bet 4 chips.<|endoftext|>,check
+Raise to 50 chips. (Put in,raise 89
+"Bet 15 chips. ###
+
+### Instruction",check
+"call
+
+In this scenario, given that you have",bet 23
+Raise 15 chips. (Or any amount,check
+"bet 20 chips
+
+This response assumes a",bet 27
+Fold. Given the aggressive betting pattern from the BTN,fold
+"bet 10 chips
+
+This response is given",check
+Raise to 40 chips. (Put in,fold
+Raise 24 chips. (Pot is now,check
+Bet 30 chips.<|endoftext|>,bet 40
+Fold. The opponent raised on the turn which indicates,fold
+"Bet 10 chips. ###
+
+### Instruction",check
+"Bet 3 chips. ###
+
+### Instruction:",check
+"Call. (4 chips) ###
+
+### Instruction",check
+Raise 15 chips. (Pot is now,bet 16
+"fold
+
+Created Chinese prompt-response pair.
+
+### Chinese",fold
+"Call
+
+### Rationale:
+Given that you hold",call
+"Fold
+
+### Rationale:
+Given the aggressive betting",fold
+"Bet 16 chips. ###
+
+### Instruction",check
+"Bet 10 chips. ###
+
+### Instruction",bet 12
+"call
+
+###<|endoftext|>",call
+"call
+
+### Rationale:
+Given the strength of",call
+Bet 12 chips.<|endoftext|>,check
+"bet 2 chips. ###
+
+### Instruction:",check
+Bet 3 chips.<|endoftext|>,bet 4
+"Call
+
+Based on the strength of your hand (",fold
+Fold. The opponent's aggressive betting pattern suggests they,fold
+Raise to 40 chips. (Put in,raise 48
+Fold. The opponent's aggressive betting pattern and the,fold
+Raise to 25 chips. ## Created Chinese,raise 32
+Bet 20 chips.<|endoftext|>,check
+"bet 12 chips
+
+This action aims to",bet 20
+"Bet 10 chips. ###
+
+### Instruction",call
+"Raise to 84 chips. 
+
+This is",raise 88
+"Call
+
+### Instruction:
+Based on the given scenario",raise 41
+Call (10 chips) to continue the hand,raise 32
+"Fold. ## Created Chinese Question
+
+在德州扑克",fold
+"Bet 20 chips. ###
+
+### Instruction",check
+"Fold. ###
+
+### Rationale:
+Given the",fold
+"Call
+
+### Instruction:
+Increase your bet to",fold
+"call
+
+### Instruction:
+Fold.",fold
+"Call
+
+This response assumes the goal is to maximize",check
+Call (3.0 chips) ### Instruction,raise 10
+Raise to 40 chips. ## Created by,call
+Bet 15 chips.<|endoftext|>,check
+Raise to 50 chips. (Go All,raise 81
+"Call
+
+### Rationale:
+Given the flush draw",raise 41
+Fold. Given the aggressive betting pattern from HJ,fold
+"Call
+
+Based on the strength of your hand (",raise 80
+Raise to 30 chips. (Go All,bet 29
+Fold. Given the strength of the board favoring,fold
+"Bet 15 chips. ###
+
+### Instruction",bet 24
+"Call
+
+### Instruction:
+Fold",check
+"Bet 7 chips. ### Instruction
+
+The response",bet 8
+Fold. The opponent raised on the river which indicates,fold
+Bet 15 chips. This will put pressure,check
+"Fold. The board is paired (Aces),",fold
+Raise to 120 chips. ###,call
+Raise to approximately 40 chips. This move,call
+"Call
+
+### Instruction:
+Fold",fold
+"Call
+
+---
+
+Note: Given the flush draw on",call
+Fold. The opponent's aggressive play on the turn,call
+Raise 70 chips. (Note: Given,fold
+"Fold
+
+### Rationale:
+Given the aggressive play",raise 88
+"Raise to 45 chips. 
+
+This is",fold
+Call (5 chips) to see the river.,call
+"Call
+
+This is because the board is paired and",raise 64
+Bet 2.0 chips.<|endoftext|>,check
+"Call
+
+### Instruction:
+Reconsider your previous response",fold
+"bet 10 chips
+
+### Instruction:
+Your",check
+"bet 20 chips. ###
+
+### Instruction",check
+"Call
+
+In this scenario, given the strength of",fold
+"bet 20 chips
+
+### Chain-of-Th",bet 29
+Call (matching the raise to see the river),call
+Raise to 64 chips. (Pot bet,raise 92
+"Call
+
+In this scenario, your straight is a",call
+"Call
+
+In this situation, given that you have",call
+"call
+
+### Instruction:
+Your action of calling is",fold
+"bet 10 chips
+
+This response suggests a",check
+Fold. The opponent's aggressive betting pattern suggests they,fold
+"bet 40 chips
+
+This response reflects an",raise 64
+"Bet 3 chips. ###
+
+### Instruction:",check
+Fold. The opponent's aggressive betting pattern suggests they,call
+Raise to 40 chips. ### Instruction,call
+"bet 30 chips
+
+This response is designed",check
+Raise to 30 chips. (cBet,check
+Call (11 chips) to see the river,call
+Bet 40 chips.<|endoftext|>,raise 61
+bet 2.0 chips. ### Instruction,check
+Call (to see the next card) or raise,call
+"Call
+
+In this scenario, given the strength of",call
+"Check
+
+This play allows you to see the river",check
+Raise to 75 chips. (Put in,raise 54
+Raise to 30 chips. ## Step,check
+"Call
+
+### Instruction:
+Raise",raise 92
+"call
+
+### Instruction:
+Re-evaluate your previous",raise 77
+Raise 20 chips. (Bet enough to,check
+"call
+
+### Rationale:
+Given the strength of",call
+Bet 8 chips. ## Step 1:,check
+Bet 15 chips.<|endoftext|>,check
+Raise to 8 chips. ## Created by Claude,check
+Raise 100 chips (all-in).,fold
+Raise to approximately 114 chips (pot,call
+Raise 20 chips. (Note: Given,bet 23
+"Call
+
+This ensures you get more information from your",call
+"Fold
+
+In this situation, folding is the optimal",call
+Raise all-in (bet 100 chips,call
+"fold
+
+### Rationale:
+Given the board texture",fold
+"Call
+
+This action aims to maximize the potential win",check
+"Bet 10 chips. ###
+
+### Instruction",check
+Raise to 70 chips. ### Instruction:,call
+"Call (4 chips) or check, depending on",check
+"Fold. ###
+
+Let's break down the reasoning",fold
+Fold. The opponent raised after your bet on the,raise 93
+"bet 6 chips
+
+This response suggests betting",check
+"bet 10 chips
+
+This response assumes a",check
+Fold. The board is K♠ J♠,fold
+"call 4 chips
+
+### Instruction:
+Fold",check
+Fold. The board is paired (two queens),fold
+"Raise to 74 chips. 
+
+This is",raise 83
+"Raise to 100 chips. 
+
+This",raise 92
+"Call
+
+### Instruction:
+Your response was to call",raise 81
+"Call
+
+###<|endoftext|>",raise 89
+"Call
+
+This response assumes that the goal is to",call
+Bet 50 chips.<|endoftext|>,raise 62
+"Call (16 chips) ### Instruction
+Your",call
+"bet 20 chips
+
+### Instruction:
+Is",check
+"Fold. The opponent raised after your bet, showing",call
+"Bet 15 chips. ###
+
+### Instruction",bet 23
+"Raise to 25 chips. 
+
+This is",check
+Fold. The opponent's aggressive play and raise on,fold
+"Bet 10 chips. ###
+
+### Instruction",check
+"Call
+
+### Instruction:
+Based on the given information",raise 32
+"call
+
+### Instruction:
+Given the strength of your",raise 4
+"Call
+
+In this scenario, given the strength of",raise 82
+"bet 10 chips
+
+### Instruction:
+Is",check
+"Raise to 60 chips. 
+
+This is",call
+"Call (8 chips) ### Instruction
+The response",raise 25
+"bet 5 chips
+
+This response is based on",check
+Fold. The opponent's betting pattern suggests they likely,fold
+"Raise to 30 chips. ###
+
+###",call
+Call (20 chips) to see the river,raise 83
+"Call (18 chips) ### Instruction
+Your",call
+"Call
+
+### Instruction:
+Re-evaluate your previous",raise 36
+"Bet 10 chips. ###
+
+### Instruction",check
+"Bet 10 chips. ### Instruction
+
+The",check
+Bet 2 chips.<|endoftext|>,check
+"Raise 30 chips. ###
+
+### Instruction",fold
+Fold. The board is paired and your top pair,fold
+"Bet 10 chips. ###
+
+### Instruction",check
+"Call
+
+In this situation, you have two pair",call
+Fold. The board is K♠ J♠,call
+"Check
+
+### Instruction:
+Let's modify the scenario",check
+Fold. The opponent's aggressive play on the river,fold
+Call (17 chips) to see the river,call
+Raise to 12 chips. (or go,check
+"bet 10 chips
+
+This response is designed",check
+"Call
+
+###<|endoftext|>",call
+Fold. The opponent's aggressive betting pattern suggests they,fold
+"Raise to 40 chips. ###
+
+###",raise 92
+Bet 10 chips. ## Step 1,bet 13
+"Call
+
+### Instruction:
+Fold",call
+Fold. The opponent's aggressive play and the high,call
+Raise to 40 chips. (Bet enough,bet 29
+"call
+
+In this scenario, you have a strong",raise 84
+"Fold. ###
+
+### Rationale:
+Given the",call
+"Bet 8 chips. ###
+
+### Instruction:",check
+"bet 4 chips
+
+This response is based on",check
+"Raise 70 chips.  
+
+This is because",raise 88
+"bet 20 chips
+
+This response assumes a",check
+"Call
+
+In this situation, you should call the",raise 10
+"Raise 20 chips. 
+
+This represents a",bet 23
+"Call
+
+### Instruction:
+Fold",raise 16
+"Raise to 35 chips. ##
+
+####",raise 46
+Raise to 16 chips. (or go,check
+raise to 35 chips. (pot bet,check
+Raise to 50 chips. (Pot is,raise 84
+Bet 20 chips.<|endoftext|>,check
+"Check
+
+---
+
+Note: Given the board texture and",check
+"Raise to 40 chips. ###
+
+###",fold
+"Call
+
+---
+
+This response continues the strategy of value",call
+"Call
+
+### Instruction:
+Your response was to call",check
+Raise to 40 chips. This is a,raise 74
+Raise 34 chips. (Pot is now,check
+"Bet 30 chips. ###
+
+### Instruction",check
+"Bet 3 chips. ###
+
+### Instruction:",bet 4
+"call
+
+### Instruction:
+Your response of calling is",raise 82
+"Call (4 chips) ### Instruction
+Your response",fold
+Raise 70 chips to apply pressure and try,call
+"bet 7 chips
+
+This response assumes a balanced",bet 10
+Raise to 70 chips. ## Created by,raise 96
+Raise to 20 chips. (Bet,check
+Raise to 35 chips. (Put in,raise 46
+"bet 3 chips
+
+This response is designed to",check
+"call
+
+### Instruction:
+Increase the stakes to make",raise 16
+Raise to 50 chips. ## Step,fold
+Raise 100 chips (all-in),fold
+"bet 10 chips
+
+This response assumes a",check
+"Bet 20 chips. 
+
+This is a",check
+"bet 10 chips. ###
+
+### Instruction",check
+"bet 4 chips. ###
+
+### Instruction",check
+"Call
+
+In this scenario, given that the opponent",check
+Raise to 25 chips. (Go All,check
+"Call (11 chips) ### Instruction
+Your",call
+Raise to 20 chips. (or go,check
+Raise to 15 chips. (or enough,check
+"Bet 10 chips. ###
+
+### Instruction",check
+Raise 50 chips to put pressure on the,raise 92
+Raise (Shove) all-in. To maximize,check
+"bet 20 chips. ### Instruction
+Your",bet 24
+"Raise to 175 chips. 
+
+This",call
+Raise to 25 chips. (or go,raise 41
+"Raise to 50 chips. ###
+
+###",call
+"Fold
+
+In this scenario, given the strength of",call
+Raise 20 chips. (If the raise,check
+Raise to 40 chips. ## Created Chinese,check
+Raise 20 chips. (Pot is,check
+"Call
+
+In this situation, given the strength of",call
+Raise to 8 chips. (or go all,bet 8
+"Bet 2 chips. ###
+
+### Instruction:",bet 4
+"Call
+
+In this situation, given the strength of",call
+"Fold
+
+In this situation, folding is the best",fold
+"Call
+
+### Instruction:
+Raise to 10",call
+"bet 20 chips
+
+This response is generated",check
+"call
+
+In this scenario, your hand has improved",call
+"Bet 12 chips. ###
+
+### Instruction",check
+"Raise to 80 chips. ###
+
+###",call
+"call
+
+### Instruction:
+Your response is noted.",call
+"Bet 7 chips. ###
+
+### Instruction:",bet 11
+Fold. The board is paired and your top pair,fold
+"Raise (or ""Go All-In"") to apply",call
+Raise to 20 chips. ## Created by,call
+"Bet 3 chips. ###
+
+### Instruction:",check
+Raise to approximately 50 chips (all-in,call
+Raise to 70 chips. ## Created by,call
+Fold. Given the aggressive play from HJ and,fold
+Fold. The opponent's aggressive play and the strength,call
+Raise to 50 chips. (Go All,call
+"Bet 8 chips. ###
+
+### Instruction:",bet 18
+Call (51 chips) to see the river,fold
+"Raise 30 chips. ###
+
+### Instruction",fold
+"call
+
+In this situation, given the strength of",raise 19
+Fold. The opponent's aggressive play on the river,fold
+"Call
+
+### Instruction:
+Raise to 16",call
+"bet 5 chips
+
+### Instruction:
+Is there",bet 10
+"Call
+
+### Instruction:
+Fold",fold
+"call
+
+### Rationale:
+Given the strength of",raise 74
+Raise to 75 chips. ## Step,raise 58
+"bet 30 chips
+
+This response is designed",bet 39
+"Call
+
+### Instruction:
+Is there a chance that",raise 26
+"Raise to 70 chips. ###
+
+###",fold
+"Bet 7 chips. 
+
+This is a value",bet 8
+"Fold
+
+### Rationale:
+Given the board texture",call
+"bet 8 chips
+
+This response is based on",check
+"bet 8 chips. ###
+
+### Instruction:",check
+Raise to 16 chips. (or go,check
+"Call. (6 chips) ###
+
+### Instruction",fold
+Call (match the bet of 6 chips).,bet 13
+"Raise to 40 chips. ###
+
+###",fold
+"Bet 4 chips. ###
+
+### Instruction:",check
+"Call
+
+### Rationale:
+Given the board texture",check
+"call
+<|endoftext|>",fold
+Raise 15 chips. (Note: This,check
+"Call (4 chips) ### Instruction
+The response",check
+Raise to 70 chips. ## Created by,fold
+Fold. The opponent's aggressive play and large raise,fold
+"Fold. ## Created Chinese Question
+在德州扑克",fold
+"call
+
+### Rationale:
+Given the strength of",fold
+"bet 7 chips
+
+This response reflects an aggressive",check
+Raise to 16 chips. ## Created by,check
+"Fold. ###
+
+### Rationale:
+Given the",call
+"Call (16 chips) ### Instruction
+Your",fold
+"Fold
+
+### Rationale:
+Given the aggressive nature",raise 31
+"Raise to 84 chips. ##
+
+###",raise 88
+"Bet 8 chips. ###
+
+### Instruction:",bet 13
+"Call
+
+### Instruction:
+Increase the stakes by making",call
+Raise to 10 chips. (or any,bet 10
+"Call
+
+This response assumes that by calling, you",call
+"Raise to 30 chips. 
+
+This is",bet 29
+Raise to 112 chips. (Pot,raise 93
+"Fold. ###
+
+### Instruction:
+
+Fold seems like",fold
+"bet 4 chips
+
+This response is based on",bet 22
+"Call (1) ### Instruction
+Your response indicates",fold
+"Call (1 chips) ### Instruction
+Your response",call
+"Call
+
+In this situation, the board has no",bet 10
+"Call
+
+### Instruction:
+Fold",check
+"raise to 25 chips. 
+
+This is",check
+"bet 10 chips
+
+This response is based",bet 17
+"Raise to 20 chips. ###
+
+###",call
+"Fold. ## Created Chinese Question
+在六人",fold
+"Call
+
+This allows you to see the next card",call
+Call (57 chips) to see the river,fold
+Fold. The board is A♦5♣2,call
+Raise to 25 chips. (or go,call
+"Call
+
+### Instruction:
+Increase the complexity by considering",call
+"fold
+
+Created Chinese prompt-response pair:
+
+### Instruction",fold
+"bet 30 chips
+
+This response is designed",bet 34
+Raise 100 chips (all-in),fold
+"Raise to 35 chips.  
+
+This raises",raise 86
+"Bet 4 chips. ###
+
+### Instruction:",check
+"Call
+
+### Instruction:
+Your response was to call",call
+"Call
+
+In this scenario, given the board has",fold
+Bet 7 chips. ## Step 1:,check
+"Raise 15 chips. 
+
+This move maxim",check
+"Bet 2 chips. ###
+
+### Instruction:",check
+"call
+
+In this situation, you should call the",call
+Raise to 50 chips. (Put in,fold
+Raise All-In (Go All-In) ### Instruction,fold
+"Call
+
+In this situation, given the board texture",raise 70
+"fold
+<|endoftext|>",fold
+Raise to 7 chips. (or enough to,check
+"bet 20 chips
+
+### Instruction:
+Is",check
+"Call
+
+In this scenario, given that you have",call
+"Call
+
+### Instruction:
+Fold",fold
+"Call
+
+In this situation, given that you have",raise 7
+"Raise (or ""Bet"") 25 chips",check
+"bet 2 chips. ###
+
+### Instruction:",check
+"Raise 40 chips. 
+
+This will put",call
+"Call
+
+### Instruction:
+Fold",call
+"Fold. ###
+
+#### Analysis:
+Given the board",fold
+"Call
+
+In this situation, you have top pair",call
+Bet 2 chips.<|endoftext|>,check
+"Call (20 chips) ### Instruction
+
+A",fold
+"Call
+
+In this situation, you have a strong",call
+"Call or check, depending on your table image and",check
+"Raise to 10 chips. 
+
+This represents",check
+"call
+
+### Instruction:
+Raise 40 chips",raise 83
+Raise to 55 chips. ## Step,call
+"Bet 12 chips. ###
+
+### Instruction",bet 20
+Raise to 10 chips. (or any,check
+"Bet 3 chips. ### Instruction
+
+The response",check
+"Call
+
+In this scenario, given that you hold",check
+Fold. ## Created Chinese Question-Answer Pairs,raise 41
+"Bet 14 chips. ###
+
+### Instruction",check
+"Raise to 35 chips. ###
+
+###",check
+Call (84 chips) to see the river,call
+"Call
+
+### Instruction:
+Fold",raise 72
+Fold. Given the strength of the board (high,check
+"Call
+
+Given the board texture and your opponent's",check
+Raise to 74 chips. ## Created Chinese,raise 86
+"Raise to 40 chips. 
+
+This is",raise 36
+"call (2 chips) ###
+
+Instruction:
+Actually",check
+"Raise to 45 chips. ###
+
+###",call
+"Raise 12 chips. 
+
+This is because",check
+Fold. The opponent's betting pattern suggests they likely,fold
+"Call
+
+In this scenario, the opponent raised on",check
+"Bet 2 chips. ###
+
+### Instruction:",bet 4
+"bet 15 chips
+
+This response reflects an",check
+Raise to 75 chips. (Go All,raise 84
+Fold. The opponent's aggressive play on the turn,call
+"Call (8 chips) ### Instruction
+The response",raise 25
+"Call
+
+In this situation, you should call the",fold
+"Call
+
+In this situation, you should call as",fold
+"Check
+
+###<|endoftext|>",check
+"Call (8) chips. ###
+
+### Instruction",fold
+"Bet 7 chips. ###
+
+### Instruction:",check
+"Bet 2 chips. ###
+
+### Instruction:",bet 3
+Raise to 60 chips. ## Created by,raise 86
+"call (8 chips) ### Instruction
+
+A more",call
+"Call (8.0 chips) ###
+
+Instruction",call
+"Raise to 45 chips. ###
+
+###",call
+"Call
+
+### Instruction:
+Fold",call
+Raise to 40 chips. ### Instruction,call
+"Bet 50 chips. ###
+
+### R",check
+Fold. The opponent has shown aggression and the board,fold
+Fold. The opponent's aggressive play and large raise,fold
+"Fold
+
+### Rationale:
+Given the board (",bet 7
+"bet 5 chips
+
+This response assumes a continuation",check
+"Call
+
+In this situation, given that you have",raise 41
+Raise to 35 chips. ## Created Chinese,call
+"call
+
+### Instruction:
+Your response is noted.",fold
+"Fold. ###
+
+### Rationale:
+Given the",fold
+"Call
+
+###<|endoftext|>",raise 11
+"bet 8 chips
+
+This response reflects an aggressive",bet 13
+Fold. The board is paired and your top pair,fold
+"Call
+
+### Instruction:
+Fold",fold
+Raise 20 chips. (Go all-in,check
+"Call
+
+### Instruction:
+Fold",call
+Fold. Given the aggression from UTG and the,call
+"Call
+
+In this scenario, given the strength of",call
+"Call
+
+### Instruction:
+Your previous response was to",raise 36
+"bet 3.5 chips
+
+### Explanation:",bet 2
+"call
+<|endoftext|>",fold
+Raise to 20 chips. ## Created by,bet 18
+"Fold. ## Created Chinese Question
+
+在德州扑克",check
+"Call
+
+### Instruction:
+Increase your bet to",raise 88
+Fold. Given the aggressive betting pattern from UTG,fold
+"Call
+
+In this scenario, you have a straight",call
+Raise to 175 chips. (Pot,call
+"Raise to 40 chips. ###
+
+###",fold
+"Raise 100 chips. ###
+
+###",fold
+Fold. Given the aggressive nature of the opponent's,call
+"Raise to 20 chips. ###
+
+###",call
+"bet 20 chips
+
+### Instruction:
+Increase",check
+Raise 18 chips. (Bet a value,bet 18
+"Raise to 80 chips. ###
+
+###",call
+Call (8 chips) to see the river.,call
+"Call (5 chips) ### Instruction
+The response",call
+"Raise to 45 chips. ##
+
+###",fold
+Fold. The board is paired and your top pair,fold
+Raise to 60 chips. ## Step,raise 63
+Raise 34 chips. (all-in),check
+"Bet 8 chips. ###
+
+### Instruction:",check
+Fold. The opponent's aggressive play suggests they likely,fold
+"Fold. ## Created Chinese Question
+
+在德州扑克",fold
+"Call
+
+Created Chinese Prompt:
+### 指",call
+Raise to 64 chips. ## Step,fold
+Call (13 chips) to see the river,fold
+"Call
+
+### Instruction:
+Fold",raise 35
+Call (1) to see the river. ##,call
+"Raise 15 chips. ###
+
+### Instruction",check
+"Raise to 72 chips. 
+
+This move",call
+Raise to 15 chips. (or enough,raise 25
+"Call
+
+### Instruction:
+Given the context of the",check
+"Raise to 170 chips. 
+
+This",call
+Raise 80 chips to go all-in.,fold
+Raise (or go all-in) to apply maximum,raise 90
+Fold. The opponent's aggressive play and high bets,fold
+Raise to 100 chips. ###,fold
+"Call
+
+### Instruction:
+Increase your bet to",fold
+Raise to 20 chips.<|endoftext|>,call
+Raise to 15 chips. (Go All,raise 22
+Bet 2.0 chips.<|endoftext|>,check
+"Bet 4 chips. ###
+
+### Instruction:",check
+Raise to 35 chips. ## Created by,raise 86
+"Call
+
+In this situation, you have a flush",call
+"bet 3 chips. ###
+
+### Instruction:",bet 4
+"Call
+
+### Instruction:
+Your response was to call",fold
+Fold. The opponent's aggressive play on the turn,fold
+"Call
+
+### Instruction:
+Fold",fold
+"Raise to 40 chips. 
+
+This represents",raise 85
+"Raise 175 chips. 
+
+This represents",call
+"Raise to 20 chips. 
+
+This represents",call
+"Call
+
+### Instruction:
+Fold",check
+"call
+
+In this scenario, calling is the best",raise 81
+"bet 8 chips. ###
+
+### Instruction:",check
+Raise to 20 chips. (Pot is,check
+"fold
+<|endoftext|>",fold
+"Bet 2.0 chips. ###
+
+###",bet 3
+"Call
+
+In this situation, given that you have",raise 38
+Raise 30 chips. (Go all-in,raise 84
+"Bet 10 chips. ###
+
+### Instruction",check
+Raise to 12 chips. ## Created by,check
+Fold. The board is paired and your kicker cards,fold
+Raise to 90 chips. ## Step,fold
+"Bet 4 chips. ###
+
+### Instruction:",check
+Bet 40 chips.<|endoftext|>,raise 64
+"Bet 4 chips. ###
+
+### Instruction:",bet 24
+Raise to 35 chips. (or enough,call
+"call
+
+Your optimal action is to call. With",raise 90
+"Call
+
+###<|endoftext|>",call
+Raise to approximately 100 chips (all,fold
+Fold. The board is paired and your ace high,fold
+"Fold
+
+### Rationale:
+Given the aggressive betting",call
+Raise to 100 chips (all-in,fold
+"Raise 120 chips. ###
+
+###",call
+Fold. The board is low and doesn't favor,raise 86
+"Call
+
+This is because your hand is strong enough",call
+"Raise to 25 chips. ##
+
+###",check
+Fold. The opponent's aggressive betting pattern suggests they,fold
+Raise to 35 chips. (or any,call
+"Fold. ## Created Chinese Question
+
+在德州扑克",fold
+"Call
+
+### Instruction:
+Fold",raise 81
+"Fold
+
+In this situation, given the strength of",fold
+Raise 30 chips. (Pot is now,check
+Fold. The opponent's aggressive play on the turn,fold
+"Call (4 chips) ### Instruction
+Your response",call
+Fold. The opponent's aggressive play and raise on,fold
+Raise 40 chips. (Or go all,call
+Raise 40 chips. (or go all,bet 39
+Raise to 16 chips. (Put in,raise 25
+Raise 70 chips. (Total pot:,fold
+"Call
+<|endoftext|>",check
+Raise to 40 chips. ## Created by,raise 46
+"Call
+
+### Instruction:
+Fold",fold
+"Call
+
+### Instruction:
+Fold",fold
+"bet 20 chips
+
+### Instruction:
+Increase",check
+"Raise to 150 chips. 
+
+This",fold
+"Call (match the bet) ### Explanation:
+Given",fold
+Raise 40 chips. (pot bet),raise 74
+Bet 7 chips.<|endoftext|>,check
+"bet 7 chips
+
+This response is based on",check
+"Bet 3 chips. ### Instruction
+
+The suggested",check
+Fold. The board is K♦️-4,raise 88
+Fold. The board is paired (7-6,fold
+"Call
+
+In this situation, given that you have",call
+"Fold. ###
+
+### Rationale:
+Given the",fold
+Raise to 30 chips. ## Step,raise 37
+"Call
+
+### Instruction:
+Fold",fold
+"Bet 8 chips. ###
+
+### Rationale",check
+Fold. The opponent's aggressive play and large raise,fold
+Raise 100 chips to go all-in,call
+Call (15 chips) to see the river,fold
+"call
+
+### Instruction:
+Increase the complexity of the",call
+"Call
+
+In this situation, given the strength of",fold
+Call (2.5 chips) ### Instruction,bet 26
+"Bet 40 chips. 
+
+This is a",check
+Call (6 chips) to see the river.,fold
+Raise 15 chips. (or enough to,bet 16
+"call
+
+### Instruction:
+Your response was to call",call
+Fold. The opponent's aggressive play and the strength,fold
+"Raise to 80 chips. ###
+
+###",raise 80
+Raise to 25 chips. (Put in,check
+"Bet 5 chips. ###
+
+### Instruction:",fold
+"bet 8 chips
+
+This response is based on",check
+"Call
+
+Based on the strength of your hand (",raise 82
+Fold. The board is paired and your ace high,call
+"Raise to 170 chips. 
+
+This",call
+"bet 2 chips
+
+This response is designed to",check
+"bet 20 chips
+
+### Chain-of-Th",check
+"bet 30 chips
+
+This response suggests betting",check
+"Raise to 30 chips. ###
+
+###",fold
+"Call
+
+### Instruction:
+I'm sorry, but",fold
+"bet 5 chips
+
+### Instruction:
+Your suggested",check
+Raise to 66 chips. ## Created by,raise 90
+"Fold. ## Created Chinese Question
+在六人",fold
+"fold
+
+Created Chinese prompt-response pair:
+
+### 中",fold
+"bet 10 chips
+
+This response reflects an",check
+"Call. ###
+
+### Instruction:
+Fold.",call
+"Call (5 chips) ### Instruction
+Your response",raise 16
+"Call (8 chips) ### Instruction
+The response",call
+Raise to 8 chips. To be more precise,check
+"Call (1) ### Instruction
+Your response was",raise 10
+Raise (value bet) to around 50,call
+Call (19 chips) to see the showdown,raise 81
+"call
+<|endoftext|>",check
+"call
+<|endoftext|>",call
+Raise to 35 chips. (Go All,call
+Raise to 100 chips (all-in,raise 85
+"Raise 40 chips. ###
+
+### Instruction",raise 95
+"Call
+
+In this situation, given that you have",check
+"Call
+
+### Instruction:
+Raise to 15",call
+"Call
+
+In this scenario, calling is the best",call
+Raise to 25 chips. (Put in,raise 33
+Raise to 40 chips. ## Step,call
+Raise 45 chips to isolate the opponent and,raise 93
+"bet 6 chips
+
+This response assumes that betting",check
+"Fold. ## Created Chinese Question
+在按钮位置",fold
+"Bet 20 chips. ###
+
+### Instruction",check
+"Call
+<|endoftext|>",raise 13
+"Bet 40 chips. ###
+
+### Instruction",raise 84
+"Bet 2 chips. ###
+
+### Instruction:",check
+"Call (16 chips) ###
+
+#### Instruction",fold
+Bet 10 chips.<|endoftext|>,bet 11
+"Raise to 80 chips. ###
+
+###",call
+Raise 40 chips. (Go All-In,call
+Raise 20 chips. (Put in a,fold
+"Call
+
+### Instruction:
+Fold",call
+Raise to 40 chips. ## Created by,call
+"call (4 chips) ### Instruction
+
+A call",fold
+Raise to 20 chips. (or go,check
+"Fold. ###
+
+### Rationale:
+Given the",fold
+"Fold. ###
+
+### Rationale:
+Given the",raise 86
+"Call
+
+In this situation, given that you have",fold
+"call
+<|endoftext|>",raise 4
+"Call
+
+### Instruction:
+Fold",call
+Raise to 100 chips. (Go,call
+"Call (46 chips) ### Instruction
+
+The",call
+"Call
+
+### Instruction:
+Reconsider your previous response",fold
+Raise to 25 chips. ## Created by,raise 43
+Fold. The opponent's aggressive play suggests they likely,call
+"Fold
+
+### Rationale:
+Given the board `",fold
+Raise to 35 chips. (Put in,call
+Fold. The board is paired and your top pair,fold
+Raise to 15 chips. ## Created by,fold
+"Raise to 60 chips.  
+
+This will",fold
+"call
+
+### Instruction:
+Reconsider your previous response",call
+Fold. The opponent's aggressive play on the river,call
+"Fold
+
+### Rationale:
+Given the strength of",call
+Fold. The opponent's aggressive betting pattern suggests they,fold
+"Call
+
+### Instruction:
+Fold",fold
+"Raise to 50 chips. ###
+
+###",raise 93
+"Bet 2 chips. ###
+
+### Instruction:",bet 5
+Raise to 40 chips. (Put in,call
+"Call
+
+In this scenario, given the strength of",call
+"bet 10 chips
+
+This response reflects an",check
+"Call
+
+### Instruction:
+Fold",raise 22
+"Call (8) ## Created Chinese Question
+在",call
+"Call
+
+In this scenario, given that you have",raise 77
+Fold. Given the board's texture and the opponent,call
+Bet 7 chips.<|endoftext|>,check
+"bet 20 chips
+
+This response assumes a",check
+Bet 8 chips.<|endoftext|>,check
+bet 10 chips.<|endoftext|>,bet 13
+"Fold
+
+### Rationale:
+Given the aggressive betting",call
+"Raise to 80 chips. ###
+
+###",raise 80
+"Call
+
+###<|endoftext|>",call
+"bet 6 chips
+
+This response takes into account",check
+"bet 25 chips
+
+This response reflects an",check
+"Raise to 120 chips. 
+
+This",call
+"Call
+
+### Instruction:
+Fold",raise 13
+"call
+
+In this scenario, given that you have",raise 38
+"Fold. ## Created Chinese Question
+在六人",fold
+Bet 7 chips. ## Created Chinese Question/,bet 22
+"Raise 100 chips. 
+
+This is",call
+"Raise 45 chips. ###
+
+### Instruction",fold
+Raise to 50 chips. ## Created by,fold
+"Call
+
+### Instruction:
+Your response of calling is",fold
+"Bet 20 chips. ###
+
+### Instruction",check
+"Call (77 chips) ### Instruction
+
+A",call
+"Call (bet 6 chips)  
+(Note:",check
+Raise 50 chips. (All-in),raise 61
+"Call
+
+In this situation, given that you have",raise 13
+Raise to 40 chips. (Put in,check
+Raise to 35 chips. ## Created by,call
+"bet 20 chips. ###
+
+### Instruction",check
+Raise to 40 chips. ## Step,call
+"Call
+
+### Instruction:
+Fold",raise 30
+"Raise to 15 chips. ###
+
+###",call
+Raise to 40 chips. (Put in,raise 48
+Raise 50 chips. (All-in),raise 61
+Raise 100 chips (all-in).,call
+"call
+
+###<|endoftext|>",raise 10
+"Fold
+
+### Instruction:
+I'm sorry, but",fold
+Fold. The board is dry and does not favor,fold
+Raise to 20 chips. (or go,call
+Call (3 chips) to see the river.,call
+"bet 20 chips
+
+This response seems incorrect",bet 29
+Raise to 150 chips. ###,fold
+"Fold. ###
+
+### Rationale:
+Given the",fold
+"Fold. Given the strength of your hand, the",fold
+"bet 10 chips
+
+### Rationale:",check
